@@ -9,8 +9,8 @@ export function formatDate(dateStr: string): string {
 }
 
 export function medalClass(rank: number): string {
-  if (rank === 1) return "text-gold font-bold";
-  if (rank === 2) return "text-silver font-bold";
-  if (rank === 3) return "text-bronze font-bold";
+  if (rank === 1) return "text-gold";
+  if (rank === 2) return "text-silver";
+  if (rank === 3) return "text-bronze";
   return "text-fg";
 }

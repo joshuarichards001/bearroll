@@ -11,7 +11,7 @@ const remainingDates = getRemainingDayDates();
 <Layout title="bearroll">
   <Header />
 
-  <main class="max-w-6xl mx-auto px-4 pb-8">
+  <main class="px-4 pb-8">
     {days.length === 0 && <p class="py-8 text-muted text-center">No posts collected yet.</p>}
     {days.map((day) => <DaySection day={day} />)}
 
@@ -57,7 +57,7 @@ const remainingDates = getRemainingDayDates();
 
     const date = dates[nextIndex];
     try {
-      const res = await fetch(`${import.meta.env.BASE_URL}/api/${date}`);
+      const res = await fetch(`api/${date}`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const html = await res.text();
       sentinel.insertAdjacentHTML("beforebegin", html);
