@@ -6,12 +6,28 @@
     "collect": "node scripts/collect.mjs",
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "check-types": "astro check",
+    "format": "prettier --write .",
+    "lint": "eslint src --max-warnings 0",
+    "check-all": "prettier --write . && astro check && eslint src --max-warnings 0 && astro build"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.2",
     "astro": "^6.0.8",
     "cheerio": "latest",
     "tailwindcss": "^4.2.2"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.8",
+    "@eslint/js": "^9.39.4",
+    "@types/node": "^25.5.0",
+    "eslint": "^9.39.4",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-astro": "^1.6.0",
+    "prettier": "^3.8.1",
+    "prettier-plugin-astro": "^0.14.1",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.57.2"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "printWidth": 80,
+  "semi": true,
+  "singleQuote": false,
+  "trailingComma": "all",
+  "proseWrap": "always",
+  "plugins": ["prettier-plugin-astro"],
+  "overrides": [
+    {
+      "files": "*.astro",
+      "options": {
+        "parser": "astro"
+      }
+    }
+  ]
+}
