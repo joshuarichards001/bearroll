@@ -25,16 +25,20 @@ Two independent subsystems share the `data/` directory:
 - `.github/workflows/collect.yml` — Runs the collector daily at midnight UTC via cron, commits changed data files.
 
 ### Astro Frontend (static site)
-- `src/lib/posts.ts` — Reads JSON files from `data/`, ranks posts by toast count, extracts domains. Exports `loadInitialDays()` (first 6 days for SSG) and `getRemainingDayDates()` (for client-side lazy loading).
-- `src/pages/index.astro` — Main page. Server-renders the first 6 days, then uses IntersectionObserver to lazy-load older days via the JSON API.
-- `src/pages/api/[date].json.ts` — Static JSON endpoints generated at build time for each day file (used by the infinite scroll client).
+- `src/lib/posts.ts` — Reads JSON files from `data/`, ranks posts by toast count, extracts domains. Key exports: `loadInitialDays()` (first 6 days for SSG), `getRemainingDayDates()` (for client-side lazy loading), `getAllDayDates()`, `loadDay()`, and `processDay()`.
+- `src/lib/format.ts` — Date formatting (`formatDate`) and rank-based medal styling (`medalClass`).
+- `src/pages/index.astro` — Main page. Server-renders the first 6 days, then uses IntersectionObserver to lazy-load older days via the HTML API. Client-side filter logic and scroll loading live in an inline `<script>` block.
+- `src/pages/api/[date].astro` — Static **HTML fragment** endpoints generated at build time for each day file. Returns rendered `DaySection` markup (not JSON), inserted into the page via `insertAdjacentHTML`.
+- `src/components/DaySection.astro` — Renders a single day's post list with date header and filter buttons.
+- `src/components/PostItem.astro` — Renders a single post item with rank, title, author, and toast count.
+- `src/components/Header.astro` — Site header/navigation.
 - `src/styles/global.css` — Tailwind v4 CSS-first config with custom theme colors (fg, bg, bg-alt, muted, border, border-light, accent) that adapt to light/dark mode via CSS custom properties.
 - `src/layouts/Layout.astro` — Base HTML layout that imports the global Tailwind stylesheet. All styling uses Tailwind utility classes.
 - `astro.config.mjs` — Static output with `@tailwindcss/vite` plugin, deployed to bearroll.dev via GitHub Pages.
 - `.github/workflows/deploy.yml` — Builds and deploys to GitHub Pages on push to master.
 
 ### Data flow
-Collector writes `data/*.json` → Astro reads them at build time → static site with pre-rendered JSON API endpoints.
+Collector writes `data/*.json` → Astro reads them at build time → static site with pre-rendered HTML fragment endpoints for infinite scroll.
 
 ## Key Design Decisions
 
