@@ -16,7 +16,7 @@ There are no tests, linter, or build step.
 ## Architecture
 
 - `scripts/collect.mjs` — Single ESM script that fetches discover pages 0-4, parses HTML with Cheerio, and merges results into `data/YYYY-MM-DD.json` files.
-- `data/` — One JSON file per day, keyed by posts' **published** date (not scrape date). Each file has `collected_at` and a `posts` array.
+- `data/` — One JSON file per day, keyed by posts' **published** date (not scrape date). Each file is a plain JSON array of post objects.
 - `.github/workflows/collect.yml` — Runs the collector daily at midnight UTC via cron, commits changed data files.
 
 ## Key Design Decisions

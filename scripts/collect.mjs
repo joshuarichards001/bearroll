@@ -65,7 +65,12 @@ function parsePosts(html) {
 async function loadDayFile(filePath) {
   if (!existsSync(filePath)) return null;
   const raw = await readFile(filePath, "utf-8");
-  return JSON.parse(raw);
+  const parsed = JSON.parse(raw);
+  // Migrate from old { collected_at, posts: [...] } format to plain array
+  if (!Array.isArray(parsed) && Array.isArray(parsed.posts)) {
+    return parsed.posts;
+  }
+  return parsed;
 }
 
 async function main() {
@@ -110,7 +115,7 @@ async function main() {
     const filePath = join(DATA_DIR, `${key}.json`);
     const loaded = await loadDayFile(filePath);
     const entry = {
-      data: loaded || { collected_at: now, posts: [] },
+      data: loaded || [],
       modified: false,
     };
     dayFiles.set(key, entry);
@@ -123,11 +128,11 @@ async function main() {
   for (const post of scrapedByUrl.values()) {
     const key = dateKey(post.published);
     const dayFile = await getDayFile(key);
-    const postIndex = dayFile.data.posts.findIndex((p) => p.url === post.url);
+    const postIndex = dayFile.data.findIndex((p) => p.url === post.url);
 
     if (postIndex === -1) {
       // New post
-      dayFile.data.posts.push({
+      dayFile.data.push({
         url: post.url,
         title: post.title,
         author: post.author,
@@ -140,7 +145,7 @@ async function main() {
       newCount++;
     } else {
       // Existing post
-      const existing = dayFile.data.posts[postIndex];
+      const existing = dayFile.data[postIndex];
       let changed = false;
 
       if (post.toasts > existing.toasts) {
@@ -153,9 +158,11 @@ async function main() {
         changed = true;
       }
 
-      existing.last_updated = now;
-      dayFile.modified = true;
-      if (changed) updatedCount++;
+      if (changed) {
+        existing.last_updated = now;
+        dayFile.modified = true;
+        updatedCount++;
+      }
     }
   }
 
@@ -163,7 +170,6 @@ async function main() {
   let filesWritten = 0;
   for (const [key, entry] of dayFiles) {
     if (!entry.modified) continue;
-    entry.data.collected_at = now;
     const filePath = join(DATA_DIR, `${key}.json`);
     await writeFile(filePath, JSON.stringify(entry.data, null, 2) + "\n");
     filesWritten++;
