@@ -3,17 +3,17 @@ import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout title="About — Bear Roll">
-    <div class="px-4 py-8 max-w-xl mx-auto">
+    <div class="px-4 py-8 max-w-xl mx-auto flex flex-col gap-6">
         <h1 class="text-xl font-bold text-heading mb-4">
             ʕ●ᴥ●ʔ About Bear Roll
         </h1>
 
-        <p class="mb-4 text-sm">
+        <p>
             I'm a fan of Bear Blog's <a
                 href="https://bearblog.dev/discover"
                 class="text-link underline">discover page</a
             >, but I had two challenges with it. If I missed a day, good posts
-            would disappear off the front pages before I ever saw them. And if I
+            would disappear off the front page before I saw them. And if I
             checked too often, I couldn't tell what was new. Basically the same
             problems that <a
                 href="https://hckrnews.com"
@@ -21,25 +21,27 @@ import Layout from "../layouts/Layout.astro";
             > solves for Hacker News.
         </p>
 
-        <p class="mb-4 text-sm">
-            So I built Bear Roll. Every day at midnight UTC a script grabs the
-            first 5 pages of discover (100 posts) and stores them in dated
-            JSON files. The result is a chronological archive of what the Bear
-            Blog community has been reading and toasting.
+        <p>
+            So I built Bear Roll, a chronological archive of what the Bear Blog
+            community has been reading and toasting.
         </p>
 
-        <p class="mb-4 text-sm">
+        <p>
             It's a static <a
                 href="https://astro.build"
                 class="text-link underline">Astro</a
-            > site hosted on GitHub Pages. The source code is on <a
+            > site hosted on GitHub Pages. Every day at midnight UTC a script grabs
+            the first 5 pages of discover (100 posts) and stores them in dated JSON
+            files. This means it doesn't contain all posts, just the ones that reach
+            the first 5 pages of discover. The source code and data is on <a
                 href="https://github.com/joshuarichards001/bearroll"
                 class="text-link underline">GitHub</a
             > if you're curious.
         </p>
+        
+        <p>If you have any questions or requests, please email me at <a href="mailto:hello@josh.work" class="text-link underline">hello@josh.work</a></p>
 
-        <a href="/" class="text-xs text-muted underline"
-            >&larr; back to the roll</a
+        <a href="/" class="mt-4 text-muted underline">&larr; back to the roll</a
         >
     </div>
 </Layout>
