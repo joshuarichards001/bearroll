@@ -14,11 +14,18 @@ function formatDate(dateStr: string): string {
     timeZone: "UTC",
   });
 }
+
+function medalClass(rank: number): string {
+  if (rank === 1) return "text-gold font-bold";
+  if (rank === 2) return "text-silver font-bold";
+  if (rank === 3) return "text-bronze font-bold";
+  return "text-muted";
+}
 ---
 
 <Layout title="bear discover">
   <header class="border-b border-border bg-bg sticky top-0 z-10">
-    <div class="max-w-[720px] mx-auto px-4 py-3 flex items-center justify-between gap-4 flex-wrap">
+    <div class="max-w-2xl mx-auto px-4 py-3 flex items-center justify-between gap-4 flex-wrap">
       <div class="flex items-baseline gap-3">
         <h1 class="text-lg font-bold">
           <a href="/" class="text-fg no-underline">bear discover</a>
@@ -33,7 +40,7 @@ function formatDate(dateStr: string): string {
     </div>
   </header>
 
-  <main class="max-w-[720px] mx-auto px-4 pb-8">
+  <main class="max-w-2xl mx-auto px-4 pb-8">
     {days.length === 0 && <p class="py-8 text-muted text-center">No posts collected yet.</p>}
     {days.map((day) => (
       <section class="mt-4">
@@ -43,7 +50,7 @@ function formatDate(dateStr: string): string {
         <ul>
           {day.posts.map((post) => (
             <li class="post-item flex items-baseline gap-2 py-0.5 text-lg leading-snug border-b border-border-light" data-rank={post.rank}>
-              <span class={`shrink-0 w-10 text-right text-lg mr-4 ${post.rank === 1 ? 'text-gold font-bold' : post.rank === 2 ? 'text-silver font-bold' : post.rank === 3 ? 'text-bronze font-bold' : 'text-muted'}`}>{post.toasts}</span>
+              <span class={`shrink-0 w-10 text-right text-lg mr-4 ${medalClass(post.rank)}`}>{post.toasts}</span>
               <a href={post.url} class="min-w-0 truncate text-fg no-underline hover:underline" target="_blank" rel="noopener">
                 {post.title}
               </a>
@@ -70,7 +77,6 @@ function formatDate(dateStr: string): string {
 </script>
 
 <script>
-  const main = document.querySelector("main")!;
   const sentinel = document.getElementById("scroll-sentinel")!;
   const status = document.getElementById("load-status")!;
   const dates: string[] = (window as any).__remainingDates;
@@ -125,55 +131,39 @@ function formatDate(dateStr: string): string {
     domain: string;
   }
 
+  function medalClass(rank: number): string {
+    if (rank === 1) return "text-gold font-bold";
+    if (rank === 2) return "text-silver font-bold";
+    if (rank === 3) return "text-bronze font-bold";
+    return "text-muted";
+  }
+
+  function esc(s: string): string {
+    return s
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;");
+  }
+
   function renderDay(date: string, posts: PostData[]): HTMLElement {
     const section = document.createElement("section");
     section.className = "mt-4";
-
-    const h2 = document.createElement("h2");
-    h2.className = "mb-1 text-xs font-normal";
-    const label = document.createElement("span");
-    label.className = "inline-block bg-accent text-white px-2 py-0.5 rounded-sm font-semibold";
-    label.textContent = formatDate(date);
-    h2.appendChild(label);
-    section.appendChild(h2);
-
-    const ul = document.createElement("ul");
-    ul.className = "";
-
-    const newItems: HTMLLIElement[] = [];
-    for (const post of posts) {
-      const li = document.createElement("li");
-      li.className = "post-item flex items-baseline gap-2 py-0.5 text-lg leading-snug border-b border-border-light";
-      li.dataset.rank = String(post.rank);
-
-      const toasts = document.createElement("span");
-      const medalClass = post.rank === 1 ? "text-gold font-bold" : post.rank === 2 ? "text-silver font-bold" : post.rank === 3 ? "text-bronze font-bold" : "text-muted";
-      toasts.className = `shrink-0 w-10 text-right text-lg ${medalClass}`;
-      toasts.textContent = String(post.toasts);
-      li.appendChild(toasts);
-
-      const titleLink = document.createElement("a");
-      titleLink.className = "min-w-0 truncate text-fg no-underline hover:underline";
-      titleLink.href = post.url;
-      titleLink.target = "_blank";
-      titleLink.rel = "noopener";
-      titleLink.textContent = post.title;
-      li.appendChild(titleLink);
-
-      const domainLink = document.createElement("a");
-      domainLink.className = "shrink-0 text-xs text-muted no-underline whitespace-nowrap hover:underline";
-      domainLink.href = post.author;
-      domainLink.target = "_blank";
-      domainLink.rel = "noopener";
-      domainLink.textContent = `(${post.domain})`;
-      li.appendChild(domainLink);
-
-      ul.appendChild(li);
-      newItems.push(li);
-    }
-
-    section.appendChild(ul);
-    applyFilterToItems(newItems);
+    section.innerHTML = `
+      <h2 class="mb-1 text-xs font-normal">
+        <span class="inline-block bg-accent text-white px-2 py-0.5 rounded-sm font-semibold">${formatDate(date)}</span>
+      </h2>
+      <ul>
+        ${posts.map((post) => `
+          <li class="post-item flex items-baseline gap-2 py-0.5 text-lg leading-snug border-b border-border-light" data-rank="${post.rank}">
+            <span class="shrink-0 w-10 text-right text-lg mr-4 ${medalClass(post.rank)}">${post.toasts}</span>
+            <a href="${esc(post.url)}" class="min-w-0 truncate text-fg no-underline hover:underline" target="_blank" rel="noopener">${esc(post.title)}</a>
+            <a href="${esc(post.author)}" class="shrink-0 text-xs text-muted no-underline whitespace-nowrap hover:underline" target="_blank" rel="noopener">(${esc(post.domain)})</a>
+          </li>
+        `).join("")}
+      </ul>`;
+    applyFilterToItems(Array.from(section.querySelectorAll<HTMLLIElement>(".post-item")));
     return section;
   }
 
