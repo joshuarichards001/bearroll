@@ -2,7 +2,7 @@ name: Collect Discover Data
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # daily at midnight UTC
   workflow_dispatch:
 
 jobs:
