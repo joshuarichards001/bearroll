@@ -17,37 +17,39 @@ function formatDate(dateStr: string): string {
 ---
 
 <Layout title="bear discover">
-  <header>
-    <div class="header-inner">
-      <div class="title-row">
-        <h1><a href="/">bear discover</a></h1>
-        <span class="subtitle">posts from Bear Blog's discover page</span>
+  <header class="border-b border-border bg-bg sticky top-0 z-10">
+    <div class="max-w-[720px] mx-auto px-4 py-3 flex items-center justify-between gap-4 flex-wrap">
+      <div class="flex items-baseline gap-3">
+        <h1 class="text-lg font-bold">
+          <a href="/" class="text-fg no-underline">bear discover</a>
+        </h1>
+        <span class="text-xs text-muted">posts from Bear Blog's discover page</span>
       </div>
-      <nav class="filters">
-        <button class="filter-btn active" data-filter="10">top 10</button>
-        <button class="filter-btn" data-filter="20">top 20</button>
-        <button class="filter-btn" data-filter="all">all</button>
+      <nav class="flex">
+        <button class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg -ml-px first:ml-0 first:rounded-l-sm last:rounded-r-sm" data-filter="10">top 10</button>
+        <button class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg -ml-px first:ml-0 first:rounded-l-sm last:rounded-r-sm" data-filter="20">top 20</button>
+        <button class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg -ml-px first:ml-0 first:rounded-l-sm last:rounded-r-sm" data-filter="all">all</button>
       </nav>
     </div>
   </header>
 
-  <main>
-    {days.length === 0 && <p class="empty">No posts collected yet.</p>}
+  <main class="max-w-[720px] mx-auto px-4 pb-8">
+    {days.length === 0 && <p class="py-8 text-muted text-center">No posts collected yet.</p>}
     {days.map((day) => (
-      <section class="day-section">
-        <h2 class="day-header">
-          <span class="day-label">{formatDate(day.date)}</span>
+      <section class="mt-4">
+        <h2 class="mb-1 text-xs font-normal">
+          <span class="inline-block bg-accent text-white px-2 py-0.5 rounded-sm font-semibold">{formatDate(day.date)}</span>
         </h2>
-        <ul class="post-list">
+        <ul>
           {day.posts.map((post) => (
-            <li class="post-item" data-rank={post.rank}>
-              <span class="toasts">{post.toasts}</span>
-              <a href={post.url} class="post-title" target="_blank" rel="noopener">
+            <li class="post-item flex items-baseline gap-2 py-0.5 text-sm leading-snug border-b border-border-light" data-rank={post.rank}>
+              <span class="shrink-0 w-10 text-right text-muted text-xs">{post.toasts}</span>
+              <a href={post.url} class="min-w-0 truncate text-fg no-underline hover:underline" target="_blank" rel="noopener">
                 {post.title}
               </a>
               <a
                 href={post.author}
-                class="post-domain"
+                class="shrink-0 text-xs text-muted no-underline whitespace-nowrap hover:underline"
                 target="_blank"
                 rel="noopener"
               >
@@ -59,7 +61,7 @@ function formatDate(dateStr: string): string {
       </section>
     ))}
     <div id="scroll-sentinel"></div>
-    <div id="load-status" class="load-status"></div>
+    <div id="load-status" class="text-center py-4 text-xs text-muted"></div>
   </main>
 </Layout>
 
@@ -90,7 +92,7 @@ function formatDate(dateStr: string): string {
     const max = currentFilter === "all" ? Infinity : parseInt(currentFilter, 10);
     items.forEach((item) => {
       const rank = parseInt(item.dataset.rank!, 10);
-      item.classList.toggle("hidden-by-filter", rank > max);
+      item.classList.toggle("hidden", rank > max);
     });
   }
 
@@ -98,9 +100,14 @@ function formatDate(dateStr: string): string {
     currentFilter = filter;
     const items = document.querySelectorAll<HTMLLIElement>(".post-item");
     applyFilterToItems(items);
-    document.querySelectorAll<HTMLButtonElement>(".filter-btn").forEach((btn) =>
-      btn.classList.toggle("active", btn.dataset.filter === filter)
-    );
+    document.querySelectorAll<HTMLButtonElement>(".filter-btn").forEach((btn) => {
+      const isActive = btn.dataset.filter === filter;
+      btn.classList.toggle("!bg-accent", isActive);
+      btn.classList.toggle("!text-white", isActive);
+      btn.classList.toggle("!border-accent", isActive);
+      btn.classList.toggle("relative", isActive);
+      btn.classList.toggle("z-[1]", isActive);
+    });
   }
 
   document.querySelectorAll<HTMLButtonElement>(".filter-btn").forEach((btn) => {
@@ -120,32 +127,32 @@ function formatDate(dateStr: string): string {
 
   function renderDay(date: string, posts: PostData[]): HTMLElement {
     const section = document.createElement("section");
-    section.className = "day-section";
+    section.className = "mt-4";
 
     const h2 = document.createElement("h2");
-    h2.className = "day-header";
+    h2.className = "mb-1 text-xs font-normal";
     const label = document.createElement("span");
-    label.className = "day-label";
+    label.className = "inline-block bg-accent text-white px-2 py-0.5 rounded-sm font-semibold";
     label.textContent = formatDate(date);
     h2.appendChild(label);
     section.appendChild(h2);
 
     const ul = document.createElement("ul");
-    ul.className = "post-list";
+    ul.className = "";
 
     const newItems: HTMLLIElement[] = [];
     for (const post of posts) {
       const li = document.createElement("li");
-      li.className = "post-item";
+      li.className = "post-item flex items-baseline gap-2 py-0.5 text-sm leading-snug border-b border-border-light";
       li.dataset.rank = String(post.rank);
 
       const toasts = document.createElement("span");
-      toasts.className = "toasts";
+      toasts.className = "shrink-0 w-10 text-right text-muted text-xs";
       toasts.textContent = String(post.toasts);
       li.appendChild(toasts);
 
       const titleLink = document.createElement("a");
-      titleLink.className = "post-title";
+      titleLink.className = "min-w-0 truncate text-fg no-underline hover:underline";
       titleLink.href = post.url;
       titleLink.target = "_blank";
       titleLink.rel = "noopener";
@@ -153,7 +160,7 @@ function formatDate(dateStr: string): string {
       li.appendChild(titleLink);
 
       const domainLink = document.createElement("a");
-      domainLink.className = "post-domain";
+      domainLink.className = "shrink-0 text-xs text-muted no-underline whitespace-nowrap hover:underline";
       domainLink.href = post.author;
       domainLink.target = "_blank";
       domainLink.rel = "noopener";
@@ -172,7 +179,7 @@ function formatDate(dateStr: string): string {
   async function loadNextDay() {
     if (loading || nextIndex >= dates.length) return;
     loading = true;
-    status.textContent = "Loading…";
+    status.textContent = "Loading\u2026";
 
     const date = dates[nextIndex];
     try {
@@ -210,92 +217,3 @@ function formatDate(dateStr: string): string {
     observer.observe(sentinel);
   }
 </script>
-
-<style>
-  header {
-    border-bottom: 1px solid var(--border);
-    background: var(--bg);
-    position: sticky;
-    top: 0;
-    z-index: 10;
-  }
-
-  .header-inner {
-    max-width: 720px;
-    margin: 0 auto;
-    padding: 0.75rem 1rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 1rem;
-    flex-wrap: wrap;
-  }
-
-  .title-row {
-    display: flex;
-    align-items: baseline;
-    gap: 0.75rem;
-  }
-
-  h1 {
-    margin: 0;
-    font-size: 1.1rem;
-    font-weight: 700;
-  }
-
-  h1 a {
-    color: var(--fg);
-    text-decoration: none;
-  }
-
-  .subtitle {
-    font-size: 0.75rem;
-    color: var(--muted);
-  }
-
-  .filters {
-    display: flex;
-    gap: 0;
-  }
-
-  .filter-btn {
-    background: var(--bg-alt);
-    border: 1px solid var(--border);
-    padding: 0.25rem 0.6rem;
-    font-size: 0.75rem;
-    cursor: pointer;
-    color: var(--fg);
-    font-family: inherit;
-    margin-left: -1px;
-  }
-
-  .filter-btn:first-child {
-    margin-left: 0;
-    border-radius: 3px 0 0 3px;
-  }
-
-  .filter-btn:last-child {
-    border-radius: 0 3px 3px 0;
-  }
-
-  .filter-btn.active {
-    background: var(--accent);
-    color: #fff;
-    border-color: var(--accent);
-    z-index: 1;
-    position: relative;
-  }
-
-  main {
-    max-width: 720px;
-    margin: 0 auto;
-    padding: 0 1rem 2rem;
-  }
-
-  .empty {
-    padding: 2rem 0;
-    color: var(--muted);
-    text-align: center;
-  }
-
-</style>
