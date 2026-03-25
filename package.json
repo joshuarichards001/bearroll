@@ -1,0 +1,11 @@
+{
+  "name": "bear-blog-discover",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect.mjs"
+  },
+  "dependencies": {
+    "cheerio": "latest"
+  }
+}
