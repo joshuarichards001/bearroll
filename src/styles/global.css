@@ -11,9 +11,9 @@
   --color-accent: var(--c-accent);
   --color-link: var(--c-link);
   --color-visited: var(--c-visited);
-  --color-gold: #d4a017;
-  --color-silver: #c48b9f;
-  --color-bronze: #cd7f32;
+  --color-gold: var(--c-gold);
+  --color-silver: var(--c-silver);
+  --color-bronze: var(--c-bronze);
   --font-sans: Verdana, sans-serif;
 }
 
@@ -28,6 +28,9 @@
   --c-link: #3273dc;
   --c-visited: #8b6fcb;
   --c-accent: #3273dc;
+  --c-gold: #c49a1a;
+  --c-silver: #b07888;
+  --c-bronze: #b87028;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -42,5 +45,8 @@
     --c-link: #8cc2dd;
     --c-visited: #8b6fcb;
     --c-accent: #1a5276;
+    --c-gold: #e8b830;
+    --c-silver: #d9a0b2;
+    --c-bronze: #e09048;
   }
 }
