@@ -42,8 +42,8 @@ function formatDate(dateStr: string): string {
         </h2>
         <ul>
           {day.posts.map((post) => (
-            <li class="post-item flex items-baseline gap-2 py-0.5 text-sm leading-snug border-b border-border-light" data-rank={post.rank}>
-              <span class="shrink-0 w-10 text-right text-muted text-xs">{post.toasts}</span>
+            <li class="post-item flex items-baseline gap-2 py-0.5 text-lg leading-snug border-b border-border-light" data-rank={post.rank}>
+              <span class="shrink-0 w-10 text-right text-lg text-muted mr-4">{post.toasts}</span>
               <a href={post.url} class="min-w-0 truncate text-fg no-underline hover:underline" target="_blank" rel="noopener">
                 {post.title}
               </a>
@@ -143,7 +143,7 @@ function formatDate(dateStr: string): string {
     const newItems: HTMLLIElement[] = [];
     for (const post of posts) {
       const li = document.createElement("li");
-      li.className = "post-item flex items-baseline gap-2 py-0.5 text-sm leading-snug border-b border-border-light";
+      li.className = "post-item flex items-baseline gap-2 py-0.5 text-lg leading-snug border-b border-border-light";
       li.dataset.rank = String(post.rank);
 
       const toasts = document.createElement("span");
