@@ -176,7 +176,7 @@ function formatDate(dateStr: string): string {
 
     const date = dates[nextIndex];
     try {
-      const res = await fetch(`/api/${date}.json`);
+      const res = await fetch(`${import.meta.env.BASE_URL}api/${date}.json`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const posts: PostData[] = await res.json();
       if (posts.length > 0) {

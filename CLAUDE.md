@@ -4,28 +4,41 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-A data collector that scrapes the [Bear Blog Discover page](https://bearblog.dev/discover/) daily, extracts post metadata (title, author, upvotes/toasts, published date), and stores it as dated JSON files committed to the repo. No frontend, no database — just a scraper and JSON files in git.
+A Bear Blog Discover page tracker: scrapes [bearblog.dev/discover](https://bearblog.dev/discover/) daily, stores post metadata as dated JSON files, and serves a static Astro site that displays the collected posts with filtering and infinite scroll.
 
 ## Commands
 
 - **Install dependencies:** `npm ci`
 - **Run the collector:** `npm run collect` (or `node scripts/collect.mjs`)
+- **Dev server:** `npm run dev`
+- **Build static site:** `npm run build` (outputs to `dist/`)
+- **Preview build:** `npm run preview`
 
-There are no tests, linter, or build step.
+There are no tests, linter, or build step beyond Astro's build.
 
 ## Architecture
 
-- `scripts/collect.mjs` — Single ESM script that fetches discover pages 0-4, parses HTML with Cheerio, and merges results into `data/YYYY-MM-DD.json` files.
-- `data/` — One JSON file per day, keyed by posts' **published** date (not scrape date). Each file is a plain JSON array of post objects.
+Two independent subsystems share the `data/` directory:
+
+### Data Collector
+- `scripts/collect.mjs` — ESM script that fetches discover pages 0-4, parses HTML with Cheerio, and merges results into `data/YYYY-MM-DD.json` files.
 - `.github/workflows/collect.yml` — Runs the collector daily at midnight UTC via cron, commits changed data files.
+
+### Astro Frontend (static site)
+- `src/lib/posts.ts` — Reads JSON files from `data/`, ranks posts by toast count, extracts domains. Exports `loadInitialDays()` (first 6 days for SSG) and `getRemainingDayDates()` (for client-side lazy loading).
+- `src/pages/index.astro` — Main page. Server-renders the first 6 days, then uses IntersectionObserver to lazy-load older days via the JSON API.
+- `src/pages/api/[date].json.ts` — Static JSON endpoints generated at build time for each day file (used by the infinite scroll client).
+- `src/layouts/Layout.astro` — Base HTML layout with CSS custom properties supporting light/dark mode.
+- `astro.config.mjs` — Static output, deployed to GitHub Pages at `/bear-blog-website`.
+- `.github/workflows/deploy.yml` — Builds and deploys to GitHub Pages on push to master.
+
+### Data flow
+Collector writes `data/*.json` → Astro reads them at build time → static site with pre-rendered JSON API endpoints.
 
 ## Key Design Decisions
 
-- **Post deduplication:** URL is the unique key. A post belongs to exactly one day file based on its `published` date. Toast counts only increase (higher value always wins). `last_updated` is always refreshed when a post is re-seen.
+- **Post deduplication:** URL is the unique key. A post belongs to exactly one day file based on its `published` date (not scrape date). Toast counts only increase (higher value always wins). `last_updated` is always refreshed when a post is re-seen.
 - **Published date source:** Extracted from the `title` attribute on the `<small>` element (ISO 8601), NOT from the relative time text.
 - **Scraping etiquette:** 1.5s delay between page requests, custom User-Agent header, max 5 pages per run.
 - **Fail-loud on page 0:** If zero posts are found on page 0, the script exits non-zero (HTML structure may have changed). Later pages with fewer/zero posts are tolerated.
-
-## Data Schema
-
-See `DATA_COLLECTOR_SPEC.md` for the full specification including post schema, merge logic, HTML selectors, and edge cases. This is the authoritative reference for how the collector should behave.
+- **Ranking:** Posts are ranked per-day by toast count descending. The frontend filter buttons (top 10/20/all) use `data-rank` attributes to show/hide posts via CSS class toggling.
