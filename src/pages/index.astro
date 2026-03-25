@@ -1,26 +1,11 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import DaySection from "../components/DaySection.astro";
+import FilterBar from "../components/FilterBar.astro";
 import { loadInitialDays, getRemainingDayDates } from "../lib/posts";
 
 const days = loadInitialDays();
 const remainingDates = getRemainingDayDates();
-
-function formatDate(dateStr: string): string {
-  const d = new Date(dateStr + "T12:00:00Z");
-  return d.toLocaleDateString("en-US", {
-    weekday: "short",
-    month: "short",
-    day: "numeric",
-    timeZone: "UTC",
-  });
-}
-
-function medalClass(rank: number): string {
-  if (rank === 1) return "text-gold font-bold";
-  if (rank === 2) return "text-silver font-bold";
-  if (rank === 3) return "text-bronze font-bold";
-  return "text-muted";
-}
 ---
 
 <Layout title="bear discover">
@@ -32,67 +17,51 @@ function medalClass(rank: number): string {
         </h1>
         <span class="text-xs text-muted">posts from Bear Blog's discover page</span>
       </div>
-      <nav class="flex">
-        <button class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg -ml-px first:ml-0 first:rounded-l-sm last:rounded-r-sm" data-filter="10">top 10</button>
-        <button class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg -ml-px first:ml-0 first:rounded-l-sm last:rounded-r-sm" data-filter="20">top 20</button>
-        <button class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg -ml-px first:ml-0 first:rounded-l-sm last:rounded-r-sm" data-filter="all">all</button>
-      </nav>
+      <FilterBar />
     </div>
   </header>
 
   <main class="max-w-2xl mx-auto px-4 pb-8">
     {days.length === 0 && <p class="py-8 text-muted text-center">No posts collected yet.</p>}
-    {days.map((day) => (
+    {days.map((day) => <DaySection day={day} />)}
+
+    <!-- Keep in sync with PostItem.astro / DaySection.astro -->
+    <template id="day-section-template">
       <section class="mt-4">
         <h2 class="mb-1 text-xs font-normal">
-          <span class="inline-block bg-accent text-white px-2 py-0.5 rounded-sm font-semibold">{formatDate(day.date)}</span>
+          <span class="inline-block bg-accent text-white px-2 py-0.5 rounded-sm font-semibold" data-date-label></span>
         </h2>
-        <ul>
-          {day.posts.map((post) => (
-            <li class="post-item flex items-baseline gap-2 py-0.5 text-lg leading-snug border-b border-border-light" data-rank={post.rank}>
-              <span class={`shrink-0 w-10 text-right text-lg mr-4 ${medalClass(post.rank)}`}>{post.toasts}</span>
-              <a href={post.url} class="min-w-0 truncate text-fg no-underline hover:underline" target="_blank" rel="noopener">
-                {post.title}
-              </a>
-              <a
-                href={post.author}
-                class="shrink-0 text-xs text-muted no-underline whitespace-nowrap hover:underline"
-                target="_blank"
-                rel="noopener"
-              >
-                ({post.domain})
-              </a>
-            </li>
-          ))}
-        </ul>
+        <ul data-post-list></ul>
       </section>
-    ))}
-    <div id="scroll-sentinel"></div>
+    </template>
+
+    <template id="post-item-template">
+      <li class="post-item flex items-baseline gap-2 py-0.5 text-lg leading-snug border-b border-border-light">
+        <span class="shrink-0 w-10 text-right text-lg mr-4" data-toasts></span>
+        <a class="text-fg no-underline hover:underline" target="_blank" rel="noopener" data-post-link></a>
+        <a class="shrink-0 text-xs text-muted no-underline whitespace-nowrap hover:underline" target="_blank" rel="noopener" data-author-link></a>
+      </li>
+    </template>
+
+    <div id="scroll-sentinel" data-remaining-dates={JSON.stringify(remainingDates)}></div>
     <div id="load-status" class="text-center py-4 text-xs text-muted"></div>
   </main>
 </Layout>
 
-<script define:vars={{ remainingDates }}>
-  window.__remainingDates = remainingDates;
-</script>
-
 <script>
+  import { formatDate, medalClass } from "../lib/format";
+  import type { RankedPost } from "../lib/posts";
+
   const sentinel = document.getElementById("scroll-sentinel")!;
   const status = document.getElementById("load-status")!;
-  const dates: string[] = (window as any).__remainingDates;
+  const dates: string[] = JSON.parse(sentinel.dataset.remainingDates ?? "[]");
+
+  const daySectionTemplate = document.getElementById("day-section-template") as HTMLTemplateElement;
+  const postItemTemplate = document.getElementById("post-item-template") as HTMLTemplateElement;
+
   let currentFilter = "10";
   let loading = false;
   let nextIndex = 0;
-
-  function formatDate(dateStr: string): string {
-    const d = new Date(dateStr + "T12:00:00Z");
-    return d.toLocaleDateString("en-US", {
-      weekday: "short",
-      month: "short",
-      day: "numeric",
-      timeZone: "UTC",
-    });
-  }
 
   function applyFilterToItems(items: NodeListOf<HTMLLIElement> | HTMLLIElement[]) {
     const max = currentFilter === "all" ? Infinity : parseInt(currentFilter, 10);
@@ -104,15 +73,9 @@ function medalClass(rank: number): string {
 
   function applyFilter(filter: string) {
     currentFilter = filter;
-    const items = document.querySelectorAll<HTMLLIElement>(".post-item");
-    applyFilterToItems(items);
+    applyFilterToItems(document.querySelectorAll<HTMLLIElement>(".post-item"));
     document.querySelectorAll<HTMLButtonElement>(".filter-btn").forEach((btn) => {
-      const isActive = btn.dataset.filter === filter;
-      btn.classList.toggle("!bg-accent", isActive);
-      btn.classList.toggle("!text-white", isActive);
-      btn.classList.toggle("!border-accent", isActive);
-      btn.classList.toggle("relative", isActive);
-      btn.classList.toggle("z-[1]", isActive);
+      btn.toggleAttribute("data-active", btn.dataset.filter === filter);
     });
   }
 
@@ -122,47 +85,33 @@ function medalClass(rank: number): string {
 
   applyFilter("10");
 
-  interface PostData {
-    url: string;
-    title: string;
-    author: string;
-    toasts: number;
-    rank: number;
-    domain: string;
-  }
+  function renderDay(date: string, posts: RankedPost[]): DocumentFragment {
+    const section = daySectionTemplate.content.cloneNode(true) as DocumentFragment;
+    section.querySelector("[data-date-label]")!.textContent = formatDate(date);
+    const ul = section.querySelector("[data-post-list]")!;
 
-  function medalClass(rank: number): string {
-    if (rank === 1) return "text-gold font-bold";
-    if (rank === 2) return "text-silver font-bold";
-    if (rank === 3) return "text-bronze font-bold";
-    return "text-muted";
-  }
+    for (const post of posts) {
+      const li = postItemTemplate.content.cloneNode(true) as DocumentFragment;
+      const liEl = li.querySelector("li")!;
+      liEl.dataset.rank = String(post.rank);
 
-  function esc(s: string): string {
-    return s
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#39;");
-  }
+      const toastsSpan = li.querySelector("[data-toasts]") as HTMLSpanElement;
+      toastsSpan.textContent = String(post.toasts);
+      for (const cls of medalClass(post.rank).split(" ")) {
+        toastsSpan.classList.add(cls);
+      }
 
-  function renderDay(date: string, posts: PostData[]): HTMLElement {
-    const section = document.createElement("section");
-    section.className = "mt-4";
-    section.innerHTML = `
-      <h2 class="mb-1 text-xs font-normal">
-        <span class="inline-block bg-accent text-white px-2 py-0.5 rounded-sm font-semibold">${formatDate(date)}</span>
-      </h2>
-      <ul>
-        ${posts.map((post) => `
-          <li class="post-item flex items-baseline gap-2 py-0.5 text-lg leading-snug border-b border-border-light" data-rank="${post.rank}">
-            <span class="shrink-0 w-10 text-right text-lg mr-4 ${medalClass(post.rank)}">${post.toasts}</span>
-            <a href="${esc(post.url)}" class="min-w-0 truncate text-fg no-underline hover:underline" target="_blank" rel="noopener">${esc(post.title)}</a>
-            <a href="${esc(post.author)}" class="shrink-0 text-xs text-muted no-underline whitespace-nowrap hover:underline" target="_blank" rel="noopener">(${esc(post.domain)})</a>
-          </li>
-        `).join("")}
-      </ul>`;
+      const postLink = li.querySelector("[data-post-link]") as HTMLAnchorElement;
+      postLink.href = post.url;
+      postLink.textContent = post.title;
+
+      const authorLink = li.querySelector("[data-author-link]") as HTMLAnchorElement;
+      authorLink.href = post.author;
+      authorLink.textContent = `(${post.domain})`;
+
+      ul.appendChild(li);
+    }
+
     applyFilterToItems(Array.from(section.querySelectorAll<HTMLLIElement>(".post-item")));
     return section;
   }
@@ -176,10 +125,9 @@ function medalClass(rank: number): string {
     try {
       const res = await fetch(`${import.meta.env.BASE_URL}/api/${date}.json`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const posts: PostData[] = await res.json();
+      const posts: RankedPost[] = await res.json();
       if (posts.length > 0) {
-        const section = renderDay(date, posts);
-        sentinel.before(section);
+        sentinel.before(renderDay(date, posts));
       }
       nextIndex++;
     } catch {
@@ -188,12 +136,8 @@ function medalClass(rank: number): string {
       return;
     }
 
-    if (nextIndex >= dates.length) {
-      status.textContent = "";
-      observer.disconnect();
-    } else {
-      status.textContent = "";
-    }
+    status.textContent = "";
+    if (nextIndex >= dates.length) observer.disconnect();
     loading = false;
   }
 
@@ -201,10 +145,8 @@ function medalClass(rank: number): string {
     (entries) => {
       if (entries[0].isIntersecting) loadNextDay();
     },
-    { rootMargin: "200px" }
+    { rootMargin: "200px" },
   );
 
-  if (dates.length > 0) {
-    observer.observe(sentinel);
-  }
+  if (dates.length > 0) observer.observe(sentinel);
 </script>

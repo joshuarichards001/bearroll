@@ -1,0 +1,22 @@
+---
+import PostItem from "./PostItem.astro";
+import { formatDate } from "../lib/format";
+import type { DayGroup } from "../lib/posts";
+
+interface Props {
+  day: DayGroup;
+}
+
+const { day } = Astro.props;
+---
+
+<section class="mt-4">
+  <h2 class="mb-1 text-xs font-normal">
+    <span class="inline-block bg-accent text-white px-2 py-0.5 rounded-sm font-semibold">
+      {formatDate(day.date)}
+    </span>
+  </h2>
+  <ul>
+    {day.posts.map((post) => <PostItem post={post} />)}
+  </ul>
+</section>
