@@ -86,14 +86,18 @@ async function main() {
     console.log(`  Found ${posts.length} posts on page ${page}`);
 
     if (page === 0 && posts.length === 0) {
-      console.error("ERROR: Found zero posts on page 0. HTML structure may have changed.");
+      console.error(
+        "ERROR: Found zero posts on page 0. HTML structure may have changed.",
+      );
       process.exit(1);
     }
 
     allPosts.push(...posts);
   }
 
-  console.log(`Total scraped: ${allPosts.length} posts across ${PAGES.length} pages`);
+  console.log(
+    `Total scraped: ${allPosts.length} posts across ${PAGES.length} pages`,
+  );
 
   // Deduplicate scraped posts by URL (keep highest toast count)
   const scrapedByUrl = new Map();
@@ -177,7 +181,7 @@ async function main() {
 
   console.log(
     `Scraped ${scrapedByUrl.size} unique posts across ${PAGES.length} pages, ` +
-      `${newCount} new, ${updatedCount} updated, wrote ${filesWritten} day files`
+      `${newCount} new, ${updatedCount} updated, wrote ${filesWritten} day files`,
   );
 }
 

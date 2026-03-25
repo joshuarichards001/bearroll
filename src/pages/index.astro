@@ -12,10 +12,18 @@ const remainingDates = getRemainingDayDates();
   <Header />
 
   <main class="px-4 pb-8">
-    {days.length === 0 && <p class="py-8 text-muted text-center">No posts collected yet.</p>}
+    {
+      days.length === 0 && (
+        <p class="py-8 text-muted text-center">No posts collected yet.</p>
+      )
+    }
     {days.map((day) => <DaySection day={day} />)}
 
-    <div id="scroll-sentinel" data-remaining-dates={JSON.stringify(remainingDates)}></div>
+    <div
+      id="scroll-sentinel"
+      data-remaining-dates={JSON.stringify(remainingDates)}
+    >
+    </div>
     <div id="load-status" class="text-center py-4 text-xs text-muted"></div>
   </main>
 </Layout>
@@ -30,13 +38,19 @@ const remainingDates = getRemainingDayDates();
   let nextIndex = 0;
 
   function applyFilter() {
-    const max = currentFilter === "all" ? Infinity : parseInt(currentFilter, 10);
+    const max =
+      currentFilter === "all" ? Infinity : parseInt(currentFilter, 10);
     document.querySelectorAll<HTMLLIElement>(".post-item").forEach((item) => {
       item.classList.toggle("hidden", parseInt(item.dataset.rank!, 10) > max);
     });
-    document.querySelectorAll<HTMLButtonElement>(".filter-btn").forEach((btn) => {
-      btn.toggleAttribute("data-active", btn.dataset.filter === currentFilter);
-    });
+    document
+      .querySelectorAll<HTMLButtonElement>(".filter-btn")
+      .forEach((btn) => {
+        btn.toggleAttribute(
+          "data-active",
+          btn.dataset.filter === currentFilter,
+        );
+      });
   }
 
   document.querySelectorAll<HTMLButtonElement>(".filter-btn").forEach((btn) => {

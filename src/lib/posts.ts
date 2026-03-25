@@ -37,8 +37,7 @@ export function processDay(posts: Post[]): RankedPost[] {
 
   // Sort by published time, newest first for display
   const sorted = [...posts].sort(
-    (a, b) =>
-      new Date(b.published).getTime() - new Date(a.published).getTime()
+    (a, b) => new Date(b.published).getTime() - new Date(a.published).getTime(),
   );
 
   return sorted.map((p) => ({

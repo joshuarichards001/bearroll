@@ -17,7 +17,12 @@ const { post } = Astro.props;
     {post.toasts}
   </span>
   <span>
-    <a href={post.url} class="text-link visited:text-visited no-underline hover:underline" target="_blank" rel="noopener">
+    <a
+      href={post.url}
+      class="text-link visited:text-visited no-underline hover:underline"
+      target="_blank"
+      rel="noopener"
+    >
       {post.title}
     </a>{" "}
     <a
