@@ -3,9 +3,13 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "collect": "node scripts/collect.mjs"
+    "collect": "node scripts/collect.mjs",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
   },
   "dependencies": {
+    "astro": "^6.0.8",
     "cheerio": "latest"
   }
 }
