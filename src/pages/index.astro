@@ -1,8 +1,9 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { loadAllDays } from "../lib/posts";
+import { loadInitialDays, getRemainingDayDates } from "../lib/posts";
 
-const days = loadAllDays();
+const days = loadInitialDays();
+const remainingDates = getRemainingDayDates();
 
 function formatDate(dateStr: string): string {
   const d = new Date(dateStr + "T12:00:00Z");
@@ -57,30 +58,157 @@ function formatDate(dateStr: string): string {
         </ul>
       </section>
     ))}
+    <div id="scroll-sentinel"></div>
+    <div id="load-status" class="load-status"></div>
   </main>
 </Layout>
 
-<script>
-  const buttons = document.querySelectorAll<HTMLButtonElement>(".filter-btn");
-  const items = document.querySelectorAll<HTMLLIElement>(".post-item");
+<script define:vars={{ remainingDates }}>
+  window.__remainingDates = remainingDates;
+</script>
 
-  function applyFilter(filter: string) {
-    const max = filter === "all" ? Infinity : parseInt(filter, 10);
+<script>
+  const main = document.querySelector("main")!;
+  const sentinel = document.getElementById("scroll-sentinel")!;
+  const status = document.getElementById("load-status")!;
+  const dates: string[] = (window as any).__remainingDates;
+  let currentFilter = "10";
+  let loading = false;
+  let nextIndex = 0;
+
+  function formatDate(dateStr: string): string {
+    const d = new Date(dateStr + "T12:00:00Z");
+    return d.toLocaleDateString("en-US", {
+      weekday: "short",
+      month: "short",
+      day: "numeric",
+      timeZone: "UTC",
+    });
+  }
+
+  function applyFilterToItems(items: NodeListOf<HTMLLIElement> | HTMLLIElement[]) {
+    const max = currentFilter === "all" ? Infinity : parseInt(currentFilter, 10);
     items.forEach((item) => {
       const rank = parseInt(item.dataset.rank!, 10);
       item.classList.toggle("hidden-by-filter", rank > max);
     });
-    buttons.forEach((btn) =>
+  }
+
+  function applyFilter(filter: string) {
+    currentFilter = filter;
+    const items = document.querySelectorAll<HTMLLIElement>(".post-item");
+    applyFilterToItems(items);
+    document.querySelectorAll<HTMLButtonElement>(".filter-btn").forEach((btn) =>
       btn.classList.toggle("active", btn.dataset.filter === filter)
     );
   }
 
-  buttons.forEach((btn) => {
+  document.querySelectorAll<HTMLButtonElement>(".filter-btn").forEach((btn) => {
     btn.addEventListener("click", () => applyFilter(btn.dataset.filter!));
   });
 
-  // Default: top 10
   applyFilter("10");
+
+  interface PostData {
+    url: string;
+    title: string;
+    author: string;
+    toasts: number;
+    rank: number;
+    domain: string;
+  }
+
+  function renderDay(date: string, posts: PostData[]): HTMLElement {
+    const section = document.createElement("section");
+    section.className = "day-section";
+
+    const h2 = document.createElement("h2");
+    h2.className = "day-header";
+    const label = document.createElement("span");
+    label.className = "day-label";
+    label.textContent = formatDate(date);
+    h2.appendChild(label);
+    section.appendChild(h2);
+
+    const ul = document.createElement("ul");
+    ul.className = "post-list";
+
+    const newItems: HTMLLIElement[] = [];
+    for (const post of posts) {
+      const li = document.createElement("li");
+      li.className = "post-item";
+      li.dataset.rank = String(post.rank);
+
+      const toasts = document.createElement("span");
+      toasts.className = "toasts";
+      toasts.textContent = String(post.toasts);
+      li.appendChild(toasts);
+
+      const titleLink = document.createElement("a");
+      titleLink.className = "post-title";
+      titleLink.href = post.url;
+      titleLink.target = "_blank";
+      titleLink.rel = "noopener";
+      titleLink.textContent = post.title;
+      li.appendChild(titleLink);
+
+      const domainLink = document.createElement("a");
+      domainLink.className = "post-domain";
+      domainLink.href = post.author;
+      domainLink.target = "_blank";
+      domainLink.rel = "noopener";
+      domainLink.textContent = `(${post.domain})`;
+      li.appendChild(domainLink);
+
+      ul.appendChild(li);
+      newItems.push(li);
+    }
+
+    section.appendChild(ul);
+    applyFilterToItems(newItems);
+    return section;
+  }
+
+  async function loadNextDay() {
+    if (loading || nextIndex >= dates.length) return;
+    loading = true;
+    status.textContent = "Loading…";
+
+    const date = dates[nextIndex];
+    try {
+      const res = await fetch(`/api/${date}.json`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const posts: PostData[] = await res.json();
+      if (posts.length > 0) {
+        const section = renderDay(date, posts);
+        sentinel.before(section);
+      }
+      nextIndex++;
+    } catch {
+      status.textContent = "Failed to load. Scroll to retry.";
+      loading = false;
+      return;
+    }
+
+    if (nextIndex >= dates.length) {
+      status.textContent = "";
+      observer.disconnect();
+    } else {
+      status.textContent = "";
+    }
+    loading = false;
+  }
+
+  const observer = new IntersectionObserver(
+    (entries) => {
+      if (entries[0].isIntersecting) loadNextDay();
+    },
+    { rootMargin: "200px" }
+  );
+
+  if (dates.length > 0) {
+    observer.observe(sentinel);
+  }
 </script>
 
 <style>
@@ -170,71 +298,4 @@ function formatDate(dateStr: string): string {
     text-align: center;
   }
 
-  .day-section {
-    margin-top: 1rem;
-  }
-
-  .day-header {
-    margin: 0 0 0.25rem;
-    font-size: 0.8rem;
-    font-weight: 400;
-  }
-
-  .day-label {
-    display: inline-block;
-    background: var(--accent);
-    color: #fff;
-    padding: 0.15rem 0.5rem;
-    border-radius: 3px;
-    font-weight: 600;
-  }
-
-  .post-list {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  .post-item {
-    display: flex;
-    align-items: baseline;
-    gap: 0.5rem;
-    padding: 0.2rem 0;
-    font-size: 0.85rem;
-    line-height: 1.4;
-    border-bottom: 1px solid var(--border-light);
-  }
-
-  .post-item.hidden-by-filter {
-    display: none;
-  }
-
-  .toasts {
-    flex-shrink: 0;
-    width: 2.5rem;
-    text-align: right;
-    color: var(--muted);
-    font-size: 0.8rem;
-  }
-
-  .post-title {
-    color: var(--fg);
-    text-decoration: none;
-  }
-
-  .post-title:hover {
-    text-decoration: underline;
-  }
-
-  .post-domain {
-    flex-shrink: 0;
-    font-size: 0.75rem;
-    color: var(--muted);
-    text-decoration: none;
-    white-space: nowrap;
-  }
-
-  .post-domain:hover {
-    text-decoration: underline;
-  }
 </style>
