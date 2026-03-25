@@ -8,6 +8,9 @@
   --color-border: var(--c-border);
   --color-border-light: var(--c-border-light);
   --color-accent: #e67e22;
+  --color-gold: #d4a017;
+  --color-silver: #4a90d9;
+  --color-bronze: #cd7f32;
 }
 
 :root {

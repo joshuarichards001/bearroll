@@ -43,7 +43,7 @@ function formatDate(dateStr: string): string {
         <ul>
           {day.posts.map((post) => (
             <li class="post-item flex items-baseline gap-2 py-0.5 text-lg leading-snug border-b border-border-light" data-rank={post.rank}>
-              <span class="shrink-0 w-10 text-right text-lg text-muted mr-4">{post.toasts}</span>
+              <span class={`shrink-0 w-10 text-right text-lg mr-4 ${post.rank === 1 ? 'text-gold font-bold' : post.rank === 2 ? 'text-silver font-bold' : post.rank === 3 ? 'text-bronze font-bold' : 'text-muted'}`}>{post.toasts}</span>
               <a href={post.url} class="min-w-0 truncate text-fg no-underline hover:underline" target="_blank" rel="noopener">
                 {post.title}
               </a>
@@ -147,7 +147,8 @@ function formatDate(dateStr: string): string {
       li.dataset.rank = String(post.rank);
 
       const toasts = document.createElement("span");
-      toasts.className = "shrink-0 w-10 text-right text-muted text-xs";
+      const medalClass = post.rank === 1 ? "text-gold font-bold" : post.rank === 2 ? "text-silver font-bold" : post.rank === 3 ? "text-bronze font-bold" : "text-muted";
+      toasts.className = `shrink-0 w-10 text-right text-lg ${medalClass}`;
       toasts.textContent = String(post.toasts);
       li.appendChild(toasts);
 
