@@ -1,7 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import DaySection from "../components/DaySection.astro";
-import FilterBar from "../components/FilterBar.astro";
+import Header from "../components/Header.astro";
 import { loadInitialDays, getRemainingDayDates } from "../lib/posts";
 
 const days = loadInitialDays();
@@ -9,39 +9,11 @@ const remainingDates = getRemainingDayDates();
 ---
 
 <Layout title="bear discover">
-  <header class="border-b border-border bg-bg sticky top-0 z-10">
-    <div class="max-w-2xl mx-auto px-4 py-3 flex items-center justify-between gap-4 flex-wrap">
-      <div class="flex items-baseline gap-3">
-        <h1 class="text-lg font-bold">
-          <a href="/" class="text-fg no-underline">bear discover</a>
-        </h1>
-        <span class="text-xs text-muted">posts from Bear Blog's discover page</span>
-      </div>
-      <FilterBar />
-    </div>
-  </header>
+  <Header />
 
   <main class="max-w-2xl mx-auto px-4 pb-8">
     {days.length === 0 && <p class="py-8 text-muted text-center">No posts collected yet.</p>}
     {days.map((day) => <DaySection day={day} />)}
-
-    <!-- Keep in sync with PostItem.astro / DaySection.astro -->
-    <template id="day-section-template">
-      <section class="mt-4">
-        <h2 class="mb-1 text-xs font-normal">
-          <span class="inline-block bg-accent text-white px-2 py-0.5 rounded-sm font-semibold" data-date-label></span>
-        </h2>
-        <ul data-post-list></ul>
-      </section>
-    </template>
-
-    <template id="post-item-template">
-      <li class="post-item flex items-baseline gap-2 py-0.5 text-lg leading-snug border-b border-border-light">
-        <span class="shrink-0 w-10 text-right text-lg mr-4" data-toasts></span>
-        <a class="text-fg no-underline hover:underline" target="_blank" rel="noopener" data-post-link></a>
-        <a class="shrink-0 text-xs text-muted no-underline whitespace-nowrap hover:underline" target="_blank" rel="noopener" data-author-link></a>
-      </li>
-    </template>
 
     <div id="scroll-sentinel" data-remaining-dates={JSON.stringify(remainingDates)}></div>
     <div id="load-status" class="text-center py-4 text-xs text-muted"></div>
@@ -49,72 +21,34 @@ const remainingDates = getRemainingDayDates();
 </Layout>
 
 <script>
-  import { formatDate, medalClass } from "../lib/format";
-  import type { RankedPost } from "../lib/posts";
-
   const sentinel = document.getElementById("scroll-sentinel")!;
   const status = document.getElementById("load-status")!;
   const dates: string[] = JSON.parse(sentinel.dataset.remainingDates ?? "[]");
 
-  const daySectionTemplate = document.getElementById("day-section-template") as HTMLTemplateElement;
-  const postItemTemplate = document.getElementById("post-item-template") as HTMLTemplateElement;
-
-  let currentFilter = "10";
+  const currentFilter = localStorage.getItem("filter") ?? "10";
   let loading = false;
   let nextIndex = 0;
 
-  function applyFilterToItems(items: NodeListOf<HTMLLIElement> | HTMLLIElement[]) {
+  function applyFilter() {
     const max = currentFilter === "all" ? Infinity : parseInt(currentFilter, 10);
-    items.forEach((item) => {
-      const rank = parseInt(item.dataset.rank!, 10);
-      item.classList.toggle("hidden", rank > max);
+    document.querySelectorAll<HTMLLIElement>(".post-item").forEach((item) => {
+      item.classList.toggle("hidden", parseInt(item.dataset.rank!, 10) > max);
     });
-  }
-
-  function applyFilter(filter: string) {
-    currentFilter = filter;
-    applyFilterToItems(document.querySelectorAll<HTMLLIElement>(".post-item"));
     document.querySelectorAll<HTMLButtonElement>(".filter-btn").forEach((btn) => {
-      btn.toggleAttribute("data-active", btn.dataset.filter === filter);
+      btn.toggleAttribute("data-active", btn.dataset.filter === currentFilter);
     });
   }
 
   document.querySelectorAll<HTMLButtonElement>(".filter-btn").forEach((btn) => {
-    btn.addEventListener("click", () => applyFilter(btn.dataset.filter!));
+    btn.addEventListener("click", () => {
+      const filter = btn.dataset.filter!;
+      if (filter === "10") localStorage.removeItem("filter");
+      else localStorage.setItem("filter", filter);
+      location.reload();
+    });
   });
 
-  applyFilter("10");
-
-  function renderDay(date: string, posts: RankedPost[]): DocumentFragment {
-    const section = daySectionTemplate.content.cloneNode(true) as DocumentFragment;
-    section.querySelector("[data-date-label]")!.textContent = formatDate(date);
-    const ul = section.querySelector("[data-post-list]")!;
-
-    for (const post of posts) {
-      const li = postItemTemplate.content.cloneNode(true) as DocumentFragment;
-      const liEl = li.querySelector("li")!;
-      liEl.dataset.rank = String(post.rank);
-
-      const toastsSpan = li.querySelector("[data-toasts]") as HTMLSpanElement;
-      toastsSpan.textContent = String(post.toasts);
-      for (const cls of medalClass(post.rank).split(" ")) {
-        toastsSpan.classList.add(cls);
-      }
-
-      const postLink = li.querySelector("[data-post-link]") as HTMLAnchorElement;
-      postLink.href = post.url;
-      postLink.textContent = post.title;
-
-      const authorLink = li.querySelector("[data-author-link]") as HTMLAnchorElement;
-      authorLink.href = post.author;
-      authorLink.textContent = `(${post.domain})`;
-
-      ul.appendChild(li);
-    }
-
-    applyFilterToItems(Array.from(section.querySelectorAll<HTMLLIElement>(".post-item")));
-    return section;
-  }
+  applyFilter();
 
   async function loadNextDay() {
     if (loading || nextIndex >= dates.length) return;
@@ -123,12 +57,11 @@ const remainingDates = getRemainingDayDates();
 
     const date = dates[nextIndex];
     try {
-      const res = await fetch(`${import.meta.env.BASE_URL}/api/${date}.json`);
+      const res = await fetch(`${import.meta.env.BASE_URL}/api/${date}`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const posts: RankedPost[] = await res.json();
-      if (posts.length > 0) {
-        sentinel.before(renderDay(date, posts));
-      }
+      const html = await res.text();
+      sentinel.insertAdjacentHTML("beforebegin", html);
+      applyFilter();
       nextIndex++;
     } catch {
       status.textContent = "Failed to load. Scroll to retry.";

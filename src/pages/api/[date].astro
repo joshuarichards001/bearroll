@@ -1,0 +1,13 @@
+---
+import DaySection from "../../components/DaySection.astro";
+import { getAllDayDates, loadDay } from "../../lib/posts";
+import type { GetStaticPaths } from "astro";
+
+export const getStaticPaths: GetStaticPaths = () => {
+  return getAllDayDates().map((date) => ({ params: { date } }));
+};
+
+const day = loadDay(Astro.params.date!);
+---
+
+{day && <DaySection day={day} />}

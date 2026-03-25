@@ -1,0 +1,28 @@
+---
+const filters = [
+  { value: "10", label: "top 10" },
+  { value: "20", label: "top 20" },
+  { value: "all", label: "all" },
+];
+---
+
+<header class="border-b border-border bg-bg">
+  <div class="max-w-2xl mx-auto px-4 py-3 flex items-center justify-between gap-4 flex-wrap">
+    <div class="flex items-baseline gap-3">
+      <h1 class="text-lg font-bold">
+        <a href="/" class="text-fg no-underline">bear discover</a>
+      </h1>
+      <span class="text-xs text-muted">posts from Bear Blog's discover page</span>
+    </div>
+    <nav class="flex">
+      {filters.map((f) => (
+        <button
+          class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg -ml-px first:ml-0 first:rounded-l-sm last:rounded-r-sm data-[active]:bg-accent data-[active]:text-white data-[active]:border-accent data-[active]:relative data-[active]:z-[1]"
+          data-filter={f.value}
+        >
+          {f.label}
+        </button>
+      ))}
+    </nav>
+  </div>
+</header>
