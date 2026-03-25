@@ -1,59 +1,56 @@
-{
-  "collected_at": "2026-03-25T19:10:53.053Z",
-  "posts": [
-    {
-      "url": "https://futureperfect.bearblog.dev/get-wacky/",
-      "title": "Get wacky",
-      "author": "https://futureperfect.bearblog.dev",
-      "toasts": 98,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-20T23:04Z"
-    },
-    {
-      "url": "https://tadaima.bearblog.dev/old-parents-second-childhood/",
-      "title": "No one told me about the \"second childhood\"",
-      "author": "https://tadaima.bearblog.dev",
-      "toasts": 38,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-20T20:09Z"
-    },
-    {
-      "url": "https://www.wmprkr.xyz/embracing-randomness/",
-      "title": "Embracing Randomness",
-      "author": "https://www.wmprkr.xyz",
-      "toasts": 49,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-20T01:48Z"
-    },
-    {
-      "url": "https://enbiesarefrom.earth/ten-years-ago-today-i-was-posting-only-19-but-my-mind-is-older-from-a-coffee-shop-in-manhattan/",
-      "title": "Ten years ago today, I was posting “Only 19 but my mind is older” from a coffee shop in Manhattan",
-      "author": "https://enbiesarefrom.earth",
-      "toasts": 38,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-20T09:12Z"
-    },
-    {
-      "url": "https://www.palmzealot.com/uncanney-valley/",
-      "title": "Uncanny Valley",
-      "author": "https://www.palmzealot.com",
-      "toasts": 47,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-20T01:00Z"
-    },
-    {
-      "url": "https://blog.lauramichet.com/uh-oh-im-getting-into-mesh-radios/",
-      "title": "Uh oh, I'm getting into mesh radios....",
-      "author": "https://blog.lauramichet.com",
-      "toasts": 22,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-20T02:59Z"
-    }
-  ]
-}
+[
+  {
+    "url": "https://futureperfect.bearblog.dev/get-wacky/",
+    "title": "Get wacky",
+    "author": "https://futureperfect.bearblog.dev",
+    "toasts": 98,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-20T23:04Z"
+  },
+  {
+    "url": "https://tadaima.bearblog.dev/old-parents-second-childhood/",
+    "title": "No one told me about the \"second childhood\"",
+    "author": "https://tadaima.bearblog.dev",
+    "toasts": 38,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-20T20:09Z"
+  },
+  {
+    "url": "https://www.wmprkr.xyz/embracing-randomness/",
+    "title": "Embracing Randomness",
+    "author": "https://www.wmprkr.xyz",
+    "toasts": 49,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-20T01:48Z"
+  },
+  {
+    "url": "https://enbiesarefrom.earth/ten-years-ago-today-i-was-posting-only-19-but-my-mind-is-older-from-a-coffee-shop-in-manhattan/",
+    "title": "Ten years ago today, I was posting “Only 19 but my mind is older” from a coffee shop in Manhattan",
+    "author": "https://enbiesarefrom.earth",
+    "toasts": 38,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-20T09:12Z"
+  },
+  {
+    "url": "https://www.palmzealot.com/uncanney-valley/",
+    "title": "Uncanny Valley",
+    "author": "https://www.palmzealot.com",
+    "toasts": 47,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-20T01:00Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/uh-oh-im-getting-into-mesh-radios/",
+    "title": "Uh oh, I'm getting into mesh radios....",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 22,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-20T02:59Z"
+  }
+]

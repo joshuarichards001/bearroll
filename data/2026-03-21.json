@@ -1,86 +1,83 @@
-{
-  "collected_at": "2026-03-25T19:10:53.053Z",
-  "posts": [
-    {
-      "url": "https://yingxue.bearblog.dev/a-vase-of-origami-flowers/",
-      "title": "A vase of origami flowers",
-      "author": "https://yingxue.bearblog.dev",
-      "toasts": 37,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-21T23:19Z"
-    },
-    {
-      "url": "https://samwigglesworth.bearblog.dev/read-more-books/",
-      "title": "Every Book Chooses Its Reader",
-      "author": "https://samwigglesworth.bearblog.dev",
-      "toasts": 47,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-21T21:57Z"
-    },
-    {
-      "url": "https://robertbirming.com/bear-posts-pages/",
-      "title": "How I use Bear posts and pages",
-      "author": "https://robertbirming.com",
-      "toasts": 47,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-21T18:49Z"
-    },
-    {
-      "url": "https://jessvb.uk/i-just-want-to-write-without-thinking-about-whos-reading/",
-      "title": "I just want to write without thinking about who's reading",
-      "author": "https://jessvb.uk",
-      "toasts": 87,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-21T10:55Z"
-    },
-    {
-      "url": "https://blog.avas.space/parents-villain/",
-      "title": "bad parents know / being the villain",
-      "author": "https://blog.avas.space",
-      "toasts": 28,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-21T15:17Z"
-    },
-    {
-      "url": "https://blog.amykay.dev/ai-slop-on-etsy/",
-      "title": "AI Slop on Etsy",
-      "author": "https://blog.amykay.dev",
-      "toasts": 20,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-21T15:22Z"
-    },
-    {
-      "url": "https://zevvdaily.bearblog.dev/rich-people-love-saying-money-doesnt-matter/",
-      "title": "Rich People Love Saying Money Doesn’t Matter",
-      "author": "https://zevvdaily.bearblog.dev",
-      "toasts": 19,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-21T22:31Z"
-    },
-    {
-      "url": "https://the.scapegoat.dev/slowing-down-in-the-age-of-coding-agents/",
-      "title": "Slowing Down in the Age of Coding Agents",
-      "author": "https://the.scapegoat.dev",
-      "toasts": 16,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-21T13:45Z"
-    },
-    {
-      "url": "https://combatdavey.net/march-20-2026/",
-      "title": "march 20 spf",
-      "author": "https://combatdavey.net",
-      "toasts": 17,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-21T03:59Z"
-    }
-  ]
-}
+[
+  {
+    "url": "https://yingxue.bearblog.dev/a-vase-of-origami-flowers/",
+    "title": "A vase of origami flowers",
+    "author": "https://yingxue.bearblog.dev",
+    "toasts": 37,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-21T23:19Z"
+  },
+  {
+    "url": "https://samwigglesworth.bearblog.dev/read-more-books/",
+    "title": "Every Book Chooses Its Reader",
+    "author": "https://samwigglesworth.bearblog.dev",
+    "toasts": 47,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-21T21:57Z"
+  },
+  {
+    "url": "https://robertbirming.com/bear-posts-pages/",
+    "title": "How I use Bear posts and pages",
+    "author": "https://robertbirming.com",
+    "toasts": 47,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-21T18:49Z"
+  },
+  {
+    "url": "https://jessvb.uk/i-just-want-to-write-without-thinking-about-whos-reading/",
+    "title": "I just want to write without thinking about who's reading",
+    "author": "https://jessvb.uk",
+    "toasts": 87,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-21T10:55Z"
+  },
+  {
+    "url": "https://blog.avas.space/parents-villain/",
+    "title": "bad parents know / being the villain",
+    "author": "https://blog.avas.space",
+    "toasts": 28,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-21T15:17Z"
+  },
+  {
+    "url": "https://blog.amykay.dev/ai-slop-on-etsy/",
+    "title": "AI Slop on Etsy",
+    "author": "https://blog.amykay.dev",
+    "toasts": 20,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-21T15:22Z"
+  },
+  {
+    "url": "https://zevvdaily.bearblog.dev/rich-people-love-saying-money-doesnt-matter/",
+    "title": "Rich People Love Saying Money Doesn’t Matter",
+    "author": "https://zevvdaily.bearblog.dev",
+    "toasts": 19,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-21T22:31Z"
+  },
+  {
+    "url": "https://the.scapegoat.dev/slowing-down-in-the-age-of-coding-agents/",
+    "title": "Slowing Down in the Age of Coding Agents",
+    "author": "https://the.scapegoat.dev",
+    "toasts": 16,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-21T13:45Z"
+  },
+  {
+    "url": "https://combatdavey.net/march-20-2026/",
+    "title": "march 20 spf",
+    "author": "https://combatdavey.net",
+    "toasts": 17,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-21T03:59Z"
+  }
+]

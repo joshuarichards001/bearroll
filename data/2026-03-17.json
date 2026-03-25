@@ -1,32 +1,29 @@
-{
-  "collected_at": "2026-03-25T19:10:53.053Z",
-  "posts": [
-    {
-      "url": "https://tiramisu.bearblog.dev/the-walls-are-closing-in/",
-      "title": "the walls are closing in",
-      "author": "https://tiramisu.bearblog.dev",
-      "toasts": 93,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-17T23:34Z"
-    },
-    {
-      "url": "https://splitnode.bearblog.dev/11-days-into-bear-blog/",
-      "title": "11 days into Bear blog",
-      "author": "https://splitnode.bearblog.dev",
-      "toasts": 52,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-17T21:45Z"
-    },
-    {
-      "url": "https://robertbirming.com/blog-donor/",
-      "title": "Be a blog donor",
-      "author": "https://robertbirming.com",
-      "toasts": 50,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-17T17:20Z"
-    }
-  ]
-}
+[
+  {
+    "url": "https://tiramisu.bearblog.dev/the-walls-are-closing-in/",
+    "title": "the walls are closing in",
+    "author": "https://tiramisu.bearblog.dev",
+    "toasts": 93,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-17T23:34Z"
+  },
+  {
+    "url": "https://splitnode.bearblog.dev/11-days-into-bear-blog/",
+    "title": "11 days into Bear blog",
+    "author": "https://splitnode.bearblog.dev",
+    "toasts": 52,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-17T21:45Z"
+  },
+  {
+    "url": "https://robertbirming.com/blog-donor/",
+    "title": "Be a blog donor",
+    "author": "https://robertbirming.com",
+    "toasts": 50,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-17T17:20Z"
+  }
+]

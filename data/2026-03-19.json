@@ -1,158 +1,155 @@
-{
-  "collected_at": "2026-03-25T19:10:53.053Z",
-  "posts": [
-    {
-      "url": "https://blog.perpetualdraft.com/moved-to-bear/",
-      "title": "Officially moved to Bear!",
-      "author": "https://blog.perpetualdraft.com",
-      "toasts": 46,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T13:59Z"
-    },
-    {
-      "url": "https://robertbirming.com/bear-webring-buttons/",
-      "title": "Bear webring buttons",
-      "author": "https://robertbirming.com",
-      "toasts": 61,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T10:39Z"
-    },
-    {
-      "url": "https://grizzlygazette.bearblog.dev/creation-festival-submissions/",
-      "title": "The Grizzly Gazette Creation Festival: The Submissions",
-      "author": "https://grizzlygazette.bearblog.dev",
-      "toasts": 64,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T12:40Z"
-    },
-    {
-      "url": "https://musing.ispretty.fyi/blog/we-all-need-to-touch-more-grass/",
-      "title": "we all need to touch more grass",
-      "author": "https://musing.ispretty.fyi",
-      "toasts": 48,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T20:25Z"
-    },
-    {
-      "url": "https://alterick.bearblog.dev/re-i-need-to-make-some-changes/",
-      "title": "Re: I need to make some changes",
-      "author": "https://alterick.bearblog.dev",
-      "toasts": 38,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T16:47Z"
-    },
-    {
-      "url": "https://tala.bearblog.dev/make-a-list-of-the-hard-times-you-survived/",
-      "title": "make a list of the hard times you survived",
-      "author": "https://tala.bearblog.dev",
-      "toasts": 78,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T15:38Z"
-    },
-    {
-      "url": "https://elmc.at/rootring-is-live/",
-      "title": "rootring is live!",
-      "author": "https://elmc.at",
-      "toasts": 41,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T01:30Z"
-    },
-    {
-      "url": "https://runarcn.no/i-want-to-read-less-from-the-us/",
-      "title": "I want to read less from the US and more from the world.",
-      "author": "https://runarcn.no",
-      "toasts": 50,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T15:31Z"
-    },
-    {
-      "url": "https://nothings.bearblog.dev/my-dithering-settings/",
-      "title": "my dithering settings",
-      "author": "https://nothings.bearblog.dev",
-      "toasts": 34,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T11:03Z"
-    },
-    {
-      "url": "https://herman.bearblog.dev/becoming-a-day-person/",
-      "title": "On becoming a day person",
-      "author": "https://herman.bearblog.dev",
-      "toasts": 137,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T09:17Z"
-    },
-    {
-      "url": "https://pixel.bearblog.dev/anti-antibiotic-probiotic/",
-      "title": "anti-antibiotic (probiotic?)",
-      "author": "https://pixel.bearblog.dev",
-      "toasts": 49,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T03:23Z"
-    },
-    {
-      "url": "https://tuesdaynight.blog/gone-and-forgotten/",
-      "title": "Gone and forgotten",
-      "author": "https://tuesdaynight.blog",
-      "toasts": 46,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T02:34Z"
-    },
-    {
-      "url": "https://basic.bearblog.dev/a-personal-project-goal/",
-      "title": "A personal project goal",
-      "author": "https://basic.bearblog.dev",
-      "toasts": 32,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T02:31Z"
-    },
-    {
-      "url": "https://scholarch.bearblog.dev/remarks-on-self-love/",
-      "title": "Remarks on self-love",
-      "author": "https://scholarch.bearblog.dev",
-      "toasts": 47,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T23:20Z"
-    },
-    {
-      "url": "https://angrybunnyman.com/re-stop-loving-yourself/",
-      "title": "Re: Stop Loving Yourself",
-      "author": "https://angrybunnyman.com",
-      "toasts": 94,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T15:37Z"
-    },
-    {
-      "url": "https://futureperfect.bearblog.dev/bang-bang/",
-      "title": "Bang Bang",
-      "author": "https://futureperfect.bearblog.dev",
-      "toasts": 25,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T14:06Z"
-    },
-    {
-      "url": "https://pinewind.bearblog.dev/thoughts-on-the-tokyo-fashion-town-building/",
-      "title": "thoughts on the Tokyo Fashion Town building",
-      "author": "https://pinewind.bearblog.dev",
-      "toasts": 25,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-19T01:00Z"
-    }
-  ]
-}
+[
+  {
+    "url": "https://blog.perpetualdraft.com/moved-to-bear/",
+    "title": "Officially moved to Bear!",
+    "author": "https://blog.perpetualdraft.com",
+    "toasts": 46,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T13:59Z"
+  },
+  {
+    "url": "https://robertbirming.com/bear-webring-buttons/",
+    "title": "Bear webring buttons",
+    "author": "https://robertbirming.com",
+    "toasts": 61,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T10:39Z"
+  },
+  {
+    "url": "https://grizzlygazette.bearblog.dev/creation-festival-submissions/",
+    "title": "The Grizzly Gazette Creation Festival: The Submissions",
+    "author": "https://grizzlygazette.bearblog.dev",
+    "toasts": 64,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T12:40Z"
+  },
+  {
+    "url": "https://musing.ispretty.fyi/blog/we-all-need-to-touch-more-grass/",
+    "title": "we all need to touch more grass",
+    "author": "https://musing.ispretty.fyi",
+    "toasts": 48,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T20:25Z"
+  },
+  {
+    "url": "https://alterick.bearblog.dev/re-i-need-to-make-some-changes/",
+    "title": "Re: I need to make some changes",
+    "author": "https://alterick.bearblog.dev",
+    "toasts": 38,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T16:47Z"
+  },
+  {
+    "url": "https://tala.bearblog.dev/make-a-list-of-the-hard-times-you-survived/",
+    "title": "make a list of the hard times you survived",
+    "author": "https://tala.bearblog.dev",
+    "toasts": 78,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T15:38Z"
+  },
+  {
+    "url": "https://elmc.at/rootring-is-live/",
+    "title": "rootring is live!",
+    "author": "https://elmc.at",
+    "toasts": 41,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T01:30Z"
+  },
+  {
+    "url": "https://runarcn.no/i-want-to-read-less-from-the-us/",
+    "title": "I want to read less from the US and more from the world.",
+    "author": "https://runarcn.no",
+    "toasts": 50,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T15:31Z"
+  },
+  {
+    "url": "https://nothings.bearblog.dev/my-dithering-settings/",
+    "title": "my dithering settings",
+    "author": "https://nothings.bearblog.dev",
+    "toasts": 34,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T11:03Z"
+  },
+  {
+    "url": "https://herman.bearblog.dev/becoming-a-day-person/",
+    "title": "On becoming a day person",
+    "author": "https://herman.bearblog.dev",
+    "toasts": 137,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T09:17Z"
+  },
+  {
+    "url": "https://pixel.bearblog.dev/anti-antibiotic-probiotic/",
+    "title": "anti-antibiotic (probiotic?)",
+    "author": "https://pixel.bearblog.dev",
+    "toasts": 49,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T03:23Z"
+  },
+  {
+    "url": "https://tuesdaynight.blog/gone-and-forgotten/",
+    "title": "Gone and forgotten",
+    "author": "https://tuesdaynight.blog",
+    "toasts": 46,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T02:34Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/a-personal-project-goal/",
+    "title": "A personal project goal",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 32,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T02:31Z"
+  },
+  {
+    "url": "https://scholarch.bearblog.dev/remarks-on-self-love/",
+    "title": "Remarks on self-love",
+    "author": "https://scholarch.bearblog.dev",
+    "toasts": 47,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T23:20Z"
+  },
+  {
+    "url": "https://angrybunnyman.com/re-stop-loving-yourself/",
+    "title": "Re: Stop Loving Yourself",
+    "author": "https://angrybunnyman.com",
+    "toasts": 94,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T15:37Z"
+  },
+  {
+    "url": "https://futureperfect.bearblog.dev/bang-bang/",
+    "title": "Bang Bang",
+    "author": "https://futureperfect.bearblog.dev",
+    "toasts": 25,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T14:06Z"
+  },
+  {
+    "url": "https://pinewind.bearblog.dev/thoughts-on-the-tokyo-fashion-town-building/",
+    "title": "thoughts on the Tokyo Fashion Town building",
+    "author": "https://pinewind.bearblog.dev",
+    "toasts": 25,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-19T01:00Z"
+  }
+]

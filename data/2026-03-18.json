@@ -1,149 +1,146 @@
-{
-  "collected_at": "2026-03-25T19:10:53.053Z",
-  "posts": [
-    {
-      "url": "https://sigkill.sh/getting-away-from-the-algorithms/",
-      "title": "Getting away from the algorithms",
-      "author": "https://sigkill.sh",
-      "toasts": 40,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T19:48Z"
-    },
-    {
-      "url": "https://jamesbaker.uk/i-quit-editing-photos/",
-      "title": "📸 I Quit Editing Photos",
-      "author": "https://jamesbaker.uk",
-      "toasts": 58,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T19:00Z"
-    },
-    {
-      "url": "https://coleslaw.bearblog.dev/i-found-a-hidden-library-of-podcasts-and-its-brilliant/",
-      "title": "I found a hidden library of podcasts (and it’s brilliant)",
-      "author": "https://coleslaw.bearblog.dev",
-      "toasts": 54,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T17:34Z"
-    },
-    {
-      "url": "https://blog.absurdpirate.com/religion-for-atheists/",
-      "title": "religion for atheists",
-      "author": "https://blog.absurdpirate.com",
-      "toasts": 89,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T15:24Z"
-    },
-    {
-      "url": "https://seerofthe.net/modretro-is-a-grift/",
-      "title": "ModRetro is a Grift",
-      "author": "https://seerofthe.net",
-      "toasts": 36,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T15:14Z"
-    },
-    {
-      "url": "https://monolog.xyz/trees/",
-      "title": "trees",
-      "author": "https://monolog.xyz",
-      "toasts": 49,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T13:47Z"
-    },
-    {
-      "url": "https://www.summerwrites.net/rambling-about-my-tiny-house-dream/",
-      "title": "Rambling about my tiny house dream",
-      "author": "https://www.summerwrites.net",
-      "toasts": 41,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T13:17Z"
-    },
-    {
-      "url": "https://mintcitylights.com/2026/03/18/decoupling-art-and-industry/",
-      "title": "decoupling art and industry",
-      "author": "https://mintcitylights.com",
-      "toasts": 41,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T11:01Z"
-    },
-    {
-      "url": "https://alifeofa.bearblog.dev/relaxing-is-not-a-waste-of-time/",
-      "title": "Relaxing is NOT a waste of time",
-      "author": "https://alifeofa.bearblog.dev",
-      "toasts": 43,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T10:39Z"
-    },
-    {
-      "url": "https://blog.lauramichet.com/we-are-trying-to-move-back-home/",
-      "title": "We are trying to move back home!",
-      "author": "https://blog.lauramichet.com",
-      "toasts": 38,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T05:04Z"
-    },
-    {
-      "url": "https://alterick.bearblog.dev/reading-not-writing/",
-      "title": "Reading too many blogs",
-      "author": "https://alterick.bearblog.dev",
-      "toasts": 36,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T04:01Z"
-    },
-    {
-      "url": "https://autumn-wright.com/they-fell-for-it/",
-      "title": "They Fell for It",
-      "author": "https://autumn-wright.com",
-      "toasts": 114,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T04:00Z"
-    },
-    {
-      "url": "https://jamesphilbrick.com/she-said-yes/",
-      "title": "She said Yes!",
-      "author": "https://jamesphilbrick.com",
-      "toasts": 123,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T00:54Z"
-    },
-    {
-      "url": "https://kkc.bearblog.dev/every-corporate-call-i-have-ever-attended/",
-      "title": "Every corporate call I have ever attended",
-      "author": "https://kkc.bearblog.dev",
-      "toasts": 28,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T10:09Z"
-    },
-    {
-      "url": "https://commentingon.xyz/i-love-my-tiny-wallet-sized-ereader/",
-      "title": "I love my tiny wallet sized ereader.",
-      "author": "https://commentingon.xyz",
-      "toasts": 29,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T03:28Z"
-    },
-    {
-      "url": "https://brumphpics.com/how-and-why-who-knows/",
-      "title": "why? who knows.",
-      "author": "https://brumphpics.com",
-      "toasts": 27,
-      "first_seen": "2026-03-25T18:54:03.081Z",
-      "last_updated": "2026-03-25T19:10:53.053Z",
-      "published": "2026-03-18T13:00Z"
-    }
-  ]
-}
+[
+  {
+    "url": "https://sigkill.sh/getting-away-from-the-algorithms/",
+    "title": "Getting away from the algorithms",
+    "author": "https://sigkill.sh",
+    "toasts": 40,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T19:48Z"
+  },
+  {
+    "url": "https://jamesbaker.uk/i-quit-editing-photos/",
+    "title": "📸 I Quit Editing Photos",
+    "author": "https://jamesbaker.uk",
+    "toasts": 58,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T19:00Z"
+  },
+  {
+    "url": "https://coleslaw.bearblog.dev/i-found-a-hidden-library-of-podcasts-and-its-brilliant/",
+    "title": "I found a hidden library of podcasts (and it’s brilliant)",
+    "author": "https://coleslaw.bearblog.dev",
+    "toasts": 54,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T17:34Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/religion-for-atheists/",
+    "title": "religion for atheists",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 89,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T15:24Z"
+  },
+  {
+    "url": "https://seerofthe.net/modretro-is-a-grift/",
+    "title": "ModRetro is a Grift",
+    "author": "https://seerofthe.net",
+    "toasts": 36,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T15:14Z"
+  },
+  {
+    "url": "https://monolog.xyz/trees/",
+    "title": "trees",
+    "author": "https://monolog.xyz",
+    "toasts": 49,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T13:47Z"
+  },
+  {
+    "url": "https://www.summerwrites.net/rambling-about-my-tiny-house-dream/",
+    "title": "Rambling about my tiny house dream",
+    "author": "https://www.summerwrites.net",
+    "toasts": 41,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T13:17Z"
+  },
+  {
+    "url": "https://mintcitylights.com/2026/03/18/decoupling-art-and-industry/",
+    "title": "decoupling art and industry",
+    "author": "https://mintcitylights.com",
+    "toasts": 41,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T11:01Z"
+  },
+  {
+    "url": "https://alifeofa.bearblog.dev/relaxing-is-not-a-waste-of-time/",
+    "title": "Relaxing is NOT a waste of time",
+    "author": "https://alifeofa.bearblog.dev",
+    "toasts": 43,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T10:39Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/we-are-trying-to-move-back-home/",
+    "title": "We are trying to move back home!",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 38,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T05:04Z"
+  },
+  {
+    "url": "https://alterick.bearblog.dev/reading-not-writing/",
+    "title": "Reading too many blogs",
+    "author": "https://alterick.bearblog.dev",
+    "toasts": 36,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T04:01Z"
+  },
+  {
+    "url": "https://autumn-wright.com/they-fell-for-it/",
+    "title": "They Fell for It",
+    "author": "https://autumn-wright.com",
+    "toasts": 114,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T04:00Z"
+  },
+  {
+    "url": "https://jamesphilbrick.com/she-said-yes/",
+    "title": "She said Yes!",
+    "author": "https://jamesphilbrick.com",
+    "toasts": 123,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T00:54Z"
+  },
+  {
+    "url": "https://kkc.bearblog.dev/every-corporate-call-i-have-ever-attended/",
+    "title": "Every corporate call I have ever attended",
+    "author": "https://kkc.bearblog.dev",
+    "toasts": 28,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T10:09Z"
+  },
+  {
+    "url": "https://commentingon.xyz/i-love-my-tiny-wallet-sized-ereader/",
+    "title": "I love my tiny wallet sized ereader.",
+    "author": "https://commentingon.xyz",
+    "toasts": 29,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T03:28Z"
+  },
+  {
+    "url": "https://brumphpics.com/how-and-why-who-knows/",
+    "title": "why? who knows.",
+    "author": "https://brumphpics.com",
+    "toasts": 27,
+    "first_seen": "2026-03-25T18:54:03.081Z",
+    "last_updated": "2026-03-25T19:10:53.053Z",
+    "published": "2026-03-18T13:00Z"
+  }
+]
