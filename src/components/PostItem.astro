@@ -10,21 +10,23 @@ const { post } = Astro.props;
 ---
 
 <li
-  class="post-item flex items-baseline gap-2 py-0.5 text-lg leading-snug border-b border-border-light"
+  class="post-item flex items-baseline gap-2 py-1.5 leading-snug"
   data-rank={post.rank}
 >
-  <span class:list={["shrink-0 w-10 text-right text-lg mr-4", medalClass(post.rank)]}>
+  <span class:list={["shrink-0 w-10 text-right mr-4", medalClass(post.rank)]}>
     {post.toasts}
   </span>
-  <a href={post.url} class="text-fg no-underline hover:underline" target="_blank" rel="noopener">
-    {post.title}
-  </a>
-  <a
-    href={post.author}
-    class="shrink-0 text-xs text-muted no-underline whitespace-nowrap hover:underline"
-    target="_blank"
-    rel="noopener"
-  >
-    ({post.domain})
-  </a>
+  <span>
+    <a href={post.url} class="text-link visited:text-visited no-underline hover:underline" target="_blank" rel="noopener">
+      {post.title}
+    </a>{" "}
+    <a
+      href={post.author}
+      class="text-xs text-muted no-underline whitespace-nowrap hover:underline"
+      target="_blank"
+      rel="noopener"
+    >
+      ({post.domain})
+    </a>
+  </span>
 </li>

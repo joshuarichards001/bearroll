@@ -12,5 +12,5 @@ export function medalClass(rank: number): string {
   if (rank === 1) return "text-gold font-bold";
   if (rank === 2) return "text-silver font-bold";
   if (rank === 3) return "text-bronze font-bold";
-  return "text-muted";
+  return "text-fg";
 }

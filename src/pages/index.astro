@@ -11,7 +11,7 @@ const remainingDates = getRemainingDayDates();
 <Layout title="bear discover">
   <Header />
 
-  <main class="max-w-2xl mx-auto px-4 pb-8">
+  <main class="max-w-6xl mx-auto px-4 pb-8">
     {days.length === 0 && <p class="py-8 text-muted text-center">No posts collected yet.</p>}
     {days.map((day) => <DaySection day={day} />)}
 
