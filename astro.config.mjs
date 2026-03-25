@@ -3,8 +3,8 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   output: "static",
-  site: "https://joshuarichards001.github.io",
-  base: "/bear-blog-website",
+  site: "https://bearroll.dev",
+  base: "/",
   vite: {
     plugins: [tailwindcss()],
   },

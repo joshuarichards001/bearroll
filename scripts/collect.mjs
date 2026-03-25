@@ -5,7 +5,7 @@ import { join } from "node:path";
 
 const DATA_DIR = join(import.meta.dirname, "..", "data");
 const BASE_URL = "https://bearblog.dev/discover/";
-const USER_AGENT = "BearBlogDiscover/1.0 (+https://github.com/joshrichards/bear-blog-website)";
+const USER_AGENT = "BearRoll/1.0 (+https://bearroll.dev)";
 const PAGES = [0, 1, 2, 3, 4];
 const DELAY_MS = 1500;
 

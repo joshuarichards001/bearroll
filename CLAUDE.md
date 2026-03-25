@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-A Bear Blog Discover page tracker: scrapes [bearblog.dev/discover](https://bearblog.dev/discover/) daily, stores post metadata as dated JSON files, and serves a static Astro site that displays the collected posts with filtering and infinite scroll.
+BearRoll — a daily roll of Bear Blog's discover page. Scrapes [bearblog.dev/discover](https://bearblog.dev/discover/) daily, stores post metadata as dated JSON files, and serves a static Astro site at [bearroll.dev](https://bearroll.dev) that displays the collected posts with filtering and infinite scroll.
 
 ## Commands
 
@@ -30,7 +30,7 @@ Two independent subsystems share the `data/` directory:
 - `src/pages/api/[date].json.ts` — Static JSON endpoints generated at build time for each day file (used by the infinite scroll client).
 - `src/styles/global.css` — Tailwind v4 CSS-first config with custom theme colors (fg, bg, bg-alt, muted, border, border-light, accent) that adapt to light/dark mode via CSS custom properties.
 - `src/layouts/Layout.astro` — Base HTML layout that imports the global Tailwind stylesheet. All styling uses Tailwind utility classes.
-- `astro.config.mjs` — Static output with `@tailwindcss/vite` plugin, deployed to GitHub Pages at `/bear-blog-website`.
+- `astro.config.mjs` — Static output with `@tailwindcss/vite` plugin, deployed to bearroll.dev via GitHub Pages.
 - `.github/workflows/deploy.yml` — Builds and deploys to GitHub Pages on push to master.
 
 ### Data flow
