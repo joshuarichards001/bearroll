@@ -19,15 +19,24 @@ export function GET(context: APIContext) {
 
   const top10 = [...day.posts].sort((a, b) => a.rank - b.rank).slice(0, 10);
 
+  const listHtml = top10
+    .map(
+      (post) =>
+        `<li><a href="${post.url}">${post.title}</a> by ${post.domain} — ${post.toasts} toasts</li>`,
+    )
+    .join("\n");
+
   return rss({
     title: "BearRoll — Top 10",
-    description: `Top 10 posts from Bear Blog's discover page (${targetDate})`,
+    description: "Top 10 posts from Bear Blog's discover page",
     site: context.site!,
-    items: top10.map((post) => ({
-      title: `#${post.rank} ${post.title} (${post.toasts} toasts)`,
-      link: post.url,
-      pubDate: new Date(post.published),
-      description: `By ${post.domain} — ranked #${post.rank} with ${post.toasts} toasts`,
-    })),
+    items: [
+      {
+        title: `Top 10 — ${targetDate}`,
+        link: `${context.site!}`,
+        pubDate: new Date(targetDate),
+        content: `<ol>${listHtml}</ol>`,
+      },
+    ],
   });
 }
