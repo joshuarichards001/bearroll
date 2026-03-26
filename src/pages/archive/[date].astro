@@ -1,6 +1,7 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import PostItem from "../../components/PostItem.astro";
+import PageHeader from "../../components/PageHeader.astro";
 import { getAllDayDates, loadDay } from "../../lib/posts";
 import { formatDate } from "../../lib/format";
 import type { GetStaticPaths } from "astro";
@@ -17,13 +18,8 @@ const day = loadDay(date!);
   title={`${formatDate(date!)} — Bear Roll`}
   description={`Bear Blog discover posts from ${formatDate(date!)}.`}
 >
-  <div class="mx-auto flex flex-col gap-6">
-    <header>
-      <h1 class="text-xl font-bold text-heading">
-        ʕ●ᴥ●ʔ Bear Roll — {formatDate(date!)}
-      </h1>
-    </header>
-
+  <PageHeader slot="header" title={`ʕ●ᴥ●ʔ Bear Roll — ${formatDate(date!)}`} />
+  <div class="flex flex-col gap-6">
     <a href="/archive" class="text-muted underline">&larr; back to archive</a>
 
     {

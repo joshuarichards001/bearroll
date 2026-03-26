@@ -2,6 +2,7 @@
 import Layout from "../layouts/Layout.astro";
 import BlogItem from "../components/BlogItem.astro";
 import PostItem from "../components/PostItem.astro";
+import PageHeader from "../components/PageHeader.astro";
 import { computeStats } from "../lib/stats";
 
 const stats = computeStats();
@@ -11,38 +12,29 @@ const stats = computeStats();
   title="Stats — Bear Roll"
   description="Bear Roll stats: most toasted posts, most featured blogs, and totals."
 >
-  <div class="mx-auto flex flex-col gap-8">
-    <header class="flex justify-between flex-wrap gap-4">
-      <h1 class="text-xl font-bold text-heading">ʕ●ᴥ●ʔ Bear Roll - Stats</h1>
-
-      <div class="flex gap-6 flex-wrap">
-        <div class="flex flex-col">
-          <span class="text-2xl font-bold text-heading">{stats.totalPosts}</span
-          >
-          <span class="text-xs text-muted">posts tracked</span>
-        </div>
-        <div class="flex flex-col">
-          <span class="text-2xl font-bold text-heading"
-            >{stats.uniqueBlogs}</span
-          >
-          <span class="text-xs text-muted">unique blogs</span>
-        </div>
-        <div class="flex flex-col">
-          <span class="text-2xl font-bold text-heading">{stats.totalDays}</span>
-          <span class="text-xs text-muted">days collected</span>
-        </div>
-      </div>
-    </header>
-
+  <PageHeader slot="header" title="ʕ●ᴥ●ʔ Bear Roll - Stats" />
+  <div class="flex flex-col gap-6">
     <a href="/" class="text-muted underline">&larr; back to the roll</a>
-
+    <div class="flex gap-6 flex-wrap">
+      <div class="flex flex-col">
+        <span class="text-2xl font-bold text-heading">{stats.totalPosts}</span>
+        <span class="text-xs text-muted">posts tracked</span>
+      </div>
+      <div class="flex flex-col">
+        <span class="text-2xl font-bold text-heading">{stats.uniqueBlogs}</span>
+        <span class="text-xs text-muted">unique blogs</span>
+      </div>
+      <div class="flex flex-col">
+        <span class="text-2xl font-bold text-heading">{stats.totalDays}</span>
+        <span class="text-xs text-muted">days collected</span>
+      </div>
+    </div>
     <section>
       <h2 class="text-sm font-bold text-heading mb-3">Most Toasted Posts</h2>
       <ol class="flex flex-col">
         {stats.topPosts.map((post) => <PostItem post={post} />)}
       </ol>
     </section>
-
     <section>
       <h2 class="text-sm font-bold text-heading mb-3">Most Featured Blogs</h2>
       <ol class="flex flex-col">
