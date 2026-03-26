@@ -1,0 +1,27 @@
+---
+import { medalClass } from "../lib/format";
+import type { BlogStats } from "../lib/stats";
+
+interface Props {
+  blog: BlogStats;
+  rank: number;
+}
+
+const { blog, rank } = Astro.props;
+---
+
+<li class="flex items-baseline leading-snug py-1.5">
+  <span class:list={["shrink-0 w-10 text-right mr-4", medalClass(rank)]}>
+    {blog.totalToasts}
+  </span>
+  <a
+    href={blog.authorUrl}
+    class="text-link visited:text-visited no-underline hover:underline mr-2"
+  >
+    {blog.domain}
+  </a>
+  <span class="text-xs text-muted">
+    {blog.appearances}
+    {blog.appearances === 1 ? "post" : "posts"}
+  </span>
+</li>

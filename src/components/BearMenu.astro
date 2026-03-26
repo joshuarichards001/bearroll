@@ -1,0 +1,16 @@
+---
+const links = [
+  { href: "/about", label: "about" },
+  { href: "/stats", label: "stats" },
+];
+---
+
+<div id="bear-menu" class="hidden gap-4 mt-4">
+  {
+    links.map((link) => (
+      <a href={link.href} class="text-xs text-muted underline">
+        {link.label}
+      </a>
+    ))
+  }
+</div>
