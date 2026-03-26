@@ -1,0 +1,33 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getAllDayDates } from "../../lib/posts";
+
+const dates = getAllDayDates();
+---
+
+<Layout
+  title="Archive — Bear Roll"
+  description="Browse all collected days of Bear Blog's discover page."
+>
+  <div class="px-4 py-8 mx-auto flex flex-col gap-6">
+    <header>
+      <h1 class="text-xl font-bold text-heading">
+        <a href="/">ʕ●ᴥ●ʔ Bear Roll - Archive</a>
+      </h1>
+    </header>
+
+    <a href="/" class="text-muted underline">&larr; back to the roll</a>
+
+    <ul class="flex flex-col gap-1">
+      {
+        dates.map((date) => (
+          <li>
+            <a href={`/archive/${date}`} class="text-link hover:underline">
+              {date}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</Layout>

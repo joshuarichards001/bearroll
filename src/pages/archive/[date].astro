@@ -1,0 +1,35 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import PostItem from "../../components/PostItem.astro";
+import { getAllDayDates, loadDay } from "../../lib/posts";
+import { formatDate } from "../../lib/format";
+import type { GetStaticPaths } from "astro";
+
+export const getStaticPaths: GetStaticPaths = () => {
+  return getAllDayDates().map((date) => ({ params: { date } }));
+};
+
+const { date } = Astro.params;
+const day = loadDay(date!);
+---
+
+<Layout title={`${formatDate(date!)} — Bear Roll`} description={`Bear Blog discover posts from ${formatDate(date!)}.`}>
+  <div class="px-4 py-8 mx-auto flex flex-col gap-6">
+    <header>
+      <h1 class="text-xl font-bold text-heading">
+        <a href="/">ʕ●ᴥ●ʔ Bear Roll</a>
+        <span class="text-muted font-normal">— {formatDate(date!)}</span>
+      </h1>
+    </header>
+
+    <a href="/archive" class="text-muted underline">&larr; back to archive</a>
+
+    {day ? (
+      <ul class="flex flex-col">
+        {day.posts.map((post) => <PostItem post={post} />)}
+      </ul>
+    ) : (
+      <p class="text-muted">No posts found for this date.</p>
+    )}
+  </div>
+</Layout>
