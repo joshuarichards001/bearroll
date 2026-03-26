@@ -1,3 +1,4 @@
+import { execSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -76,7 +77,7 @@ export function loadDay(date: string): DayGroup | null {
   return { date, posts: processDay(posts) };
 }
 
-const INITIAL_DAYS = 6;
+const INITIAL_DAYS = 4;
 
 /** Load the first N days for the initial page render. */
 export function loadInitialDays(): DayGroup[] {
@@ -92,4 +93,18 @@ export function loadInitialDays(): DayGroup[] {
 /** Get the dates of days not included in the initial render. */
 export function getRemainingDayDates(): string[] {
   return getAllDayDates().slice(INITIAL_DAYS);
+}
+
+/** Get the ISO timestamp of the last git commit that touched data/. */
+export function getLastCollectedAt(): string | null {
+  try {
+    const dataDir = path.resolve(process.cwd(), "data");
+    return (
+      execSync("git log -1 --format=%cI -- .", { cwd: dataDir })
+        .toString()
+        .trim() || null
+    );
+  } catch {
+    return null;
+  }
 }

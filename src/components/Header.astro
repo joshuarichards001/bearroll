@@ -1,4 +1,8 @@
 ---
+import { getLastCollectedAt } from "../lib/posts";
+
+const lastCollectedAt = getLastCollectedAt();
+
 const filters = [
   { value: "10", label: "top 10" },
   { value: "20", label: "top 20" },
@@ -33,13 +37,25 @@ const filters = [
       }
     </nav>
   </div>
-  <div class="mx-auto px-4 pb-2">
+  <div class="flex justify-between px-4 pb-2 gap-2">
     <span class="text-xs text-muted"
-      >A chronological roll of <a
+      >A chronological roll of Bear Blog's <a
         href="https://bearblog.dev/discover/"
-        class="text-muted underline">bear blog's discover page</a
+        class="text-muted underline">discover page</a
       >.</span
     >
+    {
+      lastCollectedAt && (
+        <span
+          id="last-updated"
+          class="text-xs text-muted text-right hidden"
+          data-collected-at={lastCollectedAt}
+        >
+          Posts updated daily. Last updated{" "}
+          <span id="last-updated-ago" class="text-fg" />.
+        </span>
+      )
+    }
   </div>
 </header>
 
@@ -55,4 +71,26 @@ const filters = [
     title.textContent = isAwake ? awake : sleeping;
     aboutLink.classList.toggle("hidden", !isAwake);
   });
+
+  const lastUpdatedEl = document.getElementById("last-updated");
+  const agoEl = document.getElementById("last-updated-ago");
+
+  if (lastUpdatedEl && agoEl) {
+    const collectedAt = lastUpdatedEl.dataset.collectedAt;
+    if (collectedAt) {
+      function formatAgo(ms: number): string {
+        const mins = Math.floor(ms / 60000);
+        if (mins < 1) return "just now";
+        if (mins < 60) return `${mins}m ago`;
+        const hrs = Math.floor(mins / 60);
+        if (hrs < 24) return `${hrs}h ago`;
+        const days = Math.floor(hrs / 24);
+        return `${days}d ago`;
+      }
+
+      const elapsed = Date.now() - new Date(collectedAt).getTime();
+      agoEl.textContent = formatAgo(elapsed);
+      lastUpdatedEl.classList.remove("hidden");
+    }
+  }
 </script>
