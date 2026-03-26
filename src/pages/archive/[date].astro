@@ -19,7 +19,7 @@ const day = loadDay(date!);
   description={`Bear Blog discover posts from ${formatDate(date!)}.`}
 >
   <PageHeader slot="header" title={`ʕ●ᴥ●ʔ Bear Roll — ${formatDate(date!)}`} />
-  <div class="flex flex-col gap-6">
+  <main class="flex flex-col gap-6">
     <a href="/archive" class="text-muted underline">&larr; back to archive</a>
 
     {
@@ -33,5 +33,5 @@ const day = loadDay(date!);
         <p class="text-muted">No posts found for this date.</p>
       )
     }
-  </div>
+  </main>
 </Layout>

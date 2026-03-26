@@ -12,11 +12,12 @@ const { day } = Astro.props;
 
 <section class="mt-4">
   <h2 class="mb-2 text-xs font-normal">
-    <span
+    <time
+      datetime={day.date}
       class="inline-block bg-accent text-white px-2 py-0.5 rounded-sm font-semibold"
     >
       {formatDate(day.date)}
-    </span>
+    </time>
   </h2>
   <ul>
     {day.posts.map((post) => <PostItem post={post} />)}
