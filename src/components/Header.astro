@@ -41,18 +41,14 @@ const filters = [
         class="text-muted underline">discover page</a
       >.</span
     >
-    {
-      lastCollectedAt && (
-        <span
-          id="last-updated"
-          class="text-xs text-muted text-right hidden"
-          data-collected-at={lastCollectedAt}
-        >
-          Posts updated daily. Last updated{" "}
-          <span id="last-updated-ago" class="text-fg" />.
-        </span>
-      )
-    }
+    <span class="text-xs text-muted text-right">
+      Posts updated daily. Last updated{" "}
+      <span
+        id="last-updated-ago"
+        class="text-fg"
+        data-collected-at={lastCollectedAt}
+      >?h ago</span>
+    </span>
   </div>
 </header>
 
@@ -70,11 +66,10 @@ const filters = [
     bearMenu.classList.toggle("flex", isAwake);
   });
 
-  const lastUpdatedEl = document.getElementById("last-updated");
   const agoEl = document.getElementById("last-updated-ago");
 
-  if (lastUpdatedEl && agoEl) {
-    const collectedAt = lastUpdatedEl.dataset.collectedAt;
+  if (agoEl) {
+    const collectedAt = agoEl.dataset.collectedAt;
     if (collectedAt) {
       function formatAgo(ms: number): string {
         const mins = Math.floor(ms / 60000);
@@ -88,7 +83,7 @@ const filters = [
 
       const elapsed = Date.now() - new Date(collectedAt).getTime();
       agoEl.textContent = formatAgo(elapsed);
-      lastUpdatedEl.classList.remove("hidden");
+      agoEl.classList.remove("hidden");
     }
   }
 </script>
