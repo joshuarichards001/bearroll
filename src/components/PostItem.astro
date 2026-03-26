@@ -20,16 +20,12 @@ const { post } = Astro.props;
     <a
       href={post.url}
       class="text-link visited:text-visited no-underline hover:underline"
-      target="_blank"
-      rel="noopener"
     >
       {post.title}
     </a>{" "}
     <a
       href={post.author}
       class="text-xs text-muted no-underline whitespace-nowrap hover:underline"
-      target="_blank"
-      rel="noopener"
     >
       ({post.domain})
     </a>
