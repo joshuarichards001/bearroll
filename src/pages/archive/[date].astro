@@ -13,7 +13,10 @@ const { date } = Astro.params;
 const day = loadDay(date!);
 ---
 
-<Layout title={`${formatDate(date!)} — Bear Roll`} description={`Bear Blog discover posts from ${formatDate(date!)}.`}>
+<Layout
+  title={`${formatDate(date!)} — Bear Roll`}
+  description={`Bear Blog discover posts from ${formatDate(date!)}.`}
+>
   <div class="px-4 py-8 mx-auto flex flex-col gap-6">
     <header>
       <h1 class="text-xl font-bold text-heading">
@@ -24,12 +27,16 @@ const day = loadDay(date!);
 
     <a href="/archive" class="text-muted underline">&larr; back to archive</a>
 
-    {day ? (
-      <ul class="flex flex-col">
-        {day.posts.map((post) => <PostItem post={post} />)}
-      </ul>
-    ) : (
-      <p class="text-muted">No posts found for this date.</p>
-    )}
+    {
+      day ? (
+        <ul class="flex flex-col">
+          {day.posts.map((post) => (
+            <PostItem post={post} />
+          ))}
+        </ul>
+      ) : (
+        <p class="text-muted">No posts found for this date.</p>
+      )
+    }
   </div>
 </Layout>
