@@ -21,7 +21,7 @@ via pre-built HTML fragment endpoints. Posts are ranked by toast count with top
 ## Development
 
 ```sh
-npm install       # install dependencies
+npm ci            # install dependencies
 npm run dev       # start dev server
 npm run build     # build static site to dist/
 npm run preview   # preview the build
