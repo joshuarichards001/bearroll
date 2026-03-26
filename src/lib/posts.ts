@@ -1,4 +1,3 @@
-import { execSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -95,15 +94,22 @@ export function getRemainingDayDates(): string[] {
   return getAllDayDates().slice(INITIAL_DAYS);
 }
 
-/** Get the ISO timestamp of the last git commit that touched data/. */
+/** Get the ISO timestamp of the most recent data collection. */
 export function getLastCollectedAt(): string | null {
+  const dates = getAllDayDates();
+  if (dates.length === 0) return null;
+
+  const filePath = path.resolve(process.cwd(), "data", `${dates[0]}.json`);
   try {
-    const dataDir = path.resolve(process.cwd(), "data");
-    return (
-      execSync("git log -1 --format=%cI -- .", { cwd: dataDir })
-        .toString()
-        .trim() || null
-    );
+    const posts: Post[] = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+    if (!Array.isArray(posts) || posts.length === 0) return null;
+
+    // Find the most recent last_updated timestamp across all posts
+    let latest = "";
+    for (const post of posts) {
+      if (post.last_updated > latest) latest = post.last_updated;
+    }
+    return latest || null;
   } catch {
     return null;
   }
