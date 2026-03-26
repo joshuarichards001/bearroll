@@ -1,29 +1,26 @@
 ---
-import { getLastCollectedAt } from "../lib/posts";
 import BearMenu from "./BearMenu.astro";
+import { getLastCollectedAt } from "../lib/posts";
 
 const lastCollectedAt = getLastCollectedAt();
 
 const filters = [
   { value: "10", label: "top 10" },
-  { value: "20", label: "top 20" },
   { value: "all", label: "all" },
 ];
 ---
 
-<header class="border-b border-border bg-bg mb-4">
+<header class="border-b border-border bg-bg">
   <div class="max-w-4xl mx-auto px-4 py-4 flex flex-col gap-4">
-    <div class="flex items-start justify-between gap-4 flex-wrap">
-      <div>
-        <h1 class="text-xl font-bold text-heading">
-          <span id="bear-title" class="cursor-pointer">ʕ-ᴥ-ʔ Bear Roll</span>
-        </h1>
-      </div>
+    <div class="flex justify-between gap-2 flex-wrap">
+      <h1 class="text-xl font-bold text-heading">
+        <span id="bear-title" class="cursor-pointer">ʕ-ᴥ-ʔ Bear Roll</span>
+      </h1>
       <nav class="flex">
         {
           filters.map((f) => (
             <button
-              class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg -ml-px first:ml-0 first:rounded-l-sm last:rounded-r-sm data-[active]:bg-accent data-[active]:text-white data-[active]:border-accent data-[active]:relative data-[active]:z-[1]"
+              class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg first:rounded-l-sm last:rounded-r-sm data-active:bg-accent data-active:text-white data-active:border-accent"
               data-filter={f.value}
             >
               {f.label}
@@ -32,7 +29,9 @@ const filters = [
         }
       </nav>
     </div>
-    <BearMenu />
+    <div id="bear-menu" class="hidden">
+      <BearMenu />
+    </div>
     <div class="flex justify-between gap-2">
       <span class="text-xs text-muted"
         >A chronological roll of Bear Blog's <a
@@ -41,7 +40,7 @@ const filters = [
         >.</span
       >
       <span class="text-xs text-muted text-right">
-        Posts updated daily. Last updated{" "}
+        Posts updated daily. Last updated
         <time
           id="last-updated-ago"
           class="text-fg"
@@ -84,7 +83,6 @@ const filters = [
 
       const elapsed = Date.now() - new Date(collectedAt).getTime();
       agoEl.textContent = formatAgo(elapsed);
-      agoEl.classList.remove("hidden");
     }
   }
 </script>

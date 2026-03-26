@@ -22,12 +22,7 @@ const remainingDates = getRemainingDayDates();
     })}
   />
   <Header slot="header" />
-  <main class="pb-8">
-    {
-      days.length === 0 && (
-        <p class="py-8 text-muted text-center">No posts collected yet.</p>
-      )
-    }
+  <main class="pb-8 flex flex-col gap-4">
     {days.map((day) => <DaySection day={day} />)}
 
     <div

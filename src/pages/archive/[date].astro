@@ -18,10 +18,9 @@ const day = loadDay(date!);
   title={`${formatDate(date!)} — Bear Roll`}
   description={`Bear Blog discover posts from ${formatDate(date!)}.`}
 >
-  <PageHeader slot="header" title={`ʕ●ᴥ●ʔ Bear Roll — ${formatDate(date!)}`} />
-  <main class="flex flex-col gap-6">
+  <PageHeader slot="header" title={formatDate(date!)} />
+  <main class="flex flex-col gap-4">
     <a href="/archive" class="text-muted underline">&larr; back to archive</a>
-
     {
       day ? (
         <ul class="flex flex-col">

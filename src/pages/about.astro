@@ -3,12 +3,11 @@ import Layout from "../layouts/Layout.astro";
 import PageHeader from "../components/PageHeader.astro";
 ---
 
-<Layout title="About Bear Roll">
-  <PageHeader slot="header" title="ʕ●ᴥ●ʔ Bear Roll - About" />
-  <main class="flex flex-col gap-6">
+<Layout title="About - Bear Roll">
+  <PageHeader slot="header" title="About" />
+  <main class="flex flex-col gap-4">
     <a href="/" class="text-muted underline">&larr; back to the roll</a>
-
-    <article class="flex flex-col gap-6">
+    <article class="flex flex-col gap-8">
       <p>
         I'm a fan of Bear Blog's <a
           href="https://bearblog.dev/discover"
@@ -20,12 +19,10 @@ import PageHeader from "../components/PageHeader.astro";
           class="text-link underline">hckrnews.com</a
         > solves for Hacker News.
       </p>
-
       <p>
         So I built Bear Roll, a chronological archive of what the Bear Blog
         community has been reading and toasting.
       </p>
-
       <p>
         It's a static <a href="https://astro.build" class="text-link underline"
           >Astro</a
@@ -37,7 +34,6 @@ import PageHeader from "../components/PageHeader.astro";
           class="text-link underline">GitHub</a
         > if you're curious.
       </p>
-
       <p>
         If you have any questions or requests, please email me at <a
           href="mailto:hello@josh.work"

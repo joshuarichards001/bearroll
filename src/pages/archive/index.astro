@@ -10,11 +10,10 @@ const dates = getAllDayDates();
   title="Archive — Bear Roll"
   description="Browse all collected days of Bear Blog's discover page."
 >
-  <PageHeader slot="header" title="ʕ●ᴥ●ʔ Bear Roll - Archive" />
-  <main class="flex flex-col gap-6">
+  <PageHeader slot="header" title="Archive" />
+  <main class="flex flex-col gap-4">
     <a href="/" class="text-muted underline">&larr; back to the roll</a>
-
-    <ul class="flex flex-col gap-1">
+    <ul class="flex flex-col gap-2">
       {
         dates.map((date) => (
           <li>
