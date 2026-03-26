@@ -51,9 +51,11 @@ const {
     />
 
     <!-- Privacy-friendly analytics by Plausible -->
-    <script async src="https://plausible.io/js/pa-H_KosiK-1YFg4e2PrnsTQ.js"
-    ></script>
-    <script>
+    <script
+      is:inline
+      async
+      src="https://plausible.io/js/pa-H_KosiK-1YFg4e2PrnsTQ.js"></script>
+    <script is:inline>
       window.plausible =
         window.plausible ||
         function () {
@@ -68,7 +70,7 @@ const {
     </script>
   </head>
   <body
-    class="bg-bg text-fg leading-normal antialiased font-sans max-w-4xl mx-auto"
+    class="bg-bg text-fg leading-normal antialiased font-sans max-w-4xl mx-auto p-4"
   >
     <slot />
   </body>
