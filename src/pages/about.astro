@@ -6,14 +6,14 @@ import PageHeader from "../components/PageHeader.astro";
 <Layout title="About - Bear Roll">
   <PageHeader slot="header" title="About" />
   <main class="flex flex-col gap-4">
-    <article class="flex flex-col gap-8">
+    <article class="flex flex-col gap-6">
       <p>A daily view of Bear Blog discover feed top posts.</p>
       <p>
         I love the Bear Blog <a
           href="https://bearblog.dev/discover"
           class="text-link underline">discover page</a
         >! But if you don't visit it every day you can miss things. And if you
-        visit it too much across devices you can lose track of what you've read.
+        visit it too much you can lose track of what you've read.
       </p>
       <p>
         So I built Bear Roll, a daily view of the top posts from Bear Blog's
@@ -27,7 +27,7 @@ import PageHeader from "../components/PageHeader.astro";
       <p>
         It's a static <a href="https://astro.build" class="text-link underline"
           >Astro</a
-        > site hosted on GitHub Pages. Every day at midnight UTC a script grabs the
+        > site hosted on GitHub Pages. It regularly runs a script that grabs the
         first 5 pages of discover (100 posts) and stores them in dated JSON files.
         This means it doesn't contain all posts, just the ones that reach the first
         5 pages of discover. The source code and data is on <a
