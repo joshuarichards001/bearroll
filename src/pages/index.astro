@@ -91,16 +91,12 @@ const remainingDates = getRemainingDayDates();
     }
 
     status.textContent = "";
-    if (nextIndex >= dates.length) observer.disconnect();
     loading = false;
   }
 
-  const observer = new IntersectionObserver(
-    (entries) => {
-      if (entries[0].isIntersecting) loadNextDay();
-    },
-    { rootMargin: "200px" },
-  );
-
-  if (dates.length > 0) observer.observe(sentinel);
+  window.addEventListener("scroll", () => {
+    if (window.innerHeight + window.scrollY >= document.body.scrollHeight - 200) {
+      loadNextDay();
+    }
+  }, { passive: true });
 </script>
