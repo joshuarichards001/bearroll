@@ -9,19 +9,21 @@ interface Props {
 const { post } = Astro.props;
 ---
 
-<li
-  class="post-item flex items-baseline py-1.5 leading-snug"
-  data-rank={post.rank}
->
-  <span class:list={["shrink-0 w-10 text-right mr-4", medalClass(post.rank)]}>
-    {post.toasts}
-  </span>
-  <span>
-    <a href={post.url} class="text-link visited:text-visited hover:underline">
-      {post.title}
-    </a>
-    <span class="text-xs text-muted">
-      ({post.domain})
+<li class="post-item leading-snug" data-rank={post.rank}>
+  <a
+    href={post.url}
+    class="group flex items-baseline py-1.5 w-full no-underline"
+  >
+    <span class:list={["shrink-0 w-10 text-right mr-4", medalClass(post.rank)]}>
+      {post.toasts}
     </span>
-  </span>
+    <span>
+      <span class="text-link visited:text-visited group-hover:underline"
+        >{post.title}</span
+      >
+      <span class="text-xs text-muted">
+        ({post.domain})
+      </span>
+    </span>
+  </a>
 </li>
