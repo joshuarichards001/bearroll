@@ -1,6 +1,6 @@
 import { getAllDayDates, loadDay, type RankedPost } from "./posts";
 
-export interface BlogStats {
+export interface RankedBlog {
   domain: string;
   authorUrl: string;
   appearances: number;
@@ -13,7 +13,7 @@ export interface Stats {
   totalDays: number;
   uniqueBlogs: number;
   topPosts: RankedPost[];
-  topBlogs: BlogStats[];
+  topBlogs: RankedBlog[];
 }
 
 export function computeStats(): Stats {
@@ -45,7 +45,7 @@ export function computeStats(): Stats {
     .map((p, i) => ({ ...p, rank: i + 1 }));
 
   // Blog stats: accumulate across all appearances
-  const blogMap = new Map<string, Omit<BlogStats, "rank">>();
+  const blogMap = new Map<string, Omit<RankedBlog, "rank">>();
   for (const post of allPosts) {
     const existing = blogMap.get(post.domain);
     if (existing) {
