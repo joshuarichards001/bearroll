@@ -38,7 +38,7 @@ export function GET(context: APIContext) {
 
   return rss({
     title: "Bear Roll — Daily Top 10",
-    description: "Daily Top 10 posts from Bear Blog's discover page",
+    description: "Daily top 10 posts from Bear Blog's discover page",
     site: context.site!,
     items,
   });
