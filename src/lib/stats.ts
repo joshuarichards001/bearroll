@@ -19,18 +19,18 @@ export interface Stats {
 
 export function computeStats(): Stats {
   const dates = getAllDayDates();
-  const allPosts: (RankedPost & { date: string })[] = [];
+  const allPosts: RankedPost[] = [];
 
   for (const date of dates) {
     const day = loadDay(date);
     if (!day) continue;
     for (const post of day.posts) {
-      allPosts.push({ ...post, date });
+      allPosts.push(post);
     }
   }
 
   // Deduplicate posts by URL, keeping the highest toast count
-  const postMap = new Map<string, (typeof allPosts)[number]>();
+  const postMap = new Map<string, RankedPost>();
   for (const post of allPosts) {
     const existing = postMap.get(post.url);
     if (!existing || post.toasts > existing.toasts) {
@@ -39,14 +39,14 @@ export function computeStats(): Stats {
   }
   const uniquePosts = [...postMap.values()];
 
-  // Top posts by toasts, re-ranked by position in this list
+  // Top posts: sorted by toasts, re-ranked by position
   const topPosts = [...uniquePosts]
     .sort((a, b) => b.toasts - a.toasts)
     .slice(0, 10)
     .map((p, i) => ({ ...p, rank: i + 1 }));
 
-  // Blog stats
-  const blogMap = new Map<string, BlogStats>();
+  // Blog stats: accumulate across all appearances
+  const blogMap = new Map<string, Omit<BlogStats, "rank">>();
   for (const post of allPosts) {
     const existing = blogMap.get(post.domain);
     if (existing) {
@@ -75,13 +75,10 @@ export function computeStats(): Stats {
     .slice(0, 10)
     .map((b, i) => ({ ...b, rank: i + 1 }));
 
-  // Unique blogs count
-  const uniqueDomains = new Set(uniquePosts.map((p) => p.domain));
-
   return {
     totalPosts: uniquePosts.length,
     totalDays: dates.length,
-    uniqueBlogs: uniqueDomains.size,
+    uniqueBlogs: blogMap.size,
     topPosts,
     topBlogs,
   };
