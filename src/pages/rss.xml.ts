@@ -7,7 +7,8 @@ export function GET(context: APIContext) {
 
   // Use the second most recent day so upvotes have time to accumulate.
   // Fall back to the most recent if only one day exists.
-  const dates = allDates.length >= 2 ? allDates.slice(1, 15) : allDates.slice(0, 14);
+  const dates =
+    allDates.length >= 2 ? allDates.slice(1, 15) : allDates.slice(0, 14);
 
   if (dates.length === 0) {
     return new Response("No data available", { status: 404 });

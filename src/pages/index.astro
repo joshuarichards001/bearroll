@@ -94,9 +94,16 @@ const remainingDates = getRemainingDayDates();
     loading = false;
   }
 
-  window.addEventListener("scroll", () => {
-    if (window.innerHeight + window.scrollY >= document.body.scrollHeight - 200) {
-      loadNextDay();
-    }
-  }, { passive: true });
+  window.addEventListener(
+    "scroll",
+    () => {
+      if (
+        window.innerHeight + window.scrollY >=
+        document.body.scrollHeight - 200
+      ) {
+        loadNextDay();
+      }
+    },
+    { passive: true },
+  );
 </script>
