@@ -14,7 +14,7 @@ const filters = [
   <div class="max-w-3xl mx-auto px-4 py-4 flex flex-col gap-4">
     <div class="flex justify-between gap-2 flex-wrap">
       <h1 class="text-xl font-bold text-heading">
-        <span id="bear-title" class="cursor-pointer">ʕ-ᴥ-ʔ Bear Roll</span>
+        <span>ʕ-ᴥ-ʔ Bear Roll</span>
       </h1>
       <nav class="flex">
         {
@@ -29,9 +29,7 @@ const filters = [
         }
       </nav>
     </div>
-    <div id="bear-menu" class="hidden">
-      <BearMenu />
-    </div>
+    <BearMenu />
     <div class="flex justify-between gap-2">
       <span class="text-xs text-muted"
         >A daily roll of <a
@@ -53,19 +51,6 @@ const filters = [
 </header>
 
 <script>
-  const title = document.getElementById("bear-title")!;
-  const bearMenu = document.getElementById("bear-menu")!;
-  const sleeping = "ʕ-ᴥ-ʔ Bear Roll";
-  const awake = "ʕ●ᴥ●ʔ Bear Roll";
-  let isAwake = false;
-
-  title.addEventListener("click", () => {
-    isAwake = !isAwake;
-    title.textContent = isAwake ? awake : sleeping;
-    bearMenu.classList.toggle("hidden", !isAwake);
-    bearMenu.classList.toggle("flex", isAwake);
-  });
-
   const agoEl = document.getElementById("last-updated-ago");
 
   if (agoEl) {
