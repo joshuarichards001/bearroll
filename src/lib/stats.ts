@@ -5,7 +5,6 @@ export interface BlogStats {
   authorUrl: string;
   appearances: number;
   totalToasts: number;
-  bestPost: { title: string; url: string; toasts: number };
   rank: number;
 }
 
@@ -52,20 +51,12 @@ export function computeStats(): Stats {
     if (existing) {
       existing.appearances++;
       existing.totalToasts += post.toasts;
-      if (post.toasts > existing.bestPost.toasts) {
-        existing.bestPost = {
-          title: post.title,
-          url: post.url,
-          toasts: post.toasts,
-        };
-      }
     } else {
       blogMap.set(post.domain, {
         domain: post.domain,
         authorUrl: post.author,
         appearances: 1,
         totalToasts: post.toasts,
-        bestPost: { title: post.title, url: post.url, toasts: post.toasts },
       });
     }
   }
