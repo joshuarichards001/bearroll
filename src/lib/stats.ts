@@ -6,6 +6,7 @@ export interface BlogStats {
   appearances: number;
   totalToasts: number;
   bestPost: { title: string; url: string; toasts: number };
+  rank: number;
 }
 
 export interface Stats {
@@ -71,7 +72,8 @@ export function computeStats(): Stats {
 
   const topBlogs = [...blogMap.values()]
     .sort((a, b) => b.totalToasts - a.totalToasts)
-    .slice(0, 10);
+    .slice(0, 10)
+    .map((b, i) => ({ ...b, rank: i + 1 }));
 
   // Unique blogs count
   const uniqueDomains = new Set(uniquePosts.map((p) => p.domain));

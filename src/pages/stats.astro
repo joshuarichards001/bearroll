@@ -37,7 +37,7 @@ const stats = computeStats();
     <section>
       <h2 class="text-sm font-bold text-heading mb-3">Most Featured Blogs</h2>
       <ol class="flex flex-col">
-        {stats.topBlogs.map((blog, i) => <BlogItem blog={blog} rank={i + 1} />)}
+        {stats.topBlogs.map((blog) => <BlogItem blog={blog} />)}
       </ol>
     </section>
   </main>

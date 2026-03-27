@@ -4,14 +4,13 @@ import type { BlogStats } from "../lib/stats";
 
 interface Props {
   blog: BlogStats;
-  rank: number;
 }
 
-const { blog, rank } = Astro.props;
+const { blog } = Astro.props;
 ---
 
 <li class="flex items-baseline leading-snug py-1.5">
-  <span class:list={["shrink-0 w-10 text-right mr-4", medalClass(rank)]}>
+  <span class:list={["shrink-0 w-10 text-right mr-4", medalClass(blog.rank)]}>
     {blog.totalToasts}
   </span>
   <a
