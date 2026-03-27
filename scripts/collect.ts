@@ -2,22 +2,46 @@ import { load } from "cheerio";
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { join } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const DATA_DIR = join(import.meta.dirname, "..", "data");
+const DATA_DIR = join(fileURLToPath(import.meta.url), "..", "..", "data");
 const BASE_URL = "https://bearblog.dev/discover/";
 const USER_AGENT = "BearRoll/1.0 (+https://bearroll.dev)";
 const PAGES = [0, 1, 2, 3, 4];
 const DELAY_MS = 1500;
 
-function sleep(ms) {
+interface Post {
+  url: string;
+  title: string;
+  author: string;
+  toasts: number;
+  published: string;
+}
+
+interface StoredPost {
+  url: string;
+  title: string;
+  author: string;
+  toasts: number;
+  first_seen: string;
+  last_updated: string;
+  published: string;
+}
+
+interface LegacyDayFile {
+  collected_at?: string;
+  posts: StoredPost[];
+}
+
+function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-function dateKey(isoString) {
+function dateKey(isoString: string): string {
   return isoString.slice(0, 10);
 }
 
-async function fetchPage(page) {
+async function fetchPage(page: number): Promise<string> {
   const url = `${BASE_URL}?page=${page}`;
   const res = await fetch(url, {
     headers: { "User-Agent": USER_AGENT },
@@ -28,9 +52,9 @@ async function fetchPage(page) {
   return res.text();
 }
 
-function parsePosts(html) {
+function parsePosts(html: string): Post[] {
   const $ = load(html);
-  const posts = [];
+  const posts: Post[] = [];
 
   $("ul.discover-posts li").each((_, li) => {
     const $li = $(li);
@@ -62,22 +86,27 @@ function parsePosts(html) {
   return posts;
 }
 
-async function loadDayFile(filePath) {
+async function loadDayFile(filePath: string): Promise<StoredPost[] | null> {
   if (!existsSync(filePath)) return null;
   const raw = await readFile(filePath, "utf-8");
-  const parsed = JSON.parse(raw);
+  const parsed: StoredPost[] | LegacyDayFile = JSON.parse(raw);
   // Migrate from old { collected_at, posts: [...] } format to plain array
   if (!Array.isArray(parsed) && Array.isArray(parsed.posts)) {
     return parsed.posts;
   }
-  return parsed;
+  return parsed as StoredPost[];
 }
 
-async function main() {
+interface DayFileEntry {
+  data: StoredPost[];
+  modified: boolean;
+}
+
+async function main(): Promise<void> {
   const now = new Date().toISOString();
 
   // Scrape all pages
-  const allPosts = [];
+  const allPosts: Post[] = [];
   for (const page of PAGES) {
     if (page > 0) await sleep(DELAY_MS);
     console.log(`Fetching page ${page}...`);
@@ -100,7 +129,7 @@ async function main() {
   );
 
   // Deduplicate scraped posts by URL (keep highest toast count)
-  const scrapedByUrl = new Map();
+  const scrapedByUrl = new Map<string, Post>();
   for (const post of allPosts) {
     const existing = scrapedByUrl.get(post.url);
     if (!existing || post.toasts > existing.toasts) {
@@ -112,13 +141,13 @@ async function main() {
   await mkdir(DATA_DIR, { recursive: true });
 
   // Cache of loaded day files: dateKey -> { data, modified }
-  const dayFiles = new Map();
+  const dayFiles = new Map<string, DayFileEntry>();
 
-  async function getDayFile(key) {
-    if (dayFiles.has(key)) return dayFiles.get(key);
+  async function getDayFile(key: string): Promise<DayFileEntry> {
+    if (dayFiles.has(key)) return dayFiles.get(key)!;
     const filePath = join(DATA_DIR, `${key}.json`);
     const loaded = await loadDayFile(filePath);
-    const entry = {
+    const entry: DayFileEntry = {
       data: loaded || [],
       modified: false,
     };

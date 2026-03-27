@@ -20,7 +20,7 @@ jobs:
 
       - run: npm ci
 
-      - run: node scripts/collect.mjs
+      - run: npx tsx scripts/collect.ts
 
       - name: Commit and push if changed
         run: |
