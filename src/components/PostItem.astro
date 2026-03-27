@@ -19,15 +19,12 @@ const { post } = Astro.props;
   <span>
     <a
       href={post.url}
-      class="text-link visited:text-visited no-underline hover:underline"
+      class="text-link visited:text-visited hover:underline"
     >
       {post.title}
     </a>
-    <a
-      href={post.author}
-      class="text-xs text-muted no-underline hover:underline"
-    >
+    <span class="text-xs text-muted">
       ({post.domain})
-    </a>
+    </span>
   </span>
 </li>
