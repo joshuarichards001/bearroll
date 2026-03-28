@@ -12,7 +12,7 @@ const { post } = Astro.props;
 <li class="post-item leading-snug" data-rank={post.rank}>
   <a
     href={post.url}
-    class="group flex items-baseline py-1.5 w-full no-underline [&:visited_.title]:text-visited"
+    class="group flex items-baseline py-1.5 w-full no-underline [&:visited_.title]:text-visited active:bg-black/5 dark:active:bg-white/5"
   >
     <span class:list={["shrink-0 w-10 text-right mr-4", medalClass(post.rank)]}>
       {post.toasts}
