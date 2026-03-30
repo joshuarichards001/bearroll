@@ -5,8 +5,8 @@ code in this repository.
 
 ## Project Overview
 
-BearRoll — a daily roll of Bear Blog's discover page. Scrapes
-[bearblog.dev/discover](https://bearblog.dev/discover/) daily, stores post
+BearRoll — a regular roll of Bear Blog's discover page. Scrapes
+[bearblog.dev/discover](https://bearblog.dev/discover/) hourly, stores post
 metadata as dated JSON files, and serves a static Astro site at
 [bearroll.dev](https://bearroll.dev) that displays the collected posts with
 filtering and infinite scroll.
@@ -34,8 +34,8 @@ Two independent subsystems share the `data/` directory:
 
 - `scripts/collect.mjs` — ESM script that fetches discover pages 0-4, parses
   HTML with Cheerio, and merges results into `data/YYYY-MM-DD.json` files.
-- `.github/workflows/collect.yml` — Runs the collector daily at midnight UTC via
-  cron, commits changed data files.
+- `.github/workflows/collect.yml` — Runs the collector hourly via cron, commits
+  changed data files.
 
 ### Astro Frontend (static site)
 
@@ -80,7 +80,7 @@ with pre-rendered HTML fragment endpoints for infinite scroll.
   post is re-seen.
 - **Published date source:** Extracted from the `title` attribute on the
   `<small>` element (ISO 8601), NOT from the relative time text.
-- **Scraping etiquette:** 1.5s delay between page requests, custom User-Agent
+- **Scraping etiquette:** 1s delay between page requests, custom User-Agent
   header, max 5 pages per run.
 - **Fail-loud on page 0:** If zero posts are found on page 0, the script exits
   non-zero (HTML structure may have changed). Later pages with fewer/zero posts

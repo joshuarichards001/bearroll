@@ -1,9 +1,9 @@
 # Bear Roll
 
-A daily archive of [Bear Blog's discover page](https://bearblog.dev/discover/).
-Every day at midnight UTC, a script captures the top 100 posts and stores them
-as dated JSON files. The result is a browsable, chronological record of what the
-Bear Blog community has been reading and toasting.
+An archive of [Bear Blog's discover page](https://bearblog.dev/discover/). Every
+hour, a script captures the top 100 posts and stores them as dated JSON files.
+The result is a browsable, chronological record of what the Bear Blog community
+has been reading and toasting.
 
 Live at [bearroll.dev](https://bearroll.dev).
 
@@ -11,7 +11,7 @@ Live at [bearroll.dev](https://bearroll.dev).
 
 **Collector** — A Node script (`scripts/collect.mjs`) scrapes the first 5 pages
 of Bear Blog's discover feed using Cheerio and writes `data/YYYY-MM-DD.json`
-files. A GitHub Actions cron job runs this daily.
+files. A GitHub Actions cron job runs this hourly.
 
 **Frontend** — A static [Astro](https://astro.build) site reads those JSON files
 at build time. The first 6 days are server-rendered; older days load on scroll
