@@ -12,7 +12,7 @@ const { post } = Astro.props;
 <li class="post-item leading-snug" data-rank={post.rank}>
   <a
     href={post.url}
-    class="group flex items-baseline py-1.5 w-full no-underline [&:visited_.title]:text-visited active:bg-active rounded-lg"
+    class="post-link group flex items-baseline py-1.5 w-full no-underline [&:visited_.title]:text-visited active:bg-active rounded-lg"
   >
     <span class:list={["shrink-0 w-10 text-right mr-4", medalClass(post.rank)]}>
       {post.toasts}
@@ -25,3 +25,15 @@ const { post } = Astro.props;
     </span>
   </a>
 </li>
+
+<style>
+  .post-link {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0.06);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .post-link {
+      -webkit-tap-highlight-color: rgba(255, 255, 255, 0.08);
+    }
+  }
+</style>
