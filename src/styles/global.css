@@ -9,6 +9,7 @@
   --color-border: var(--c-border);
   --color-border-light: var(--c-border-light);
   --color-active: var(--c-active);
+  --color-hover: var(--c-hover);
   --color-accent: var(--c-accent);
   --color-link: var(--c-link);
   --color-visited: var(--c-visited);
@@ -33,6 +34,7 @@
   --c-silver: #5a9a6a;
   --c-bronze: #b87028;
   --c-active: #f5f5f5;
+  --c-hover: #fafafa;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -51,5 +53,6 @@
     --c-silver: #6fbf80;
     --c-bronze: #e09048;
     --c-active: #032d38;
+    --c-hover: #022830;
   }
 }
