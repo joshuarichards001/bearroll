@@ -21,6 +21,7 @@ export interface DayGroup {
   posts: RankedPost[];
 }
 
+/** Extract the hostname from an author URL, falling back to the raw string. */
 function extractDomain(authorUrl: string): string {
   try {
     return new URL(authorUrl).hostname;
@@ -29,22 +30,15 @@ function extractDomain(authorUrl: string): string {
   }
 }
 
+/** Rank posts by toasts and sort by published date for display. */
 export function processDay(posts: Post[]): RankedPost[] {
-  // Sort by toasts descending to assign ranks
-  const byToasts = [...posts].sort((a, b) => b.toasts - a.toasts);
-  const rankMap = new Map<string, number>();
-  byToasts.forEach((p, i) => rankMap.set(p.url, i + 1));
-
-  // Sort by published time, newest first for display
-  const sorted = [...posts].sort(
-    (a, b) => new Date(b.published).getTime() - new Date(a.published).getTime(),
-  );
-
-  return sorted.map((p) => ({
-    ...p,
-    rank: rankMap.get(p.url)!,
-    domain: extractDomain(p.author),
-  }));
+  return [...posts]
+    .sort((a, b) => b.toasts - a.toasts)
+    .map((p, i) => ({ ...p, rank: i + 1, domain: extractDomain(p.author) }))
+    .sort(
+      (a, b) =>
+        new Date(b.published).getTime() - new Date(a.published).getTime(),
+    );
 }
 
 /** Returns all available day dates in reverse chronological order. */
