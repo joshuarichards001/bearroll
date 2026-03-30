@@ -5,7 +5,7 @@ code in this repository.
 
 ## Project Overview
 
-BearRoll — a regular roll of Bear Blog's discover page. Scrapes
+BearRoll — a daily roll of Bear Blog's discover page. Scrapes
 [bearblog.dev/discover](https://bearblog.dev/discover/) hourly, stores post
 metadata as dated JSON files, and serves a static Astro site at
 [bearroll.dev](https://bearroll.dev) that displays the collected posts with
