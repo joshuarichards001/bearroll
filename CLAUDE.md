@@ -14,7 +14,7 @@ filtering and infinite scroll.
 ## Commands
 
 - **Install dependencies:** `npm ci`
-- **Run the collector:** `npm run collect` (or `node scripts/collect.mjs`)
+- **Run the collector:** `npm run collect` (or `npx tsx scripts/collect.ts`)
 - **Dev server:** `npm run dev`
 - **Build static site:** `npm run build` (outputs to `dist/`)
 - **Preview build:** `npm run preview`
@@ -32,23 +32,40 @@ Two independent subsystems share the `data/` directory:
 
 ### Data Collector
 
-- `scripts/collect.mjs` — ESM script that fetches discover pages 0-4, parses
-  HTML with Cheerio, and merges results into `data/YYYY-MM-DD.json` files.
+- `scripts/collect.ts` — TypeScript script that fetches discover pages 0-4,
+  parses HTML with Cheerio, and merges results into `data/YYYY-MM-DD.json`
+  files.
 - `.github/workflows/collect.yml` — Runs the collector hourly via cron, commits
   changed data files.
 
 ### Astro Frontend (static site)
 
 - `src/lib/posts.ts` — Reads JSON files from `data/`, ranks posts by toast
-  count, extracts domains. Key exports: `loadInitialDays()` (first 6 days for
+  count, extracts domains. Key exports: `loadInitialDays()` (first 4 days for
   SSG), `getRemainingDayDates()` (for client-side lazy loading),
   `getAllDayDates()`, `loadDay()`, and `processDay()`.
 - `src/lib/format.ts` — Date formatting (`formatDate`) and rank-based medal
   styling (`medalClass`).
-- `src/pages/index.astro` — Main page. Server-renders the first 6 days, then
-  uses IntersectionObserver to lazy-load older days via the HTML API.
-  Client-side filter logic and scroll loading live in an inline `<script>`
-  block.
+- `src/lib/stats.ts` — Computes aggregate statistics across all collected data.
+  Deduplicates posts by URL, ranks top posts by toasts, and tallies per-blog
+  appearance counts. Key export: `computeStats()`.
+- `src/pages/index.astro` — Main page. Server-renders the first 4 days, then
+  uses a scroll event listener to lazy-load older days via the HTML API when the
+  user nears the bottom of the page. Client-side filter logic and scroll loading
+  live in an inline `<script>` block.
+- `src/pages/stats.astro` — Aggregate statistics page showing total posts
+  tracked, unique blogs, days collected, most toasted posts, and most featured
+  blogs.
+- `src/pages/about.astro` — Static about page explaining the project's purpose
+  and technical implementation.
+- `src/pages/archive/index.astro` — Lists all collected dates as links to
+  individual archive pages.
+- `src/pages/archive/[date].astro` — Per-date archive page showing all posts
+  collected on that date. Statically generated for every available date.
+- `src/pages/rss.xml.ts` — RSS feed of the top 10 posts per day from the last 14
+  days. Skips today's data and delays yesterday's until after 9am UTC to allow
+  toast counts to stabilize.
+- `src/pages/404.astro` — Custom 404 error page with a link back to home.
 - `src/pages/api/[date].astro` — Static **HTML fragment** endpoints generated at
   build time for each day file. Returns rendered `DaySection` markup (not JSON),
   inserted into the page via `insertAdjacentHTML`.
@@ -56,7 +73,13 @@ Two independent subsystems share the `data/` directory:
   header and filter buttons.
 - `src/components/PostItem.astro` — Renders a single post item with rank, title,
   author, and toast count.
-- `src/components/Header.astro` — Site header/navigation.
+- `src/components/Header.astro` — Site header/navigation for the home page.
+- `src/components/PageHeader.astro` — Shared page header used by sub-pages
+  (stats, about, archive, 404). Displays a title and the site navigation menu.
+- `src/components/BearMenu.astro` — Site-wide navigation bar with links to home,
+  about, archive, stats, and RSS feed.
+- `src/components/BlogItem.astro` — Renders a single blog entry in the stats
+  page's most featured blogs list, showing total toasts, domain, and post count.
 - `src/styles/global.css` — Tailwind v4 CSS-first config with custom theme
   colors (fg, bg, bg-alt, muted, border, border-light, accent) that adapt to
   light/dark mode via CSS custom properties.
