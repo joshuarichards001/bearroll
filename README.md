@@ -7,6 +7,8 @@ community has been reading and toasting.
 
 Live at [bearroll.dev](https://bearroll.dev).
 
+![Screenshot](screenshot.png)
+
 ## How it works
 
 **Collector** — A Node script (`scripts/collect.mjs`) scrapes the first 5 pages
