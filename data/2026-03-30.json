@@ -129,18 +129,18 @@
     "url": "https://blog.avas.space/silly-art/",
     "title": "some silly art",
     "author": "https://blog.avas.space",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-03-30T20:18:39.989Z",
-    "last_updated": "2026-03-30T22:15:40.792Z",
+    "last_updated": "2026-03-30T23:16:25.221Z",
     "published": "2026-03-30T16:53Z"
   },
   {
     "url": "https://jetgirl.art/yall-dont-need-this-much-protein/",
     "title": "Yall don't need this much protein...",
     "author": "https://jetgirl.art",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-03-30T20:18:39.989Z",
-    "last_updated": "2026-03-30T22:15:40.792Z",
+    "last_updated": "2026-03-30T23:16:25.221Z",
     "published": "2026-03-30T14:33Z"
   },
   {
@@ -156,36 +156,54 @@
     "url": "https://martingwd.bearblog.dev/just-took-photo/",
     "title": "I just took a photo",
     "author": "https://martingwd.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-03-30T20:18:39.989Z",
-    "last_updated": "2026-03-30T22:15:40.792Z",
+    "last_updated": "2026-03-30T23:16:25.221Z",
     "published": "2026-03-30T17:56Z"
   },
   {
     "url": "https://barrel.bearblog.dev/ai/",
     "title": "/ai",
     "author": "https://barrel.bearblog.dev",
-    "toasts": 26,
+    "toasts": 30,
     "first_seen": "2026-03-30T21:19:45.595Z",
-    "last_updated": "2026-03-30T22:15:40.792Z",
+    "last_updated": "2026-03-30T23:16:25.221Z",
     "published": "2026-03-30T19:09Z"
   },
   {
     "url": "https://blog.andrewmooretraining.com/your-workouts-are-too-complex/",
     "title": "Your Workouts are Too Complex",
     "author": "https://blog.andrewmooretraining.com",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-03-30T21:19:45.595Z",
-    "last_updated": "2026-03-30T22:15:40.792Z",
+    "last_updated": "2026-03-30T23:16:25.221Z",
     "published": "2026-03-30T19:41Z"
   },
   {
     "url": "https://davelee.me/a-clear-violation/",
     "title": "A clear violation",
     "author": "https://davelee.me",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-03-30T21:19:45.595Z",
-    "last_updated": "2026-03-30T22:15:40.792Z",
+    "last_updated": "2026-03-30T23:16:25.221Z",
     "published": "2026-03-30T19:13Z"
+  },
+  {
+    "url": "https://pumpkintravels.bearblog.dev/i-said-yes/",
+    "title": "I said yes!",
+    "author": "https://pumpkintravels.bearblog.dev",
+    "toasts": 12,
+    "first_seen": "2026-03-30T23:16:25.221Z",
+    "last_updated": "2026-03-30T23:16:25.221Z",
+    "published": "2026-03-30T21:18Z"
+  },
+  {
+    "url": "https://yunzi.co.uk/why-do-those-responsible-for-our-heritage-seem-to-hate-it-and-us/",
+    "title": "Why do those responsible for our heritage seem to hate it (and us)",
+    "author": "https://yunzi.co.uk",
+    "toasts": 9,
+    "first_seen": "2026-03-30T23:16:25.221Z",
+    "last_updated": "2026-03-30T23:16:25.221Z",
+    "published": "2026-03-30T16:41Z"
   }
 ]
