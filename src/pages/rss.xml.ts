@@ -5,10 +5,11 @@ import { getAllDayDates, loadDay } from "../lib/posts";
 export function GET(context: APIContext) {
   const allDates = getAllDayDates();
 
-  // Use the second most recent day so upvotes have time to accumulate.
-  // Fall back to the most recent if only one day exists.
+  // Lag by 2 days so upvotes have time to accumulate (e.g. when the 28th
+  // ticks over, the 26th's top 10 is the newest item in the feed).
+  // Fall back gracefully when fewer days are available.
   const dates =
-    allDates.length >= 2 ? allDates.slice(1, 15) : allDates.slice(0, 14);
+    allDates.length >= 3 ? allDates.slice(2, 16) : allDates.slice(0, 14);
 
   if (dates.length === 0) {
     return new Response("No data available", { status: 404 });
@@ -37,8 +38,8 @@ export function GET(context: APIContext) {
   });
 
   return rss({
-    title: "Bear Roll — Top 10",
-    description: "Top 10 posts from Bear Blog's discover page",
+    title: "Bear Roll — Daily Top 10",
+    description: "Daily top 10 posts from Bear Blog's discover page",
     site: context.site!,
     items,
   });
