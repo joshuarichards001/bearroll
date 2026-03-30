@@ -5,11 +5,11 @@ import { getAllDayDates, loadDay } from "../lib/posts";
 export function GET(context: APIContext) {
   const allDates = getAllDayDates();
 
-  // Lag by 2 days so upvotes have time to accumulate (e.g. when the 28th
-  // ticks over, the 26th's top 10 is the newest item in the feed).
-  // Fall back gracefully when fewer days are available.
-  const dates =
-    allDates.length >= 3 ? allDates.slice(2, 16) : allDates.slice(0, 14);
+  // Skip today (still accumulating) and include yesterday only after 9am UTC,
+  // giving toasts time to settle overnight before the feed updates.
+  const utcHour = new Date().getUTCHours();
+  const skip = utcHour >= 9 ? 1 : 2;
+  const dates = allDates.slice(skip, skip + 14);
 
   if (dates.length === 0) {
     return new Response("No data available", { status: 404 });
