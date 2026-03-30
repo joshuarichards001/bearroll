@@ -7,7 +7,7 @@ import { fileURLToPath } from "node:url";
 const DATA_DIR = join(fileURLToPath(import.meta.url), "..", "..", "data");
 const BASE_URL = "https://bearblog.dev/discover/";
 const USER_AGENT = "BearRoll/1.0 (+https://bearroll.dev)";
-const PAGES = [0, 1, 2, 3, 4];
+const PAGE_COUNT = 5;
 const DELAY_MS = 1000;
 
 interface Post {
@@ -26,11 +26,6 @@ interface StoredPost {
   first_seen: string;
   last_updated: string;
   published: string;
-}
-
-interface LegacyDayFile {
-  collected_at?: string;
-  posts: StoredPost[];
 }
 
 function sleep(ms: number): Promise<void> {
@@ -78,9 +73,14 @@ function parsePosts(html: string): Post[] {
       }
     });
 
-    if (url && title && published) {
-      posts.push({ url, title, author: author || "", toasts, published });
+    if (!url || !title || !published) {
+      console.error(
+        `Skipping post: missing ${[!url && "url", !title && "title", !published && "published"].filter(Boolean).join(", ")}`,
+      );
+      return;
     }
+
+    posts.push({ url, title, author: author || "", toasts, published });
   });
 
   return posts;
@@ -89,12 +89,7 @@ function parsePosts(html: string): Post[] {
 async function loadDayFile(filePath: string): Promise<StoredPost[] | null> {
   if (!existsSync(filePath)) return null;
   const raw = await readFile(filePath, "utf-8");
-  const parsed: StoredPost[] | LegacyDayFile = JSON.parse(raw);
-  // Migrate from old { collected_at, posts: [...] } format to plain array
-  if (!Array.isArray(parsed) && Array.isArray(parsed.posts)) {
-    return parsed.posts;
-  }
-  return parsed as StoredPost[];
+  return JSON.parse(raw) as StoredPost[];
 }
 
 interface DayFileEntry {
@@ -107,7 +102,7 @@ async function main(): Promise<void> {
 
   // Scrape all pages
   const allPosts: Post[] = [];
-  for (const page of PAGES) {
+  for (let page = 0; page < PAGE_COUNT; page++) {
     if (page > 0) await sleep(DELAY_MS);
     console.log(`Fetching page ${page}...`);
     const html = await fetchPage(page);
@@ -125,17 +120,8 @@ async function main(): Promise<void> {
   }
 
   console.log(
-    `Total scraped: ${allPosts.length} posts across ${PAGES.length} pages`,
+    `Total scraped: ${allPosts.length} posts across ${PAGE_COUNT} pages`,
   );
-
-  // Deduplicate scraped posts by URL (keep highest toast count)
-  const scrapedByUrl = new Map<string, Post>();
-  for (const post of allPosts) {
-    const existing = scrapedByUrl.get(post.url);
-    if (!existing || post.toasts > existing.toasts) {
-      scrapedByUrl.set(post.url, post);
-    }
-  }
 
   // Ensure data directory exists
   await mkdir(DATA_DIR, { recursive: true });
@@ -158,7 +144,7 @@ async function main(): Promise<void> {
   let newCount = 0;
   let updatedCount = 0;
 
-  for (const post of scrapedByUrl.values()) {
+  for (const post of allPosts) {
     const key = dateKey(post.published);
     const dayFile = await getDayFile(key);
     const postIndex = dayFile.data.findIndex((p) => p.url === post.url);
@@ -209,7 +195,7 @@ async function main(): Promise<void> {
   }
 
   console.log(
-    `Scraped ${scrapedByUrl.size} unique posts across ${PAGES.length} pages, ` +
+    `Scraped ${allPosts.length} posts across ${PAGE_COUNT} pages, ` +
       `${newCount} new, ${updatedCount} updated, wrote ${filesWritten} day files`,
   );
 }

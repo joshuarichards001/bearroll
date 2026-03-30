@@ -30,7 +30,7 @@ export default [
     },
   },
   {
-    files: ["scripts/**/*.mjs"],
+    files: ["scripts/**/*.ts"],
     rules: {
       "no-console": "off",
     },
