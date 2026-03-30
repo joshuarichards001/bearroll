@@ -3,11 +3,6 @@ import BearMenu from "./BearMenu.astro";
 import { getLastCollectedAt } from "../lib/posts";
 
 const lastCollectedAt = getLastCollectedAt();
-
-const filters = [
-  { value: "10", label: "top 10" },
-  { value: "all", label: "all" },
-];
 ---
 
 <header class="border-b border-border bg-bg">
@@ -17,16 +12,19 @@ const filters = [
         <span>ʕ-ᴥ-ʔ Bear Roll</span>
       </h1>
       <nav class="flex">
-        {
-          filters.map((f) => (
-            <button
-              class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg first:rounded-l-sm last:rounded-r-sm data-active:bg-accent data-active:text-white data-active:border-accent"
-              data-filter={f.value}
-            >
-              {f.label}
-            </button>
-          ))
-        }
+        <button
+          class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg first:rounded-l-sm last:rounded-r-sm data-active:bg-accent data-active:text-white data-active:border-accent"
+          data-filter="10"
+          data-active
+        >
+          top 10
+        </button>
+        <button
+          class="filter-btn bg-bg-alt border border-border px-2.5 py-1 text-xs cursor-pointer text-fg first:rounded-l-sm last:rounded-r-sm data-active:bg-accent data-active:text-white data-active:border-accent"
+          data-filter="all"
+        >
+          all
+        </button>
       </nav>
     </div>
     <BearMenu />
