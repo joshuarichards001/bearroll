@@ -7,6 +7,9 @@ export default defineConfig({
   output: "static",
   site: "https://bearroll.dev",
   base: "/",
+  build: {
+    inlineStylesheets: "always",
+  },
 
   vite: {
     plugins: [tailwindcss()],

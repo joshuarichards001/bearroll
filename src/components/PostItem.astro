@@ -9,7 +9,10 @@ interface Props {
 const { post } = Astro.props;
 ---
 
-<li class="post-item leading-snug" data-rank={post.rank}>
+<li
+  class:list={["post-item leading-snug", { hidden: post.rank > 10 }]}
+  data-rank={post.rank}
+>
   <a
     href={post.url}
     class="post-link group flex items-baseline py-1.5 w-full no-underline [&:visited_.title]:text-visited active:bg-active hover:bg-hover focus:bg-active rounded-lg"
