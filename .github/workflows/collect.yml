@@ -2,7 +2,7 @@ name: Collect Discover Data
 
 on:
   schedule:
-    - cron: "30 * * * *" # hourly at :30
+    - cron: "0 * * * *" # hourly on the hour
   workflow_dispatch:
 
 permissions:
