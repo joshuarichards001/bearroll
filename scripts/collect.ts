@@ -8,7 +8,7 @@ const DATA_DIR = join(fileURLToPath(import.meta.url), "..", "..", "data");
 const BASE_URL = "https://bearblog.dev/discover/";
 const USER_AGENT = "BearRoll/1.0 (+https://bearroll.dev)";
 const PAGES = [0, 1, 2, 3, 4];
-const DELAY_MS = 1500;
+const DELAY_MS = 1000;
 
 interface Post {
   url: string;
