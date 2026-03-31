@@ -21,9 +21,9 @@
     "url": "https://ev-fae.quest/happy-transgender-day-of-visibility/",
     "title": "Happy transgender day of visibility!",
     "author": "https://ev-fae.quest",
-    "toasts": 14,
+    "toasts": 16,
     "first_seen": "2026-03-31T11:23:16.335Z",
-    "last_updated": "2026-03-31T16:28:19.768Z",
+    "last_updated": "2026-03-31T18:26:26.301Z",
     "published": "2026-03-31T09:30Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/",
     "title": "The Subprime Technical Debt Crisis",
     "author": "https://blog.happyfellow.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-03-31T16:28:19.768Z",
-    "last_updated": "2026-03-31T17:26:44.321Z",
+    "last_updated": "2026-03-31T18:26:26.301Z",
     "published": "2026-03-31T12:20Z"
   },
   {
@@ -70,5 +70,14 @@
     "first_seen": "2026-03-31T17:26:44.321Z",
     "last_updated": "2026-03-31T17:26:44.321Z",
     "published": "2026-03-31T14:32Z"
+  },
+  {
+    "url": "https://combatdavey.net/march-30-2026/",
+    "title": "march 30 oem",
+    "author": "https://combatdavey.net",
+    "toasts": 9,
+    "first_seen": "2026-03-31T18:26:26.301Z",
+    "last_updated": "2026-03-31T18:26:26.301Z",
+    "published": "2026-03-31T03:34Z"
   }
 ]
