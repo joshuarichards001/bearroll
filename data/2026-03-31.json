@@ -48,18 +48,27 @@
     "url": "https://azhdarchid.com/imagining-the-car-but-not-the-traffic-jam/",
     "title": "Imagining the Car but not the Traffic Jam",
     "author": "https://azhdarchid.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-03-31T16:28:19.768Z",
-    "last_updated": "2026-03-31T16:28:19.768Z",
+    "last_updated": "2026-03-31T17:26:44.321Z",
     "published": "2026-03-31T03:59Z"
   },
   {
     "url": "https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/",
     "title": "The Subprime Technical Debt Crisis",
     "author": "https://blog.happyfellow.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-03-31T16:28:19.768Z",
-    "last_updated": "2026-03-31T16:28:19.768Z",
+    "last_updated": "2026-03-31T17:26:44.321Z",
     "published": "2026-03-31T12:20Z"
+  },
+  {
+    "url": "https://nathanpeterson.net/end-your-subscription/",
+    "title": "End Your Subscription",
+    "author": "https://nathanpeterson.net",
+    "toasts": 9,
+    "first_seen": "2026-03-31T17:26:44.321Z",
+    "last_updated": "2026-03-31T17:26:44.321Z",
+    "published": "2026-03-31T14:32Z"
   }
 ]
