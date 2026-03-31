@@ -75,9 +75,9 @@
     "url": "https://robertbirming.com/but-i-care/",
     "title": "But I care",
     "author": "https://robertbirming.com",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-03-30T16:27:58.577Z",
-    "last_updated": "2026-03-31T03:11:39.733Z",
+    "last_updated": "2026-03-31T07:36:34.420Z",
     "published": "2026-03-30T14:31Z"
   },
   {
@@ -156,18 +156,18 @@
     "url": "https://martingwd.bearblog.dev/just-took-photo/",
     "title": "I just took a photo",
     "author": "https://martingwd.bearblog.dev",
-    "toasts": 18,
+    "toasts": 20,
     "first_seen": "2026-03-30T20:18:39.989Z",
-    "last_updated": "2026-03-31T04:54:04.679Z",
+    "last_updated": "2026-03-31T07:36:34.420Z",
     "published": "2026-03-30T17:56Z"
   },
   {
     "url": "https://barrel.bearblog.dev/ai/",
     "title": "/ai",
     "author": "https://barrel.bearblog.dev",
-    "toasts": 39,
+    "toasts": 41,
     "first_seen": "2026-03-30T21:19:45.595Z",
-    "last_updated": "2026-03-31T06:36:59.460Z",
+    "last_updated": "2026-03-31T07:36:34.420Z",
     "published": "2026-03-30T19:09Z"
   },
   {
@@ -214,5 +214,14 @@
     "first_seen": "2026-03-31T03:11:39.733Z",
     "last_updated": "2026-03-31T05:38:15.077Z",
     "published": "2026-03-30T01:33Z"
+  },
+  {
+    "url": "https://planq.bearblog.dev/i-hope/",
+    "title": "I hope",
+    "author": "https://planq.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-03-31T07:36:34.420Z",
+    "last_updated": "2026-03-31T07:36:34.420Z",
+    "published": "2026-03-30T19:55Z"
   }
 ]
