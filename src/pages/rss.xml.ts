@@ -2,6 +2,18 @@ import rss from "@astrojs/rss";
 import type { APIContext } from "astro";
 import { getAllDayDates, loadDay } from "../lib/posts";
 
+function formatRssDate(dateStr: string): string {
+  const d = new Date(dateStr + "T12:00:00Z");
+  return d
+    .toLocaleDateString("en-GB", {
+      weekday: "short",
+      day: "numeric",
+      month: "short",
+      timeZone: "UTC",
+    })
+    .replace(",", "");
+}
+
 export function GET(context: APIContext) {
   const allDates = getAllDayDates();
 
@@ -29,7 +41,7 @@ export function GET(context: APIContext) {
 
     return [
       {
-        title: `${date} Top 10`,
+        title: `${formatRssDate(date)} - Top 10`,
         link: `${context.site!}archive/${date}`,
         pubDate: new Date(date),
         content: `<ol>${listHtml}</ol>`,
