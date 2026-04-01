@@ -44,8 +44,7 @@ Two independent subsystems share the `data/` directory:
   count, extracts domains. Key exports: `loadInitialDays()` (first 4 days for
   SSG), `getRemainingDayDates()` (for client-side lazy loading),
   `getAllDayDates()`, `loadDay()`, and `processDay()`.
-- `src/lib/format.ts` — Date formatting (`formatDate`) and rank-based medal
-  styling (`medalClass`).
+- `src/lib/format.ts` — Date formatting (`formatDate`).
 - `src/lib/stats.ts` — Computes aggregate statistics across all collected data.
   Deduplicates posts by URL, ranks top posts by toasts, and tallies per-blog
   appearance counts. Key export: `computeStats()`.

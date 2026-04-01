@@ -1,5 +1,4 @@
 ---
-import { medalClass } from "../lib/format";
 import type { RankedPost } from "../lib/posts";
 
 interface Props {
@@ -18,10 +17,7 @@ const { post } = Astro.props;
     class="post-link group flex items-baseline py-1.5 w-full no-underline [&:visited_.title]:text-visited active:bg-active hover:bg-hover focus:bg-active rounded-lg"
   >
     <span
-      class:list={[
-        "shrink-0 w-10 flex items-baseline justify-end gap-0.5 mr-4",
-        medalClass(post.rank),
-      ]}
+      class="shrink-0 w-10 flex items-baseline justify-end gap-0.5 mr-4 text-fg"
       title={`${post.toasts} toasts`}
     >
       <svg
