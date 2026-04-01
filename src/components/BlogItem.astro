@@ -1,5 +1,4 @@
 ---
-import { medalClass } from "../lib/format";
 import type { RankedBlog } from "../lib/stats";
 
 interface Props {
@@ -10,7 +9,7 @@ const { blog } = Astro.props;
 ---
 
 <li class="flex items-baseline leading-snug py-1.5">
-  <span class:list={["shrink-0 w-10 text-right mr-4", medalClass(blog.rank)]}>
+  <span class="shrink-0 w-10 text-right mr-4 text-fg">
     {blog.totalToasts}
   </span>
   <a
