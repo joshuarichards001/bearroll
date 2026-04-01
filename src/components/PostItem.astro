@@ -19,14 +19,14 @@ const { post } = Astro.props;
   >
     <span
       class:list={[
-        "shrink-0 w-10 flex items-center justify-end gap-0.5 mr-4",
+        "shrink-0 w-10 flex items-baseline justify-end gap-0.5 mr-4",
         medalClass(post.rank),
       ]}
       title={`${post.toasts} toasts`}
     >
       <svg
         viewBox="0 0 24 24"
-        class="h-4 w-4 shrink-0 -mr-0.5"
+        class="h-4 w-4 shrink-0 -mr-0.5 self-center"
         stroke="currentColor"
         stroke-width="2"
         fill="none"
