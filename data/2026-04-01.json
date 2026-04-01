@@ -3,9 +3,9 @@
     "url": "https://commentingon.xyz/the-great-smoothening-lets-talk-about-analytics-lets-get-weird/",
     "title": "The Great Smoothening--Let’s talk about Analytics. Let’s get weird.",
     "author": "https://commentingon.xyz",
-    "toasts": 25,
+    "toasts": 26,
     "first_seen": "2026-04-01T01:39:43.120Z",
-    "last_updated": "2026-04-01T12:28:27.433Z",
+    "last_updated": "2026-04-01T14:39:02.511Z",
     "published": "2026-04-01T00:01Z"
   },
   {
@@ -30,27 +30,27 @@
     "url": "https://blog.avas.space/blogmaxxing-april-fools/",
     "title": "offer: blogmaxxing class",
     "author": "https://blog.avas.space",
-    "toasts": 21,
+    "toasts": 23,
     "first_seen": "2026-04-01T08:35:20.864Z",
-    "last_updated": "2026-04-01T13:37:37.912Z",
+    "last_updated": "2026-04-01T14:39:02.511Z",
     "published": "2026-04-01T05:30Z"
   },
   {
     "url": "https://grizzlygazette.bearblog.dev/a-new-exciting-era-for-the-gazette/",
     "title": "A new, exciting era for the Gazette",
     "author": "https://grizzlygazette.bearblog.dev",
-    "toasts": 14,
+    "toasts": 16,
     "first_seen": "2026-04-01T08:35:20.864Z",
-    "last_updated": "2026-04-01T13:37:37.912Z",
+    "last_updated": "2026-04-01T14:39:02.511Z",
     "published": "2026-04-01T06:00Z"
   },
   {
     "url": "https://foolsgold.bearblog.dev/i-accidentally-found-a-friends-blog/",
     "title": "I accidentally found a friend’s blog",
     "author": "https://foolsgold.bearblog.dev",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-04-01T09:32:36.898Z",
-    "last_updated": "2026-04-01T13:37:37.912Z",
+    "last_updated": "2026-04-01T14:39:02.511Z",
     "published": "2026-04-01T08:02Z"
   },
   {
@@ -66,9 +66,27 @@
     "url": "https://robertbirming.com/wear-a-bear/",
     "title": "Wear a Bear",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-01T13:37:37.912Z",
-    "last_updated": "2026-04-01T13:37:37.912Z",
+    "last_updated": "2026-04-01T14:39:02.511Z",
     "published": "2026-04-01T09:48Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/leaving-bear/",
+    "title": "leaving bear",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 10,
+    "first_seen": "2026-04-01T14:39:02.511Z",
+    "last_updated": "2026-04-01T14:39:02.511Z",
+    "published": "2026-04-01T13:26Z"
+  },
+  {
+    "url": "https://oracleofsages.bearblog.dev/popcorn-bear/",
+    "title": "Popcorn Bear",
+    "author": "https://oracleofsages.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-01T14:39:02.511Z",
+    "last_updated": "2026-04-01T14:39:02.511Z",
+    "published": "2026-04-01T11:10Z"
   }
 ]
