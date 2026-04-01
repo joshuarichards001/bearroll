@@ -7,7 +7,7 @@ import PageHeader from "../components/PageHeader.astro";
   <PageHeader slot="header" title="About" />
   <main class="flex flex-col gap-4">
     <article class="flex flex-col gap-4">
-      <p>A daily view of Bear Blog discover feed top posts.</p>
+      <p>A daily view of Bear Blog discover feed top posts. Browse all collected days in the <a href="/archive" class="text-link underline">archive</a>.</p>
       <p>
         I love the Bear Blog <a
           href="https://bearblog.dev/discover"
@@ -33,19 +33,14 @@ import PageHeader from "../components/PageHeader.astro";
         of discover. The source code and data is on <a
           href="https://github.com/joshuarichards001/bearroll"
           class="text-link underline">GitHub</a
-        > if you're curious.
+        > if you're curious. You can also see aggregate <a href="/stats" class="text-link underline">stats</a> across all collected posts.
       </p>
       <p>
         If you have any questions or requests, please email me at <a
           href="mailto:hello@josh.work"
           class="text-link underline">hello@josh.work</a
-        >
+        > or follow along on the <a href="https://bearroll.bearblog.dev" class="text-link underline">blog</a>.
       </p>
     </article>
-    <nav class="flex gap-4">
-      <a href="/archive" class="text-xs text-muted underline">archive</a>
-      <a href="/stats" class="text-xs text-muted underline">stats</a>
-      <a href="https://bearroll.bearblog.dev" class="text-xs text-muted underline">blog</a>
-    </nav>
   </main>
 </Layout>
