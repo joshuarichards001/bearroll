@@ -1,6 +1,7 @@
 import rss from "@astrojs/rss";
 import type { APIContext } from "astro";
 import { getAllDayDates, loadDay } from "../lib/posts";
+import { formatDate } from "../lib/format";
 
 export function GET(context: APIContext) {
   const allDates = getAllDayDates();
@@ -29,7 +30,7 @@ export function GET(context: APIContext) {
 
     return [
       {
-        title: `${date} Top 10`,
+        title: `${formatDate(date)} - Top 10`,
         link: `${context.site!}archive/${date}`,
         pubDate: new Date(date),
         content: `<ol>${listHtml}</ol>`,
