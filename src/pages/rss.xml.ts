@@ -2,9 +2,6 @@ import rss from "@astrojs/rss";
 import type { APIContext } from "astro";
 import { getAllDayDates, loadDay } from "../lib/posts";
 
-const DAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-
 export function GET(context: APIContext) {
   const allDates = getAllDayDates();
 
@@ -32,7 +29,7 @@ export function GET(context: APIContext) {
 
     return [
       {
-        title: `${DAYS[new Date(date).getUTCDay()]} ${+date.slice(8)} ${MONTHS[+date.slice(5, 7) - 1]} - Top 10`,
+        title: `${new Date(date).toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short", timeZone: "UTC" }).replace(",", "")} - Top 10`,
         link: `${context.site!}archive/${date}`,
         pubDate: new Date(date),
         content: `<ol>${listHtml}</ol>`,
