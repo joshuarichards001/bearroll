@@ -2,16 +2,12 @@ import rss from "@astrojs/rss";
 import type { APIContext } from "astro";
 import { getAllDayDates, loadDay } from "../lib/posts";
 
+const DAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
 function formatRssDate(dateStr: string): string {
   const d = new Date(dateStr + "T12:00:00Z");
-  return d
-    .toLocaleDateString("en-GB", {
-      weekday: "short",
-      day: "numeric",
-      month: "short",
-      timeZone: "UTC",
-    })
-    .replace(",", "");
+  return `${DAYS[d.getUTCDay()]} ${d.getUTCDate()} ${MONTHS[d.getUTCMonth()]}`;
 }
 
 export function GET(context: APIContext) {
