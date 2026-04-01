@@ -75,9 +75,9 @@
     "url": "https://robertbirming.com/but-i-care/",
     "title": "But I care",
     "author": "https://robertbirming.com",
-    "toasts": 52,
+    "toasts": 53,
     "first_seen": "2026-03-30T16:27:58.577Z",
-    "last_updated": "2026-04-01T05:03:33.058Z",
+    "last_updated": "2026-04-01T06:43:05.706Z",
     "published": "2026-03-30T14:31Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://troly-dustroyr.bearblog.dev/phone-is-cigarette-for-eyes/",
     "title": "Phone is cigarette for eyes",
     "author": "https://troly-dustroyr.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-03-30T18:26:10.134Z",
-    "last_updated": "2026-03-31T03:11:39.733Z",
+    "last_updated": "2026-04-01T06:43:05.706Z",
     "published": "2026-03-30T01:58Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://jetgirl.art/yall-dont-need-this-much-protein/",
     "title": "Yall don't need this much protein...",
     "author": "https://jetgirl.art",
-    "toasts": 50,
+    "toasts": 51,
     "first_seen": "2026-03-30T20:18:39.989Z",
-    "last_updated": "2026-04-01T03:11:25.224Z",
+    "last_updated": "2026-04-01T06:43:05.706Z",
     "published": "2026-03-30T14:33Z"
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://pumpkintravels.bearblog.dev/i-said-yes/",
     "title": "I said yes!",
     "author": "https://pumpkintravels.bearblog.dev",
-    "toasts": 30,
+    "toasts": 34,
     "first_seen": "2026-03-30T23:16:25.221Z",
-    "last_updated": "2026-04-01T00:47:57.905Z",
+    "last_updated": "2026-04-01T06:43:05.706Z",
     "published": "2026-03-30T21:18Z"
   },
   {
@@ -250,5 +250,14 @@
     "first_seen": "2026-03-31T10:27:19.442Z",
     "last_updated": "2026-04-01T00:47:57.905Z",
     "published": "2026-03-30T21:42Z"
+  },
+  {
+    "url": "https://www.wmprkr.xyz/find-your-rhythm/",
+    "title": "Find Your Rhythm",
+    "author": "https://www.wmprkr.xyz",
+    "toasts": 12,
+    "first_seen": "2026-04-01T06:43:05.706Z",
+    "last_updated": "2026-04-01T06:43:05.706Z",
+    "published": "2026-03-30T13:24Z"
   }
 ]
