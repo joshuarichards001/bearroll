@@ -3,9 +3,9 @@
     "url": "https://stitching.bearblog.dev/wfh-doomscrolling-mental-health/",
     "title": "working from home, doomscrolling, and mental health",
     "author": "https://stitching.bearblog.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-03-31T04:54:04.679Z",
-    "last_updated": "2026-03-31T06:36:59.460Z",
+    "last_updated": "2026-04-01T03:11:25.224Z",
     "published": "2026-03-31T01:10Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://ev-fae.quest/happy-transgender-day-of-visibility/",
     "title": "Happy transgender day of visibility!",
     "author": "https://ev-fae.quest",
-    "toasts": 29,
+    "toasts": 32,
     "first_seen": "2026-03-31T11:23:16.335Z",
-    "last_updated": "2026-04-01T01:39:43.120Z",
+    "last_updated": "2026-04-01T03:11:25.224Z",
     "published": "2026-03-31T09:30Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/",
     "title": "The Subprime Technical Debt Crisis",
     "author": "https://blog.happyfellow.dev",
-    "toasts": 29,
+    "toasts": 32,
     "first_seen": "2026-03-31T16:28:19.768Z",
-    "last_updated": "2026-04-01T01:39:43.120Z",
+    "last_updated": "2026-04-01T03:11:25.224Z",
     "published": "2026-03-31T12:20Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://diels-daydreams.bearblog.dev/new-post/",
     "title": "I'm tired of existing and not being",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-03-31T20:18:18.745Z",
-    "last_updated": "2026-04-01T00:47:57.905Z",
+    "last_updated": "2026-04-01T03:11:25.224Z",
     "published": "2026-03-31T18:51Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://monocyte.blog/my-favourite-meme/",
     "title": "my favourite meme",
     "author": "https://monocyte.blog",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-03-31T23:14:04.787Z",
-    "last_updated": "2026-04-01T00:47:57.905Z",
+    "last_updated": "2026-04-01T03:11:25.224Z",
     "published": "2026-03-31T21:15Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-04-01T01:39:43.120Z",
     "last_updated": "2026-04-01T01:39:43.120Z",
     "published": "2026-03-31T21:05Z"
+  },
+  {
+    "url": "https://migrainebrain.bearblog.dev/no-one-is-paying-attention/",
+    "title": "No one is paying attention",
+    "author": "https://migrainebrain.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-01T03:11:25.224Z",
+    "last_updated": "2026-04-01T03:11:25.224Z",
+    "published": "2026-03-31T21:15Z"
   }
 ]
