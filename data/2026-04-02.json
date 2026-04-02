@@ -21,9 +21,27 @@
     "url": "https://pego.dev/just-do-it/",
     "title": "just do it",
     "author": "https://pego.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-04-02T16:26:13.776Z",
-    "last_updated": "2026-04-02T16:26:13.776Z",
+    "last_updated": "2026-04-02T19:25:13.519Z",
     "published": "2026-04-02T11:58Z"
+  },
+  {
+    "url": "https://samsharp.ca/not-forever/",
+    "title": "they told me the internet was forever",
+    "author": "https://samsharp.ca",
+    "toasts": 9,
+    "first_seen": "2026-04-02T19:25:13.519Z",
+    "last_updated": "2026-04-02T19:25:13.519Z",
+    "published": "2026-04-02T18:13Z"
+  },
+  {
+    "url": "https://yordi.me/when-getting-out-of-bed-becomes-an-achievement/",
+    "title": "When Getting Out Of Bed Becomes An Achievement",
+    "author": "https://yordi.me",
+    "toasts": 9,
+    "first_seen": "2026-04-02T19:25:13.519Z",
+    "last_updated": "2026-04-02T19:25:13.519Z",
+    "published": "2026-04-02T16:35Z"
   }
 ]
