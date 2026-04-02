@@ -3,9 +3,9 @@
     "url": "https://rickw.bearblog.dev/youtube-is-junk-food/",
     "title": "YouTube is Junk Food",
     "author": "https://rickw.bearblog.dev",
-    "toasts": 11,
+    "toasts": 13,
     "first_seen": "2026-04-02T14:32:51.178Z",
-    "last_updated": "2026-04-02T15:27:55.809Z",
+    "last_updated": "2026-04-02T16:26:13.776Z",
     "published": "2026-04-02T11:10Z"
   },
   {
@@ -16,5 +16,14 @@
     "first_seen": "2026-04-02T15:27:55.809Z",
     "last_updated": "2026-04-02T15:27:55.809Z",
     "published": "2026-04-02T01:20Z"
+  },
+  {
+    "url": "https://pego.dev/just-do-it/",
+    "title": "just do it",
+    "author": "https://pego.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-02T16:26:13.776Z",
+    "last_updated": "2026-04-02T16:26:13.776Z",
+    "published": "2026-04-02T11:58Z"
   }
 ]
