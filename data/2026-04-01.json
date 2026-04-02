@@ -30,9 +30,9 @@
     "url": "https://blog.avas.space/blogmaxxing-april-fools/",
     "title": "offer: blogmaxxing class",
     "author": "https://blog.avas.space",
-    "toasts": 45,
+    "toasts": 46,
     "first_seen": "2026-04-01T08:35:20.864Z",
-    "last_updated": "2026-04-02T06:34:49.512Z",
+    "last_updated": "2026-04-02T10:25:36.214Z",
     "published": "2026-04-01T05:30Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://blog.absurdpirate.com/leaving-bear/",
     "title": "leaving bear",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 58,
+    "toasts": 59,
     "first_seen": "2026-04-01T14:39:02.511Z",
-    "last_updated": "2026-04-02T08:28:29.340Z",
+    "last_updated": "2026-04-02T10:25:36.214Z",
     "published": "2026-04-01T13:26Z"
   },
   {
@@ -187,5 +187,14 @@
     "first_seen": "2026-04-02T03:11:13.164Z",
     "last_updated": "2026-04-02T06:34:49.512Z",
     "published": "2026-04-01T22:14Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/check-out-this-post-about-mistys-narrative-scripting-tool/",
+    "title": "Check out this post about Misty's narrative scripting tool",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 10,
+    "first_seen": "2026-04-02T10:25:36.214Z",
+    "last_updated": "2026-04-02T10:25:36.214Z",
+    "published": "2026-04-01T19:15Z"
   }
 ]
