@@ -39,18 +39,18 @@
     "url": "https://grizzlygazette.bearblog.dev/a-new-exciting-era-for-the-gazette/",
     "title": "A new, exciting era for the Gazette",
     "author": "https://grizzlygazette.bearblog.dev",
-    "toasts": 28,
+    "toasts": 30,
     "first_seen": "2026-04-01T08:35:20.864Z",
-    "last_updated": "2026-04-01T23:16:58.476Z",
+    "last_updated": "2026-04-02T01:40:10.338Z",
     "published": "2026-04-01T06:00Z"
   },
   {
     "url": "https://foolsgold.bearblog.dev/i-accidentally-found-a-friends-blog/",
     "title": "I accidentally found a friend’s blog",
     "author": "https://foolsgold.bearblog.dev",
-    "toasts": 54,
+    "toasts": 56,
     "first_seen": "2026-04-01T09:32:36.898Z",
-    "last_updated": "2026-04-02T00:41:11.677Z",
+    "last_updated": "2026-04-02T01:40:10.338Z",
     "published": "2026-04-01T08:02Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://blog.absurdpirate.com/leaving-bear/",
     "title": "leaving bear",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 37,
+    "toasts": 40,
     "first_seen": "2026-04-01T14:39:02.511Z",
-    "last_updated": "2026-04-02T00:41:11.677Z",
+    "last_updated": "2026-04-02T01:40:10.338Z",
     "published": "2026-04-01T13:26Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://bearroll.bearblog.dev/daily-view-of-bear-blog-top-posts/",
     "title": "bearroll.dev - A daily view of Bear Blog discover feed top posts.",
     "author": "https://bearroll.bearblog.dev",
-    "toasts": 27,
+    "toasts": 28,
     "first_seen": "2026-04-01T15:35:30.677Z",
-    "last_updated": "2026-04-02T00:41:11.677Z",
+    "last_updated": "2026-04-02T01:40:10.338Z",
     "published": "2026-04-01T15:19Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://vdonnutvalley.bearblog.dev/gay-beholder-blog-fiesta-to-spite-the-bigots/",
     "title": "Gay Beholder Blog Fiesta - to spite the bigots!",
     "author": "https://vdonnutvalley.bearblog.dev",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-04-01T23:16:58.476Z",
-    "last_updated": "2026-04-02T00:41:11.677Z",
+    "last_updated": "2026-04-02T01:40:10.338Z",
     "published": "2026-04-01T21:58Z"
   },
   {
@@ -169,5 +169,14 @@
     "first_seen": "2026-04-01T23:16:58.476Z",
     "last_updated": "2026-04-01T23:16:58.476Z",
     "published": "2026-04-01T12:00Z"
+  },
+  {
+    "url": "https://jessvb.uk/happy-new-year/",
+    "title": "Happy New Year!",
+    "author": "https://jessvb.uk",
+    "toasts": 10,
+    "first_seen": "2026-04-02T01:40:10.338Z",
+    "last_updated": "2026-04-02T01:40:10.338Z",
+    "published": "2026-04-01T06:00Z"
   }
 ]
