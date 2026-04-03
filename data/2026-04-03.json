@@ -30,9 +30,9 @@
     "url": "https://chakkie.bearblog.dev/hasan-racial-ambiguity/",
     "title": "Hasan, Me & Racial Ambiguity",
     "author": "https://chakkie.bearblog.dev",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-04-03T14:21:03.443Z",
-    "last_updated": "2026-04-03T17:15:19.889Z",
+    "last_updated": "2026-04-03T18:18:45.578Z",
     "published": "2026-04-03T11:50Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://onelastme.bearblog.dev/2233/",
     "title": "我真的比我想象的还要厉害",
     "author": "https://onelastme.bearblog.dev",
-    "toasts": 63,
+    "toasts": 65,
     "first_seen": "2026-04-03T16:17:09.663Z",
-    "last_updated": "2026-04-03T17:15:19.889Z",
+    "last_updated": "2026-04-03T18:18:45.578Z",
     "published": "2026-04-03T03:11Z"
   },
   {
@@ -66,9 +66,18 @@
     "url": "https://robertbirming.com/blog-because-you-want/",
     "title": "Blog because you want to",
     "author": "https://robertbirming.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-03T17:15:19.889Z",
-    "last_updated": "2026-04-03T17:15:19.889Z",
+    "last_updated": "2026-04-03T18:18:45.578Z",
     "published": "2026-04-03T16:30Z"
+  },
+  {
+    "url": "https://leanghok.bearblog.dev/learning-german/",
+    "title": "Learning German",
+    "author": "https://leanghok.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-04-03T18:18:45.578Z",
+    "last_updated": "2026-04-03T18:18:45.578Z",
+    "published": "2026-04-03T12:41Z"
   }
 ]
