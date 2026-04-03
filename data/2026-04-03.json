@@ -21,36 +21,54 @@
     "url": "https://nothings.bearblog.dev/bearblog-is-home/",
     "title": "bearblog is home",
     "author": "https://nothings.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-03T13:33:36.423Z",
-    "last_updated": "2026-04-03T13:33:36.423Z",
+    "last_updated": "2026-04-03T17:15:19.889Z",
     "published": "2026-04-03T10:34Z"
   },
   {
     "url": "https://chakkie.bearblog.dev/hasan-racial-ambiguity/",
     "title": "Hasan, Me & Racial Ambiguity",
     "author": "https://chakkie.bearblog.dev",
-    "toasts": 12,
+    "toasts": 15,
     "first_seen": "2026-04-03T14:21:03.443Z",
-    "last_updated": "2026-04-03T15:20:44.510Z",
+    "last_updated": "2026-04-03T17:15:19.889Z",
     "published": "2026-04-03T11:50Z"
   },
   {
     "url": "https://xaya-e.bearblog.dev/commissions/",
     "title": "Let me make you some art - Pixel art commissions",
     "author": "https://xaya-e.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-03T14:21:03.443Z",
-    "last_updated": "2026-04-03T16:17:09.663Z",
+    "last_updated": "2026-04-03T17:15:19.889Z",
     "published": "2026-04-03T12:22Z"
   },
   {
     "url": "https://onelastme.bearblog.dev/2233/",
     "title": "我真的比我想象的还要厉害",
     "author": "https://onelastme.bearblog.dev",
-    "toasts": 57,
+    "toasts": 63,
     "first_seen": "2026-04-03T16:17:09.663Z",
-    "last_updated": "2026-04-03T16:17:09.663Z",
+    "last_updated": "2026-04-03T17:15:19.889Z",
     "published": "2026-04-03T03:11Z"
+  },
+  {
+    "url": "https://kami.bearblog.dev/maybe-we-shouldnt-have-to-trust-the-little-guy-when-using-indieweb-services/",
+    "title": "Maybe we shouldn't have to \"trust the little guy\" when using indieweb services",
+    "author": "https://kami.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-04-03T17:15:19.889Z",
+    "last_updated": "2026-04-03T17:15:19.889Z",
+    "published": "2026-04-03T14:55Z"
+  },
+  {
+    "url": "https://robertbirming.com/blog-because-you-want/",
+    "title": "Blog because you want to",
+    "author": "https://robertbirming.com",
+    "toasts": 8,
+    "first_seen": "2026-04-03T17:15:19.889Z",
+    "last_updated": "2026-04-03T17:15:19.889Z",
+    "published": "2026-04-03T16:30Z"
   }
 ]
