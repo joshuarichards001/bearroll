@@ -3,9 +3,9 @@
     "url": "https://rickw.bearblog.dev/youtube-is-junk-food/",
     "title": "YouTube is Junk Food",
     "author": "https://rickw.bearblog.dev",
-    "toasts": 20,
+    "toasts": 24,
     "first_seen": "2026-04-02T14:32:51.178Z",
-    "last_updated": "2026-04-03T07:33:02.678Z",
+    "last_updated": "2026-04-03T09:24:39.806Z",
     "published": "2026-04-02T11:10Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://samsharp.ca/not-forever/",
     "title": "they told me the internet was forever",
     "author": "https://samsharp.ca",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-02T19:25:13.519Z",
-    "last_updated": "2026-04-03T04:51:04.527Z",
+    "last_updated": "2026-04-03T09:24:39.806Z",
     "published": "2026-04-02T18:13Z"
   },
   {
@@ -48,9 +48,36 @@
     "url": "https://robertbirming.com/birming-bulletin-3/",
     "title": "Birming bulletin #3",
     "author": "https://robertbirming.com",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-04-02T22:15:00.890Z",
-    "last_updated": "2026-04-03T08:24:27.618Z",
+    "last_updated": "2026-04-03T09:24:39.806Z",
     "published": "2026-04-02T17:15Z"
+  },
+  {
+    "url": "https://tadaima.bearblog.dev/why-couples-love-board-games/",
+    "title": "Why couples love board games",
+    "author": "https://tadaima.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-03T09:24:39.806Z",
+    "last_updated": "2026-04-03T09:24:39.806Z",
+    "published": "2026-04-02T19:55Z"
+  },
+  {
+    "url": "https://blahg.online/my-favorite-unconventional-animal-spiders/",
+    "title": "my favorite unconventional animal: spiders",
+    "author": "https://blahg.online",
+    "toasts": 9,
+    "first_seen": "2026-04-03T09:24:39.806Z",
+    "last_updated": "2026-04-03T09:24:39.806Z",
+    "published": "2026-04-02T18:47Z"
+  },
+  {
+    "url": "https://moodywarlock.net/why-morons-should-never-be-allowed-near-power/",
+    "title": "Why morons should never be allowed near power",
+    "author": "https://moodywarlock.net",
+    "toasts": 10,
+    "first_seen": "2026-04-03T09:24:39.806Z",
+    "last_updated": "2026-04-03T09:24:39.806Z",
+    "published": "2026-04-02T02:42Z"
   }
 ]
