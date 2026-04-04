@@ -21,63 +21,63 @@
     "url": "https://nothings.bearblog.dev/bearblog-is-home/",
     "title": "bearblog is home",
     "author": "https://nothings.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-04-03T13:33:36.423Z",
-    "last_updated": "2026-04-04T06:28:57.697Z",
+    "last_updated": "2026-04-04T07:26:39.988Z",
     "published": "2026-04-03T10:34Z"
   },
   {
     "url": "https://chakkie.bearblog.dev/hasan-racial-ambiguity/",
     "title": "Hasan, Me & Racial Ambiguity",
     "author": "https://chakkie.bearblog.dev",
-    "toasts": 21,
+    "toasts": 24,
     "first_seen": "2026-04-03T14:21:03.443Z",
-    "last_updated": "2026-04-04T03:07:40.684Z",
+    "last_updated": "2026-04-04T07:26:39.988Z",
     "published": "2026-04-03T11:50Z"
   },
   {
     "url": "https://xaya-e.bearblog.dev/commissions/",
     "title": "Let me make you some art - Pixel art commissions",
     "author": "https://xaya-e.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-04-03T14:21:03.443Z",
-    "last_updated": "2026-04-03T23:15:01.174Z",
+    "last_updated": "2026-04-04T07:26:39.988Z",
     "published": "2026-04-03T12:22Z"
   },
   {
     "url": "https://onelastme.bearblog.dev/2233/",
     "title": "我真的比我想象的还要厉害",
     "author": "https://onelastme.bearblog.dev",
-    "toasts": 91,
+    "toasts": 92,
     "first_seen": "2026-04-03T16:17:09.663Z",
-    "last_updated": "2026-04-04T06:28:57.697Z",
+    "last_updated": "2026-04-04T07:26:39.988Z",
     "published": "2026-04-03T03:11Z"
   },
   {
     "url": "https://kami.bearblog.dev/maybe-we-shouldnt-have-to-trust-the-little-guy-when-using-indieweb-services/",
     "title": "Maybe we shouldn't have to \"trust the little guy\" when using indieweb services",
     "author": "https://kami.bearblog.dev",
-    "toasts": 31,
+    "toasts": 35,
     "first_seen": "2026-04-03T17:15:19.889Z",
-    "last_updated": "2026-04-04T06:28:57.697Z",
+    "last_updated": "2026-04-04T07:26:39.988Z",
     "published": "2026-04-03T14:55Z"
   },
   {
     "url": "https://robertbirming.com/blog-because-you-want/",
     "title": "Blog because you want to",
     "author": "https://robertbirming.com",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-04-03T17:15:19.889Z",
-    "last_updated": "2026-04-04T00:39:50.778Z",
+    "last_updated": "2026-04-04T07:26:39.988Z",
     "published": "2026-04-03T16:30Z"
   },
   {
     "url": "https://leanghok.bearblog.dev/learning-german/",
     "title": "Learning German",
     "author": "https://leanghok.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-04-03T18:18:45.578Z",
-    "last_updated": "2026-04-04T01:39:11.960Z",
+    "last_updated": "2026-04-04T07:26:39.988Z",
     "published": "2026-04-03T12:41Z"
   },
   {
@@ -111,9 +111,27 @@
     "url": "https://foolsgold.bearblog.dev/what-i-dont-like-about-the-analog-movement/",
     "title": "What I don’t like about the analog movement",
     "author": "https://foolsgold.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-04T04:40:19.036Z",
-    "last_updated": "2026-04-04T04:40:19.036Z",
+    "last_updated": "2026-04-04T07:26:39.988Z",
     "published": "2026-04-03T14:23Z"
+  },
+  {
+    "url": "https://unwissen.blog/internet-fur-anfangerinnen/",
+    "title": "Internet für AnfängerInnen",
+    "author": "https://unwissen.blog",
+    "toasts": 9,
+    "first_seen": "2026-04-04T07:26:39.988Z",
+    "last_updated": "2026-04-04T07:26:39.988Z",
+    "published": "2026-04-03T21:56Z"
+  },
+  {
+    "url": "https://robertbirming.com/bearlytics-bear-writing-stats/",
+    "title": "Bearlytics - track your Bear blog writing stats",
+    "author": "https://robertbirming.com",
+    "toasts": 9,
+    "first_seen": "2026-04-04T07:26:39.988Z",
+    "last_updated": "2026-04-04T07:26:39.988Z",
+    "published": "2026-04-03T16:19Z"
   }
 ]
