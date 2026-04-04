@@ -12,27 +12,27 @@
     "url": "https://sususol.bearblog.dev/my-beef-with-social-media-briefly/",
     "title": "my \"beef\" with social media, briefly",
     "author": "https://sususol.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-04-03T08:24:27.618Z",
-    "last_updated": "2026-04-04T16:12:44.171Z",
+    "last_updated": "2026-04-04T22:10:35.228Z",
     "published": "2026-04-03T02:53Z"
   },
   {
     "url": "https://nothings.bearblog.dev/bearblog-is-home/",
     "title": "bearblog is home",
     "author": "https://nothings.bearblog.dev",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-04-03T13:33:36.423Z",
-    "last_updated": "2026-04-04T21:12:17.834Z",
+    "last_updated": "2026-04-04T22:10:35.228Z",
     "published": "2026-04-03T10:34Z"
   },
   {
     "url": "https://chakkie.bearblog.dev/hasan-racial-ambiguity/",
     "title": "Hasan, Me & Racial Ambiguity",
     "author": "https://chakkie.bearblog.dev",
-    "toasts": 38,
+    "toasts": 39,
     "first_seen": "2026-04-03T14:21:03.443Z",
-    "last_updated": "2026-04-04T21:12:17.834Z",
+    "last_updated": "2026-04-04T22:10:35.228Z",
     "published": "2026-04-03T11:50Z"
   },
   {
@@ -66,18 +66,18 @@
     "url": "https://robertbirming.com/blog-because-you-want/",
     "title": "Blog because you want to",
     "author": "https://robertbirming.com",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-04-03T17:15:19.889Z",
-    "last_updated": "2026-04-04T20:11:32.102Z",
+    "last_updated": "2026-04-04T22:10:35.228Z",
     "published": "2026-04-03T16:30Z"
   },
   {
     "url": "https://leanghok.bearblog.dev/learning-german/",
     "title": "Learning German",
     "author": "https://leanghok.bearblog.dev",
-    "toasts": 29,
+    "toasts": 31,
     "first_seen": "2026-04-03T18:18:45.578Z",
-    "last_updated": "2026-04-04T21:12:17.834Z",
+    "last_updated": "2026-04-04T22:10:35.228Z",
     "published": "2026-04-03T12:41Z"
   },
   {
@@ -165,9 +165,18 @@
     "url": "https://streetlightcadence.com/1-for-indie-music/",
     "title": "+1 for indie music",
     "author": "https://streetlightcadence.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-04T18:15:09.832Z",
-    "last_updated": "2026-04-04T18:15:09.832Z",
+    "last_updated": "2026-04-04T22:10:35.228Z",
     "published": "2026-04-03T21:53Z"
+  },
+  {
+    "url": "https://lesflamingos-en.bearblog.dev/its-so-good-to-stay-at-home/",
+    "title": "it's so good to stay at home.",
+    "author": "https://lesflamingos-en.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-04T22:10:35.228Z",
+    "last_updated": "2026-04-04T22:10:35.228Z",
+    "published": "2026-04-03T18:42Z"
   }
 ]
