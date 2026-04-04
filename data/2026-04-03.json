@@ -21,9 +21,9 @@
     "url": "https://nothings.bearblog.dev/bearblog-is-home/",
     "title": "bearblog is home",
     "author": "https://nothings.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-04-03T13:33:36.423Z",
-    "last_updated": "2026-04-04T13:27:25.831Z",
+    "last_updated": "2026-04-04T15:12:41.473Z",
     "published": "2026-04-03T10:34Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://kami.bearblog.dev/maybe-we-shouldnt-have-to-trust-the-little-guy-when-using-indieweb-services/",
     "title": "Maybe we shouldn't have to \"trust the little guy\" when using indieweb services",
     "author": "https://kami.bearblog.dev",
-    "toasts": 53,
+    "toasts": 54,
     "first_seen": "2026-04-03T17:15:19.889Z",
-    "last_updated": "2026-04-04T14:15:45.470Z",
+    "last_updated": "2026-04-04T15:12:41.473Z",
     "published": "2026-04-03T14:55Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-04-04T10:14:46.134Z",
     "last_updated": "2026-04-04T10:14:46.134Z",
     "published": "2026-04-03T21:14Z"
+  },
+  {
+    "url": "https://mattiverse.online/call-to-arts/",
+    "title": "call to arts",
+    "author": "https://mattiverse.online",
+    "toasts": 9,
+    "first_seen": "2026-04-04T15:12:41.473Z",
+    "last_updated": "2026-04-04T15:12:41.473Z",
+    "published": "2026-04-03T19:21Z"
   }
 ]
