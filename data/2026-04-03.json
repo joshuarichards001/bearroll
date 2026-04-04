@@ -21,9 +21,9 @@
     "url": "https://nothings.bearblog.dev/bearblog-is-home/",
     "title": "bearblog is home",
     "author": "https://nothings.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-04-03T13:33:36.423Z",
-    "last_updated": "2026-04-04T01:39:11.960Z",
+    "last_updated": "2026-04-04T04:40:19.036Z",
     "published": "2026-04-03T10:34Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://kami.bearblog.dev/maybe-we-shouldnt-have-to-trust-the-little-guy-when-using-indieweb-services/",
     "title": "Maybe we shouldn't have to \"trust the little guy\" when using indieweb services",
     "author": "https://kami.bearblog.dev",
-    "toasts": 26,
+    "toasts": 27,
     "first_seen": "2026-04-03T17:15:19.889Z",
-    "last_updated": "2026-04-04T03:07:40.684Z",
+    "last_updated": "2026-04-04T04:40:19.036Z",
     "published": "2026-04-03T14:55Z"
   },
   {
@@ -93,9 +93,27 @@
     "url": "https://yordi.me/re-choosing-my-own-standards/",
     "title": "Re: Choosing my own standards",
     "author": "https://yordi.me",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-03T23:15:01.174Z",
-    "last_updated": "2026-04-03T23:15:01.174Z",
+    "last_updated": "2026-04-04T04:40:19.036Z",
     "published": "2026-04-03T16:04Z"
+  },
+  {
+    "url": "https://suhas.org/how-do-mathematicians-reach-consensus/",
+    "title": "How do mathematicians reach consensus?",
+    "author": "https://suhas.org",
+    "toasts": 9,
+    "first_seen": "2026-04-04T04:40:19.036Z",
+    "last_updated": "2026-04-04T04:40:19.036Z",
+    "published": "2026-04-03T17:04Z"
+  },
+  {
+    "url": "https://foolsgold.bearblog.dev/what-i-dont-like-about-the-analog-movement/",
+    "title": "What I don’t like about the analog movement",
+    "author": "https://foolsgold.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-04T04:40:19.036Z",
+    "last_updated": "2026-04-04T04:40:19.036Z",
+    "published": "2026-04-03T14:23Z"
   }
 ]
