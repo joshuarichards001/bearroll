@@ -39,9 +39,9 @@
     "url": "https://xaya-e.bearblog.dev/commissions/",
     "title": "Let me make you some art - Pixel art commissions",
     "author": "https://xaya-e.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-04-03T14:21:03.443Z",
-    "last_updated": "2026-04-04T07:26:39.988Z",
+    "last_updated": "2026-04-04T10:14:46.134Z",
     "published": "2026-04-03T12:22Z"
   },
   {
@@ -57,18 +57,18 @@
     "url": "https://kami.bearblog.dev/maybe-we-shouldnt-have-to-trust-the-little-guy-when-using-indieweb-services/",
     "title": "Maybe we shouldn't have to \"trust the little guy\" when using indieweb services",
     "author": "https://kami.bearblog.dev",
-    "toasts": 40,
+    "toasts": 43,
     "first_seen": "2026-04-03T17:15:19.889Z",
-    "last_updated": "2026-04-04T09:17:59.546Z",
+    "last_updated": "2026-04-04T10:14:46.134Z",
     "published": "2026-04-03T14:55Z"
   },
   {
     "url": "https://robertbirming.com/blog-because-you-want/",
     "title": "Blog because you want to",
     "author": "https://robertbirming.com",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-04-03T17:15:19.889Z",
-    "last_updated": "2026-04-04T08:18:27.207Z",
+    "last_updated": "2026-04-04T10:14:46.134Z",
     "published": "2026-04-03T16:30Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://suhas.org/how-do-mathematicians-reach-consensus/",
     "title": "How do mathematicians reach consensus?",
     "author": "https://suhas.org",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-04-04T04:40:19.036Z",
-    "last_updated": "2026-04-04T08:18:27.207Z",
+    "last_updated": "2026-04-04T10:14:46.134Z",
     "published": "2026-04-03T17:04Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://unwissen.blog/internet-fur-anfangerinnen/",
     "title": "Internet für AnfängerInnen",
     "author": "https://unwissen.blog",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-04T07:26:39.988Z",
-    "last_updated": "2026-04-04T07:26:39.988Z",
+    "last_updated": "2026-04-04T10:14:46.134Z",
     "published": "2026-04-03T21:56Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-04-04T07:26:39.988Z",
     "last_updated": "2026-04-04T07:26:39.988Z",
     "published": "2026-04-03T16:19Z"
+  },
+  {
+    "url": "https://barrel.bearblog.dev/from-hackernews-to-bear/",
+    "title": "From HackerNews to Bear",
+    "author": "https://barrel.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-04T10:14:46.134Z",
+    "last_updated": "2026-04-04T10:14:46.134Z",
+    "published": "2026-04-03T21:14Z"
   }
 ]
