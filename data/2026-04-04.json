@@ -66,9 +66,9 @@
     "url": "https://folkmoss.bearblog.dev/i-think-i-made-a-mistake-more/",
     "title": "I think I made a mistake (& more)",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-05T00:46:17.879Z",
-    "last_updated": "2026-04-05T00:46:17.879Z",
+    "last_updated": "2026-04-05T04:55:40.241Z",
     "published": "2026-04-04T17:46Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-04-05T03:11:04.566Z",
     "last_updated": "2026-04-05T03:11:04.566Z",
     "published": "2026-04-04T23:55Z"
+  },
+  {
+    "url": "https://yordi.me/the-art-of-just-starting/",
+    "title": "The Art of Just Starting",
+    "author": "https://yordi.me",
+    "toasts": 8,
+    "first_seen": "2026-04-05T04:55:40.241Z",
+    "last_updated": "2026-04-05T04:55:40.241Z",
+    "published": "2026-04-04T17:48Z"
   }
 ]
