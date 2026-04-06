@@ -124,5 +124,14 @@
     "first_seen": "2026-04-05T23:13:38.863Z",
     "last_updated": "2026-04-05T23:13:38.863Z",
     "published": "2026-04-04T22:20Z"
+  },
+  {
+    "url": "https://simianwords.bearblog.dev/why-domain-specific-llms-wont-exist-an-intuition/",
+    "title": "Why domain specific LLMs won’t exist: an intuition",
+    "author": "https://simianwords.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-06T12:26:19.922Z",
+    "last_updated": "2026-04-06T12:26:19.922Z",
+    "published": "2026-04-04T18:57Z"
   }
 ]
