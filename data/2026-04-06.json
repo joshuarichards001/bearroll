@@ -30,9 +30,9 @@
     "url": "https://davidmcgee.xyz/i-probably-wont-date-men/",
     "title": "I Probably Won't Date Men",
     "author": "https://davidmcgee.xyz",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-06T11:22:59.275Z",
-    "last_updated": "2026-04-06T15:22:00.962Z",
+    "last_updated": "2026-04-06T18:25:47.557Z",
     "published": "2026-04-06T06:21Z"
   },
   {
@@ -48,9 +48,36 @@
     "url": "https://tala.bearblog.dev/are-you-closing-your-loops/",
     "title": "are you closing your loops?",
     "author": "https://tala.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-04-06T17:22:22.339Z",
-    "last_updated": "2026-04-06T17:22:22.339Z",
+    "last_updated": "2026-04-06T18:25:47.557Z",
     "published": "2026-04-06T15:51Z"
+  },
+  {
+    "url": "https://leah.bearblog.dev/hello-world/",
+    "title": "📸 hello world",
+    "author": "https://leah.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-04-06T18:25:47.557Z",
+    "last_updated": "2026-04-06T18:25:47.557Z",
+    "published": "2026-04-06T16:31Z"
+  },
+  {
+    "url": "https://robertbirming.com/little-lies/",
+    "title": "Little lies",
+    "author": "https://robertbirming.com",
+    "toasts": 7,
+    "first_seen": "2026-04-06T18:25:47.557Z",
+    "last_updated": "2026-04-06T18:25:47.557Z",
+    "published": "2026-04-06T16:29Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/removing-analytics/",
+    "title": "removing analytics",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 7,
+    "first_seen": "2026-04-06T18:25:47.557Z",
+    "last_updated": "2026-04-06T18:25:47.557Z",
+    "published": "2026-04-06T14:00Z"
   }
 ]
