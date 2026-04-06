@@ -75,9 +75,9 @@
     "url": "https://leanghok.bearblog.dev/learning-german/",
     "title": "Learning German",
     "author": "https://leanghok.bearblog.dev",
-    "toasts": 46,
+    "toasts": 47,
     "first_seen": "2026-04-03T18:18:45.578Z",
-    "last_updated": "2026-04-06T09:35:52.088Z",
+    "last_updated": "2026-04-06T13:35:52.958Z",
     "published": "2026-04-03T12:41Z"
   },
   {
@@ -178,5 +178,14 @@
     "first_seen": "2026-04-04T22:10:35.228Z",
     "last_updated": "2026-04-04T22:10:35.228Z",
     "published": "2026-04-03T18:42Z"
+  },
+  {
+    "url": "https://www.wmprkr.xyz/bearblog-editor/",
+    "title": "My BearBlog Editor",
+    "author": "https://www.wmprkr.xyz",
+    "toasts": 10,
+    "first_seen": "2026-04-06T13:35:52.958Z",
+    "last_updated": "2026-04-06T13:35:52.958Z",
+    "published": "2026-04-03T23:22Z"
   }
 ]
