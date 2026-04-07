@@ -3,18 +3,18 @@
     "url": "https://troly-dustroyr.bearblog.dev/kill-the-clout-goblin-inside-your-head/",
     "title": "kill the clout goblin inside your head",
     "author": "https://troly-dustroyr.bearblog.dev",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-04-06T07:38:33.861Z",
-    "last_updated": "2026-04-07T08:33:54.908Z",
+    "last_updated": "2026-04-07T09:31:23.555Z",
     "published": "2026-04-06T03:28Z"
   },
   {
     "url": "https://blog.kevinzwu.com/just-never-read-news/",
     "title": "Just Never Read News",
     "author": "https://blog.kevinzwu.com",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-04-06T07:38:33.861Z",
-    "last_updated": "2026-04-07T03:11:05.995Z",
+    "last_updated": "2026-04-07T09:31:23.555Z",
     "published": "2026-04-06T01:53Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://tala.bearblog.dev/are-you-closing-your-loops/",
     "title": "are you closing your loops?",
     "author": "https://tala.bearblog.dev",
-    "toasts": 25,
+    "toasts": 26,
     "first_seen": "2026-04-06T17:22:22.339Z",
-    "last_updated": "2026-04-07T08:33:54.908Z",
+    "last_updated": "2026-04-07T09:31:23.555Z",
     "published": "2026-04-06T15:51Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://pinewind.bearblog.dev/a-post-about-a-strange-bird/",
     "title": "a post about a strange bird",
     "author": "https://pinewind.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-04-07T03:11:05.995Z",
-    "last_updated": "2026-04-07T03:11:05.995Z",
+    "last_updated": "2026-04-07T09:31:23.555Z",
     "published": "2026-04-06T13:30Z"
   },
   {
@@ -174,9 +174,18 @@
     "url": "https://forkingmad.blog/when-is-a-podcast-not-a-podcast/",
     "title": "When is a Podcast Not a Podcast?",
     "author": "https://forkingmad.blog",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-04-07T07:37:09.943Z",
-    "last_updated": "2026-04-07T07:37:09.943Z",
+    "last_updated": "2026-04-07T09:31:23.555Z",
     "published": "2026-04-06T17:51Z"
+  },
+  {
+    "url": "https://fantaghiro23.bearblog.dev/bear-or-me/",
+    "title": "Bear or me",
+    "author": "https://fantaghiro23.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-07T09:31:23.555Z",
+    "last_updated": "2026-04-07T09:31:23.555Z",
+    "published": "2026-04-06T18:49Z"
   }
 ]
