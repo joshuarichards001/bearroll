@@ -30,9 +30,9 @@
     "url": "https://brettmagill.bearblog.dev/bearblog-is-a-great-community/",
     "title": "Bearblog is a Great Community",
     "author": "https://brettmagill.bearblog.dev",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-04-07T14:40:02.841Z",
-    "last_updated": "2026-04-08T00:44:39.130Z",
+    "last_updated": "2026-04-08T01:40:10.946Z",
     "published": "2026-04-07T10:16Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://blog.absurdpirate.com/my-fellow-americans-grow-a-fucking-spine/",
     "title": "My Fellow Americans, Grow a Fucking Spine",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-04-07T20:17:57.507Z",
-    "last_updated": "2026-04-08T00:44:39.130Z",
+    "last_updated": "2026-04-08T01:40:10.946Z",
     "published": "2026-04-07T18:44Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://littleintents.com/hyperaware-of-race-and-ethnicity/",
     "title": "hyperaware of race and ethnicity",
     "author": "https://littleintents.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-04-07T20:17:57.507Z",
-    "last_updated": "2026-04-07T20:17:57.507Z",
+    "last_updated": "2026-04-08T01:40:10.946Z",
     "published": "2026-04-07T13:21Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-04-08T00:44:39.130Z",
     "last_updated": "2026-04-08T00:44:39.130Z",
     "published": "2026-04-07T21:16Z"
+  },
+  {
+    "url": "https://overthink.bearblog.dev/its-in-the-air/",
+    "title": "It's in the air",
+    "author": "https://overthink.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-08T01:40:10.946Z",
+    "last_updated": "2026-04-08T01:40:10.946Z",
+    "published": "2026-04-07T22:17Z"
   }
 ]
