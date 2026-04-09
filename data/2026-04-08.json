@@ -3,9 +3,9 @@
     "url": "https://www.wmprkr.xyz/bubbles-town/",
     "title": "Good Stuff Bubbles Up 🫧",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 27,
+    "toasts": 28,
     "first_seen": "2026-04-08T07:37:45.470Z",
-    "last_updated": "2026-04-09T04:53:12.596Z",
+    "last_updated": "2026-04-09T05:39:41.061Z",
     "published": "2026-04-08T04:04Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://diels-daydreams.bearblog.dev/being-shy-on-the-internet/",
     "title": "Being shy on the internet",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-04-08T18:34:01.779Z",
-    "last_updated": "2026-04-09T04:53:12.596Z",
+    "last_updated": "2026-04-09T05:39:41.061Z",
     "published": "2026-04-08T17:42Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://grizzlygazette.bearblog.dev/book-club-apr-2026/",
     "title": "Grizzly Gazette Book Club: The Dispossessed by Ursula K. LeGuin",
     "author": "https://grizzlygazette.bearblog.dev",
-    "toasts": 12,
+    "toasts": 16,
     "first_seen": "2026-04-08T22:18:54.497Z",
-    "last_updated": "2026-04-09T04:53:12.596Z",
+    "last_updated": "2026-04-09T05:39:41.061Z",
     "published": "2026-04-08T18:24Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-04-09T03:11:17.590Z",
     "last_updated": "2026-04-09T03:11:17.590Z",
     "published": "2026-04-08T15:35Z"
+  },
+  {
+    "url": "https://gorgonbones.bearblog.dev/class-meat-golem/",
+    "title": "Class: Meat Golem",
+    "author": "https://gorgonbones.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-09T05:39:41.061Z",
+    "last_updated": "2026-04-09T05:39:41.061Z",
+    "published": "2026-04-08T19:37Z"
   }
 ]
