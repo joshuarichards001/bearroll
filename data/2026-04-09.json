@@ -30,9 +30,9 @@
     "url": "https://www.wmprkr.xyz/beware-your-influence/",
     "title": "Beware of Your Influence",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 18,
+    "toasts": 20,
     "first_seen": "2026-04-09T14:45:01.522Z",
-    "last_updated": "2026-04-09T18:27:51.181Z",
+    "last_updated": "2026-04-09T19:32:16.058Z",
     "published": "2026-04-09T12:56Z"
   },
   {
@@ -97,5 +97,23 @@
     "first_seen": "2026-04-09T18:27:51.181Z",
     "last_updated": "2026-04-09T18:27:51.181Z",
     "published": "2026-04-09T13:50Z"
+  },
+  {
+    "url": "https://robertbirming.com/dont-reject-yourself/",
+    "title": "Don't reject yourself",
+    "author": "https://robertbirming.com",
+    "toasts": 7,
+    "first_seen": "2026-04-09T19:32:16.058Z",
+    "last_updated": "2026-04-09T19:32:16.058Z",
+    "published": "2026-04-09T17:36Z"
+  },
+  {
+    "url": "https://unturnedhovel.bearblog.dev/the-rake/",
+    "title": "Class: The Rake",
+    "author": "https://unturnedhovel.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-09T19:32:16.058Z",
+    "last_updated": "2026-04-09T19:32:16.058Z",
+    "published": "2026-04-09T12:23Z"
   }
 ]
