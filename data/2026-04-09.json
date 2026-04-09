@@ -12,9 +12,9 @@
     "url": "https://blog.lauramichet.com/the-most-dehumanizing-train-station-i-regularly-visit/",
     "title": "The most dehumanizing train station I regularly visit",
     "author": "https://blog.lauramichet.com",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-04-09T06:40:52.729Z",
-    "last_updated": "2026-04-09T16:36:46.016Z",
+    "last_updated": "2026-04-09T18:27:51.181Z",
     "published": "2026-04-09T03:40Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://www.wmprkr.xyz/beware-your-influence/",
     "title": "Beware of Your Influence",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 16,
+    "toasts": 18,
     "first_seen": "2026-04-09T14:45:01.522Z",
-    "last_updated": "2026-04-09T17:28:55.425Z",
+    "last_updated": "2026-04-09T18:27:51.181Z",
     "published": "2026-04-09T12:56Z"
   },
   {
@@ -48,18 +48,54 @@
     "url": "https://blog.juneveda.com/what-trauma-does-to-memory/",
     "title": "what trauma does to memory",
     "author": "https://blog.juneveda.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-09T14:45:01.522Z",
-    "last_updated": "2026-04-09T15:38:34.200Z",
+    "last_updated": "2026-04-09T18:27:51.181Z",
     "published": "2026-04-09T02:57Z"
   },
   {
     "url": "https://blog.absurdpirate.com/the-two-moments-that-changed-me-forever/",
     "title": "The Two Moments That Changed Me Forever",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-04-09T16:36:46.016Z",
-    "last_updated": "2026-04-09T17:28:55.425Z",
+    "last_updated": "2026-04-09T18:27:51.181Z",
     "published": "2026-04-09T15:30Z"
+  },
+  {
+    "url": "https://blog.avas.space/thepublic/",
+    "title": "the public",
+    "author": "https://blog.avas.space",
+    "toasts": 7,
+    "first_seen": "2026-04-09T18:27:51.181Z",
+    "last_updated": "2026-04-09T18:27:51.181Z",
+    "published": "2026-04-09T16:45Z"
+  },
+  {
+    "url": "https://jottednotes.bearblog.dev/humbled-by-budgeting-impulse-control/",
+    "title": "humbled by budgeting / impulse control",
+    "author": "https://jottednotes.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-09T18:27:51.181Z",
+    "last_updated": "2026-04-09T18:27:51.181Z",
+    "published": "2026-04-09T16:27Z"
+  },
+  {
+    "url": "https://chakkie.bearblog.dev/the-liberal-veil/",
+    "title": "The Liberal Veil",
+    "author": "https://chakkie.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-09T18:27:51.181Z",
+    "last_updated": "2026-04-09T18:27:51.181Z",
+    "published": "2026-04-09T15:20Z"
+  },
+  {
+    "url": "https://pinewind.bearblog.dev/meditative-everyday-experiences/",
+    "title": "meditative everyday experiences",
+    "author": "https://pinewind.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-09T18:27:51.181Z",
+    "last_updated": "2026-04-09T18:27:51.181Z",
+    "published": "2026-04-09T13:50Z"
   }
 ]
