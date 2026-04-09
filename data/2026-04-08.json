@@ -39,27 +39,27 @@
     "url": "https://robertbirming.com/how-kill-blog/",
     "title": "How to kill a blog",
     "author": "https://robertbirming.com",
-    "toasts": 33,
+    "toasts": 36,
     "first_seen": "2026-04-08T18:34:01.779Z",
-    "last_updated": "2026-04-09T00:37:30.967Z",
+    "last_updated": "2026-04-09T01:40:19.244Z",
     "published": "2026-04-08T17:11Z"
   },
   {
     "url": "https://diels-daydreams.bearblog.dev/being-shy-on-the-internet/",
     "title": "Being shy on the internet",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-04-08T18:34:01.779Z",
-    "last_updated": "2026-04-08T22:18:54.497Z",
+    "last_updated": "2026-04-09T01:40:19.244Z",
     "published": "2026-04-08T17:42Z"
   },
   {
     "url": "https://elmc.at/catmail-3/",
     "title": "CATMAIL #3",
     "author": "https://elmc.at",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-08T20:18:44.434Z",
-    "last_updated": "2026-04-08T21:21:31.104Z",
+    "last_updated": "2026-04-09T01:40:19.244Z",
     "published": "2026-04-08T15:30Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-04-08T22:18:54.497Z",
     "last_updated": "2026-04-08T22:18:54.497Z",
     "published": "2026-04-08T18:24Z"
+  },
+  {
+    "url": "https://simianwords.bearblog.dev/under-these-conditions-llms-basically-never-hallucinates/",
+    "title": "Under these conditions, LLM's basically never hallucinate",
+    "author": "https://simianwords.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-09T01:40:19.244Z",
+    "last_updated": "2026-04-09T01:40:19.244Z",
+    "published": "2026-04-08T20:13Z"
   }
 ]
