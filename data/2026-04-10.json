@@ -66,9 +66,18 @@
     "url": "https://notes.jeddacp.com/finding-my-way-back/",
     "title": "Finding My Way Back",
     "author": "https://notes.jeddacp.com",
-    "toasts": 20,
+    "toasts": 25,
     "first_seen": "2026-04-10T17:22:10.155Z",
-    "last_updated": "2026-04-10T19:23:12.231Z",
+    "last_updated": "2026-04-10T20:18:18.791Z",
     "published": "2026-04-10T16:12Z"
+  },
+  {
+    "url": "https://foolsgold.bearblog.dev/i-wish-everyone-had-a-blog/",
+    "title": "I wish everyone had a blog",
+    "author": "https://foolsgold.bearblog.dev",
+    "toasts": 11,
+    "first_seen": "2026-04-10T20:18:18.791Z",
+    "last_updated": "2026-04-10T20:18:18.791Z",
+    "published": "2026-04-10T08:19Z"
   }
 ]
