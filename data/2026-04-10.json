@@ -3,9 +3,9 @@
     "url": "https://vixiss.bearblog.dev/when-is-it-enough/",
     "title": "when is it enough",
     "author": "https://vixiss.bearblog.dev",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-04-10T05:04:07.905Z",
-    "last_updated": "2026-04-10T16:24:33.306Z",
+    "last_updated": "2026-04-10T17:22:10.155Z",
     "published": "2026-04-10T00:23Z"
   },
   {
@@ -61,5 +61,14 @@
     "first_seen": "2026-04-10T15:22:51.529Z",
     "last_updated": "2026-04-10T16:24:33.306Z",
     "published": "2026-04-10T07:58Z"
+  },
+  {
+    "url": "https://notes.jeddacp.com/finding-my-way-back/",
+    "title": "Finding My Way Back",
+    "author": "https://notes.jeddacp.com",
+    "toasts": 14,
+    "first_seen": "2026-04-10T17:22:10.155Z",
+    "last_updated": "2026-04-10T17:22:10.155Z",
+    "published": "2026-04-10T16:12Z"
   }
 ]
