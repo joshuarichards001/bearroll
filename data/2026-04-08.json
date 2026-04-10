@@ -3,18 +3,18 @@
     "url": "https://www.wmprkr.xyz/bubbles-town/",
     "title": "Good Stuff Bubbles Up 🫧",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 52,
+    "toasts": 53,
     "first_seen": "2026-04-08T07:37:45.470Z",
-    "last_updated": "2026-04-10T13:36:43.026Z",
+    "last_updated": "2026-04-10T14:28:47.923Z",
     "published": "2026-04-08T04:04Z"
   },
   {
     "url": "https://robotameri.ca/internet-gibberish/",
     "title": "an internet of gibberish",
     "author": "https://robotameri.ca",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-04-08T07:37:45.470Z",
-    "last_updated": "2026-04-10T05:04:07.905Z",
+    "last_updated": "2026-04-10T14:28:47.923Z",
     "published": "2026-04-08T04:07Z"
   },
   {
@@ -66,36 +66,36 @@
     "url": "https://combatdavey.net/april-7-2026/",
     "title": "april 7 ofc",
     "author": "https://combatdavey.net",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-04-08T22:18:54.497Z",
-    "last_updated": "2026-04-10T13:36:43.026Z",
+    "last_updated": "2026-04-10T14:28:47.923Z",
     "published": "2026-04-08T03:59Z"
   },
   {
     "url": "https://binarydigit.net/nyan-cat-moon-edition/",
     "title": "Nyan Cat - Moon Edition",
     "author": "https://binarydigit.net",
-    "toasts": 28,
+    "toasts": 29,
     "first_seen": "2026-04-08T22:18:54.497Z",
-    "last_updated": "2026-04-10T13:36:43.026Z",
+    "last_updated": "2026-04-10T14:28:47.923Z",
     "published": "2026-04-08T19:26Z"
   },
   {
     "url": "https://bluemountain.bearblog.dev/todays-advice-eat-the-debuff/",
     "title": "Today's Advice: Eat the Debuff",
     "author": "https://bluemountain.bearblog.dev",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-04-08T22:18:54.497Z",
-    "last_updated": "2026-04-10T13:36:43.026Z",
+    "last_updated": "2026-04-10T14:28:47.923Z",
     "published": "2026-04-08T18:37Z"
   },
   {
     "url": "https://forkingmad.blog/disparaging-nouns/",
     "title": "Disparaging Nouns",
     "author": "https://forkingmad.blog",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-04-08T22:18:54.497Z",
-    "last_updated": "2026-04-10T13:36:43.026Z",
+    "last_updated": "2026-04-10T14:28:47.923Z",
     "published": "2026-04-08T18:33Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://sigkill.sh/bubbles/",
     "title": "Bubbles",
     "author": "https://sigkill.sh",
-    "toasts": 37,
+    "toasts": 39,
     "first_seen": "2026-04-09T03:11:17.590Z",
-    "last_updated": "2026-04-10T13:36:43.026Z",
+    "last_updated": "2026-04-10T14:28:47.923Z",
     "published": "2026-04-08T20:26Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://puppynet.work/im-so-tired-of-generative-ai/",
     "title": "I'm so tired of generative AI.",
     "author": "https://puppynet.work",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-04-09T13:38:52.858Z",
-    "last_updated": "2026-04-10T13:36:43.026Z",
+    "last_updated": "2026-04-10T14:28:47.923Z",
     "published": "2026-04-08T20:58Z"
   },
   {
@@ -192,18 +192,27 @@
     "url": "https://rolesolo.bearblog.dev/almost-a-year-later-reviving-the-blog/",
     "title": "Almost a Year Later, Reviving the Blog",
     "author": "https://rolesolo.bearblog.dev",
-    "toasts": 13,
+    "toasts": 15,
     "first_seen": "2026-04-10T05:04:07.905Z",
-    "last_updated": "2026-04-10T05:04:07.905Z",
+    "last_updated": "2026-04-10T14:28:47.923Z",
     "published": "2026-04-08T16:53Z"
   },
   {
     "url": "https://conniesue.me/noisy-squatters-invade-the-campground/",
     "title": "Noisy Squatters Invade the Campground",
     "author": "https://conniesue.me",
-    "toasts": 13,
+    "toasts": 15,
     "first_seen": "2026-04-10T05:04:07.905Z",
-    "last_updated": "2026-04-10T05:04:07.905Z",
+    "last_updated": "2026-04-10T14:28:47.923Z",
     "published": "2026-04-08T14:14Z"
+  },
+  {
+    "url": "https://quixotic.bearblog.dev/ai-is-average-derogative/",
+    "title": "ai is average (derogative)",
+    "author": "https://quixotic.bearblog.dev",
+    "toasts": 14,
+    "first_seen": "2026-04-10T14:28:47.923Z",
+    "last_updated": "2026-04-10T14:28:47.923Z",
+    "published": "2026-04-08T12:41Z"
   }
 ]
