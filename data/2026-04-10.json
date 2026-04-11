@@ -3,36 +3,36 @@
     "url": "https://vixiss.bearblog.dev/when-is-it-enough/",
     "title": "when is it enough",
     "author": "https://vixiss.bearblog.dev",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-04-10T05:04:07.905Z",
-    "last_updated": "2026-04-10T21:16:14.345Z",
+    "last_updated": "2026-04-11T01:39:44.160Z",
     "published": "2026-04-10T00:23Z"
   },
   {
     "url": "https://www.wmprkr.xyz/bear-roll/",
     "title": "Bear Roll: Never Miss Bear Blog Discovery Again 🐻",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-04-10T06:45:27.742Z",
-    "last_updated": "2026-04-11T00:42:03.636Z",
+    "last_updated": "2026-04-11T01:39:44.160Z",
     "published": "2026-04-10T03:07Z"
   },
   {
     "url": "https://deerhoof.website/the-rich-and-powerful-are-deranged-survivalists/",
     "title": "THE RICH AND POWERFUL ARE DERANGED SURVIVALISTS",
     "author": "https://deerhoof.website",
-    "toasts": 13,
+    "toasts": 22,
     "first_seen": "2026-04-10T14:28:47.923Z",
-    "last_updated": "2026-04-10T23:16:03.173Z",
+    "last_updated": "2026-04-11T01:39:44.160Z",
     "published": "2026-04-10T01:54Z"
   },
   {
     "url": "https://aleksei.dev/natural-language-and-nature/",
     "title": "Natural language and nature",
     "author": "https://aleksei.dev",
-    "toasts": 12,
+    "toasts": 17,
     "first_seen": "2026-04-10T14:28:47.923Z",
-    "last_updated": "2026-04-11T00:42:03.636Z",
+    "last_updated": "2026-04-11T01:39:44.160Z",
     "published": "2026-04-10T01:15Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://marcg.net/a-rant-aimed-at-the-top/",
     "title": "A rant aimed at the top",
     "author": "https://marcg.net",
-    "toasts": 30,
+    "toasts": 41,
     "first_seen": "2026-04-10T15:22:51.529Z",
-    "last_updated": "2026-04-11T00:42:03.636Z",
+    "last_updated": "2026-04-11T01:39:44.160Z",
     "published": "2026-04-10T07:58Z"
   },
   {
@@ -75,9 +75,27 @@
     "url": "https://foolsgold.bearblog.dev/i-wish-everyone-had-a-blog/",
     "title": "I wish everyone had a blog",
     "author": "https://foolsgold.bearblog.dev",
-    "toasts": 13,
+    "toasts": 18,
     "first_seen": "2026-04-10T20:18:18.791Z",
-    "last_updated": "2026-04-10T23:16:03.173Z",
+    "last_updated": "2026-04-11T01:39:44.160Z",
     "published": "2026-04-10T08:19Z"
+  },
+  {
+    "url": "https://puppynet.work/ad-blockers-my-beloved/",
+    "title": "Ad blockers my beloved",
+    "author": "https://puppynet.work",
+    "toasts": 12,
+    "first_seen": "2026-04-11T01:39:44.160Z",
+    "last_updated": "2026-04-11T01:39:44.160Z",
+    "published": "2026-04-10T17:19Z"
+  },
+  {
+    "url": "https://ohmyblog.bearblog.dev/another-plain-text-blog-textplain-blog/",
+    "title": "another plain text blog: TEXT/PLAIN BLOG",
+    "author": "https://ohmyblog.bearblog.dev",
+    "toasts": 11,
+    "first_seen": "2026-04-11T01:39:44.160Z",
+    "last_updated": "2026-04-11T01:39:44.160Z",
+    "published": "2026-04-10T14:23Z"
   }
 ]
