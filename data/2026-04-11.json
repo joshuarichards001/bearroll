@@ -21,18 +21,18 @@
     "url": "https://streetlightcadence.com/oxygen-music-video/",
     "title": "We just released a new song called 'Oxygen'!",
     "author": "https://streetlightcadence.com",
-    "toasts": 27,
+    "toasts": 28,
     "first_seen": "2026-04-11T09:19:34.613Z",
-    "last_updated": "2026-04-13T05:09:45.400Z",
+    "last_updated": "2026-04-13T07:40:46.282Z",
     "published": "2026-04-11T05:03Z"
   },
   {
     "url": "https://moodywarlock.net/bear-blog-and-the-kindness-of-digital-strangers/",
     "title": "Bear Blog and the kindness of digital strangers",
     "author": "https://moodywarlock.net",
-    "toasts": 42,
+    "toasts": 43,
     "first_seen": "2026-04-11T13:28:30.713Z",
-    "last_updated": "2026-04-13T05:09:45.400Z",
+    "last_updated": "2026-04-13T07:40:46.282Z",
     "published": "2026-04-11T09:04Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-04-13T03:13:27.059Z",
     "last_updated": "2026-04-13T03:13:27.059Z",
     "published": "2026-04-11T13:37Z"
+  },
+  {
+    "url": "https://intisar.blog/the-logic-of-little-habits/",
+    "title": "Logic of Little Habits",
+    "author": "https://intisar.blog",
+    "toasts": 12,
+    "first_seen": "2026-04-13T07:40:46.282Z",
+    "last_updated": "2026-04-13T07:40:46.282Z",
+    "published": "2026-04-11T15:46Z"
   }
 ]
