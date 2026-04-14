@@ -8,9 +8,20 @@ export function GET(context: APIContext) {
 
   // Skip today (still accumulating) and include yesterday only after 9am UTC,
   // giving toasts time to settle overnight before the feed updates.
-  const utcHour = new Date().getUTCHours();
-  const skip = utcHour >= 9 ? 1 : 2;
-  const dates = allDates.slice(skip, skip + 14);
+  const now = new Date();
+  const todayStr = now.toISOString().slice(0, 10);
+  const yesterday = new Date(now);
+  yesterday.setUTCDate(yesterday.getUTCDate() - 1);
+  const yesterdayStr = yesterday.toISOString().slice(0, 10);
+  const utcHour = now.getUTCHours();
+
+  const dates = allDates
+    .filter((date) => {
+      if (date === todayStr) return false;
+      if (date === yesterdayStr && utcHour < 9) return false;
+      return true;
+    })
+    .slice(0, 14);
 
   if (dates.length === 0) {
     return new Response("No data available", { status: 404 });
