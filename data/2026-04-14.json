@@ -3,9 +3,9 @@
     "url": "https://woolgathering.bearblog.dev/one-ticket-for-two-movies-please/",
     "title": "one ticket for two movies, please!",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 30,
+    "toasts": 31,
     "first_seen": "2026-04-14T08:41:30.115Z",
-    "last_updated": "2026-04-15T03:12:02.340Z",
+    "last_updated": "2026-04-15T05:02:58.806Z",
     "published": "2026-04-14T05:39Z"
   },
   {
@@ -21,18 +21,18 @@
     "url": "https://ulik.bearblog.dev/malicious-anti-adblocking/",
     "title": "Malicious anti-adblocking",
     "author": "https://ulik.bearblog.dev",
-    "toasts": 53,
+    "toasts": 55,
     "first_seen": "2026-04-14T13:39:07.337Z",
-    "last_updated": "2026-04-15T03:12:02.340Z",
+    "last_updated": "2026-04-15T05:02:58.806Z",
     "published": "2026-04-14T10:39Z"
   },
   {
     "url": "https://www.wmprkr.xyz/the-kindness-of-digital-strangers/",
     "title": "The Kindness of Digital Strangers",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 34,
+    "toasts": 36,
     "first_seen": "2026-04-14T13:39:07.337Z",
-    "last_updated": "2026-04-15T03:12:02.340Z",
+    "last_updated": "2026-04-15T05:02:58.806Z",
     "published": "2026-04-14T12:19Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://www.wmprkr.xyz/the-small-web-delivers-again/",
     "title": "The Small Web Delivers Again",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-04-14T13:39:07.337Z",
-    "last_updated": "2026-04-15T00:48:51.475Z",
+    "last_updated": "2026-04-15T05:02:58.806Z",
     "published": "2026-04-14T05:00Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://robertbirming.com/fear-upvote-button/",
     "title": "Don't fear the upvote button",
     "author": "https://robertbirming.com",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-04-14T19:34:33.379Z",
-    "last_updated": "2026-04-15T03:12:02.340Z",
+    "last_updated": "2026-04-15T05:02:58.806Z",
     "published": "2026-04-14T14:44Z"
   },
   {
@@ -93,9 +93,36 @@
     "url": "https://thereabouts.bearblog.dev/why-you-should-write-stuff-down-and-document-things/",
     "title": "why you should write stuff down and document things",
     "author": "https://thereabouts.bearblog.dev",
-    "toasts": 14,
+    "toasts": 16,
     "first_seen": "2026-04-15T00:48:51.475Z",
-    "last_updated": "2026-04-15T03:12:02.340Z",
+    "last_updated": "2026-04-15T05:02:58.806Z",
     "published": "2026-04-14T17:08Z"
+  },
+  {
+    "url": "https://electronicink.xyz/my-personal-archive-system/",
+    "title": "My Personal Archive System",
+    "author": "https://electronicink.xyz",
+    "toasts": 12,
+    "first_seen": "2026-04-15T05:02:58.806Z",
+    "last_updated": "2026-04-15T05:02:58.806Z",
+    "published": "2026-04-14T10:48Z"
+  },
+  {
+    "url": "https://megancarnes.blog/please-wishlist-divinuet-on-steam/",
+    "title": "Please wishlist Divinuet on Steam!",
+    "author": "https://megancarnes.blog",
+    "toasts": 10,
+    "first_seen": "2026-04-15T05:02:58.806Z",
+    "last_updated": "2026-04-15T05:02:58.806Z",
+    "published": "2026-04-14T16:31Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/retro-is-the-future/",
+    "title": "Retro is the Future",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 10,
+    "first_seen": "2026-04-15T05:02:58.806Z",
+    "last_updated": "2026-04-15T05:02:58.806Z",
+    "published": "2026-04-14T14:07Z"
   }
 ]
