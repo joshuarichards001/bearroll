@@ -21,9 +21,9 @@
     "url": "https://mikkolaksola.com/pay-the-subscription-fee/",
     "title": "pay the subscription fee",
     "author": "https://mikkolaksola.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-15T16:29:02.701Z",
-    "last_updated": "2026-04-15T18:32:27.023Z",
+    "last_updated": "2026-04-15T21:23:17.849Z",
     "published": "2026-04-15T08:51Z"
   },
   {
@@ -34,5 +34,23 @@
     "first_seen": "2026-04-15T17:29:12.064Z",
     "last_updated": "2026-04-15T17:29:12.064Z",
     "published": "2026-04-15T05:28Z"
+  },
+  {
+    "url": "https://magmacranes.bearblog.dev/fyi-my-custom-domain-is-gone/",
+    "title": "FYI, my custom domain is gone",
+    "author": "https://magmacranes.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-15T21:23:17.849Z",
+    "last_updated": "2026-04-15T21:23:17.849Z",
+    "published": "2026-04-15T18:17Z"
+  },
+  {
+    "url": "https://robertbirming.com/every-post-perfect/",
+    "title": "Every post is perfect",
+    "author": "https://robertbirming.com",
+    "toasts": 9,
+    "first_seen": "2026-04-15T21:23:17.849Z",
+    "last_updated": "2026-04-15T21:23:17.849Z",
+    "published": "2026-04-15T16:22Z"
   }
 ]
