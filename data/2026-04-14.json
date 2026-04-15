@@ -12,27 +12,27 @@
     "url": "https://bour.ch/ai-bug-bounty/",
     "title": "AI in Bug Bounty - Thinking First Prompting Second",
     "author": "https://bour.ch",
-    "toasts": 28,
+    "toasts": 29,
     "first_seen": "2026-04-14T10:34:54.225Z",
-    "last_updated": "2026-04-15T03:12:02.340Z",
+    "last_updated": "2026-04-15T06:45:47.309Z",
     "published": "2026-04-14T06:07Z"
   },
   {
     "url": "https://ulik.bearblog.dev/malicious-anti-adblocking/",
     "title": "Malicious anti-adblocking",
     "author": "https://ulik.bearblog.dev",
-    "toasts": 55,
+    "toasts": 56,
     "first_seen": "2026-04-14T13:39:07.337Z",
-    "last_updated": "2026-04-15T05:02:58.806Z",
+    "last_updated": "2026-04-15T06:45:47.309Z",
     "published": "2026-04-14T10:39Z"
   },
   {
     "url": "https://www.wmprkr.xyz/the-kindness-of-digital-strangers/",
     "title": "The Kindness of Digital Strangers",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 36,
+    "toasts": 38,
     "first_seen": "2026-04-14T13:39:07.337Z",
-    "last_updated": "2026-04-15T05:02:58.806Z",
+    "last_updated": "2026-04-15T06:45:47.309Z",
     "published": "2026-04-14T12:19Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://blog.absurdpirate.com/retro-is-the-future/",
     "title": "Retro is the Future",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-04-15T05:02:58.806Z",
-    "last_updated": "2026-04-15T05:02:58.806Z",
+    "last_updated": "2026-04-15T06:45:47.309Z",
     "published": "2026-04-14T14:07Z"
   }
 ]
