@@ -21,18 +21,18 @@
     "url": "https://ulik.bearblog.dev/malicious-anti-adblocking/",
     "title": "Malicious anti-adblocking",
     "author": "https://ulik.bearblog.dev",
-    "toasts": 63,
+    "toasts": 64,
     "first_seen": "2026-04-14T13:39:07.337Z",
-    "last_updated": "2026-04-15T17:29:12.064Z",
+    "last_updated": "2026-04-15T22:19:36.737Z",
     "published": "2026-04-14T10:39Z"
   },
   {
     "url": "https://www.wmprkr.xyz/the-kindness-of-digital-strangers/",
     "title": "The Kindness of Digital Strangers",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 46,
+    "toasts": 47,
     "first_seen": "2026-04-14T13:39:07.337Z",
-    "last_updated": "2026-04-15T20:23:10.269Z",
+    "last_updated": "2026-04-15T22:19:36.737Z",
     "published": "2026-04-14T12:19Z"
   },
   {
@@ -66,18 +66,18 @@
     "url": "https://prasatt.me/make-vices-social/",
     "title": "Make “vices” social",
     "author": "https://prasatt.me",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-04-14T15:32:02.567Z",
-    "last_updated": "2026-04-15T15:33:34.205Z",
+    "last_updated": "2026-04-15T22:19:36.737Z",
     "published": "2026-04-14T12:53Z"
   },
   {
     "url": "https://robertbirming.com/fear-upvote-button/",
     "title": "Don't fear the upvote button",
     "author": "https://robertbirming.com",
-    "toasts": 28,
+    "toasts": 30,
     "first_seen": "2026-04-14T19:34:33.379Z",
-    "last_updated": "2026-04-15T17:29:12.064Z",
+    "last_updated": "2026-04-15T22:19:36.737Z",
     "published": "2026-04-14T14:44Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://thereabouts.bearblog.dev/why-you-should-write-stuff-down-and-document-things/",
     "title": "why you should write stuff down and document things",
     "author": "https://thereabouts.bearblog.dev",
-    "toasts": 36,
+    "toasts": 39,
     "first_seen": "2026-04-15T00:48:51.475Z",
-    "last_updated": "2026-04-15T21:23:17.849Z",
+    "last_updated": "2026-04-15T22:19:36.737Z",
     "published": "2026-04-14T17:08Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://blog.absurdpirate.com/retro-is-the-future/",
     "title": "Retro is the Future",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-04-15T05:02:58.806Z",
-    "last_updated": "2026-04-15T20:23:10.269Z",
+    "last_updated": "2026-04-15T22:19:36.737Z",
     "published": "2026-04-14T14:07Z"
   },
   {
@@ -151,5 +151,14 @@
     "first_seen": "2026-04-15T19:35:21.748Z",
     "last_updated": "2026-04-15T21:23:17.849Z",
     "published": "2026-04-14T01:16Z"
+  },
+  {
+    "url": "https://tomi.bearblog.dev/henceforth/",
+    "title": "Keep going. Keep writing. Hit Publish when you’re ready",
+    "author": "https://tomi.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-04-15T22:19:36.737Z",
+    "last_updated": "2026-04-15T22:19:36.737Z",
+    "published": "2026-04-14T16:07Z"
   }
 ]
