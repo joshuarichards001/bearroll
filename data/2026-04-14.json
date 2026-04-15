@@ -93,9 +93,9 @@
     "url": "https://thereabouts.bearblog.dev/why-you-should-write-stuff-down-and-document-things/",
     "title": "why you should write stuff down and document things",
     "author": "https://thereabouts.bearblog.dev",
-    "toasts": 26,
+    "toasts": 28,
     "first_seen": "2026-04-15T00:48:51.475Z",
-    "last_updated": "2026-04-15T18:32:27.023Z",
+    "last_updated": "2026-04-15T19:35:21.748Z",
     "published": "2026-04-14T17:08Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://tuesdaynight.blog/jon/",
     "title": "Jon the Bunny",
     "author": "https://tuesdaynight.blog",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-04-15T13:38:38.849Z",
-    "last_updated": "2026-04-15T13:38:38.849Z",
+    "last_updated": "2026-04-15T19:35:21.748Z",
     "published": "2026-04-14T22:34Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-04-15T18:32:27.023Z",
     "last_updated": "2026-04-15T18:32:27.023Z",
     "published": "2026-04-14T16:31Z"
+  },
+  {
+    "url": "https://thereabouts.bearblog.dev/i-got-in-great-shape-with-bad-workouts/",
+    "title": "I got in great shape with bad workouts",
+    "author": "https://thereabouts.bearblog.dev",
+    "toasts": 11,
+    "first_seen": "2026-04-15T19:35:21.748Z",
+    "last_updated": "2026-04-15T19:35:21.748Z",
+    "published": "2026-04-14T01:16Z"
   }
 ]
