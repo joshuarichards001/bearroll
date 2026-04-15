@@ -3,9 +3,9 @@
     "url": "https://elmc.at/fullstack-refereeing/",
     "title": "Fullstack Refereeing",
     "author": "https://elmc.at",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-04-15T15:33:34.205Z",
-    "last_updated": "2026-04-15T15:33:34.205Z",
+    "last_updated": "2026-04-15T16:29:02.701Z",
     "published": "2026-04-15T12:15Z"
   },
   {
@@ -16,5 +16,14 @@
     "first_seen": "2026-04-15T15:33:34.205Z",
     "last_updated": "2026-04-15T15:33:34.205Z",
     "published": "2026-04-15T11:50Z"
+  },
+  {
+    "url": "https://mikkolaksola.com/pay-the-subscription-fee/",
+    "title": "pay the subscription fee",
+    "author": "https://mikkolaksola.com",
+    "toasts": 9,
+    "first_seen": "2026-04-15T16:29:02.701Z",
+    "last_updated": "2026-04-15T16:29:02.701Z",
+    "published": "2026-04-15T08:51Z"
   }
 ]
