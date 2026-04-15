@@ -12,54 +12,54 @@
     "url": "https://bour.ch/ai-bug-bounty/",
     "title": "AI in Bug Bounty - Thinking First Prompting Second",
     "author": "https://bour.ch",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-04-14T10:34:54.225Z",
-    "last_updated": "2026-04-14T22:20:59.957Z",
+    "last_updated": "2026-04-15T00:48:51.475Z",
     "published": "2026-04-14T06:07Z"
   },
   {
     "url": "https://ulik.bearblog.dev/malicious-anti-adblocking/",
     "title": "Malicious anti-adblocking",
     "author": "https://ulik.bearblog.dev",
-    "toasts": 46,
+    "toasts": 51,
     "first_seen": "2026-04-14T13:39:07.337Z",
-    "last_updated": "2026-04-14T22:20:59.957Z",
+    "last_updated": "2026-04-15T00:48:51.475Z",
     "published": "2026-04-14T10:39Z"
   },
   {
     "url": "https://www.wmprkr.xyz/the-kindness-of-digital-strangers/",
     "title": "The Kindness of Digital Strangers",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 31,
+    "toasts": 32,
     "first_seen": "2026-04-14T13:39:07.337Z",
-    "last_updated": "2026-04-14T23:21:09.100Z",
+    "last_updated": "2026-04-15T00:48:51.475Z",
     "published": "2026-04-14T12:19Z"
   },
   {
     "url": "https://myjourneywithdepression.com/watching-a-transgender-woman-on-the-internet-crying-5-times/",
     "title": "Watching \"A Transgender Woman on the Internet, Crying\" 5 Times",
     "author": "https://myjourneywithdepression.com",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-04-14T13:39:07.337Z",
-    "last_updated": "2026-04-14T23:21:09.100Z",
+    "last_updated": "2026-04-15T00:48:51.475Z",
     "published": "2026-04-14T07:55Z"
   },
   {
     "url": "https://www.wmprkr.xyz/the-small-web-delivers-again/",
     "title": "The Small Web Delivers Again",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-04-14T13:39:07.337Z",
-    "last_updated": "2026-04-14T20:25:23.286Z",
+    "last_updated": "2026-04-15T00:48:51.475Z",
     "published": "2026-04-14T05:00Z"
   },
   {
     "url": "https://moodywarlock.net/trump-the-antichrist-and-grand-narratives/",
     "title": "Trump, the Antichrist, grand narratives, and illusions",
     "author": "https://moodywarlock.net",
-    "toasts": 13,
+    "toasts": 16,
     "first_seen": "2026-04-14T15:32:02.567Z",
-    "last_updated": "2026-04-14T20:25:23.286Z",
+    "last_updated": "2026-04-15T00:48:51.475Z",
     "published": "2026-04-14T09:51Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-04-14T23:21:09.100Z",
     "last_updated": "2026-04-14T23:21:09.100Z",
     "published": "2026-04-14T19:30Z"
+  },
+  {
+    "url": "https://thereabouts.bearblog.dev/why-you-should-write-stuff-down-and-document-things/",
+    "title": "why you should write stuff down and document things",
+    "author": "https://thereabouts.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-04-15T00:48:51.475Z",
+    "last_updated": "2026-04-15T00:48:51.475Z",
+    "published": "2026-04-14T17:08Z"
   }
 ]
