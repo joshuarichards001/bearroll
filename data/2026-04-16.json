@@ -3,18 +3,18 @@
     "url": "https://cherrysroom.bearblog.dev/why-does-the-algorithm-think-so-a-guessing-game/",
     "title": "why does the algorithm think so? a guessing game",
     "author": "https://cherrysroom.bearblog.dev",
-    "toasts": 45,
+    "toasts": 46,
     "first_seen": "2026-04-16T08:41:34.886Z",
-    "last_updated": "2026-04-16T21:20:45.165Z",
+    "last_updated": "2026-04-16T22:19:11.890Z",
     "published": "2026-04-16T05:02Z"
   },
   {
     "url": "https://blog.lauramichet.com/gen-z-water/",
     "title": "Gen Z water",
     "author": "https://blog.lauramichet.com",
-    "toasts": 47,
+    "toasts": 50,
     "first_seen": "2026-04-16T16:39:27.929Z",
-    "last_updated": "2026-04-16T21:20:45.165Z",
+    "last_updated": "2026-04-16T22:19:11.890Z",
     "published": "2026-04-16T06:29Z"
   },
   {
@@ -52,5 +52,23 @@
     "first_seen": "2026-04-16T20:21:18.667Z",
     "last_updated": "2026-04-16T20:21:18.667Z",
     "published": "2026-04-16T03:41Z"
+  },
+  {
+    "url": "https://untidy.bearblog.dev/ignoring-my-writing/",
+    "title": "Ignoring my writing",
+    "author": "https://untidy.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-16T22:19:11.890Z",
+    "last_updated": "2026-04-16T22:19:11.890Z",
+    "published": "2026-04-16T17:44Z"
+  },
+  {
+    "url": "https://zeina.bearblog.dev/the-perils-of-imperfect-politics/",
+    "title": "The perils of imperfect politics",
+    "author": "https://zeina.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-16T22:19:11.890Z",
+    "last_updated": "2026-04-16T22:19:11.890Z",
+    "published": "2026-04-16T14:14Z"
   }
 ]

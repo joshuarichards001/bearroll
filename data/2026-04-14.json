@@ -93,9 +93,9 @@
     "url": "https://thereabouts.bearblog.dev/why-you-should-write-stuff-down-and-document-things/",
     "title": "why you should write stuff down and document things",
     "author": "https://thereabouts.bearblog.dev",
-    "toasts": 97,
+    "toasts": 99,
     "first_seen": "2026-04-15T00:48:51.475Z",
-    "last_updated": "2026-04-16T20:21:18.667Z",
+    "last_updated": "2026-04-16T22:19:11.890Z",
     "published": "2026-04-14T17:08Z"
   },
   {
@@ -165,9 +165,18 @@
     "url": "https://logs.bearblog.dev/aprendendo-a-melhorar-o-bear/",
     "title": "Aprendendo a melhorar o Bear",
     "author": "https://logs.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-16T00:50:27.465Z",
-    "last_updated": "2026-04-16T00:50:27.465Z",
+    "last_updated": "2026-04-16T22:19:11.890Z",
     "published": "2026-04-14T12:26Z"
+  },
+  {
+    "url": "https://ev-fae.quest/send-email-out-of-the-blue/",
+    "title": "Send email out of the blue",
+    "author": "https://ev-fae.quest",
+    "toasts": 12,
+    "first_seen": "2026-04-16T22:19:11.890Z",
+    "last_updated": "2026-04-16T22:19:11.890Z",
+    "published": "2026-04-14T17:15Z"
   }
 ]
