@@ -3,9 +3,9 @@
     "url": "https://elmc.at/fullstack-refereeing/",
     "title": "Fullstack Refereeing",
     "author": "https://elmc.at",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-04-15T15:33:34.205Z",
-    "last_updated": "2026-04-16T07:39:10.716Z",
+    "last_updated": "2026-04-16T08:41:34.886Z",
     "published": "2026-04-15T12:15Z"
   },
   {
@@ -57,18 +57,18 @@
     "url": "https://www.wmprkr.xyz/integrating-bubbles-with-bearblog/",
     "title": "Integrating Bubbles with BearBlog",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-04-15T23:21:26.971Z",
-    "last_updated": "2026-04-16T00:50:27.465Z",
+    "last_updated": "2026-04-16T08:41:34.886Z",
     "published": "2026-04-15T16:16Z"
   },
   {
     "url": "https://ato.yt/bringing-back-youtubes-video-responses/",
     "title": "Bringing back YouTube's Video Responses to build communities",
     "author": "https://ato.yt",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-04-16T00:50:27.465Z",
-    "last_updated": "2026-04-16T05:07:00.183Z",
+    "last_updated": "2026-04-16T08:41:34.886Z",
     "published": "2026-04-15T19:10Z"
   },
   {
@@ -84,18 +84,18 @@
     "url": "https://aleksei.dev/code-is-not-even-close-to-half-the-battle/",
     "title": "Code is not even close to half the battle",
     "author": "https://aleksei.dev",
-    "toasts": 11,
+    "toasts": 35,
     "first_seen": "2026-04-16T01:40:12.191Z",
-    "last_updated": "2026-04-16T07:39:10.716Z",
+    "last_updated": "2026-04-16T08:41:34.886Z",
     "published": "2026-04-15T20:25Z"
   },
   {
     "url": "https://scribblypam.bearblog.dev/are-you-closing-your-loops/",
     "title": "re: are you closing your loops?",
     "author": "https://scribblypam.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-16T01:40:12.191Z",
-    "last_updated": "2026-04-16T06:46:31.909Z",
+    "last_updated": "2026-04-16T08:41:34.886Z",
     "published": "2026-04-15T20:52Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://blog.absurdpirate.com/you-should-date-yourself/",
     "title": "You Should Date Yourself",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 9,
+    "toasts": 25,
     "first_seen": "2026-04-16T05:07:00.183Z",
-    "last_updated": "2026-04-16T05:07:00.183Z",
+    "last_updated": "2026-04-16T08:41:34.886Z",
     "published": "2026-04-15T17:52Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-04-16T06:46:31.909Z",
     "last_updated": "2026-04-16T06:46:31.909Z",
     "published": "2026-04-15T22:12Z"
+  },
+  {
+    "url": "https://blog.spu.io/why-choose-bearblog/",
+    "title": "Why choose Bearblog?",
+    "author": "https://blog.spu.io",
+    "toasts": 9,
+    "first_seen": "2026-04-16T08:41:34.886Z",
+    "last_updated": "2026-04-16T08:41:34.886Z",
+    "published": "2026-04-15T21:58Z"
   }
 ]
