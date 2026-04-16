@@ -3,9 +3,9 @@
     "url": "https://elmc.at/fullstack-refereeing/",
     "title": "Fullstack Refereeing",
     "author": "https://elmc.at",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-15T15:33:34.205Z",
-    "last_updated": "2026-04-15T16:29:02.701Z",
+    "last_updated": "2026-04-16T01:40:12.191Z",
     "published": "2026-04-15T12:15Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://www.wmprkr.xyz/re-stuck-on-the-now-page/",
     "title": "re: Stuck on the now page",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-15T17:29:12.064Z",
-    "last_updated": "2026-04-15T17:29:12.064Z",
+    "last_updated": "2026-04-16T01:40:12.191Z",
     "published": "2026-04-15T05:28Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://robertbirming.com/every-post-perfect/",
     "title": "Every post is perfect",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-15T21:23:17.849Z",
-    "last_updated": "2026-04-15T21:23:17.849Z",
+    "last_updated": "2026-04-16T01:40:12.191Z",
     "published": "2026-04-15T16:22Z"
   },
   {
@@ -75,9 +75,45 @@
     "url": "https://reeseappalachiantrail.bearblog.dev/squirter/",
     "title": "Squirter!!!",
     "author": "https://reeseappalachiantrail.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-04-16T00:50:27.465Z",
-    "last_updated": "2026-04-16T00:50:27.465Z",
+    "last_updated": "2026-04-16T01:40:12.191Z",
     "published": "2026-04-15T01:56Z"
+  },
+  {
+    "url": "https://aleksei.dev/code-is-not-even-close-to-half-the-battle/",
+    "title": "Code is not even close to half the battle",
+    "author": "https://aleksei.dev",
+    "toasts": 10,
+    "first_seen": "2026-04-16T01:40:12.191Z",
+    "last_updated": "2026-04-16T01:40:12.191Z",
+    "published": "2026-04-15T20:25Z"
+  },
+  {
+    "url": "https://scribblypam.bearblog.dev/are-you-closing-your-loops/",
+    "title": "re: are you closing your loops?",
+    "author": "https://scribblypam.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-16T01:40:12.191Z",
+    "last_updated": "2026-04-16T01:40:12.191Z",
+    "published": "2026-04-15T20:52Z"
+  },
+  {
+    "url": "https://combatdavey.net/this-is-stupid-neo-financial-email/",
+    "title": "this is stupid",
+    "author": "https://combatdavey.net",
+    "toasts": 9,
+    "first_seen": "2026-04-16T01:40:12.191Z",
+    "last_updated": "2026-04-16T01:40:12.191Z",
+    "published": "2026-04-15T18:11Z"
+  },
+  {
+    "url": "https://livingkindfully.bearblog.dev/i-reached-out-to-my-very-sick-friend/",
+    "title": "I Reached Out to My Very Sick Friend",
+    "author": "https://livingkindfully.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-16T01:40:12.191Z",
+    "last_updated": "2026-04-16T01:40:12.191Z",
+    "published": "2026-04-15T16:46Z"
   }
 ]
