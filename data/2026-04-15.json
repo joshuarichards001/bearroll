@@ -21,9 +21,9 @@
     "url": "https://mikkolaksola.com/pay-the-subscription-fee/",
     "title": "pay the subscription fee",
     "author": "https://mikkolaksola.com",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-04-15T16:29:02.701Z",
-    "last_updated": "2026-04-16T00:50:27.465Z",
+    "last_updated": "2026-04-16T05:07:00.183Z",
     "published": "2026-04-15T08:51Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://magmacranes.bearblog.dev/fyi-my-custom-domain-is-gone/",
     "title": "FYI, my custom domain is gone",
     "author": "https://magmacranes.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-04-15T21:23:17.849Z",
-    "last_updated": "2026-04-16T00:50:27.465Z",
+    "last_updated": "2026-04-16T05:07:00.183Z",
     "published": "2026-04-15T18:17Z"
   },
   {
     "url": "https://robertbirming.com/every-post-perfect/",
     "title": "Every post is perfect",
     "author": "https://robertbirming.com",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-04-15T21:23:17.849Z",
-    "last_updated": "2026-04-16T01:40:12.191Z",
+    "last_updated": "2026-04-16T05:07:00.183Z",
     "published": "2026-04-15T16:22Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://ato.yt/bringing-back-youtubes-video-responses/",
     "title": "Bringing back YouTube's Video Responses to build communities",
     "author": "https://ato.yt",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-16T00:50:27.465Z",
-    "last_updated": "2026-04-16T00:50:27.465Z",
+    "last_updated": "2026-04-16T05:07:00.183Z",
     "published": "2026-04-15T19:10Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://scribblypam.bearblog.dev/are-you-closing-your-loops/",
     "title": "re: are you closing your loops?",
     "author": "https://scribblypam.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-16T01:40:12.191Z",
-    "last_updated": "2026-04-16T01:40:12.191Z",
+    "last_updated": "2026-04-16T05:07:00.183Z",
     "published": "2026-04-15T20:52Z"
   },
   {
@@ -115,5 +115,14 @@
     "first_seen": "2026-04-16T01:40:12.191Z",
     "last_updated": "2026-04-16T01:40:12.191Z",
     "published": "2026-04-15T16:46Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/you-should-date-yourself/",
+    "title": "You Should Date Yourself",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 9,
+    "first_seen": "2026-04-16T05:07:00.183Z",
+    "last_updated": "2026-04-16T05:07:00.183Z",
+    "published": "2026-04-15T17:52Z"
   }
 ]
