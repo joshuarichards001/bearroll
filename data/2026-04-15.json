@@ -21,9 +21,9 @@
     "url": "https://mikkolaksola.com/pay-the-subscription-fee/",
     "title": "pay the subscription fee",
     "author": "https://mikkolaksola.com",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-04-15T16:29:02.701Z",
-    "last_updated": "2026-04-16T10:34:45.466Z",
+    "last_updated": "2026-04-16T11:29:04.894Z",
     "published": "2026-04-15T08:51Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://aleksei.dev/code-is-not-even-close-to-half-the-battle/",
     "title": "Code is not even close to half the battle",
     "author": "https://aleksei.dev",
-    "toasts": 39,
+    "toasts": 43,
     "first_seen": "2026-04-16T01:40:12.191Z",
-    "last_updated": "2026-04-16T10:34:45.466Z",
+    "last_updated": "2026-04-16T11:29:04.894Z",
     "published": "2026-04-15T20:25Z"
   },
   {
@@ -129,18 +129,18 @@
     "url": "https://foolsgold.bearblog.dev/about-my-daily-blogging-experiment/",
     "title": "About my daily blogging experiment",
     "author": "https://foolsgold.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-16T06:46:31.909Z",
-    "last_updated": "2026-04-16T06:46:31.909Z",
+    "last_updated": "2026-04-16T11:29:04.894Z",
     "published": "2026-04-15T22:12Z"
   },
   {
     "url": "https://blog.spu.io/why-choose-bearblog/",
     "title": "Why choose Bearblog?",
     "author": "https://blog.spu.io",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-16T08:41:34.886Z",
-    "last_updated": "2026-04-16T10:34:45.466Z",
+    "last_updated": "2026-04-16T11:29:04.894Z",
     "published": "2026-04-15T21:58Z"
   }
 ]
