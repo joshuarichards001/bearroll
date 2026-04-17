@@ -57,18 +57,18 @@
     "url": "https://untidy.bearblog.dev/ignoring-my-writing/",
     "title": "Ignoring my writing",
     "author": "https://untidy.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-04-16T22:19:11.890Z",
-    "last_updated": "2026-04-17T09:38:11.264Z",
+    "last_updated": "2026-04-17T15:28:33.081Z",
     "published": "2026-04-16T17:44Z"
   },
   {
     "url": "https://zeina.bearblog.dev/the-perils-of-imperfect-politics/",
     "title": "The perils of imperfect politics",
     "author": "https://zeina.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-04-16T22:19:11.890Z",
-    "last_updated": "2026-04-17T11:24:09.819Z",
+    "last_updated": "2026-04-17T15:28:33.081Z",
     "published": "2026-04-16T14:14Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-04-17T10:31:51.589Z",
     "last_updated": "2026-04-17T11:24:09.819Z",
     "published": "2026-04-16T15:54Z"
+  },
+  {
+    "url": "https://taterinx.bearblog.dev/260416/",
+    "title": "Making art from experience",
+    "author": "https://taterinx.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-17T15:28:33.081Z",
+    "last_updated": "2026-04-17T15:28:33.081Z",
+    "published": "2026-04-16T22:34Z"
   }
 ]
