@@ -3,9 +3,36 @@
     "url": "https://robertbirming.com/just-start-writing/",
     "title": "Just start writing",
     "author": "https://robertbirming.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-17T09:38:11.264Z",
-    "last_updated": "2026-04-17T15:28:33.081Z",
+    "last_updated": "2026-04-17T18:24:23.202Z",
     "published": "2026-04-17T04:47Z"
+  },
+  {
+    "url": "https://technically-good.ca/blog/2026-04-age-gating-isnt-it/",
+    "title": "Age-Gating Isn't It, Fam",
+    "author": "https://technically-good.ca",
+    "toasts": 9,
+    "first_seen": "2026-04-17T18:24:23.202Z",
+    "last_updated": "2026-04-17T18:24:23.202Z",
+    "published": "2026-04-17T16:45Z"
+  },
+  {
+    "url": "https://via.bearblog.dev/im-the-most-unfit-person-i-know/",
+    "title": "I’m the most unfit person I know",
+    "author": "https://via.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-17T18:24:23.202Z",
+    "last_updated": "2026-04-17T18:24:23.202Z",
+    "published": "2026-04-17T06:54Z"
+  },
+  {
+    "url": "https://boogerdiary.bearblog.dev/truck-guys-are-hot/",
+    "title": "Truck Guys are Hot",
+    "author": "https://boogerdiary.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-17T18:24:23.202Z",
+    "last_updated": "2026-04-17T18:24:23.202Z",
+    "published": "2026-04-17T05:14Z"
   }
 ]
