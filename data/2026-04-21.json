@@ -3,9 +3,9 @@
     "url": "https://woolgathering.bearblog.dev/i-love-my-now-page/",
     "title": "i love my now page",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-04-21T16:30:26.418Z",
-    "last_updated": "2026-04-21T17:27:26.183Z",
+    "last_updated": "2026-04-21T19:32:17.585Z",
     "published": "2026-04-21T12:45Z"
   },
   {
@@ -16,5 +16,14 @@
     "first_seen": "2026-04-21T18:30:49.312Z",
     "last_updated": "2026-04-21T18:30:49.312Z",
     "published": "2026-04-21T14:50Z"
+  },
+  {
+    "url": "https://change.bearblog.dev/lost/",
+    "title": "Lost?",
+    "author": "https://change.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-21T19:32:17.585Z",
+    "last_updated": "2026-04-21T19:32:17.585Z",
+    "published": "2026-04-21T13:58Z"
   }
 ]
