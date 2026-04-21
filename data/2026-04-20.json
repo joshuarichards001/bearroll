@@ -21,9 +21,9 @@
     "url": "https://jeddacp.me/fuerzacollective-coffee/",
     "title": "Fuerza Collective Coffee Co.",
     "author": "https://jeddacp.me",
-    "toasts": 38,
+    "toasts": 40,
     "first_seen": "2026-04-20T19:29:30.361Z",
-    "last_updated": "2026-04-21T14:41:07.262Z",
+    "last_updated": "2026-04-21T15:35:09.995Z",
     "published": "2026-04-20T16:45Z"
   },
   {
@@ -34,5 +34,14 @@
     "first_seen": "2026-04-21T12:32:11.841Z",
     "last_updated": "2026-04-21T14:41:07.262Z",
     "published": "2026-04-20T10:54Z"
+  },
+  {
+    "url": "https://blog.mattglassman.net/should-i-quit-twitter-and-bluesky/",
+    "title": "Should I quit Twitter and Bluesky?",
+    "author": "https://blog.mattglassman.net",
+    "toasts": 11,
+    "first_seen": "2026-04-21T15:35:09.995Z",
+    "last_updated": "2026-04-21T15:35:09.995Z",
+    "published": "2026-04-20T19:37Z"
   }
 ]
