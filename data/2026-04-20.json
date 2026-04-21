@@ -12,9 +12,9 @@
     "url": "https://pinewind.bearblog.dev/some-bear-blog-titles-i-recently-enjoyed/",
     "title": "some Bear Blog titles I recently enjoyed",
     "author": "https://pinewind.bearblog.dev",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-04-20T17:27:46.876Z",
-    "last_updated": "2026-04-21T05:04:45.118Z",
+    "last_updated": "2026-04-21T12:32:11.841Z",
     "published": "2026-04-20T14:50Z"
   },
   {
@@ -25,5 +25,14 @@
     "first_seen": "2026-04-20T19:29:30.361Z",
     "last_updated": "2026-04-21T06:47:12.912Z",
     "published": "2026-04-20T16:45Z"
+  },
+  {
+    "url": "https://catsandbirdsandstuff.com/retirement-and-the-gentle-art-of-doing-fuck-all/",
+    "title": "Retirement and the Gentle Art of Doing Fuck All",
+    "author": "https://catsandbirdsandstuff.com",
+    "toasts": 10,
+    "first_seen": "2026-04-21T12:32:11.841Z",
+    "last_updated": "2026-04-21T12:32:11.841Z",
+    "published": "2026-04-20T10:54Z"
   }
 ]
