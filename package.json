@@ -10,7 +10,12 @@
     "check-types": "astro check",
     "format": "prettier --write .",
     "lint": "eslint src --max-warnings 0",
-    "check-all": "prettier --write . && astro check && eslint src --max-warnings 0 && astro build"
+    "check-all": "prettier --write . && astro check && eslint src --max-warnings 0 && astro build",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.{ts,astro,js,mjs,css,md,json,html,yml,yaml}": "prettier --write",
+    "src/**/*.{ts,astro,js}": "eslint --max-warnings 0"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
@@ -27,6 +32,8 @@
     "eslint": "^9.39.4",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-astro": "^1.6.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
     "prettier": "^3.8.1",
     "prettier-plugin-astro": "^0.14.1",
     "tsx": "^4.21.0",
