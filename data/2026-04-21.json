@@ -3,9 +3,9 @@
     "url": "https://woolgathering.bearblog.dev/i-love-my-now-page/",
     "title": "i love my now page",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-04-21T16:30:26.418Z",
-    "last_updated": "2026-04-21T21:20:19.932Z",
+    "last_updated": "2026-04-21T22:20:09.368Z",
     "published": "2026-04-21T12:45Z"
   },
   {
@@ -34,5 +34,23 @@
     "first_seen": "2026-04-21T21:20:19.932Z",
     "last_updated": "2026-04-21T21:20:19.932Z",
     "published": "2026-04-21T15:57Z"
+  },
+  {
+    "url": "https://oliverclark.bearblog.dev/is-the-phone-the-problem/",
+    "title": "Is the phone the problem?",
+    "author": "https://oliverclark.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-21T22:20:09.368Z",
+    "last_updated": "2026-04-21T22:20:09.368Z",
+    "published": "2026-04-21T15:58Z"
+  },
+  {
+    "url": "https://wellactuarially.com/i-became-the-dog-owner-i-complain-about/",
+    "title": "I became the dog owner I complain about",
+    "author": "https://wellactuarially.com",
+    "toasts": 9,
+    "first_seen": "2026-04-21T22:20:09.368Z",
+    "last_updated": "2026-04-21T22:20:09.368Z",
+    "published": "2026-04-21T16:00Z"
   }
 ]
