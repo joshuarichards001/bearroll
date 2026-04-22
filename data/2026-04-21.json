@@ -3,18 +3,18 @@
     "url": "https://woolgathering.bearblog.dev/i-love-my-now-page/",
     "title": "i love my now page",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 18,
+    "toasts": 23,
     "first_seen": "2026-04-21T16:30:26.418Z",
-    "last_updated": "2026-04-21T23:18:16.165Z",
+    "last_updated": "2026-04-22T00:46:07.856Z",
     "published": "2026-04-21T12:45Z"
   },
   {
     "url": "https://blog.absurdpirate.com/a-dining-table-means-everything/",
     "title": "A Dining Table Means Everything",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 13,
+    "toasts": 20,
     "first_seen": "2026-04-21T18:30:49.312Z",
-    "last_updated": "2026-04-21T23:18:16.165Z",
+    "last_updated": "2026-04-22T00:46:07.856Z",
     "published": "2026-04-21T14:50Z"
   },
   {
@@ -52,5 +52,23 @@
     "first_seen": "2026-04-21T22:20:09.368Z",
     "last_updated": "2026-04-21T22:20:09.368Z",
     "published": "2026-04-21T16:00Z"
+  },
+  {
+    "url": "https://zombies.bearblog.dev/why-i-bought-the-lifetime-membership-at-bearblog/",
+    "title": "why i bought the lifetime membership at bearblog",
+    "author": "https://zombies.bearblog.dev",
+    "toasts": 12,
+    "first_seen": "2026-04-22T00:46:07.856Z",
+    "last_updated": "2026-04-22T00:46:07.856Z",
+    "published": "2026-04-21T21:37Z"
+  },
+  {
+    "url": "https://skuth.us/microsoft-is-so-fucking-stupid/",
+    "title": "Microsoft is so fucking stupid",
+    "author": "https://skuth.us",
+    "toasts": 11,
+    "first_seen": "2026-04-22T00:46:07.856Z",
+    "last_updated": "2026-04-22T00:46:07.856Z",
+    "published": "2026-04-21T20:26Z"
   }
 ]
