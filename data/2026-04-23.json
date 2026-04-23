@@ -3,45 +3,45 @@
     "url": "https://moodywarlock.net/the-creative-journey-is-not-an-inconvenience/",
     "title": "The creative journey is not an inconvenience",
     "author": "https://moodywarlock.net",
-    "toasts": 71,
+    "toasts": 74,
     "first_seen": "2026-04-23T13:38:47.029Z",
-    "last_updated": "2026-04-23T21:21:09.854Z",
+    "last_updated": "2026-04-23T22:19:53.011Z",
     "published": "2026-04-23T09:45Z"
   },
   {
     "url": "https://exomonstruo.net/epistemological-disappointment/",
     "title": "Epistemological disappointment",
     "author": "https://exomonstruo.net",
-    "toasts": 54,
+    "toasts": 56,
     "first_seen": "2026-04-23T13:38:47.029Z",
-    "last_updated": "2026-04-23T21:21:09.854Z",
+    "last_updated": "2026-04-23T22:19:53.011Z",
     "published": "2026-04-23T10:07Z"
   },
   {
     "url": "https://sheilz.bearblog.dev/whimsy/",
     "title": "i think we're obsessed with aesthetic",
     "author": "https://sheilz.bearblog.dev",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-04-23T13:38:47.029Z",
-    "last_updated": "2026-04-23T21:21:09.854Z",
+    "last_updated": "2026-04-23T22:19:53.011Z",
     "published": "2026-04-23T10:06Z"
   },
   {
     "url": "https://www.martinkubler.com/the-ai-illusion-1/",
     "title": "The AI Illusion (I): The Gap Isn’t Closing. It’s Widening.",
     "author": "https://www.martinkubler.com",
-    "toasts": 33,
+    "toasts": 34,
     "first_seen": "2026-04-23T17:36:13.963Z",
-    "last_updated": "2026-04-23T21:21:09.854Z",
+    "last_updated": "2026-04-23T22:19:53.011Z",
     "published": "2026-04-23T08:54Z"
   },
   {
     "url": "https://ohmyblog.bearblog.dev/pinewind-a-chill-bearblog/",
     "title": "ʕ•ᴥ•ʔﾉﾞ pinewind: a chill bearblog",
     "author": "https://ohmyblog.bearblog.dev",
-    "toasts": 26,
+    "toasts": 27,
     "first_seen": "2026-04-23T17:36:13.963Z",
-    "last_updated": "2026-04-23T21:21:09.854Z",
+    "last_updated": "2026-04-23T22:19:53.011Z",
     "published": "2026-04-23T16:31Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://fragmentadamente.bearblog.dev/re-7-sensacoes-que-amo/",
     "title": "re: 7 sensações que amo",
     "author": "https://fragmentadamente.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-23T18:32:35.125Z",
-    "last_updated": "2026-04-23T18:32:35.125Z",
+    "last_updated": "2026-04-23T22:19:53.011Z",
     "published": "2026-04-23T11:17Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-04-23T21:21:09.854Z",
     "last_updated": "2026-04-23T21:21:09.854Z",
     "published": "2026-04-23T15:12Z"
+  },
+  {
+    "url": "https://andrej.xyz/training-data-is-still-an-open-problem/",
+    "title": "Training Data is Still an Open Problem",
+    "author": "https://andrej.xyz",
+    "toasts": 11,
+    "first_seen": "2026-04-23T22:19:53.011Z",
+    "last_updated": "2026-04-23T22:19:53.011Z",
+    "published": "2026-04-23T18:03Z"
   }
 ]
