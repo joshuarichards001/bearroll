@@ -48,9 +48,9 @@
     "url": "https://danieln.uk/blackcap/",
     "title": "Blackcap",
     "author": "https://danieln.uk",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-04-23T17:36:13.963Z",
-    "last_updated": "2026-04-23T18:32:35.125Z",
+    "last_updated": "2026-04-23T19:34:21.005Z",
     "published": "2026-04-23T12:46Z"
   },
   {
@@ -70,5 +70,23 @@
     "first_seen": "2026-04-23T18:32:35.125Z",
     "last_updated": "2026-04-23T18:32:35.125Z",
     "published": "2026-04-23T11:17Z"
+  },
+  {
+    "url": "https://squiddd.bearblog.dev/squid-grilled-cheese/",
+    "title": "squid grilled cheese 🍞🦑🧀",
+    "author": "https://squiddd.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-04-23T19:34:21.005Z",
+    "last_updated": "2026-04-23T19:34:21.005Z",
+    "published": "2026-04-23T17:00Z"
+  },
+  {
+    "url": "https://photos.jamesleighton.com/what-you-looking-at/",
+    "title": "What you looking at?",
+    "author": "https://photos.jamesleighton.com",
+    "toasts": 8,
+    "first_seen": "2026-04-23T19:34:21.005Z",
+    "last_updated": "2026-04-23T19:34:21.005Z",
+    "published": "2026-04-23T16:05Z"
   }
 ]
