@@ -3,18 +3,18 @@
     "url": "https://herman.bearblog.dev/the-commodification-of-travel/",
     "title": "The commodification of travel",
     "author": "https://herman.bearblog.dev",
-    "toasts": 145,
+    "toasts": 149,
     "first_seen": "2026-04-22T03:12:13.614Z",
-    "last_updated": "2026-04-23T13:38:47.029Z",
+    "last_updated": "2026-04-23T14:52:24.487Z",
     "published": "2026-04-22T01:28Z"
   },
   {
     "url": "https://bez-lightyear.bearblog.dev/ai-no-corridor/",
     "title": "ai no corridor",
     "author": "https://bez-lightyear.bearblog.dev",
-    "toasts": 78,
+    "toasts": 85,
     "first_seen": "2026-04-22T09:38:45.018Z",
-    "last_updated": "2026-04-23T13:38:47.029Z",
+    "last_updated": "2026-04-23T14:52:24.487Z",
     "published": "2026-04-22T07:21Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://robertbirming.com/start-writing/",
     "title": "Start writing",
     "author": "https://robertbirming.com",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-04-22T16:29:44.809Z",
-    "last_updated": "2026-04-22T22:20:55.720Z",
+    "last_updated": "2026-04-23T14:52:24.487Z",
     "published": "2026-04-22T14:57Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://barrel.bearblog.dev/i-just-got-fired/",
     "title": "I just got fired",
     "author": "https://barrel.bearblog.dev",
-    "toasts": 42,
+    "toasts": 45,
     "first_seen": "2026-04-22T19:33:38.944Z",
-    "last_updated": "2026-04-23T13:38:47.029Z",
+    "last_updated": "2026-04-23T14:52:24.487Z",
     "published": "2026-04-22T17:50Z"
   },
   {
@@ -84,18 +84,18 @@
     "url": "https://congas.blog/osr-evolving/",
     "title": "Is the OSR evolving?",
     "author": "https://congas.blog",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-04-22T20:25:17.594Z",
-    "last_updated": "2026-04-23T09:40:10.503Z",
+    "last_updated": "2026-04-23T14:52:24.487Z",
     "published": "2026-04-22T16:52Z"
   },
   {
     "url": "https://receipts.bearblog.dev/today-will-be-different/",
     "title": "today will be different",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-04-22T21:22:25.805Z",
-    "last_updated": "2026-04-23T06:47:24.752Z",
+    "last_updated": "2026-04-23T14:52:24.487Z",
     "published": "2026-04-22T19:45Z"
   },
   {
@@ -124,5 +124,14 @@
     "first_seen": "2026-04-23T03:12:27.270Z",
     "last_updated": "2026-04-23T13:38:47.029Z",
     "published": "2026-04-22T21:19Z"
+  },
+  {
+    "url": "https://sonechka.bearblog.dev/webring-for-long-form-blogs/",
+    "title": "webring for long-form blogs",
+    "author": "https://sonechka.bearblog.dev",
+    "toasts": 14,
+    "first_seen": "2026-04-23T14:52:24.487Z",
+    "last_updated": "2026-04-23T14:52:24.487Z",
+    "published": "2026-04-22T18:50Z"
   }
 ]
