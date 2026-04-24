@@ -3,9 +3,9 @@
     "url": "https://diels-daydreams.bearblog.dev/what-i-like-here-in-bear/",
     "title": "What I like here in Bear",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 39,
+    "toasts": 41,
     "first_seen": "2026-04-24T07:42:11.200Z",
-    "last_updated": "2026-04-24T15:32:02.683Z",
+    "last_updated": "2026-04-24T15:49:28.160Z",
     "published": "2026-04-24T00:31Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://blog.bearroll.dev/browse-bear-blog-trending-on-mobile/",
     "title": "bearroll.dev - Tip for browsing Bear Blog trending on mobile.",
     "author": "https://blog.bearroll.dev",
-    "toasts": 9,
+    "toasts": 15,
     "first_seen": "2026-04-24T14:39:17.621Z",
-    "last_updated": "2026-04-24T15:32:02.683Z",
+    "last_updated": "2026-04-24T15:49:28.160Z",
     "published": "2026-04-24T12:45Z"
   },
   {
@@ -52,5 +52,23 @@
     "first_seen": "2026-04-24T15:32:02.683Z",
     "last_updated": "2026-04-24T15:32:02.683Z",
     "published": "2026-04-24T10:17Z"
+  },
+  {
+    "url": "https://untangled.bearblog.dev/bye-substack-new/",
+    "title": "Bye, Substack.",
+    "author": "https://untangled.bearblog.dev",
+    "toasts": 11,
+    "first_seen": "2026-04-24T15:49:28.160Z",
+    "last_updated": "2026-04-24T15:49:28.160Z",
+    "published": "2026-04-24T15:14Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/some-things-i-have-discovered-about-tomodachi-life-since-my-last-post/",
+    "title": "Some things I have discovered about Tomodachi Life since my last post",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 8,
+    "first_seen": "2026-04-24T15:49:28.160Z",
+    "last_updated": "2026-04-24T15:49:28.160Z",
+    "published": "2026-04-24T06:18Z"
   }
 ]
