@@ -3,9 +3,9 @@
     "url": "https://diels-daydreams.bearblog.dev/what-i-like-here-in-bear/",
     "title": "What I like here in Bear",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 43,
+    "toasts": 45,
     "first_seen": "2026-04-24T07:42:11.200Z",
-    "last_updated": "2026-04-24T16:26:43.855Z",
+    "last_updated": "2026-04-24T17:24:30.297Z",
     "published": "2026-04-24T00:31Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://untangled.bearblog.dev/bye-substack-new/",
     "title": "Bye, Substack.",
     "author": "https://untangled.bearblog.dev",
-    "toasts": 24,
+    "toasts": 31,
     "first_seen": "2026-04-24T15:49:28.160Z",
-    "last_updated": "2026-04-24T16:26:43.855Z",
+    "last_updated": "2026-04-24T17:24:30.297Z",
     "published": "2026-04-24T15:14Z"
   },
   {
@@ -75,18 +75,27 @@
     "url": "https://pinewind.bearblog.dev/focusing-on-the-process-and-casual-wabi-sabi/",
     "title": "\"focusing on the process\" and casual wabi-sabi",
     "author": "https://pinewind.bearblog.dev",
-    "toasts": 18,
+    "toasts": 24,
     "first_seen": "2026-04-24T16:26:43.855Z",
-    "last_updated": "2026-04-24T16:26:43.855Z",
+    "last_updated": "2026-04-24T17:24:30.297Z",
     "published": "2026-04-24T13:30Z"
   },
   {
     "url": "https://lwgrs.bearblog.dev/my-own-bic-pen-experiment/",
     "title": "My own BIC pen experiment",
     "author": "https://lwgrs.bearblog.dev",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-04-24T16:26:43.855Z",
-    "last_updated": "2026-04-24T16:26:43.855Z",
+    "last_updated": "2026-04-24T17:24:30.297Z",
     "published": "2026-04-24T15:38Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/break-stupid-rules/",
+    "title": "Break Stupid Rules",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 15,
+    "first_seen": "2026-04-24T17:24:30.297Z",
+    "last_updated": "2026-04-24T17:24:30.297Z",
+    "published": "2026-04-24T16:20Z"
   }
 ]
