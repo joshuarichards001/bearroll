@@ -3,27 +3,27 @@
     "url": "https://moodywarlock.net/the-creative-journey-is-not-an-inconvenience/",
     "title": "The creative journey is not an inconvenience",
     "author": "https://moodywarlock.net",
-    "toasts": 96,
+    "toasts": 98,
     "first_seen": "2026-04-23T13:38:47.029Z",
-    "last_updated": "2026-04-24T09:40:01.288Z",
+    "last_updated": "2026-04-24T10:37:42.167Z",
     "published": "2026-04-23T09:45Z"
   },
   {
     "url": "https://exomonstruo.net/epistemological-disappointment/",
     "title": "Epistemological disappointment",
     "author": "https://exomonstruo.net",
-    "toasts": 80,
+    "toasts": 81,
     "first_seen": "2026-04-23T13:38:47.029Z",
-    "last_updated": "2026-04-24T09:40:01.288Z",
+    "last_updated": "2026-04-24T10:37:42.167Z",
     "published": "2026-04-23T10:07Z"
   },
   {
     "url": "https://sheilz.bearblog.dev/whimsy/",
     "title": "i think we're obsessed with aesthetic",
     "author": "https://sheilz.bearblog.dev",
-    "toasts": 39,
+    "toasts": 41,
     "first_seen": "2026-04-23T13:38:47.029Z",
-    "last_updated": "2026-04-24T09:40:01.288Z",
+    "last_updated": "2026-04-24T10:37:42.167Z",
     "published": "2026-04-23T10:06Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://ohmyblog.bearblog.dev/pinewind-a-chill-bearblog/",
     "title": "ʕ•ᴥ•ʔﾉﾞ pinewind: a chill bearblog",
     "author": "https://ohmyblog.bearblog.dev",
-    "toasts": 46,
+    "toasts": 47,
     "first_seen": "2026-04-23T17:36:13.963Z",
-    "last_updated": "2026-04-24T09:40:01.288Z",
+    "last_updated": "2026-04-24T10:37:42.167Z",
     "published": "2026-04-23T16:31Z"
   },
   {
     "url": "https://danieln.uk/blackcap/",
     "title": "Blackcap",
     "author": "https://danieln.uk",
-    "toasts": 34,
+    "toasts": 35,
     "first_seen": "2026-04-23T17:36:13.963Z",
-    "last_updated": "2026-04-24T09:40:01.288Z",
+    "last_updated": "2026-04-24T10:37:42.167Z",
     "published": "2026-04-23T12:46Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://andrej.xyz/training-data-is-still-an-open-problem/",
     "title": "Training Data is Still an Open Problem",
     "author": "https://andrej.xyz",
-    "toasts": 49,
+    "toasts": 51,
     "first_seen": "2026-04-23T22:19:53.011Z",
-    "last_updated": "2026-04-24T09:40:01.288Z",
+    "last_updated": "2026-04-24T10:37:42.167Z",
     "published": "2026-04-23T18:03Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://mason.bearblog.dev/make-private-media/",
     "title": "make private media",
     "author": "https://mason.bearblog.dev",
-    "toasts": 20,
+    "toasts": 24,
     "first_seen": "2026-04-24T05:07:49.787Z",
-    "last_updated": "2026-04-24T09:40:01.288Z",
+    "last_updated": "2026-04-24T10:37:42.167Z",
     "published": "2026-04-23T20:57Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-04-24T06:48:25.568Z",
     "last_updated": "2026-04-24T08:48:30.803Z",
     "published": "2026-04-23T23:43Z"
+  },
+  {
+    "url": "https://dungeonmecha.bearblog.dev/pissgoblins/",
+    "title": "Pissgoblins",
+    "author": "https://dungeonmecha.bearblog.dev",
+    "toasts": 12,
+    "first_seen": "2026-04-24T10:37:42.167Z",
+    "last_updated": "2026-04-24T10:37:42.167Z",
+    "published": "2026-04-23T18:10Z"
   }
 ]
