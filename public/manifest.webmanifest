@@ -1,0 +1,18 @@
+{
+  "name": "Bear Roll",
+  "short_name": "Bear Roll",
+  "description": "A daily view of the Bear Blog discover page top posts",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#01242e",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "160x160",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
