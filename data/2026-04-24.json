@@ -39,18 +39,18 @@
     "url": "https://blog.bearroll.dev/browse-bear-blog-trending-on-mobile/",
     "title": "bearroll.dev - Tip for browsing Bear Blog trending on mobile.",
     "author": "https://blog.bearroll.dev",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-04-24T14:39:17.621Z",
-    "last_updated": "2026-04-24T16:26:43.855Z",
+    "last_updated": "2026-04-24T18:21:06.504Z",
     "published": "2026-04-24T12:45Z"
   },
   {
     "url": "https://woolgathering.bearblog.dev/my-new-t-shirt/",
     "title": "my new t-shirt",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 11,
+    "toasts": 13,
     "first_seen": "2026-04-24T15:32:02.683Z",
-    "last_updated": "2026-04-24T16:26:43.855Z",
+    "last_updated": "2026-04-24T18:21:06.504Z",
     "published": "2026-04-24T10:17Z"
   },
   {
@@ -75,27 +75,36 @@
     "url": "https://pinewind.bearblog.dev/focusing-on-the-process-and-casual-wabi-sabi/",
     "title": "\"focusing on the process\" and casual wabi-sabi",
     "author": "https://pinewind.bearblog.dev",
-    "toasts": 24,
+    "toasts": 26,
     "first_seen": "2026-04-24T16:26:43.855Z",
-    "last_updated": "2026-04-24T17:24:30.297Z",
+    "last_updated": "2026-04-24T18:21:06.504Z",
     "published": "2026-04-24T13:30Z"
   },
   {
     "url": "https://lwgrs.bearblog.dev/my-own-bic-pen-experiment/",
     "title": "My own BIC pen experiment",
     "author": "https://lwgrs.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-04-24T16:26:43.855Z",
-    "last_updated": "2026-04-24T17:24:30.297Z",
+    "last_updated": "2026-04-24T18:21:06.504Z",
     "published": "2026-04-24T15:38Z"
   },
   {
     "url": "https://blog.absurdpirate.com/break-stupid-rules/",
     "title": "Break Stupid Rules",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 15,
+    "toasts": 18,
     "first_seen": "2026-04-24T17:24:30.297Z",
-    "last_updated": "2026-04-24T17:24:30.297Z",
+    "last_updated": "2026-04-24T18:21:06.504Z",
     "published": "2026-04-24T16:20Z"
+  },
+  {
+    "url": "https://untangled.bearblog.dev/bye-substack/",
+    "title": "Bye, Substack.",
+    "author": "https://untangled.bearblog.dev",
+    "toasts": 36,
+    "first_seen": "2026-04-24T18:21:06.504Z",
+    "last_updated": "2026-04-24T18:21:06.504Z",
+    "published": "2026-04-24T15:14Z"
   }
 ]
