@@ -85,9 +85,7 @@ Two independent subsystems share the `data/` directory:
 - `src/layouts/Layout.astro` — Base HTML layout that imports the global Tailwind
   stylesheet. All styling uses Tailwind utility classes.
 - `astro.config.mjs` — Static output with `@tailwindcss/vite` plugin, deployed
-  to bearroll.dev via GitHub Pages.
-- `.github/workflows/deploy.yml` — Builds and deploys to GitHub Pages on push to
-  master.
+  to bearroll.dev via Cloudflare Pages.
 
 ### Data flow
 
