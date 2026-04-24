@@ -3,9 +3,9 @@
     "url": "https://moodywarlock.net/the-creative-journey-is-not-an-inconvenience/",
     "title": "The creative journey is not an inconvenience",
     "author": "https://moodywarlock.net",
-    "toasts": 112,
+    "toasts": 113,
     "first_seen": "2026-04-23T13:38:47.029Z",
-    "last_updated": "2026-04-24T21:21:42.065Z",
+    "last_updated": "2026-04-24T22:19:53.526Z",
     "published": "2026-04-23T09:45Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://andrej.xyz/training-data-is-still-an-open-problem/",
     "title": "Training Data is Still an Open Problem",
     "author": "https://andrej.xyz",
-    "toasts": 63,
+    "toasts": 64,
     "first_seen": "2026-04-23T22:19:53.011Z",
-    "last_updated": "2026-04-24T17:24:30.297Z",
+    "last_updated": "2026-04-24T22:19:53.526Z",
     "published": "2026-04-23T18:03Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://mason.bearblog.dev/make-private-media/",
     "title": "make private media",
     "author": "https://mason.bearblog.dev",
-    "toasts": 40,
+    "toasts": 41,
     "first_seen": "2026-04-24T05:07:49.787Z",
-    "last_updated": "2026-04-24T21:21:42.065Z",
+    "last_updated": "2026-04-24T22:19:53.526Z",
     "published": "2026-04-23T20:57Z"
   },
   {
@@ -156,9 +156,18 @@
     "url": "https://rnotte.art/turning-your-brain-off/",
     "title": "turning your brain off",
     "author": "https://rnotte.art",
-    "toasts": 42,
+    "toasts": 43,
     "first_seen": "2026-04-24T12:30:23.933Z",
-    "last_updated": "2026-04-24T21:21:42.065Z",
+    "last_updated": "2026-04-24T22:19:53.526Z",
     "published": "2026-04-23T21:49Z"
+  },
+  {
+    "url": "https://combatdavey.net/april-23-2026/",
+    "title": "april 23 fsb",
+    "author": "https://combatdavey.net",
+    "toasts": 9,
+    "first_seen": "2026-04-24T22:19:53.526Z",
+    "last_updated": "2026-04-24T22:19:53.526Z",
+    "published": "2026-04-23T21:59Z"
   }
 ]
