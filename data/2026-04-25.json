@@ -3,36 +3,45 @@
     "url": "https://shewrites.bearblog.dev/cognitive-surrender/",
     "title": "Cognitive Surrender",
     "author": "https://shewrites.bearblog.dev",
-    "toasts": 57,
+    "toasts": 62,
     "first_seen": "2026-04-25T01:39:08.039Z",
-    "last_updated": "2026-04-25T13:33:08.958Z",
+    "last_updated": "2026-04-25T14:21:23.801Z",
     "published": "2026-04-25T01:20Z"
   },
   {
     "url": "https://vics.me/teacher-slop/",
     "title": "the teacher who groomed me in high school is posting ai slop on youtube now",
     "author": "https://vics.me",
-    "toasts": 72,
+    "toasts": 79,
     "first_seen": "2026-04-25T03:10:31.664Z",
-    "last_updated": "2026-04-25T13:33:08.958Z",
+    "last_updated": "2026-04-25T14:21:23.801Z",
     "published": "2026-04-25T01:30Z"
   },
   {
     "url": "https://jbrr.dev/the-american-kill-line/",
     "title": "The American Kill Line",
     "author": "https://jbrr.dev",
-    "toasts": 100,
+    "toasts": 108,
     "first_seen": "2026-04-25T07:35:00.721Z",
-    "last_updated": "2026-04-25T13:33:08.958Z",
+    "last_updated": "2026-04-25T14:21:23.801Z",
     "published": "2026-04-25T04:59Z"
   },
   {
     "url": "https://robertbirming.com/first-post-love/",
     "title": "First post love",
     "author": "https://robertbirming.com",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-04-25T13:33:08.958Z",
-    "last_updated": "2026-04-25T13:33:08.958Z",
+    "last_updated": "2026-04-25T14:21:23.801Z",
     "published": "2026-04-25T09:30Z"
+  },
+  {
+    "url": "https://blog.avas.space/privacy-stuff/",
+    "title": "why i don't write the usual privacy stuff",
+    "author": "https://blog.avas.space",
+    "toasts": 8,
+    "first_seen": "2026-04-25T14:21:23.801Z",
+    "last_updated": "2026-04-25T14:21:23.801Z",
+    "published": "2026-04-25T09:50Z"
   }
 ]
