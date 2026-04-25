@@ -183,9 +183,27 @@
     "url": "https://zombies.bearblog.dev/an-obituary-to-my-airpods/",
     "title": "an obituary to my airpods",
     "author": "https://zombies.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-25T01:39:08.039Z",
-    "last_updated": "2026-04-25T09:23:18.562Z",
+    "last_updated": "2026-04-25T12:21:33.507Z",
     "published": "2026-04-24T22:59Z"
+  },
+  {
+    "url": "https://ohmyblog.bearblog.dev/joel-chrono-a-most-epic-blogger/",
+    "title": "joel chrono ⏰ — a most epic blogger",
+    "author": "https://ohmyblog.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-04-25T12:21:33.507Z",
+    "last_updated": "2026-04-25T12:21:33.507Z",
+    "published": "2026-04-24T20:12Z"
+  },
+  {
+    "url": "https://theonly.ciswoman.online/cherry-blossoms-26/",
+    "title": "cherry blossoms '26",
+    "author": "https://theonly.ciswoman.online",
+    "toasts": 8,
+    "first_seen": "2026-04-25T12:21:33.507Z",
+    "last_updated": "2026-04-25T12:21:33.507Z",
+    "published": "2026-04-24T20:12Z"
   }
 ]
