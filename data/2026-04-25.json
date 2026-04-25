@@ -3,36 +3,36 @@
     "url": "https://shewrites.bearblog.dev/cognitive-surrender/",
     "title": "Cognitive Surrender",
     "author": "https://shewrites.bearblog.dev",
-    "toasts": 87,
+    "toasts": 88,
     "first_seen": "2026-04-25T01:39:08.039Z",
-    "last_updated": "2026-04-25T21:16:23.669Z",
+    "last_updated": "2026-04-25T23:17:32.003Z",
     "published": "2026-04-25T01:20Z"
   },
   {
     "url": "https://vics.me/teacher-slop/",
     "title": "the teacher who groomed me in high school is posting ai slop on youtube now",
     "author": "https://vics.me",
-    "toasts": 103,
+    "toasts": 104,
     "first_seen": "2026-04-25T03:10:31.664Z",
-    "last_updated": "2026-04-25T21:16:23.669Z",
+    "last_updated": "2026-04-25T23:17:32.003Z",
     "published": "2026-04-25T01:30Z"
   },
   {
     "url": "https://jbrr.dev/the-american-kill-line/",
     "title": "The American Kill Line",
     "author": "https://jbrr.dev",
-    "toasts": 138,
+    "toasts": 140,
     "first_seen": "2026-04-25T07:35:00.721Z",
-    "last_updated": "2026-04-25T21:16:23.669Z",
+    "last_updated": "2026-04-25T23:17:32.003Z",
     "published": "2026-04-25T04:59Z"
   },
   {
     "url": "https://robertbirming.com/first-post-love/",
     "title": "First post love",
     "author": "https://robertbirming.com",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-04-25T13:33:08.958Z",
-    "last_updated": "2026-04-25T19:21:36.237Z",
+    "last_updated": "2026-04-25T23:17:32.003Z",
     "published": "2026-04-25T09:30Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://pinewind.bearblog.dev/hayao-miyazaki-and-optimistic-nihilism/",
     "title": "Hayao Miyazaki and optimistic nihilism",
     "author": "https://pinewind.bearblog.dev",
-    "toasts": 30,
+    "toasts": 31,
     "first_seen": "2026-04-25T16:17:45.416Z",
-    "last_updated": "2026-04-25T22:14:21.895Z",
+    "last_updated": "2026-04-25T23:17:32.003Z",
     "published": "2026-04-25T14:55Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://blog.anthonybald.win/hello-bear/",
     "title": "Hello, Bear",
     "author": "https://blog.anthonybald.win",
-    "toasts": 32,
+    "toasts": 33,
     "first_seen": "2026-04-25T18:20:16.455Z",
-    "last_updated": "2026-04-25T22:14:21.895Z",
+    "last_updated": "2026-04-25T23:17:32.003Z",
     "published": "2026-04-25T16:04Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
     "title": "Simulacrum of Knowledge Work",
     "author": "https://blog.happyfellow.dev",
-    "toasts": 23,
+    "toasts": 29,
     "first_seen": "2026-04-25T19:21:36.237Z",
-    "last_updated": "2026-04-25T22:14:21.895Z",
+    "last_updated": "2026-04-25T23:17:32.003Z",
     "published": "2026-04-25T14:31Z"
   },
   {
@@ -120,9 +120,18 @@
     "url": "https://mirroredworld.bearblog.dev/for-whom-the-tale-was-written/",
     "title": "For Whom the Tale Was Written",
     "author": "https://mirroredworld.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-25T20:17:01.872Z",
-    "last_updated": "2026-04-25T21:16:23.669Z",
+    "last_updated": "2026-04-25T23:17:32.003Z",
     "published": "2026-04-25T17:00Z"
+  },
+  {
+    "url": "https://readflag.bearblog.dev/i-spent-my-birthday-at-the-bookstore-and-this-is-what-i-got/",
+    "title": "I spent my birthday at the bookstore and this is what I got.",
+    "author": "https://readflag.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-04-25T23:17:32.003Z",
+    "last_updated": "2026-04-25T23:17:32.003Z",
+    "published": "2026-04-25T18:55Z"
   }
 ]
