@@ -3,27 +3,27 @@
     "url": "https://shewrites.bearblog.dev/cognitive-surrender/",
     "title": "Cognitive Surrender",
     "author": "https://shewrites.bearblog.dev",
-    "toasts": 98,
+    "toasts": 99,
     "first_seen": "2026-04-25T01:39:08.039Z",
-    "last_updated": "2026-04-26T07:37:07.451Z",
+    "last_updated": "2026-04-26T10:21:29.002Z",
     "published": "2026-04-25T01:20Z"
   },
   {
     "url": "https://vics.me/teacher-slop/",
     "title": "the teacher who groomed me in high school is posting ai slop on youtube now",
     "author": "https://vics.me",
-    "toasts": 119,
+    "toasts": 120,
     "first_seen": "2026-04-25T03:10:31.664Z",
-    "last_updated": "2026-04-26T09:24:55.507Z",
+    "last_updated": "2026-04-26T10:21:29.002Z",
     "published": "2026-04-25T01:30Z"
   },
   {
     "url": "https://jbrr.dev/the-american-kill-line/",
     "title": "The American Kill Line",
     "author": "https://jbrr.dev",
-    "toasts": 153,
+    "toasts": 154,
     "first_seen": "2026-04-25T07:35:00.721Z",
-    "last_updated": "2026-04-26T07:37:07.451Z",
+    "last_updated": "2026-04-26T10:21:29.002Z",
     "published": "2026-04-25T04:59Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://pinewind.bearblog.dev/hayao-miyazaki-and-optimistic-nihilism/",
     "title": "Hayao Miyazaki and optimistic nihilism",
     "author": "https://pinewind.bearblog.dev",
-    "toasts": 44,
+    "toasts": 45,
     "first_seen": "2026-04-25T16:17:45.416Z",
-    "last_updated": "2026-04-26T07:37:07.451Z",
+    "last_updated": "2026-04-26T10:21:29.002Z",
     "published": "2026-04-25T14:55Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://blog.anthonybald.win/hello-bear/",
     "title": "Hello, Bear",
     "author": "https://blog.anthonybald.win",
-    "toasts": 47,
+    "toasts": 49,
     "first_seen": "2026-04-25T18:20:16.455Z",
-    "last_updated": "2026-04-26T08:33:18.324Z",
+    "last_updated": "2026-04-26T10:21:29.002Z",
     "published": "2026-04-25T16:04Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
     "title": "Simulacrum of Knowledge Work",
     "author": "https://blog.happyfellow.dev",
-    "toasts": 69,
+    "toasts": 71,
     "first_seen": "2026-04-25T19:21:36.237Z",
-    "last_updated": "2026-04-26T09:24:55.507Z",
+    "last_updated": "2026-04-26T10:21:29.002Z",
     "published": "2026-04-25T14:31Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-04-26T00:52:16.676Z",
     "last_updated": "2026-04-26T01:39:35.674Z",
     "published": "2026-04-25T21:03Z"
+  },
+  {
+    "url": "https://fragmentadamente.bearblog.dev/an-introduction/",
+    "title": "An introduction",
+    "author": "https://fragmentadamente.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-04-26T10:21:29.002Z",
+    "last_updated": "2026-04-26T10:21:29.002Z",
+    "published": "2026-04-25T13:43Z"
   }
 ]
