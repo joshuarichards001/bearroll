@@ -3,18 +3,18 @@
     "url": "https://yunzi.co.uk/chernobyl-40-years-on/",
     "title": "Chernobyl 40 years on",
     "author": "https://yunzi.co.uk",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-04-26T08:33:18.324Z",
-    "last_updated": "2026-04-26T17:18:48.416Z",
+    "last_updated": "2026-04-26T18:21:11.656Z",
     "published": "2026-04-26T01:30Z"
   },
   {
     "url": "https://blog.jacobtvarney.me/friction-and-responding-to-posts-in-bear-blog/",
     "title": "Friction and responding to posts in Bear Blog",
     "author": "https://blog.jacobtvarney.me",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-26T09:24:55.507Z",
-    "last_updated": "2026-04-26T11:19:26.539Z",
+    "last_updated": "2026-04-26T18:21:11.656Z",
     "published": "2026-04-26T00:58Z"
   },
   {
@@ -30,36 +30,45 @@
     "url": "https://technically-good.ca/newsletter/007-2026-04-26/",
     "title": "💌 Newsletter #007 - Of Age-Gating, Belonging, and AI Being Blazing Fast 🚀 (at Enshittifying)",
     "author": "https://technically-good.ca",
-    "toasts": 28,
+    "toasts": 29,
     "first_seen": "2026-04-26T16:19:19.034Z",
-    "last_updated": "2026-04-26T17:18:48.416Z",
+    "last_updated": "2026-04-26T18:21:11.656Z",
     "published": "2026-04-26T14:58Z"
   },
   {
     "url": "https://photos.jamesleighton.com/bluebells-in-bloom/",
     "title": "Bluebells in Bloom",
     "author": "https://photos.jamesleighton.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-26T16:19:19.034Z",
-    "last_updated": "2026-04-26T17:18:48.416Z",
+    "last_updated": "2026-04-26T18:21:11.656Z",
     "published": "2026-04-26T14:08Z"
   },
   {
     "url": "https://robertbirming.com/birming-bulletin-4/",
     "title": "Birming bulletin #4",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-04-26T16:19:19.034Z",
-    "last_updated": "2026-04-26T16:19:19.034Z",
+    "last_updated": "2026-04-26T18:21:11.656Z",
     "published": "2026-04-26T12:58Z"
   },
   {
     "url": "https://basic.bearblog.dev/how-to-ditch-digital-distraction-in-2026/",
     "title": "How to Ditch Digital Distraction in 2026",
     "author": "https://basic.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-04-26T17:18:48.416Z",
-    "last_updated": "2026-04-26T17:18:48.416Z",
+    "last_updated": "2026-04-26T18:21:11.656Z",
     "published": "2026-04-26T16:03Z"
+  },
+  {
+    "url": "https://livingkindfully.bearblog.dev/feeling-trapped-good-time-to-take-action/",
+    "title": "Feeling Trapped? Good! Time to Take Action",
+    "author": "https://livingkindfully.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-26T18:21:11.656Z",
+    "last_updated": "2026-04-26T18:21:11.656Z",
+    "published": "2026-04-26T14:15Z"
   }
 ]
