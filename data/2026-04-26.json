@@ -30,9 +30,9 @@
     "url": "https://technically-good.ca/newsletter/007-2026-04-26/",
     "title": "💌 Newsletter #007 - Of Age-Gating, Belonging, and AI Being Blazing Fast 🚀 (at Enshittifying)",
     "author": "https://technically-good.ca",
-    "toasts": 42,
+    "toasts": 44,
     "first_seen": "2026-04-26T16:19:19.034Z",
-    "last_updated": "2026-04-26T23:18:29.662Z",
+    "last_updated": "2026-04-27T00:51:56.544Z",
     "published": "2026-04-26T14:58Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://robertbirming.com/birming-bulletin-4/",
     "title": "Birming bulletin #4",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-26T16:19:19.034Z",
-    "last_updated": "2026-04-26T20:17:41.804Z",
+    "last_updated": "2026-04-27T00:51:56.544Z",
     "published": "2026-04-26T12:58Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-04-26T23:18:29.662Z",
     "last_updated": "2026-04-26T23:18:29.662Z",
     "published": "2026-04-26T19:04Z"
+  },
+  {
+    "url": "https://dioscuria.com/last-seen-at-314-am/",
+    "title": "last seen at 3:14 am",
+    "author": "https://dioscuria.com",
+    "toasts": 7,
+    "first_seen": "2026-04-27T00:51:56.544Z",
+    "last_updated": "2026-04-27T00:51:56.544Z",
+    "published": "2026-04-26T17:45Z"
   }
 ]
