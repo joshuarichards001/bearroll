@@ -12,9 +12,9 @@
     "url": "https://sincerelyme.bearblog.dev/to-my-past-self/",
     "title": "To my past self",
     "author": "https://sincerelyme.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-27T03:14:46.204Z",
-    "last_updated": "2026-04-27T12:42:38.669Z",
+    "last_updated": "2026-04-27T18:35:48.200Z",
     "published": "2026-04-27T01:04Z"
   },
   {
@@ -66,27 +66,27 @@
     "url": "https://binaryribbons01111011.bearblog.dev/i-wont-watch-short-form-videos/",
     "title": "I won't watch short form videos.",
     "author": "https://binaryribbons01111011.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-27T13:40:15.841Z",
-    "last_updated": "2026-04-27T17:35:06.135Z",
+    "last_updated": "2026-04-27T18:35:48.200Z",
     "published": "2026-04-27T07:39Z"
   },
   {
     "url": "https://elmc.at/against-maps/",
     "title": "Against Maps",
     "author": "https://elmc.at",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-04-27T14:46:33.285Z",
-    "last_updated": "2026-04-27T17:35:06.135Z",
+    "last_updated": "2026-04-27T18:35:48.200Z",
     "published": "2026-04-27T13:00Z"
   },
   {
     "url": "https://lifeonadeadplanet.com/i-had-this-great-idea-for-a-bear-post-then-i-fell-asleep/",
     "title": "I had this great idea for a Bear post. Then I fell asleep.",
     "author": "https://lifeonadeadplanet.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-27T14:46:33.285Z",
-    "last_updated": "2026-04-27T16:38:45.563Z",
+    "last_updated": "2026-04-27T18:35:48.200Z",
     "published": "2026-04-27T07:47Z"
   },
   {
@@ -102,9 +102,27 @@
     "url": "https://grumpywelshman.com/why-ill-take-socialist-healthcare-over-the-american-freedom-to-go-bankrupt/",
     "title": "Why I’ll Take \"Socialist\" Healthcare Over the American \"Freedom\" to Go Bankrupt",
     "author": "https://grumpywelshman.com",
-    "toasts": 7,
+    "toasts": 10,
     "first_seen": "2026-04-27T17:35:06.135Z",
-    "last_updated": "2026-04-27T17:35:06.135Z",
+    "last_updated": "2026-04-27T18:35:48.200Z",
     "published": "2026-04-27T13:49Z"
+  },
+  {
+    "url": "https://forkingmad.blog/ai-summary-blog-post/",
+    "title": "AI Summaries in your Blog Posts!",
+    "author": "https://forkingmad.blog",
+    "toasts": 13,
+    "first_seen": "2026-04-27T18:35:48.200Z",
+    "last_updated": "2026-04-27T18:35:48.200Z",
+    "published": "2026-04-27T17:18Z"
+  },
+  {
+    "url": "https://monolog.xyz/photography/",
+    "title": "photography",
+    "author": "https://monolog.xyz",
+    "toasts": 7,
+    "first_seen": "2026-04-27T18:35:48.200Z",
+    "last_updated": "2026-04-27T18:35:48.200Z",
+    "published": "2026-04-27T16:24Z"
   }
 ]
