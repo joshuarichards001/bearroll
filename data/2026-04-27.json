@@ -66,18 +66,18 @@
     "url": "https://binaryribbons01111011.bearblog.dev/i-wont-watch-short-form-videos/",
     "title": "I won't watch short form videos.",
     "author": "https://binaryribbons01111011.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-27T13:40:15.841Z",
-    "last_updated": "2026-04-27T18:35:48.200Z",
+    "last_updated": "2026-04-27T20:30:26.875Z",
     "published": "2026-04-27T07:39Z"
   },
   {
     "url": "https://elmc.at/against-maps/",
     "title": "Against Maps",
     "author": "https://elmc.at",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-04-27T14:46:33.285Z",
-    "last_updated": "2026-04-27T18:35:48.200Z",
+    "last_updated": "2026-04-27T20:30:26.875Z",
     "published": "2026-04-27T13:00Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://forkingmad.blog/ai-summary-blog-post/",
     "title": "AI Summaries in your Blog Posts!",
     "author": "https://forkingmad.blog",
-    "toasts": 15,
+    "toasts": 19,
     "first_seen": "2026-04-27T18:35:48.200Z",
-    "last_updated": "2026-04-27T19:35:57.295Z",
+    "last_updated": "2026-04-27T20:30:26.875Z",
     "published": "2026-04-27T17:18Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-04-27T19:35:57.295Z",
     "last_updated": "2026-04-27T19:35:57.295Z",
     "published": "2026-04-27T14:52Z"
+  },
+  {
+    "url": "https://robertbirming.com/forget-about-numbers/",
+    "title": "Forget about the numbers",
+    "author": "https://robertbirming.com",
+    "toasts": 9,
+    "first_seen": "2026-04-27T20:30:26.875Z",
+    "last_updated": "2026-04-27T20:30:26.875Z",
+    "published": "2026-04-27T17:28Z"
   }
 ]
