@@ -75,9 +75,9 @@
     "url": "https://elmc.at/against-maps/",
     "title": "Against Maps",
     "author": "https://elmc.at",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-27T14:46:33.285Z",
-    "last_updated": "2026-04-27T14:46:33.285Z",
+    "last_updated": "2026-04-27T15:40:05.905Z",
     "published": "2026-04-27T13:00Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-04-27T14:46:33.285Z",
     "last_updated": "2026-04-27T14:46:33.285Z",
     "published": "2026-04-27T07:47Z"
+  },
+  {
+    "url": "https://tofukat.bearblog.dev/bloated-digital-spaces/",
+    "title": "bloated digital spaces",
+    "author": "https://tofukat.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-04-27T15:40:05.905Z",
+    "last_updated": "2026-04-27T15:40:05.905Z",
+    "published": "2026-04-27T13:48Z"
   }
 ]
