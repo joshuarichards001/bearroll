@@ -111,9 +111,9 @@
     "url": "https://forkingmad.blog/ai-summary-blog-post/",
     "title": "AI Summaries in your Blog Posts!",
     "author": "https://forkingmad.blog",
-    "toasts": 13,
+    "toasts": 15,
     "first_seen": "2026-04-27T18:35:48.200Z",
-    "last_updated": "2026-04-27T18:35:48.200Z",
+    "last_updated": "2026-04-27T19:35:57.295Z",
     "published": "2026-04-27T17:18Z"
   },
   {
@@ -124,5 +124,14 @@
     "first_seen": "2026-04-27T18:35:48.200Z",
     "last_updated": "2026-04-27T18:35:48.200Z",
     "published": "2026-04-27T16:24Z"
+  },
+  {
+    "url": "https://yizcounty.rodeo/a-really-long-time/",
+    "title": "a really long time",
+    "author": "https://yizcounty.rodeo",
+    "toasts": 7,
+    "first_seen": "2026-04-27T19:35:57.295Z",
+    "last_updated": "2026-04-27T19:35:57.295Z",
+    "published": "2026-04-27T14:52Z"
   }
 ]
