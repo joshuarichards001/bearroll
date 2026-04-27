@@ -3,9 +3,9 @@
     "url": "https://yunzi.co.uk/chernobyl-40-years-on/",
     "title": "Chernobyl 40 years on",
     "author": "https://yunzi.co.uk",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-04-26T08:33:18.324Z",
-    "last_updated": "2026-04-27T01:41:04.276Z",
+    "last_updated": "2026-04-27T03:14:46.204Z",
     "published": "2026-04-26T01:30Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://technically-good.ca/newsletter/007-2026-04-26/",
     "title": "💌 Newsletter #007 - Of Age-Gating, Belonging, and AI Being Blazing Fast 🚀 (at Enshittifying)",
     "author": "https://technically-good.ca",
-    "toasts": 46,
+    "toasts": 52,
     "first_seen": "2026-04-26T16:19:19.034Z",
-    "last_updated": "2026-04-27T01:41:04.276Z",
+    "last_updated": "2026-04-27T03:14:46.204Z",
     "published": "2026-04-26T14:58Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://fragmentadamente.bearblog.dev/sundays-werent-made-for-this/",
     "title": "Sundays weren't made for this",
     "author": "https://fragmentadamente.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-26T21:16:20.751Z",
-    "last_updated": "2026-04-26T22:15:53.454Z",
+    "last_updated": "2026-04-27T03:14:46.204Z",
     "published": "2026-04-26T18:27Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-04-27T00:51:56.544Z",
     "last_updated": "2026-04-27T00:51:56.544Z",
     "published": "2026-04-26T17:45Z"
+  },
+  {
+    "url": "https://blog.avas.space/showingupforillness/",
+    "title": "showing up for my illnesses is hard",
+    "author": "https://blog.avas.space",
+    "toasts": 7,
+    "first_seen": "2026-04-27T03:14:46.204Z",
+    "last_updated": "2026-04-27T03:14:46.204Z",
+    "published": "2026-04-26T20:17Z"
   }
 ]
