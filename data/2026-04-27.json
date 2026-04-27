@@ -3,9 +3,9 @@
     "url": "https://departure.blog/weeknotes-2026-17/",
     "title": "Weeknotes 2026-17",
     "author": "https://departure.blog",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-27T03:14:46.204Z",
-    "last_updated": "2026-04-27T03:14:46.204Z",
+    "last_updated": "2026-04-27T05:11:08.119Z",
     "published": "2026-04-27T01:08Z"
   },
   {
@@ -16,5 +16,23 @@
     "first_seen": "2026-04-27T03:14:46.204Z",
     "last_updated": "2026-04-27T03:14:46.204Z",
     "published": "2026-04-27T01:04Z"
+  },
+  {
+    "url": "https://johnsplace.bearblog.dev/the-prometheus-glitch/",
+    "title": "The Prometheus Glitch",
+    "author": "https://johnsplace.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-04-27T05:11:08.119Z",
+    "last_updated": "2026-04-27T05:11:08.119Z",
+    "published": "2026-04-27T01:12Z"
+  },
+  {
+    "url": "https://s0ykaf.bearblog.dev/thoughts-photos/",
+    "title": "thoughts & photos",
+    "author": "https://s0ykaf.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-27T05:11:08.119Z",
+    "last_updated": "2026-04-27T05:11:08.119Z",
+    "published": "2026-04-27T01:26Z"
   }
 ]
