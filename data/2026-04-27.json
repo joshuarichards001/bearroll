@@ -111,18 +111,18 @@
     "url": "https://forkingmad.blog/ai-summary-blog-post/",
     "title": "AI Summaries in your Blog Posts!",
     "author": "https://forkingmad.blog",
-    "toasts": 37,
+    "toasts": 41,
     "first_seen": "2026-04-27T18:35:48.200Z",
-    "last_updated": "2026-04-28T03:14:33.927Z",
+    "last_updated": "2026-04-28T05:13:40.028Z",
     "published": "2026-04-27T17:18Z"
   },
   {
     "url": "https://monolog.xyz/photography/",
     "title": "photography",
     "author": "https://monolog.xyz",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-27T18:35:48.200Z",
-    "last_updated": "2026-04-28T03:14:33.927Z",
+    "last_updated": "2026-04-28T05:13:40.028Z",
     "published": "2026-04-27T16:24Z"
   },
   {
@@ -169,5 +169,14 @@
     "first_seen": "2026-04-28T01:41:24.975Z",
     "last_updated": "2026-04-28T01:41:24.975Z",
     "published": "2026-04-27T20:14Z"
+  },
+  {
+    "url": "https://kami.bearblog.dev/ive-been-playing-tomodachi-life/",
+    "title": "Enjoying the new tomodachi life",
+    "author": "https://kami.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-28T05:13:40.028Z",
+    "last_updated": "2026-04-28T05:13:40.028Z",
+    "published": "2026-04-27T21:15Z"
   }
 ]
