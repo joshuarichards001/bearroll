@@ -3,9 +3,9 @@
     "url": "https://untangled.bearblog.dev/brain-rot/",
     "title": "Can You Reverse Brain Rot?",
     "author": "https://untangled.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-04-28T01:41:24.975Z",
-    "last_updated": "2026-04-28T17:37:42.622Z",
+    "last_updated": "2026-04-28T18:40:05.747Z",
     "published": "2026-04-28T00:15Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://blog.lauramichet.com/someone-collected-a-bunch-of-historical-techno-optimist-news-coverage-in-one-place/",
     "title": "Someone collected a bunch of historical techno-optimist news coverage in one place",
     "author": "https://blog.lauramichet.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-04-28T10:46:03.446Z",
-    "last_updated": "2026-04-28T17:37:42.622Z",
+    "last_updated": "2026-04-28T18:40:05.747Z",
     "published": "2026-04-28T06:59Z"
   },
   {
@@ -48,9 +48,27 @@
     "url": "https://notes.jeddacp.com/the-new-kid-on-the-block/",
     "title": "The New Kid on the Block",
     "author": "https://notes.jeddacp.com",
-    "toasts": 6,
+    "toasts": 9,
     "first_seen": "2026-04-28T17:37:42.622Z",
-    "last_updated": "2026-04-28T17:37:42.622Z",
+    "last_updated": "2026-04-28T18:40:05.747Z",
     "published": "2026-04-28T16:43Z"
+  },
+  {
+    "url": "https://guinevak.bearblog.dev/its-time-we-stopped-calling-them-tweets/",
+    "title": "It's time we stopped calling them tweets",
+    "author": "https://guinevak.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-28T18:40:05.747Z",
+    "last_updated": "2026-04-28T18:40:05.747Z",
+    "published": "2026-04-28T16:22Z"
+  },
+  {
+    "url": "https://forkingmad.blog/who-knows-that-you-blog/",
+    "title": "Who knows that you blog?",
+    "author": "https://forkingmad.blog",
+    "toasts": 6,
+    "first_seen": "2026-04-28T18:40:05.747Z",
+    "last_updated": "2026-04-28T18:40:05.747Z",
+    "published": "2026-04-28T17:28Z"
   }
 ]
