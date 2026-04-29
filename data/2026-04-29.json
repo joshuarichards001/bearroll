@@ -3,9 +3,9 @@
     "url": "https://megatechbody.bearblog.dev/small-joys-supermarket-terrible-etiquette/",
     "title": "small joys at the supermarket and my terrible habit",
     "author": "https://megatechbody.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-29T11:35:37.045Z",
-    "last_updated": "2026-04-29T13:39:33.635Z",
+    "last_updated": "2026-04-29T18:38:26.601Z",
     "published": "2026-04-29T07:26Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://blog.avas.space/misogyny/",
     "title": "misogyny in the blogosphere",
     "author": "https://blog.avas.space",
-    "toasts": 16,
+    "toasts": 19,
     "first_seen": "2026-04-29T13:39:33.635Z",
-    "last_updated": "2026-04-29T17:36:33.004Z",
+    "last_updated": "2026-04-29T18:38:26.601Z",
     "published": "2026-04-29T12:15Z"
   },
   {
@@ -39,18 +39,36 @@
     "url": "https://tala.bearblog.dev/you-should-be-joymaxxing-your-projects/",
     "title": "you should be joymaxxing your projects",
     "author": "https://tala.bearblog.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-04-29T15:45:13.282Z",
-    "last_updated": "2026-04-29T16:38:44.622Z",
+    "last_updated": "2026-04-29T18:38:26.601Z",
     "published": "2026-04-29T13:42Z"
   },
   {
     "url": "https://vinceblog.net/why-i-left-vimeo-after-16-years/",
     "title": "Why I Left Vimeo After 16 Years",
     "author": "https://vinceblog.net",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-04-29T17:36:33.004Z",
-    "last_updated": "2026-04-29T17:36:33.004Z",
+    "last_updated": "2026-04-29T18:38:26.601Z",
     "published": "2026-04-29T15:12Z"
+  },
+  {
+    "url": "https://logs.bearblog.dev/se-voce-tiver-uma-ideia-escreva-antes-que-ela-desapareca/",
+    "title": "Se você tiver uma ideia, escreva antes que ela desapareça",
+    "author": "https://logs.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-29T18:38:26.601Z",
+    "last_updated": "2026-04-29T18:38:26.601Z",
+    "published": "2026-04-29T12:50Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260429/",
+    "title": "独立博客，难在不够独立",
+    "author": "https://blog.solazy.me",
+    "toasts": 7,
+    "first_seen": "2026-04-29T18:38:26.601Z",
+    "last_updated": "2026-04-29T18:38:26.601Z",
+    "published": "2026-04-29T07:00Z"
   }
 ]
