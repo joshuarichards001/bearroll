@@ -3,9 +3,9 @@
     "url": "https://untangled.bearblog.dev/brain-rot/",
     "title": "Can You Reverse Brain Rot?",
     "author": "https://untangled.bearblog.dev",
-    "toasts": 18,
+    "toasts": 20,
     "first_seen": "2026-04-28T01:41:24.975Z",
-    "last_updated": "2026-04-28T23:23:59.244Z",
+    "last_updated": "2026-04-29T00:55:05.486Z",
     "published": "2026-04-28T00:15Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://blog.avas.space/less-minimalist/",
     "title": "becoming less minimalist",
     "author": "https://blog.avas.space",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-28T17:37:42.622Z",
-    "last_updated": "2026-04-28T19:36:46.569Z",
+    "last_updated": "2026-04-29T00:55:05.486Z",
     "published": "2026-04-28T11:16Z"
   },
   {
     "url": "https://notes.jeddacp.com/the-new-kid-on-the-block/",
     "title": "The New Kid on the Block",
     "author": "https://notes.jeddacp.com",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-04-28T17:37:42.622Z",
-    "last_updated": "2026-04-28T22:25:03.924Z",
+    "last_updated": "2026-04-29T00:55:05.486Z",
     "published": "2026-04-28T16:43Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
     "title": "\"People who don't use AI will be left behind\"",
     "author": "https://migrainebrain.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-28T20:34:47.320Z",
-    "last_updated": "2026-04-28T23:23:59.244Z",
+    "last_updated": "2026-04-29T00:55:05.486Z",
     "published": "2026-04-28T17:33Z"
   },
   {
@@ -97,5 +97,23 @@
     "first_seen": "2026-04-28T21:28:37.239Z",
     "last_updated": "2026-04-28T21:28:37.239Z",
     "published": "2026-04-28T14:35Z"
+  },
+  {
+    "url": "https://blahg.online/sitting-in-my-car/",
+    "title": "sitting in my car",
+    "author": "https://blahg.online",
+    "toasts": 7,
+    "first_seen": "2026-04-29T00:55:05.486Z",
+    "last_updated": "2026-04-29T00:55:05.486Z",
+    "published": "2026-04-28T22:22Z"
+  },
+  {
+    "url": "https://cherrysroom.bearblog.dev/western-tanager-sightings/",
+    "title": "western tanager sightings",
+    "author": "https://cherrysroom.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-29T00:55:05.486Z",
+    "last_updated": "2026-04-29T00:55:05.486Z",
+    "published": "2026-04-28T21:47Z"
   }
 ]
