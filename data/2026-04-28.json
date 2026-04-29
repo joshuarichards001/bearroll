@@ -39,9 +39,9 @@
     "url": "https://blog.avas.space/less-minimalist/",
     "title": "becoming less minimalist",
     "author": "https://blog.avas.space",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-28T17:37:42.622Z",
-    "last_updated": "2026-04-29T00:55:05.486Z",
+    "last_updated": "2026-04-29T07:49:28.556Z",
     "published": "2026-04-28T11:16Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://blog.spu.io/you-dont-want-to-make-things-you-want-to-have-made-things/",
     "title": "You Don't Want to Make Things, You Want to Have Made Things",
     "author": "https://blog.spu.io",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-04-29T03:14:16.471Z",
-    "last_updated": "2026-04-29T06:58:50.821Z",
+    "last_updated": "2026-04-29T07:49:28.556Z",
     "published": "2026-04-28T21:55Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-04-29T06:58:50.821Z",
     "last_updated": "2026-04-29T06:58:50.821Z",
     "published": "2026-04-28T09:00Z"
+  },
+  {
+    "url": "https://musing.ispretty.fyi/blog/its-been-almost-ten-years-since-i-last-heard-your-voice/",
+    "title": "it's been almost ten years since I last heard your voice.",
+    "author": "https://musing.ispretty.fyi",
+    "toasts": 7,
+    "first_seen": "2026-04-29T07:49:28.556Z",
+    "last_updated": "2026-04-29T07:49:28.556Z",
+    "published": "2026-04-28T22:41Z"
   }
 ]
