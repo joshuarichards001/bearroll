@@ -21,9 +21,9 @@
     "url": "https://blog.avas.space/misogyny/",
     "title": "misogyny in the blogosphere",
     "author": "https://blog.avas.space",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-04-29T13:39:33.635Z",
-    "last_updated": "2026-04-29T16:38:44.622Z",
+    "last_updated": "2026-04-29T17:36:33.004Z",
     "published": "2026-04-29T12:15Z"
   },
   {
@@ -43,5 +43,14 @@
     "first_seen": "2026-04-29T15:45:13.282Z",
     "last_updated": "2026-04-29T16:38:44.622Z",
     "published": "2026-04-29T13:42Z"
+  },
+  {
+    "url": "https://vinceblog.net/why-i-left-vimeo-after-16-years/",
+    "title": "Why I Left Vimeo After 16 Years",
+    "author": "https://vinceblog.net",
+    "toasts": 7,
+    "first_seen": "2026-04-29T17:36:33.004Z",
+    "last_updated": "2026-04-29T17:36:33.004Z",
+    "published": "2026-04-29T15:12Z"
   }
 ]
