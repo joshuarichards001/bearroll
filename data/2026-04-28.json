@@ -75,18 +75,18 @@
     "url": "https://robertbirming.com/why-me-why-not/",
     "title": "Why me? Why not?",
     "author": "https://robertbirming.com",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-04-28T20:34:47.320Z",
-    "last_updated": "2026-04-28T22:25:03.924Z",
+    "last_updated": "2026-04-29T01:41:58.670Z",
     "published": "2026-04-28T18:36Z"
   },
   {
     "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
     "title": "\"People who don't use AI will be left behind\"",
     "author": "https://migrainebrain.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-04-28T20:34:47.320Z",
-    "last_updated": "2026-04-29T00:55:05.486Z",
+    "last_updated": "2026-04-29T01:41:58.670Z",
     "published": "2026-04-28T17:33Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://blahg.online/sitting-in-my-car/",
     "title": "sitting in my car",
     "author": "https://blahg.online",
-    "toasts": 7,
+    "toasts": 10,
     "first_seen": "2026-04-29T00:55:05.486Z",
-    "last_updated": "2026-04-29T00:55:05.486Z",
+    "last_updated": "2026-04-29T01:41:58.670Z",
     "published": "2026-04-28T22:22Z"
   },
   {
@@ -115,5 +115,14 @@
     "first_seen": "2026-04-29T00:55:05.486Z",
     "last_updated": "2026-04-29T00:55:05.486Z",
     "published": "2026-04-28T21:47Z"
+  },
+  {
+    "url": "https://chikca.bearblog.dev/coochie-powers/",
+    "title": "coochie powers",
+    "author": "https://chikca.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-04-29T01:41:58.670Z",
+    "last_updated": "2026-04-29T01:41:58.670Z",
+    "published": "2026-04-28T17:56Z"
   }
 ]
