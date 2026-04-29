@@ -21,9 +21,9 @@
     "url": "https://blog.avas.space/misogyny/",
     "title": "misogyny in the blogosphere",
     "author": "https://blog.avas.space",
-    "toasts": 25,
+    "toasts": 28,
     "first_seen": "2026-04-29T13:39:33.635Z",
-    "last_updated": "2026-04-29T21:29:02.432Z",
+    "last_updated": "2026-04-29T22:25:10.116Z",
     "published": "2026-04-29T12:15Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://tala.bearblog.dev/you-should-be-joymaxxing-your-projects/",
     "title": "you should be joymaxxing your projects",
     "author": "https://tala.bearblog.dev",
-    "toasts": 18,
+    "toasts": 21,
     "first_seen": "2026-04-29T15:45:13.282Z",
-    "last_updated": "2026-04-29T20:31:29.289Z",
+    "last_updated": "2026-04-29T22:25:10.116Z",
     "published": "2026-04-29T13:42Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://musings101.bearblog.dev/left-behind-from-ai/",
     "title": "Left Behind from AI",
     "author": "https://musings101.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-29T19:36:57.764Z",
-    "last_updated": "2026-04-29T20:31:29.289Z",
+    "last_updated": "2026-04-29T22:25:10.116Z",
     "published": "2026-04-29T17:07Z"
   },
   {
@@ -124,5 +124,14 @@
     "first_seen": "2026-04-29T20:31:29.289Z",
     "last_updated": "2026-04-29T21:29:02.432Z",
     "published": "2026-04-29T15:08Z"
+  },
+  {
+    "url": "https://robertbirming.com/this-is-who-i-am/",
+    "title": "This is who I am?",
+    "author": "https://robertbirming.com",
+    "toasts": 7,
+    "first_seen": "2026-04-29T22:25:10.116Z",
+    "last_updated": "2026-04-29T22:25:10.116Z",
+    "published": "2026-04-29T16:11Z"
   }
 ]
