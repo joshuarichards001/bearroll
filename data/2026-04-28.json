@@ -12,9 +12,9 @@
     "url": "https://risse.bearblog.dev/first-posts-are-how-selves-get-made/",
     "title": "first posts are how selves get made",
     "author": "https://risse.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-04-28T05:13:40.028Z",
-    "last_updated": "2026-04-28T23:23:59.244Z",
+    "last_updated": "2026-04-29T03:14:16.471Z",
     "published": "2026-04-28T00:09Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://notes.jeddacp.com/the-new-kid-on-the-block/",
     "title": "The New Kid on the Block",
     "author": "https://notes.jeddacp.com",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-04-28T17:37:42.622Z",
-    "last_updated": "2026-04-29T00:55:05.486Z",
+    "last_updated": "2026-04-29T03:14:16.471Z",
     "published": "2026-04-28T16:43Z"
   },
   {
@@ -120,9 +120,18 @@
     "url": "https://chikca.bearblog.dev/coochie-powers/",
     "title": "coochie powers",
     "author": "https://chikca.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-29T01:41:58.670Z",
-    "last_updated": "2026-04-29T01:41:58.670Z",
+    "last_updated": "2026-04-29T03:14:16.471Z",
     "published": "2026-04-28T17:56Z"
+  },
+  {
+    "url": "https://blog.spu.io/you-dont-want-to-make-things-you-want-to-have-made-things/",
+    "title": "You Don't Want to Make Things, You Want to Have Made Things",
+    "author": "https://blog.spu.io",
+    "toasts": 7,
+    "first_seen": "2026-04-29T03:14:16.471Z",
+    "last_updated": "2026-04-29T03:14:16.471Z",
+    "published": "2026-04-28T21:55Z"
   }
 ]
