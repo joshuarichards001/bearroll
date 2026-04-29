@@ -3,9 +3,9 @@
     "url": "https://untangled.bearblog.dev/brain-rot/",
     "title": "Can You Reverse Brain Rot?",
     "author": "https://untangled.bearblog.dev",
-    "toasts": 28,
+    "toasts": 30,
     "first_seen": "2026-04-28T01:41:24.975Z",
-    "last_updated": "2026-04-29T10:41:40.327Z",
+    "last_updated": "2026-04-29T11:35:37.045Z",
     "published": "2026-04-28T00:15Z"
   },
   {
@@ -151,5 +151,14 @@
     "first_seen": "2026-04-29T07:49:28.556Z",
     "last_updated": "2026-04-29T09:48:16.523Z",
     "published": "2026-04-28T22:41Z"
+  },
+  {
+    "url": "https://alex-evers.bearblog.dev/not-like-that/",
+    "title": "[Song] Not Like That",
+    "author": "https://alex-evers.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-04-29T11:35:37.045Z",
+    "last_updated": "2026-04-29T11:35:37.045Z",
+    "published": "2026-04-28T21:51Z"
   }
 ]
