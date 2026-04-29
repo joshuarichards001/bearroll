@@ -30,18 +30,18 @@
     "url": "https://blog.lauramichet.com/someone-collected-a-bunch-of-historical-techno-optimist-news-coverage-in-one-place/",
     "title": "Someone collected a bunch of historical techno-optimist news coverage in one place",
     "author": "https://blog.lauramichet.com",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-04-28T10:46:03.446Z",
-    "last_updated": "2026-04-29T12:42:20.339Z",
+    "last_updated": "2026-04-29T14:51:25.260Z",
     "published": "2026-04-28T06:59Z"
   },
   {
     "url": "https://blog.avas.space/less-minimalist/",
     "title": "becoming less minimalist",
     "author": "https://blog.avas.space",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-04-28T17:37:42.622Z",
-    "last_updated": "2026-04-29T07:49:28.556Z",
+    "last_updated": "2026-04-29T14:51:25.260Z",
     "published": "2026-04-28T11:16Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
     "title": "\"People who don't use AI will be left behind\"",
     "author": "https://migrainebrain.bearblog.dev",
-    "toasts": 22,
+    "toasts": 27,
     "first_seen": "2026-04-28T20:34:47.320Z",
-    "last_updated": "2026-04-29T13:39:33.635Z",
+    "last_updated": "2026-04-29T14:51:25.260Z",
     "published": "2026-04-28T17:33Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://blog.spu.io/you-dont-want-to-make-things-you-want-to-have-made-things/",
     "title": "You Don't Want to Make Things, You Want to Have Made Things",
     "author": "https://blog.spu.io",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-04-29T03:14:16.471Z",
-    "last_updated": "2026-04-29T13:39:33.635Z",
+    "last_updated": "2026-04-29T14:51:25.260Z",
     "published": "2026-04-28T21:55Z"
   },
   {
@@ -160,5 +160,14 @@
     "first_seen": "2026-04-29T11:35:37.045Z",
     "last_updated": "2026-04-29T11:35:37.045Z",
     "published": "2026-04-28T21:51Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/left-a-mesh-radio-running-unmaintained-for-one-week/",
+    "title": "Left a mesh radio running unmaintained for one week",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 7,
+    "first_seen": "2026-04-29T14:51:25.260Z",
+    "last_updated": "2026-04-29T14:51:25.260Z",
+    "published": "2026-04-28T21:14Z"
   }
 ]
