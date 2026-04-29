@@ -21,9 +21,9 @@
     "url": "https://blog.avas.space/misogyny/",
     "title": "misogyny in the blogosphere",
     "author": "https://blog.avas.space",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-04-29T13:39:33.635Z",
-    "last_updated": "2026-04-29T14:51:25.260Z",
+    "last_updated": "2026-04-29T15:45:13.282Z",
     "published": "2026-04-29T12:15Z"
   },
   {
@@ -34,5 +34,14 @@
     "first_seen": "2026-04-29T14:51:25.260Z",
     "last_updated": "2026-04-29T14:51:25.260Z",
     "published": "2026-04-29T00:40Z"
+  },
+  {
+    "url": "https://tala.bearblog.dev/you-should-be-joymaxxing-your-projects/",
+    "title": "you should be joymaxxing your projects",
+    "author": "https://tala.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-04-29T15:45:13.282Z",
+    "last_updated": "2026-04-29T15:45:13.282Z",
+    "published": "2026-04-29T13:42Z"
   }
 ]
