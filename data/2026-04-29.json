@@ -21,27 +21,27 @@
     "url": "https://blog.avas.space/misogyny/",
     "title": "misogyny in the blogosphere",
     "author": "https://blog.avas.space",
-    "toasts": 19,
+    "toasts": 22,
     "first_seen": "2026-04-29T13:39:33.635Z",
-    "last_updated": "2026-04-29T18:38:26.601Z",
+    "last_updated": "2026-04-29T20:31:29.289Z",
     "published": "2026-04-29T12:15Z"
   },
   {
     "url": "https://fatefellshort.bearblog.dev/people-are-strange/",
     "title": "[Lifestyle] People are strange",
     "author": "https://fatefellshort.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-04-29T14:51:25.260Z",
-    "last_updated": "2026-04-29T14:51:25.260Z",
+    "last_updated": "2026-04-29T20:31:29.289Z",
     "published": "2026-04-29T00:40Z"
   },
   {
     "url": "https://tala.bearblog.dev/you-should-be-joymaxxing-your-projects/",
     "title": "you should be joymaxxing your projects",
     "author": "https://tala.bearblog.dev",
-    "toasts": 15,
+    "toasts": 18,
     "first_seen": "2026-04-29T15:45:13.282Z",
-    "last_updated": "2026-04-29T19:36:57.764Z",
+    "last_updated": "2026-04-29T20:31:29.289Z",
     "published": "2026-04-29T13:42Z"
   },
   {
@@ -66,27 +66,63 @@
     "url": "https://blog.solazy.me/20260429/",
     "title": "独立博客，难在不够独立",
     "author": "https://blog.solazy.me",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-29T18:38:26.601Z",
-    "last_updated": "2026-04-29T19:36:57.764Z",
+    "last_updated": "2026-04-29T20:31:29.289Z",
     "published": "2026-04-29T07:00Z"
   },
   {
     "url": "https://wombat.bearblog.dev/a-year-on-an-e-reader/",
     "title": "A year on an e-reader",
     "author": "https://wombat.bearblog.dev",
-    "toasts": 5,
+    "toasts": 8,
     "first_seen": "2026-04-29T19:36:57.764Z",
-    "last_updated": "2026-04-29T19:36:57.764Z",
+    "last_updated": "2026-04-29T20:31:29.289Z",
     "published": "2026-04-29T18:54Z"
   },
   {
     "url": "https://musings101.bearblog.dev/left-behind-from-ai/",
     "title": "Left Behind from AI",
     "author": "https://musings101.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-04-29T19:36:57.764Z",
-    "last_updated": "2026-04-29T19:36:57.764Z",
+    "last_updated": "2026-04-29T20:31:29.289Z",
     "published": "2026-04-29T17:07Z"
+  },
+  {
+    "url": "https://scribblypam.bearblog.dev/re-joymaxxing-and-terrible-supermarket-etiquette/",
+    "title": "re: joymaxxing and supermarket etiquette",
+    "author": "https://scribblypam.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-29T20:31:29.289Z",
+    "last_updated": "2026-04-29T20:31:29.289Z",
+    "published": "2026-04-29T18:03Z"
+  },
+  {
+    "url": "https://joshs.bearblog.dev/is-it-still-worth-learning-to-code/",
+    "title": "Is it still worth learning to code?",
+    "author": "https://joshs.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-29T20:31:29.289Z",
+    "last_updated": "2026-04-29T20:31:29.289Z",
+    "published": "2026-04-29T16:45Z"
+  },
+  {
+    "url": "https://crescendo.bearblog.dev/changing-the-way-i-journal-after-ten-years/",
+    "title": "Changing the Way I Journal After Ten Years",
+    "author": "https://crescendo.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-29T20:31:29.289Z",
+    "last_updated": "2026-04-29T20:31:29.289Z",
+    "published": "2026-04-29T15:12Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/when-does-collecting-become-overconsumption/",
+    "title": "When Does Collecting Become Overconsumption?",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 7,
+    "first_seen": "2026-04-29T20:31:29.289Z",
+    "last_updated": "2026-04-29T20:31:29.289Z",
+    "published": "2026-04-29T15:08Z"
   }
 ]
