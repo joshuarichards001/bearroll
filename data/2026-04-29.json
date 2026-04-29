@@ -39,9 +39,9 @@
     "url": "https://tala.bearblog.dev/you-should-be-joymaxxing-your-projects/",
     "title": "you should be joymaxxing your projects",
     "author": "https://tala.bearblog.dev",
-    "toasts": 12,
+    "toasts": 15,
     "first_seen": "2026-04-29T15:45:13.282Z",
-    "last_updated": "2026-04-29T18:38:26.601Z",
+    "last_updated": "2026-04-29T19:36:57.764Z",
     "published": "2026-04-29T13:42Z"
   },
   {
@@ -66,9 +66,27 @@
     "url": "https://blog.solazy.me/20260429/",
     "title": "独立博客，难在不够独立",
     "author": "https://blog.solazy.me",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-04-29T18:38:26.601Z",
-    "last_updated": "2026-04-29T18:38:26.601Z",
+    "last_updated": "2026-04-29T19:36:57.764Z",
     "published": "2026-04-29T07:00Z"
+  },
+  {
+    "url": "https://wombat.bearblog.dev/a-year-on-an-e-reader/",
+    "title": "A year on an e-reader",
+    "author": "https://wombat.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-04-29T19:36:57.764Z",
+    "last_updated": "2026-04-29T19:36:57.764Z",
+    "published": "2026-04-29T18:54Z"
+  },
+  {
+    "url": "https://musings101.bearblog.dev/left-behind-from-ai/",
+    "title": "Left Behind from AI",
+    "author": "https://musings101.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-29T19:36:57.764Z",
+    "last_updated": "2026-04-29T19:36:57.764Z",
+    "published": "2026-04-29T17:07Z"
   }
 ]
