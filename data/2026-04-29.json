@@ -21,9 +21,9 @@
     "url": "https://blog.avas.space/misogyny/",
     "title": "misogyny in the blogosphere",
     "author": "https://blog.avas.space",
-    "toasts": 41,
+    "toasts": 45,
     "first_seen": "2026-04-29T13:39:33.635Z",
-    "last_updated": "2026-04-30T05:13:31.285Z",
+    "last_updated": "2026-04-30T07:01:36.040Z",
     "published": "2026-04-29T12:15Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://tala.bearblog.dev/you-should-be-joymaxxing-your-projects/",
     "title": "you should be joymaxxing your projects",
     "author": "https://tala.bearblog.dev",
-    "toasts": 34,
+    "toasts": 39,
     "first_seen": "2026-04-29T15:45:13.282Z",
-    "last_updated": "2026-04-30T05:13:31.285Z",
+    "last_updated": "2026-04-30T07:01:36.040Z",
     "published": "2026-04-29T13:42Z"
   },
   {
     "url": "https://vinceblog.net/why-i-left-vimeo-after-16-years/",
     "title": "Why I Left Vimeo After 16 Years",
     "author": "https://vinceblog.net",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-29T17:36:33.004Z",
-    "last_updated": "2026-04-29T18:38:26.601Z",
+    "last_updated": "2026-04-30T07:01:36.040Z",
     "published": "2026-04-29T15:12Z"
   },
   {
@@ -66,27 +66,27 @@
     "url": "https://blog.solazy.me/20260429/",
     "title": "独立博客，难在不够独立",
     "author": "https://blog.solazy.me",
-    "toasts": 14,
+    "toasts": 16,
     "first_seen": "2026-04-29T18:38:26.601Z",
-    "last_updated": "2026-04-30T03:14:49.237Z",
+    "last_updated": "2026-04-30T07:01:36.040Z",
     "published": "2026-04-29T07:00Z"
   },
   {
     "url": "https://wombat.bearblog.dev/a-year-on-an-e-reader/",
     "title": "A year on an e-reader",
     "author": "https://wombat.bearblog.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-04-29T19:36:57.764Z",
-    "last_updated": "2026-04-30T01:41:58.862Z",
+    "last_updated": "2026-04-30T07:01:36.040Z",
     "published": "2026-04-29T18:54Z"
   },
   {
     "url": "https://musings101.bearblog.dev/left-behind-from-ai/",
     "title": "Left Behind from AI",
     "author": "https://musings101.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-04-29T19:36:57.764Z",
-    "last_updated": "2026-04-29T22:25:10.116Z",
+    "last_updated": "2026-04-30T07:01:36.040Z",
     "published": "2026-04-29T17:07Z"
   },
   {
@@ -129,18 +129,18 @@
     "url": "https://robertbirming.com/this-is-who-i-am/",
     "title": "This is who I am?",
     "author": "https://robertbirming.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-29T22:25:10.116Z",
-    "last_updated": "2026-04-30T05:13:31.285Z",
+    "last_updated": "2026-04-30T07:01:36.040Z",
     "published": "2026-04-29T16:11Z"
   },
   {
     "url": "https://rnotte.art/rejecting-convenience/",
     "title": "rejecting convenience",
     "author": "https://rnotte.art",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-04-29T23:24:20.031Z",
-    "last_updated": "2026-04-30T05:13:31.285Z",
+    "last_updated": "2026-04-30T07:01:36.040Z",
     "published": "2026-04-29T21:11Z"
   },
   {
@@ -169,5 +169,14 @@
     "first_seen": "2026-04-30T01:41:58.862Z",
     "last_updated": "2026-04-30T05:13:31.285Z",
     "published": "2026-04-29T20:57Z"
+  },
+  {
+    "url": "https://foolsgold.bearblog.dev/my-very-first-life-drawing-session/",
+    "title": "My very first life drawing session",
+    "author": "https://foolsgold.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-30T07:01:36.040Z",
+    "last_updated": "2026-04-30T07:01:36.040Z",
+    "published": "2026-04-29T21:51Z"
   }
 ]
