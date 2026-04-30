@@ -21,18 +21,36 @@
     "url": "https://monocyte.blog/my-favourite-unconventional-animal/",
     "title": "my favourite unconventional animal",
     "author": "https://monocyte.blog",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-04-30T16:37:42.178Z",
-    "last_updated": "2026-04-30T17:35:41.478Z",
+    "last_updated": "2026-04-30T18:38:12.361Z",
     "published": "2026-04-30T15:19Z"
   },
   {
     "url": "https://elasticveracity.bearblog.dev/read-more-books/",
     "title": "How I Read More Books",
     "author": "https://elasticveracity.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-04-30T17:35:41.478Z",
-    "last_updated": "2026-04-30T17:35:41.478Z",
+    "last_updated": "2026-04-30T18:38:12.361Z",
     "published": "2026-04-30T14:59Z"
+  },
+  {
+    "url": "https://donthave2sting.bearblog.dev/i-was-looking-for-a-job-and-then-i-found-a-job/",
+    "title": "I WAS LOOKING FOR A JOB AND THEN I FOUND A JOB",
+    "author": "https://donthave2sting.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-04-30T18:38:12.361Z",
+    "last_updated": "2026-04-30T18:38:12.361Z",
+    "published": "2026-04-30T16:21Z"
+  },
+  {
+    "url": "https://blog.sulimans.space/i-quit-streaming/",
+    "title": "i quit streaming",
+    "author": "https://blog.sulimans.space",
+    "toasts": 7,
+    "first_seen": "2026-04-30T18:38:12.361Z",
+    "last_updated": "2026-04-30T18:38:12.361Z",
+    "published": "2026-04-30T14:34Z"
   }
 ]
