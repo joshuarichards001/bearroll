@@ -12,9 +12,18 @@
     "url": "https://butwhy.bearblog.dev/hello-bears/",
     "title": "Hello Bears! A bit about me.",
     "author": "https://butwhy.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-04-30T13:39:47.692Z",
-    "last_updated": "2026-04-30T13:39:47.692Z",
+    "last_updated": "2026-04-30T16:37:42.178Z",
     "published": "2026-04-30T05:57Z"
+  },
+  {
+    "url": "https://monocyte.blog/my-favourite-unconventional-animal/",
+    "title": "my favourite unconventional animal",
+    "author": "https://monocyte.blog",
+    "toasts": 7,
+    "first_seen": "2026-04-30T16:37:42.178Z",
+    "last_updated": "2026-04-30T16:37:42.178Z",
+    "published": "2026-04-30T15:19Z"
   }
 ]
