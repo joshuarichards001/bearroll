@@ -3,9 +3,18 @@
     "url": "https://futureperfect.bearblog.dev/my-ideal-blog/",
     "title": "My ideal blog",
     "author": "https://futureperfect.bearblog.dev",
-    "toasts": 11,
+    "toasts": 14,
     "first_seen": "2026-05-01T01:43:48.477Z",
-    "last_updated": "2026-05-01T01:43:48.477Z",
+    "last_updated": "2026-05-01T03:14:35.459Z",
     "published": "2026-05-01T00:09Z"
+  },
+  {
+    "url": "https://sameoldstory.co/microblogging-is-so-much-easier-than-macroblogging/",
+    "title": "Microblogging is so much easier than macroblogging! Which is probably bad.",
+    "author": "https://sameoldstory.co",
+    "toasts": 7,
+    "first_seen": "2026-05-01T03:14:35.459Z",
+    "last_updated": "2026-05-01T03:14:35.459Z",
+    "published": "2026-05-01T00:04Z"
   }
 ]
