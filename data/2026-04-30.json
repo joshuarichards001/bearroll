@@ -75,9 +75,9 @@
     "url": "https://heychat.bearblog.dev/you-wont-be-left-behind-if-you-dont-use-ai/",
     "title": "You Won't Be Left Behind if You Don't Use AI",
     "author": "https://heychat.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-04-30T19:36:31.367Z",
-    "last_updated": "2026-05-01T07:03:23.599Z",
+    "last_updated": "2026-05-01T08:46:56.318Z",
     "published": "2026-04-30T16:46Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-05-01T05:22:10.597Z",
     "last_updated": "2026-05-01T05:22:10.597Z",
     "published": "2026-04-30T07:30Z"
+  },
+  {
+    "url": "https://puppynet.work/dracula/",
+    "title": "Dracula",
+    "author": "https://puppynet.work",
+    "toasts": 7,
+    "first_seen": "2026-05-01T08:46:56.318Z",
+    "last_updated": "2026-05-01T08:46:56.318Z",
+    "published": "2026-04-30T23:00Z"
   }
 ]
