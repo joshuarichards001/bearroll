@@ -3,9 +3,9 @@
     "url": "https://futureperfect.bearblog.dev/my-ideal-blog/",
     "title": "My ideal blog",
     "author": "https://futureperfect.bearblog.dev",
-    "toasts": 32,
+    "toasts": 37,
     "first_seen": "2026-05-01T01:43:48.477Z",
-    "last_updated": "2026-05-01T11:29:54.430Z",
+    "last_updated": "2026-05-01T13:39:05.011Z",
     "published": "2026-05-01T00:09Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://pseudosingleton.com/reddit-now-forces-you-to-use-their-app-on-mobile/",
     "title": "reddit now forces you to use their app on mobile",
     "author": "https://pseudosingleton.com",
-    "toasts": 19,
+    "toasts": 21,
     "first_seen": "2026-05-01T05:22:10.597Z",
-    "last_updated": "2026-05-01T11:29:54.430Z",
+    "last_updated": "2026-05-01T13:39:05.011Z",
     "published": "2026-05-01T02:02Z"
   },
   {
@@ -43,5 +43,23 @@
     "first_seen": "2026-05-01T12:29:45.085Z",
     "last_updated": "2026-05-01T12:29:45.085Z",
     "published": "2026-05-01T07:38Z"
+  },
+  {
+    "url": "https://seaglassdreams.bearblog.dev/happy-may/",
+    "title": "happy may",
+    "author": "https://seaglassdreams.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-01T13:39:05.011Z",
+    "last_updated": "2026-05-01T13:39:05.011Z",
+    "published": "2026-05-01T04:37Z"
+  },
+  {
+    "url": "https://blog.avas.space/cozy-gamers/",
+    "title": "nasty “cozy gamers”",
+    "author": "https://blog.avas.space",
+    "toasts": 7,
+    "first_seen": "2026-05-01T13:39:05.011Z",
+    "last_updated": "2026-05-01T13:39:05.011Z",
+    "published": "2026-05-01T08:59Z"
   }
 ]
