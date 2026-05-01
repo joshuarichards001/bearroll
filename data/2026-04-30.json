@@ -39,27 +39,27 @@
     "url": "https://donthave2sting.bearblog.dev/i-was-looking-for-a-job-and-then-i-found-a-job/",
     "title": "I WAS LOOKING FOR A JOB AND THEN I FOUND A JOB",
     "author": "https://donthave2sting.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-04-30T18:38:12.361Z",
-    "last_updated": "2026-04-30T18:38:12.361Z",
+    "last_updated": "2026-05-01T00:58:38.799Z",
     "published": "2026-04-30T16:21Z"
   },
   {
     "url": "https://blog.sulimans.space/i-quit-streaming/",
     "title": "i quit streaming",
     "author": "https://blog.sulimans.space",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-04-30T18:38:12.361Z",
-    "last_updated": "2026-04-30T18:38:12.361Z",
+    "last_updated": "2026-05-01T00:58:38.799Z",
     "published": "2026-04-30T14:34Z"
   },
   {
     "url": "https://blog.absurdpirate.com/spread-hope/",
     "title": "Spread Hope",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-04-30T19:36:31.367Z",
-    "last_updated": "2026-04-30T21:26:14.358Z",
+    "last_updated": "2026-05-01T00:58:38.799Z",
     "published": "2026-04-30T18:42Z"
   },
   {
@@ -75,9 +75,18 @@
     "url": "https://heychat.bearblog.dev/you-wont-be-left-behind-if-you-dont-use-ai/",
     "title": "You Won't Be Left Behind if You Don't Use AI",
     "author": "https://heychat.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-04-30T19:36:31.367Z",
-    "last_updated": "2026-04-30T22:23:49.344Z",
+    "last_updated": "2026-05-01T00:58:38.799Z",
     "published": "2026-04-30T16:46Z"
+  },
+  {
+    "url": "https://robertbirming.com/say-yes-more-often/",
+    "title": "Say yes more often",
+    "author": "https://robertbirming.com",
+    "toasts": 7,
+    "first_seen": "2026-05-01T00:58:38.799Z",
+    "last_updated": "2026-05-01T00:58:38.799Z",
+    "published": "2026-04-30T14:46Z"
   }
 ]
