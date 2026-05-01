@@ -21,9 +21,9 @@
     "url": "https://monocyte.blog/my-favourite-unconventional-animal/",
     "title": "my favourite unconventional animal",
     "author": "https://monocyte.blog",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-04-30T16:37:42.178Z",
-    "last_updated": "2026-05-01T13:39:05.011Z",
+    "last_updated": "2026-05-01T15:26:44.773Z",
     "published": "2026-04-30T15:19Z"
   },
   {
@@ -106,5 +106,32 @@
     "first_seen": "2026-05-01T08:46:56.318Z",
     "last_updated": "2026-05-01T14:30:02.275Z",
     "published": "2026-04-30T23:00Z"
+  },
+  {
+    "url": "https://wombat.bearblog.dev/crab-hacker-barnacle/",
+    "title": "My favorite unconventional animal — the crab hacker barnacle",
+    "author": "https://wombat.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-01T15:26:44.773Z",
+    "last_updated": "2026-05-01T15:26:44.773Z",
+    "published": "2026-04-30T19:57Z"
+  },
+  {
+    "url": "https://karpathy.bearblog.dev/sequoia-ascent-2026/",
+    "title": "Sequoia Ascent 2026 summary",
+    "author": "https://karpathy.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-01T15:26:44.773Z",
+    "last_updated": "2026-05-01T15:26:44.773Z",
+    "published": "2026-04-30T16:00Z"
+  },
+  {
+    "url": "https://prasatt.me/re-you-should-be-joymaxxing-your-projects/",
+    "title": "Re: you should be joymaxxing your projects",
+    "author": "https://prasatt.me",
+    "toasts": 8,
+    "first_seen": "2026-05-01T15:26:44.773Z",
+    "last_updated": "2026-05-01T15:26:44.773Z",
+    "published": "2026-04-30T12:06Z"
   }
 ]
