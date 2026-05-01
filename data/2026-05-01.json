@@ -3,9 +3,9 @@
     "url": "https://futureperfect.bearblog.dev/my-ideal-blog/",
     "title": "My ideal blog",
     "author": "https://futureperfect.bearblog.dev",
-    "toasts": 51,
+    "toasts": 53,
     "first_seen": "2026-05-01T01:43:48.477Z",
-    "last_updated": "2026-05-01T17:26:41.377Z",
+    "last_updated": "2026-05-01T18:30:38.635Z",
     "published": "2026-05-01T00:09Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://pseudosingleton.com/reddit-now-forces-you-to-use-their-app-on-mobile/",
     "title": "reddit now forces you to use their app on mobile",
     "author": "https://pseudosingleton.com",
-    "toasts": 29,
+    "toasts": 33,
     "first_seen": "2026-05-01T05:22:10.597Z",
-    "last_updated": "2026-05-01T17:26:41.377Z",
+    "last_updated": "2026-05-01T18:30:38.635Z",
     "published": "2026-05-01T02:02Z"
   },
   {
@@ -66,18 +66,18 @@
     "url": "https://minimal.bearblog.dev/bye-spotify-hello-mp3s/",
     "title": "Bye Spotify, hello MP3s",
     "author": "https://minimal.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-05-01T15:26:44.773Z",
-    "last_updated": "2026-05-01T17:26:41.377Z",
+    "last_updated": "2026-05-01T18:30:38.635Z",
     "published": "2026-05-01T13:03Z"
   },
   {
     "url": "https://scribblypam.bearblog.dev/lets-steal-ais-job/",
     "title": "let's steal ai's job",
     "author": "https://scribblypam.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-05-01T15:26:44.773Z",
-    "last_updated": "2026-05-01T17:26:41.377Z",
+    "last_updated": "2026-05-01T18:30:38.635Z",
     "published": "2026-05-01T12:07Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://magmacranes.bearblog.dev/life-has-been-very-unkind-lately/",
     "title": "Life has been very unkind lately",
     "author": "https://magmacranes.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-01T16:26:05.577Z",
-    "last_updated": "2026-05-01T17:26:41.377Z",
+    "last_updated": "2026-05-01T18:30:38.635Z",
     "published": "2026-05-01T14:43Z"
   },
   {
@@ -133,5 +133,32 @@
     "first_seen": "2026-05-01T17:26:41.377Z",
     "last_updated": "2026-05-01T17:26:41.377Z",
     "published": "2026-05-01T13:00Z"
+  },
+  {
+    "url": "https://skuka.online/i-made-my-phone-look-fun/",
+    "title": "i made my phone look fun",
+    "author": "https://skuka.online",
+    "toasts": 8,
+    "first_seen": "2026-05-01T18:30:38.635Z",
+    "last_updated": "2026-05-01T18:30:38.635Z",
+    "published": "2026-05-01T17:18Z"
+  },
+  {
+    "url": "https://blog.nutts.org/2026/05/01/bye-bye-google-maps/",
+    "title": "Bye bye, Google Maps",
+    "author": "https://blog.nutts.org",
+    "toasts": 8,
+    "first_seen": "2026-05-01T18:30:38.635Z",
+    "last_updated": "2026-05-01T18:30:38.635Z",
+    "published": "2026-05-01T06:18Z"
+  },
+  {
+    "url": "https://pinewind.bearblog.dev/reflections-on-30-days-of-daily-blogging/",
+    "title": "reflections on 30 days of daily blogging",
+    "author": "https://pinewind.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-01T18:30:38.635Z",
+    "last_updated": "2026-05-01T18:30:38.635Z",
+    "published": "2026-05-01T14:55Z"
   }
 ]
