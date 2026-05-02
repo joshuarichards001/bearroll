@@ -3,9 +3,9 @@
     "url": "https://futureperfect.bearblog.dev/my-ideal-blog/",
     "title": "My ideal blog",
     "author": "https://futureperfect.bearblog.dev",
-    "toasts": 66,
+    "toasts": 67,
     "first_seen": "2026-05-01T01:43:48.477Z",
-    "last_updated": "2026-05-02T05:07:44.469Z",
+    "last_updated": "2026-05-02T06:47:19.658Z",
     "published": "2026-05-01T00:09Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://pseudosingleton.com/reddit-now-forces-you-to-use-their-app-on-mobile/",
     "title": "reddit now forces you to use their app on mobile",
     "author": "https://pseudosingleton.com",
-    "toasts": 48,
+    "toasts": 50,
     "first_seen": "2026-05-01T05:22:10.597Z",
-    "last_updated": "2026-05-02T03:12:27.575Z",
+    "last_updated": "2026-05-02T06:47:19.658Z",
     "published": "2026-05-01T02:02Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://minimal.bearblog.dev/bye-spotify-hello-mp3s/",
     "title": "Bye Spotify, hello MP3s",
     "author": "https://minimal.bearblog.dev",
-    "toasts": 30,
+    "toasts": 31,
     "first_seen": "2026-05-01T15:26:44.773Z",
-    "last_updated": "2026-05-02T05:07:44.469Z",
+    "last_updated": "2026-05-02T06:47:19.658Z",
     "published": "2026-05-01T13:03Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://hwisnu.bearblog.dev/crescent-dataframe-library-in-c23-built-using-safe_ch-and-cforge/",
     "title": "Crescent - dataframe library in C23 built using safe_c.h and cforge",
     "author": "https://hwisnu.bearblog.dev",
-    "toasts": 27,
+    "toasts": 30,
     "first_seen": "2026-05-01T16:26:05.577Z",
-    "last_updated": "2026-05-02T03:12:27.575Z",
+    "last_updated": "2026-05-02T06:47:19.658Z",
     "published": "2026-05-01T04:25Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://skuka.online/i-made-my-phone-look-fun/",
     "title": "i made my phone look fun",
     "author": "https://skuka.online",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-05-01T18:30:38.635Z",
-    "last_updated": "2026-05-02T05:07:44.469Z",
+    "last_updated": "2026-05-02T06:47:19.658Z",
     "published": "2026-05-01T17:18Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://bruceblog.bearblog.dev/capitalism-is-its-own-parody-at-this-point/",
     "title": "capitalism is its own parody at this point",
     "author": "https://bruceblog.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-05-01T20:23:29.773Z",
-    "last_updated": "2026-05-02T01:40:18.232Z",
+    "last_updated": "2026-05-02T06:47:19.658Z",
     "published": "2026-05-01T18:15Z"
   },
   {
@@ -192,9 +192,18 @@
     "url": "https://aidanking.blog/the-new-rule-of-writing-in-the-ai-age-dont-be-too-good/",
     "title": "The New Rule of Writing in the AI Age: Don’t Be Too Good",
     "author": "https://aidanking.blog",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-02T00:52:12.756Z",
-    "last_updated": "2026-05-02T05:07:44.469Z",
+    "last_updated": "2026-05-02T06:47:19.658Z",
     "published": "2026-05-01T21:34Z"
+  },
+  {
+    "url": "https://originalspirit.bearblog.dev/your-ai-slop-bores-me/",
+    "title": "your ai slop bores me",
+    "author": "https://originalspirit.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-02T06:47:19.658Z",
+    "last_updated": "2026-05-02T06:47:19.658Z",
+    "published": "2026-05-01T23:19Z"
   }
 ]
