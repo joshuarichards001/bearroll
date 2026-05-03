@@ -21,9 +21,9 @@
     "url": "https://pseudosingleton.com/reddit-now-forces-you-to-use-their-app-on-mobile/",
     "title": "reddit now forces you to use their app on mobile",
     "author": "https://pseudosingleton.com",
-    "toasts": 61,
+    "toasts": 63,
     "first_seen": "2026-05-01T05:22:10.597Z",
-    "last_updated": "2026-05-03T00:57:09.710Z",
+    "last_updated": "2026-05-03T06:59:05.464Z",
     "published": "2026-05-01T02:02Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://seaglassdreams.bearblog.dev/happy-may/",
     "title": "happy may",
     "author": "https://seaglassdreams.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-01T13:39:05.011Z",
-    "last_updated": "2026-05-01T13:39:05.011Z",
+    "last_updated": "2026-05-03T06:59:05.464Z",
     "published": "2026-05-01T04:37Z"
   },
   {
@@ -66,18 +66,18 @@
     "url": "https://minimal.bearblog.dev/bye-spotify-hello-mp3s/",
     "title": "Bye Spotify, hello MP3s",
     "author": "https://minimal.bearblog.dev",
-    "toasts": 57,
+    "toasts": 59,
     "first_seen": "2026-05-01T15:26:44.773Z",
-    "last_updated": "2026-05-03T05:13:55.049Z",
+    "last_updated": "2026-05-03T06:59:05.464Z",
     "published": "2026-05-01T13:03Z"
   },
   {
     "url": "https://scribblypam.bearblog.dev/lets-steal-ais-job/",
     "title": "let's steal ai's job",
     "author": "https://scribblypam.bearblog.dev",
-    "toasts": 32,
+    "toasts": 33,
     "first_seen": "2026-05-01T15:26:44.773Z",
-    "last_updated": "2026-05-03T00:57:09.710Z",
+    "last_updated": "2026-05-03T06:59:05.464Z",
     "published": "2026-05-01T12:07Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://magmacranes.bearblog.dev/life-has-been-very-unkind-lately/",
     "title": "Life has been very unkind lately",
     "author": "https://magmacranes.bearblog.dev",
-    "toasts": 25,
+    "toasts": 26,
     "first_seen": "2026-05-01T16:26:05.577Z",
-    "last_updated": "2026-05-03T05:13:55.049Z",
+    "last_updated": "2026-05-03T06:59:05.464Z",
     "published": "2026-05-01T14:43Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://elmc.at/cat-scraps-apr-26/",
     "title": "Cat Scraps: Apr 26",
     "author": "https://elmc.at",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-01T17:26:41.377Z",
-    "last_updated": "2026-05-01T23:22:26.664Z",
+    "last_updated": "2026-05-03T06:59:05.464Z",
     "published": "2026-05-01T13:00Z"
   },
   {
@@ -250,5 +250,14 @@
     "first_seen": "2026-05-03T01:41:41.107Z",
     "last_updated": "2026-05-03T01:41:41.107Z",
     "published": "2026-05-01T21:35Z"
+  },
+  {
+    "url": "https://bx.bearblog.dev/bad-blogger/",
+    "title": "bad blogger",
+    "author": "https://bx.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-03T06:59:05.464Z",
+    "last_updated": "2026-05-03T06:59:05.464Z",
+    "published": "2026-05-01T22:08Z"
   }
 ]
