@@ -3,9 +3,9 @@
     "url": "https://blog.absurdpirate.com/people-are-full-of-shit-when-someone-dies/",
     "title": "People Are Full of Shit When Someone Dies",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-05-03T08:40:24.150Z",
-    "last_updated": "2026-05-03T14:24:04.884Z",
+    "last_updated": "2026-05-03T15:20:08.586Z",
     "published": "2026-05-03T02:46Z"
   },
   {
@@ -30,9 +30,18 @@
     "url": "https://kawanami.me/herman-in-kyoto-japan/",
     "title": "Fun Night with Herman in Kyoto, Japan",
     "author": "https://kawanami.me",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-05-03T14:24:04.884Z",
-    "last_updated": "2026-05-03T14:24:04.884Z",
+    "last_updated": "2026-05-03T15:20:08.586Z",
     "published": "2026-05-03T12:34Z"
+  },
+  {
+    "url": "https://project72.bearblog.dev/new-blog-and-new-me/",
+    "title": "New blog and new me",
+    "author": "https://project72.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-03T15:20:08.586Z",
+    "last_updated": "2026-05-03T15:20:08.586Z",
+    "published": "2026-05-03T12:21Z"
   }
 ]
