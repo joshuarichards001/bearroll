@@ -30,18 +30,18 @@
     "url": "https://kawanami.me/herman-in-kyoto-japan/",
     "title": "Fun Night with Herman in Kyoto, Japan",
     "author": "https://kawanami.me",
-    "toasts": 14,
+    "toasts": 16,
     "first_seen": "2026-05-03T14:24:04.884Z",
-    "last_updated": "2026-05-03T22:18:46.791Z",
+    "last_updated": "2026-05-03T23:20:47.651Z",
     "published": "2026-05-03T12:34Z"
   },
   {
     "url": "https://project72.bearblog.dev/new-blog-and-new-me/",
     "title": "New blog and new me",
     "author": "https://project72.bearblog.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-05-03T15:20:08.586Z",
-    "last_updated": "2026-05-03T20:18:02.611Z",
+    "last_updated": "2026-05-03T23:20:47.651Z",
     "published": "2026-05-03T12:21Z"
   },
   {
@@ -57,18 +57,27 @@
     "url": "https://fragmentadamente.bearblog.dev/objetivos-de-maio/",
     "title": "Objetivos de Maio",
     "author": "https://fragmentadamente.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-05-03T19:26:43.076Z",
-    "last_updated": "2026-05-03T19:26:43.076Z",
+    "last_updated": "2026-05-03T23:20:47.651Z",
     "published": "2026-05-03T11:53Z"
   },
   {
     "url": "https://achyutjoshi.blog/central-park-robin/",
     "title": "The bird nobody was watching",
     "author": "https://achyutjoshi.blog",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-05-03T22:18:46.791Z",
-    "last_updated": "2026-05-03T22:18:46.791Z",
+    "last_updated": "2026-05-03T23:20:47.651Z",
     "published": "2026-05-03T13:21Z"
+  },
+  {
+    "url": "https://aworkinprogress.bearblog.dev/introduction/",
+    "title": "Introduction",
+    "author": "https://aworkinprogress.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-03T23:20:47.651Z",
+    "last_updated": "2026-05-03T23:20:47.651Z",
+    "published": "2026-05-03T21:14Z"
   }
 ]
