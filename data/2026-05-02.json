@@ -3,9 +3,9 @@
     "url": "https://swarn.bearblog.dev/dog-sleep/",
     "title": "I tried my Dog's sleep schedule for 30 days",
     "author": "https://swarn.bearblog.dev",
-    "toasts": 35,
+    "toasts": 36,
     "first_seen": "2026-05-02T05:07:44.469Z",
-    "last_updated": "2026-05-03T13:35:22.473Z",
+    "last_updated": "2026-05-03T14:24:04.884Z",
     "published": "2026-05-02T02:30Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://onomade.bearblog.dev/blogs-as-a-quiet-escape/",
     "title": "Blogs as a Quiet Escape",
     "author": "https://onomade.bearblog.dev",
-    "toasts": 19,
+    "toasts": 21,
     "first_seen": "2026-05-02T23:20:19.139Z",
-    "last_updated": "2026-05-03T12:25:25.992Z",
+    "last_updated": "2026-05-03T14:24:04.884Z",
     "published": "2026-05-02T20:19Z"
   },
   {
@@ -66,27 +66,27 @@
     "url": "https://bx.bearblog.dev/new-month-new-blog/",
     "title": "new month, new blog",
     "author": "https://bx.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-03T00:57:09.710Z",
-    "last_updated": "2026-05-03T13:35:22.473Z",
+    "last_updated": "2026-05-03T14:24:04.884Z",
     "published": "2026-05-02T22:01Z"
   },
   {
     "url": "https://racc.blog/what-ive-been-up-to-lately/",
     "title": "What I’ve been up to lately!",
     "author": "https://racc.blog",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-03T00:57:09.710Z",
-    "last_updated": "2026-05-03T06:59:05.464Z",
+    "last_updated": "2026-05-03T14:24:04.884Z",
     "published": "2026-05-02T11:23Z"
   },
   {
     "url": "https://blog.lauramichet.com/prepare-to-ride-the-d/",
     "title": "Prepare to ride the D",
     "author": "https://blog.lauramichet.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-03T05:13:55.049Z",
-    "last_updated": "2026-05-03T06:59:05.464Z",
+    "last_updated": "2026-05-03T14:24:04.884Z",
     "published": "2026-05-02T16:29Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-05-03T08:40:24.150Z",
     "last_updated": "2026-05-03T08:40:24.150Z",
     "published": "2026-05-02T17:28Z"
+  },
+  {
+    "url": "https://jamesbaker.uk/dont-subscribe-buy-a-pass/",
+    "title": "📺 Don’t Subscribe; Buy a Pass",
+    "author": "https://jamesbaker.uk",
+    "toasts": 7,
+    "first_seen": "2026-05-03T14:24:04.884Z",
+    "last_updated": "2026-05-03T14:24:04.884Z",
+    "published": "2026-05-02T21:25Z"
   }
 ]
