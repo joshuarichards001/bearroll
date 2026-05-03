@@ -66,9 +66,9 @@
     "url": "https://minimal.bearblog.dev/bye-spotify-hello-mp3s/",
     "title": "Bye Spotify, hello MP3s",
     "author": "https://minimal.bearblog.dev",
-    "toasts": 64,
+    "toasts": 65,
     "first_seen": "2026-05-01T15:26:44.773Z",
-    "last_updated": "2026-05-03T17:21:02.513Z",
+    "last_updated": "2026-05-03T19:26:43.076Z",
     "published": "2026-05-01T13:03Z"
   },
   {
@@ -259,5 +259,14 @@
     "first_seen": "2026-05-03T06:59:05.464Z",
     "last_updated": "2026-05-03T06:59:05.464Z",
     "published": "2026-05-01T22:08Z"
+  },
+  {
+    "url": "https://notes.stateofnats.com/the-state-of-nats-latest-post/",
+    "title": "The ache of ambition without toxicity",
+    "author": "https://notes.stateofnats.com",
+    "toasts": 10,
+    "first_seen": "2026-05-03T19:26:43.076Z",
+    "last_updated": "2026-05-03T19:26:43.076Z",
+    "published": "2026-05-01T12:33Z"
   }
 ]
