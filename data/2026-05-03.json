@@ -21,18 +21,18 @@
     "url": "https://hegde.me/moving-on-from-being-a-hater/",
     "title": "Moving on from being a Hater",
     "author": "https://hegde.me",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-05-03T11:19:07.776Z",
-    "last_updated": "2026-05-04T05:15:27.774Z",
+    "last_updated": "2026-05-04T08:57:32.664Z",
     "published": "2026-05-03T06:20Z"
   },
   {
     "url": "https://kawanami.me/herman-in-kyoto-japan/",
     "title": "Fun Night with Herman in Kyoto, Japan",
     "author": "https://kawanami.me",
-    "toasts": 36,
+    "toasts": 40,
     "first_seen": "2026-05-03T14:24:04.884Z",
-    "last_updated": "2026-05-04T07:12:57.514Z",
+    "last_updated": "2026-05-04T08:57:32.664Z",
     "published": "2026-05-03T12:34Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://aworkinprogress.bearblog.dev/introduction/",
     "title": "Introduction",
     "author": "https://aworkinprogress.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-03T23:20:47.651Z",
-    "last_updated": "2026-05-04T00:55:29.180Z",
+    "last_updated": "2026-05-04T08:57:32.664Z",
     "published": "2026-05-03T21:14Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-05-04T07:12:57.514Z",
     "last_updated": "2026-05-04T07:12:57.514Z",
     "published": "2026-05-03T15:31Z"
+  },
+  {
+    "url": "https://bx.bearblog.dev/what-is-wrong-with-me/",
+    "title": "what is wrong with me?",
+    "author": "https://bx.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-04T08:57:32.664Z",
+    "last_updated": "2026-05-04T08:57:32.664Z",
+    "published": "2026-05-03T22:59Z"
   }
 ]
