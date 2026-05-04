@@ -3,9 +3,9 @@
     "url": "https://notes.jeddacp.com/cheers-to-eleven-years/",
     "title": "Cheers to Eleven Years.",
     "author": "https://notes.jeddacp.com",
-    "toasts": 9,
+    "toasts": 12,
     "first_seen": "2026-05-04T08:57:32.664Z",
-    "last_updated": "2026-05-04T12:43:58.335Z",
+    "last_updated": "2026-05-04T13:41:40.780Z",
     "published": "2026-05-04T03:08Z"
   },
   {
@@ -34,5 +34,23 @@
     "first_seen": "2026-05-04T12:43:58.335Z",
     "last_updated": "2026-05-04T12:43:58.335Z",
     "published": "2026-05-04T01:40Z"
+  },
+  {
+    "url": "https://leah.bearblog.dev/back-to-basics/",
+    "title": "📝 back to basics?",
+    "author": "https://leah.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-04T13:41:40.780Z",
+    "last_updated": "2026-05-04T13:41:40.780Z",
+    "published": "2026-05-04T10:27Z"
+  },
+  {
+    "url": "https://www.justinthestacks.com/when-humility-gets-in-the-way/",
+    "title": "When Humility Gets in the Way",
+    "author": "https://www.justinthestacks.com",
+    "toasts": 4,
+    "first_seen": "2026-05-04T13:41:40.780Z",
+    "last_updated": "2026-05-04T13:41:40.780Z",
+    "published": "2026-05-04T11:53Z"
   }
 ]
