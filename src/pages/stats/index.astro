@@ -1,0 +1,19 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import PageHeader from "../../components/PageHeader.astro";
+import StatsView from "../../components/StatsView.astro";
+import { computeStats } from "../../lib/stats";
+
+const stats = computeStats();
+---
+
+<Layout
+  title="Stats - Bear Roll"
+  description="Bear Roll stats: most toasted posts, most featured blogs, and totals."
+>
+  <PageHeader slot="header" title="Stats" />
+  <main class="flex flex-col gap-8">
+    <p class="text-xs text-muted">Collecting data since March 17, 2025.</p>
+    <StatsView stats={stats} />
+  </main>
+</Layout>

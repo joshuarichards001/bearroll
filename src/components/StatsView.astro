@@ -1,0 +1,61 @@
+---
+import BlogItem from "./BlogItem.astro";
+import PostItem from "./PostItem.astro";
+import { getAvailableMonths, type Stats } from "../lib/stats";
+
+interface Props {
+  stats: Stats;
+  activeSlug?: string;
+}
+
+const { stats, activeSlug } = Astro.props;
+const months = getAvailableMonths();
+
+const baseBtn =
+  "text-xs px-2.5 py-1 rounded-sm border no-underline whitespace-nowrap";
+const inactiveBtn = "bg-bg-alt border-border text-fg hover:bg-hover";
+const activeBtn = "bg-accent border-accent text-white";
+---
+
+<nav class="flex gap-2 flex-wrap" aria-label="Stats period">
+  <a href="/stats" class:list={[baseBtn, activeSlug ? inactiveBtn : activeBtn]}>
+    All Time
+  </a>
+  {
+    months.map((m) => (
+      <a
+        href={`/stats/${m.slug}`}
+        class:list={[baseBtn, activeSlug === m.slug ? activeBtn : inactiveBtn]}
+      >
+        {m.label}
+      </a>
+    ))
+  }
+</nav>
+
+<dl class="flex gap-4 flex-wrap">
+  <div class="flex flex-col-reverse">
+    <dt class="text-xs text-muted">posts tracked</dt>
+    <dd class="text-2xl font-bold text-heading">{stats.totalPosts}</dd>
+  </div>
+  <div class="flex flex-col-reverse">
+    <dt class="text-xs text-muted">unique blogs</dt>
+    <dd class="text-2xl font-bold text-heading">{stats.uniqueBlogs}</dd>
+  </div>
+  <div class="flex flex-col-reverse">
+    <dt class="text-xs text-muted">days collected</dt>
+    <dd class="text-2xl font-bold text-heading">{stats.totalDays}</dd>
+  </div>
+</dl>
+<section>
+  <h2 class="text-sm font-bold text-heading mb-3">Most Toasted Posts</h2>
+  <ol class="flex flex-col">
+    {stats.topPosts.map((post) => <PostItem post={post} />)}
+  </ol>
+</section>
+<section>
+  <h2 class="text-sm font-bold text-heading mb-3">Most Featured Blogs</h2>
+  <ol class="flex flex-col">
+    {stats.topBlogs.map((blog) => <BlogItem blog={blog} />)}
+  </ol>
+</section>

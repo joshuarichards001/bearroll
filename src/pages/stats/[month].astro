@@ -1,0 +1,27 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import PageHeader from "../../components/PageHeader.astro";
+import StatsView from "../../components/StatsView.astro";
+import { computeStats, getAvailableMonths } from "../../lib/stats";
+
+export function getStaticPaths() {
+  return getAvailableMonths().map((m) => ({
+    params: { month: m.slug },
+    props: { monthInfo: m },
+  }));
+}
+
+const { monthInfo } = Astro.props;
+const stats = computeStats(monthInfo.key);
+---
+
+<Layout
+  title={`Stats for ${monthInfo.label} - Bear Roll`}
+  description={`Bear Roll stats for ${monthInfo.label}: most toasted posts, most featured blogs, and totals.`}
+>
+  <PageHeader slot="header" title={`Stats - ${monthInfo.label}`} />
+  <main class="flex flex-col gap-8">
+    <p class="text-xs text-muted">Stats for {monthInfo.label}.</p>
+    <StatsView stats={stats} activeSlug={monthInfo.slug} />
+  </main>
+</Layout>
