@@ -57,9 +57,9 @@
     "url": "https://mattiverse.online/drawn-to-art/",
     "title": "no longer drawn to art",
     "author": "https://mattiverse.online",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-05-04T14:50:47.004Z",
-    "last_updated": "2026-05-04T16:39:49.885Z",
+    "last_updated": "2026-05-04T17:37:10.853Z",
     "published": "2026-05-04T09:45Z"
   },
   {
@@ -70,5 +70,23 @@
     "first_seen": "2026-05-04T16:39:49.885Z",
     "last_updated": "2026-05-04T16:39:49.885Z",
     "published": "2026-05-04T03:38Z"
+  },
+  {
+    "url": "https://thisdoesntmatter.bearblog.dev/seduction-of-sadness/",
+    "title": "Sadness is addictive, we don't talk about it enough",
+    "author": "https://thisdoesntmatter.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-04T17:37:10.853Z",
+    "last_updated": "2026-05-04T17:37:10.853Z",
+    "published": "2026-05-04T10:08Z"
+  },
+  {
+    "url": "https://departure.blog/weeknotes-2026-18/",
+    "title": "Weeknotes 2026-18",
+    "author": "https://departure.blog",
+    "toasts": 6,
+    "first_seen": "2026-05-04T17:37:10.853Z",
+    "last_updated": "2026-05-04T17:37:10.853Z",
+    "published": "2026-05-04T15:13Z"
   }
 ]
