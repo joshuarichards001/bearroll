@@ -11,6 +11,10 @@ interface Props {
 
 const { stats, activeSlug } = Astro.props;
 const months = getAvailableMonths();
+const totalToastsDisplay =
+  stats.totalToasts >= 1000
+    ? `${Math.round(stats.totalToasts / 1000)}k`
+    : String(stats.totalToasts);
 
 const baseBtn =
   "text-xs px-2.5 py-1 rounded-sm border no-underline whitespace-nowrap";
@@ -44,8 +48,8 @@ const activeBtn = "bg-accent border-accent text-white";
     <dd class="text-2xl font-bold text-heading">{stats.uniqueBlogs}</dd>
   </div>
   <div class="flex flex-col-reverse">
-    <dt class="text-xs text-muted">days collected</dt>
-    <dd class="text-2xl font-bold text-heading">{stats.totalDays}</dd>
+    <dt class="text-xs text-muted">toasts awarded</dt>
+    <dd class="text-2xl font-bold text-heading">{totalToastsDisplay}</dd>
   </div>
 </dl>
 <section>

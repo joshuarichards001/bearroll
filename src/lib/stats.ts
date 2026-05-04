@@ -15,7 +15,7 @@ export interface DayStat {
 
 export interface Stats {
   totalPosts: number;
-  totalDays: number;
+  totalToasts: number;
   uniqueBlogs: number;
   topPosts: RankedPost[];
   topBlogs: RankedBlog[];
@@ -135,9 +135,11 @@ export function computeStats(monthKey?: string): Stats {
     .reverse()
     .map((date) => ({ date, total: dailyMap.get(date) ?? 0 }));
 
+  const totalToasts = uniquePosts.reduce((sum, p) => sum + p.toasts, 0);
+
   return {
     totalPosts: uniquePosts.length,
-    totalDays: dates.length,
+    totalToasts,
     uniqueBlogs: blogMap.size,
     topPosts,
     topBlogs,
