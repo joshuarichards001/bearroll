@@ -3,18 +3,18 @@
     "url": "https://notes.jeddacp.com/cheers-to-eleven-years/",
     "title": "Cheers to Eleven Years.",
     "author": "https://notes.jeddacp.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-04T08:57:32.664Z",
-    "last_updated": "2026-05-04T10:47:50.248Z",
+    "last_updated": "2026-05-04T12:43:58.335Z",
     "published": "2026-05-04T03:08Z"
   },
   {
     "url": "https://urbancronescauldron.com/gah-i-accidentally-cancelled-my-subscription/",
     "title": "Gah! I accidentally cancelled my subscription",
     "author": "https://urbancronescauldron.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-05-04T10:47:50.248Z",
-    "last_updated": "2026-05-04T10:47:50.248Z",
+    "last_updated": "2026-05-04T12:43:58.335Z",
     "published": "2026-05-04T00:20Z"
   },
   {
@@ -25,5 +25,14 @@
     "first_seen": "2026-05-04T11:39:01.743Z",
     "last_updated": "2026-05-04T11:39:01.743Z",
     "published": "2026-05-04T01:13Z"
+  },
+  {
+    "url": "https://diels-daydreams.bearblog.dev/you-only-see-typos-after-you-post/",
+    "title": "You only see typos after you post",
+    "author": "https://diels-daydreams.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-04T12:43:58.335Z",
+    "last_updated": "2026-05-04T12:43:58.335Z",
+    "published": "2026-05-04T01:40Z"
   }
 ]
