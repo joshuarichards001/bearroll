@@ -3,9 +3,9 @@
     "url": "https://notes.jeddacp.com/cheers-to-eleven-years/",
     "title": "Cheers to Eleven Years.",
     "author": "https://notes.jeddacp.com",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-05-04T08:57:32.664Z",
-    "last_updated": "2026-05-04T18:40:54.653Z",
+    "last_updated": "2026-05-04T21:28:52.319Z",
     "published": "2026-05-04T03:08Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://blog.avas.space/married-for-a-year/",
     "title": "📌 married for a year",
     "author": "https://blog.avas.space",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-05-04T19:38:01.387Z",
-    "last_updated": "2026-05-04T20:35:07.384Z",
+    "last_updated": "2026-05-04T21:28:52.319Z",
     "published": "2026-05-04T17:19Z"
   },
   {
@@ -138,9 +138,27 @@
     "url": "https://aleksei.dev/stop-building-rainbow-ai-slop/",
     "title": "Stop building rainbow AI slop",
     "author": "https://aleksei.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-05-04T20:35:07.384Z",
-    "last_updated": "2026-05-04T20:35:07.384Z",
+    "last_updated": "2026-05-04T21:28:52.319Z",
     "published": "2026-05-04T19:26Z"
+  },
+  {
+    "url": "https://rnotte.art/slow-down-youre-going-too-fast/",
+    "title": "slow down, you're going too fast",
+    "author": "https://rnotte.art",
+    "toasts": 8,
+    "first_seen": "2026-05-04T21:28:52.319Z",
+    "last_updated": "2026-05-04T21:28:52.319Z",
+    "published": "2026-05-04T19:25Z"
+  },
+  {
+    "url": "https://bluemountain.bearblog.dev/in-defense-of-normal/",
+    "title": "In Defense of Normal",
+    "author": "https://bluemountain.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-04T21:28:52.319Z",
+    "last_updated": "2026-05-04T21:28:52.319Z",
+    "published": "2026-05-04T20:23Z"
   }
 ]
