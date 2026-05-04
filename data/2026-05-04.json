@@ -30,9 +30,9 @@
     "url": "https://diels-daydreams.bearblog.dev/you-only-see-typos-after-you-post/",
     "title": "You only see typos after you post",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-05-04T12:43:58.335Z",
-    "last_updated": "2026-05-04T19:38:01.387Z",
+    "last_updated": "2026-05-04T20:35:07.384Z",
     "published": "2026-05-04T01:40Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://blog.avas.space/married-for-a-year/",
     "title": "📌 married for a year",
     "author": "https://blog.avas.space",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-04T19:38:01.387Z",
-    "last_updated": "2026-05-04T19:38:01.387Z",
+    "last_updated": "2026-05-04T20:35:07.384Z",
     "published": "2026-05-04T17:19Z"
   },
   {
@@ -124,5 +124,23 @@
     "first_seen": "2026-05-04T19:38:01.387Z",
     "last_updated": "2026-05-04T19:38:01.387Z",
     "published": "2026-05-04T09:55Z"
+  },
+  {
+    "url": "https://robertbirming.com/proud-painter/",
+    "title": "The proud painter",
+    "author": "https://robertbirming.com",
+    "toasts": 7,
+    "first_seen": "2026-05-04T20:35:07.384Z",
+    "last_updated": "2026-05-04T20:35:07.384Z",
+    "published": "2026-05-04T18:39Z"
+  },
+  {
+    "url": "https://aleksei.dev/stop-building-rainbow-ai-slop/",
+    "title": "Stop building rainbow AI slop",
+    "author": "https://aleksei.dev",
+    "toasts": 6,
+    "first_seen": "2026-05-04T20:35:07.384Z",
+    "last_updated": "2026-05-04T20:35:07.384Z",
+    "published": "2026-05-04T19:26Z"
   }
 ]
