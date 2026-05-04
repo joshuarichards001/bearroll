@@ -3,9 +3,9 @@
     "url": "https://notes.jeddacp.com/cheers-to-eleven-years/",
     "title": "Cheers to Eleven Years.",
     "author": "https://notes.jeddacp.com",
-    "toasts": 16,
+    "toasts": 18,
     "first_seen": "2026-05-04T08:57:32.664Z",
-    "last_updated": "2026-05-04T16:39:49.885Z",
+    "last_updated": "2026-05-04T18:40:54.653Z",
     "published": "2026-05-04T03:08Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://leah.bearblog.dev/back-to-basics/",
     "title": "📝 back to basics?",
     "author": "https://leah.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-04T13:41:40.780Z",
-    "last_updated": "2026-05-04T15:47:32.902Z",
+    "last_updated": "2026-05-04T18:40:54.653Z",
     "published": "2026-05-04T10:27Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-05-04T17:37:10.853Z",
     "last_updated": "2026-05-04T17:37:10.853Z",
     "published": "2026-05-04T15:13Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/comic-sans-is-great-and-im-tired-of-pretending-its-not/",
+    "title": "Comic Sans is Great and I'm Tired of Pretending It's Not",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 6,
+    "first_seen": "2026-05-04T18:40:54.653Z",
+    "last_updated": "2026-05-04T18:40:54.653Z",
+    "published": "2026-05-04T15:50Z"
   }
 ]
