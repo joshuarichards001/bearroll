@@ -1,0 +1,103 @@
+---
+import type { DayStat } from "../lib/stats";
+import { formatDate } from "../lib/format";
+
+interface Props {
+  data: DayStat[];
+}
+
+const { data } = Astro.props;
+
+const W = 600;
+const H = 120;
+const padL = 38;
+const padB = 20;
+const padT = 8;
+const padR = 4;
+
+const chartW = W - padL - padR;
+const chartH = H - padB - padT;
+
+const maxVal = Math.max(...data.map((d) => d.total), 1);
+const barW = chartW / data.length;
+
+const labelStep = Math.max(1, Math.ceil(data.length / 8));
+
+function barY(val: number) {
+  return padT + chartH - (val / maxVal) * chartH;
+}
+
+function fmt(n: number) {
+  return n >= 1000 ? `${(n / 1000).toFixed(1)}k` : String(n);
+}
+
+const yTicks = [0, Math.round(maxVal / 2), maxVal];
+---
+
+<svg
+  viewBox={`0 0 ${W} ${H}`}
+  class="w-full"
+  aria-label="Daily toast totals"
+  role="img"
+>
+  {
+    yTicks.map((tick) => {
+      const y = barY(tick);
+      return (
+        <g>
+          <line
+            x1={padL}
+            y1={y}
+            x2={W - padR}
+            y2={y}
+            stroke="var(--c-border)"
+            stroke-width="1"
+          />
+          <text
+            x={padL - 4}
+            y={y + 4}
+            text-anchor="end"
+            font-size="9"
+            fill="var(--c-muted)"
+          >
+            {fmt(tick)}
+          </text>
+        </g>
+      );
+    })
+  }
+
+  {
+    data.map((d, i) => {
+      const bh = Math.max((d.total / maxVal) * chartH, 1);
+      const x = padL + i * barW;
+      const showLabel = i % labelStep === 0;
+      return (
+        <a
+          href={`/archive/${d.date}`}
+          class="cursor-pointer opacity-75 hover:opacity-100 active:opacity-100 active:brightness-[0.8]"
+        >
+          <title>{formatDate(d.date)}</title>
+          <rect
+            x={x + 1}
+            y={barY(d.total)}
+            width={Math.max(barW - 2, 1)}
+            height={bh}
+            fill="var(--c-accent)"
+          />
+          {showLabel && (
+            <text
+              x={x + barW / 2}
+              y={H - 4}
+              text-anchor="middle"
+              font-size="9"
+              fill="var(--c-muted)"
+            >
+              {d.date.slice(5)}
+            </text>
+          )}
+        </a>
+      );
+    })
+  }
+</svg>

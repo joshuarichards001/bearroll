@@ -1,6 +1,7 @@
 ---
 import BlogItem from "./BlogItem.astro";
 import PostItem from "./PostItem.astro";
+import ToastGraph from "./ToastGraph.astro";
 import { getAvailableMonths, type Stats } from "../lib/stats";
 
 interface Props {
@@ -47,6 +48,10 @@ const activeBtn = "bg-accent border-accent text-white";
     <dd class="text-2xl font-bold text-heading">{stats.totalDays}</dd>
   </div>
 </dl>
+<section>
+  <h2 class="text-sm font-bold text-heading mb-2">Daily Toast Activity</h2>
+  <ToastGraph data={stats.dailyToasts} />
+</section>
 <section>
   <h2 class="text-sm font-bold text-heading mb-3">Most Toasted Posts</h2>
   <ol class="flex flex-col">

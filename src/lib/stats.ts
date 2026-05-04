@@ -8,12 +8,18 @@ export interface RankedBlog {
   rank: number;
 }
 
+export interface DayStat {
+  date: string;
+  total: number;
+}
+
 export interface Stats {
   totalPosts: number;
   totalDays: number;
   uniqueBlogs: number;
   topPosts: RankedPost[];
   topBlogs: RankedBlog[];
+  dailyToasts: DayStat[];
 }
 
 export interface MonthInfo {
@@ -73,13 +79,17 @@ export function computeStats(monthKey?: string): Stats {
     (d) => !monthKey || d.startsWith(monthKey),
   );
   const allPosts: RankedPost[] = [];
+  const dailyMap = new Map<string, number>();
 
   for (const date of dates) {
     const day = loadDay(date);
     if (!day) continue;
+    let dayTotal = 0;
     for (const post of day.posts) {
       allPosts.push(post);
+      dayTotal += post.toasts;
     }
+    dailyMap.set(date, dayTotal);
   }
 
   // Deduplicate posts by URL, keeping the highest toast count
@@ -120,11 +130,17 @@ export function computeStats(monthKey?: string): Stats {
     .slice(0, 10)
     .map((b, i) => ({ ...b, rank: i + 1 }));
 
+  // Chronological order so the graph reads left to right
+  const dailyToasts: DayStat[] = [...dates]
+    .reverse()
+    .map((date) => ({ date, total: dailyMap.get(date) ?? 0 }));
+
   return {
     totalPosts: uniquePosts.length,
     totalDays: dates.length,
     uniqueBlogs: blogMap.size,
     topPosts,
     topBlogs,
+    dailyToasts,
   };
 }
