@@ -165,9 +165,9 @@
     "url": "https://kami.bearblog.dev/bear-blog-carnival-your-favorite-____-in-your-niche-hobby/",
     "title": "Bear Blog Carnival: Your favorite ____ in your niche hobby",
     "author": "https://kami.bearblog.dev",
-    "toasts": 30,
+    "toasts": 32,
     "first_seen": "2026-05-05T03:13:47.968Z",
-    "last_updated": "2026-05-05T20:30:42.876Z",
+    "last_updated": "2026-05-05T21:27:20.415Z",
     "published": "2026-05-04T22:13Z"
   },
   {
@@ -214,5 +214,14 @@
     "first_seen": "2026-05-05T09:43:29.392Z",
     "last_updated": "2026-05-05T20:30:42.876Z",
     "published": "2026-05-04T22:46Z"
+  },
+  {
+    "url": "https://balancedbean.bearblog.dev/self-help-is-not-a-good-genre/",
+    "title": "self help is not a good genre",
+    "author": "https://balancedbean.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-05T21:27:20.415Z",
+    "last_updated": "2026-05-05T21:27:20.415Z",
+    "published": "2026-05-04T07:34Z"
   }
 ]

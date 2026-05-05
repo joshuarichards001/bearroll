@@ -21,9 +21,9 @@
     "url": "https://next.kennyqin.com/notification-schedules/",
     "title": "Notification Schedules Are Your Responsibility",
     "author": "https://next.kennyqin.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-05-05T08:53:05.595Z",
-    "last_updated": "2026-05-05T20:30:42.876Z",
+    "last_updated": "2026-05-05T21:27:20.415Z",
     "published": "2026-05-05T06:18Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-05-05T18:39:06.688Z",
     "last_updated": "2026-05-05T18:39:06.688Z",
     "published": "2026-05-05T13:48Z"
+  },
+  {
+    "url": "https://winther.sysctl.dk/nostalgia-for-calvin-and-hobbes/",
+    "title": "Nostalgia for Calvin and Hobbes",
+    "author": "https://winther.sysctl.dk",
+    "toasts": 6,
+    "first_seen": "2026-05-05T21:27:20.415Z",
+    "last_updated": "2026-05-05T21:27:20.415Z",
+    "published": "2026-05-05T17:45Z"
   }
 ]
