@@ -12,18 +12,18 @@
     "url": "https://kadennewton.com/learning-how-to-email/",
     "title": "Learning how to Email",
     "author": "https://kadennewton.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-05T07:43:55.624Z",
-    "last_updated": "2026-05-05T09:43:29.392Z",
+    "last_updated": "2026-05-05T12:34:25.775Z",
     "published": "2026-05-05T02:04Z"
   },
   {
     "url": "https://next.kennyqin.com/notification-schedules/",
     "title": "Notification Schedules Are Your Responsibility",
     "author": "https://next.kennyqin.com",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-05-05T08:53:05.595Z",
-    "last_updated": "2026-05-05T08:53:05.595Z",
+    "last_updated": "2026-05-05T12:34:25.775Z",
     "published": "2026-05-05T06:18Z"
   },
   {
@@ -34,5 +34,14 @@
     "first_seen": "2026-05-05T08:53:05.595Z",
     "last_updated": "2026-05-05T10:38:35.148Z",
     "published": "2026-05-05T05:55Z"
+  },
+  {
+    "url": "https://receipts.bearblog.dev/tantrums-are-best-ignored/",
+    "title": "tantrums are best ignored",
+    "author": "https://receipts.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-05-05T11:33:18.603Z",
+    "last_updated": "2026-05-05T11:33:18.603Z",
+    "published": "2026-05-05T05:57Z"
   }
 ]
