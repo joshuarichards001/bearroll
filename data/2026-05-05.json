@@ -30,9 +30,9 @@
     "url": "https://silvers.bearblog.dev/quick-life-update/",
     "title": "Quick life update",
     "author": "https://silvers.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-05T08:53:05.595Z",
-    "last_updated": "2026-05-05T10:38:35.148Z",
+    "last_updated": "2026-05-05T13:58:55.374Z",
     "published": "2026-05-05T05:55Z"
   },
   {
@@ -43,5 +43,14 @@
     "first_seen": "2026-05-05T11:33:18.603Z",
     "last_updated": "2026-05-05T11:33:18.603Z",
     "published": "2026-05-05T05:57Z"
+  },
+  {
+    "url": "https://blog.bearroll.dev/april-stats/",
+    "title": "bearroll.dev - April Stats from Bear Blog trending",
+    "author": "https://blog.bearroll.dev",
+    "toasts": 6,
+    "first_seen": "2026-05-05T13:58:55.374Z",
+    "last_updated": "2026-05-05T13:58:55.374Z",
+    "published": "2026-05-05T11:59Z"
   }
 ]
