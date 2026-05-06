@@ -3,9 +3,9 @@
     "url": "https://blog.avas.space/carnival-gdpr-article/",
     "title": "[bearblog carnival] my favorite GDPR article",
     "author": "https://blog.avas.space",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-06T12:47:44.349Z",
-    "last_updated": "2026-05-06T16:37:48.004Z",
+    "last_updated": "2026-05-06T21:29:09.745Z",
     "published": "2026-05-06T09:47Z"
   },
   {
@@ -61,5 +61,14 @@
     "first_seen": "2026-05-06T20:36:35.420Z",
     "last_updated": "2026-05-06T20:36:35.420Z",
     "published": "2026-05-06T18:43Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/to-smartphone-or-not-to-smartphone/",
+    "title": "To Smartphone or Not to Smartphone",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 7,
+    "first_seen": "2026-05-06T21:29:09.745Z",
+    "last_updated": "2026-05-06T21:29:09.745Z",
+    "published": "2026-05-06T16:21Z"
   }
 ]
