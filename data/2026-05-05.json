@@ -66,9 +66,9 @@
     "url": "https://garnet.bearblog.dev/things-inside-other-things/",
     "title": "things inside other things",
     "author": "https://garnet.bearblog.dev",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-05-05T17:38:34.288Z",
-    "last_updated": "2026-05-06T00:50:25.258Z",
+    "last_updated": "2026-05-06T01:40:44.243Z",
     "published": "2026-05-05T06:01Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://musings101.bearblog.dev/bear-blog-carnival-i-love-my-cinnamon-disc-golf/",
     "title": "Bear Blog Carnival: I love my Cinnamon (Disc Golf)",
     "author": "https://musings101.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-05-05T18:39:06.688Z",
-    "last_updated": "2026-05-06T00:50:25.258Z",
+    "last_updated": "2026-05-06T01:40:44.243Z",
     "published": "2026-05-05T13:49Z"
   },
   {
@@ -115,5 +115,14 @@
     "first_seen": "2026-05-05T21:27:20.415Z",
     "last_updated": "2026-05-05T21:27:20.415Z",
     "published": "2026-05-05T17:45Z"
+  },
+  {
+    "url": "https://mossbed.bearblog.dev/abandoning-the-algorithm/",
+    "title": "abandoning the algorithm",
+    "author": "https://mossbed.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-06T01:40:44.243Z",
+    "last_updated": "2026-05-06T01:40:44.243Z",
+    "published": "2026-05-05T23:36Z"
   }
 ]
