@@ -93,9 +93,9 @@
     "url": "https://musings101.bearblog.dev/bear-blog-carnival-i-love-my-cinnamon-disc-golf/",
     "title": "Bear Blog Carnival: I love my Cinnamon (Disc Golf)",
     "author": "https://musings101.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-05T18:39:06.688Z",
-    "last_updated": "2026-05-06T08:57:16.438Z",
+    "last_updated": "2026-05-06T11:38:53.046Z",
     "published": "2026-05-05T13:49Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://mossbed.bearblog.dev/abandoning-the-algorithm/",
     "title": "abandoning the algorithm",
     "author": "https://mossbed.bearblog.dev",
-    "toasts": 16,
+    "toasts": 18,
     "first_seen": "2026-05-06T01:40:44.243Z",
-    "last_updated": "2026-05-06T09:55:49.476Z",
+    "last_updated": "2026-05-06T11:38:53.046Z",
     "published": "2026-05-05T23:36Z"
   },
   {
@@ -142,5 +142,32 @@
     "first_seen": "2026-05-06T08:57:16.438Z",
     "last_updated": "2026-05-06T08:57:16.438Z",
     "published": "2026-05-05T20:33Z"
+  },
+  {
+    "url": "https://livingkindfully.bearblog.dev/when-you-cannot-afford-a-new-macbook-do-this/",
+    "title": "When You Cannot Afford a New Macbook, Do This",
+    "author": "https://livingkindfully.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-06T11:38:53.046Z",
+    "last_updated": "2026-05-06T11:38:53.046Z",
+    "published": "2026-05-05T15:50Z"
+  },
+  {
+    "url": "https://whateverthewindbrings.com/gamescom-latam-was-pretty-cool/",
+    "title": "Gamescom Latam was pretty cool",
+    "author": "https://whateverthewindbrings.com",
+    "toasts": 7,
+    "first_seen": "2026-05-06T11:38:53.046Z",
+    "last_updated": "2026-05-06T11:38:53.046Z",
+    "published": "2026-05-05T15:46Z"
+  },
+  {
+    "url": "https://analogwave.bearblog.dev/notebooks/",
+    "title": "moving to notebooks",
+    "author": "https://analogwave.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-05-06T11:38:53.046Z",
+    "last_updated": "2026-05-06T11:38:53.046Z",
+    "published": "2026-05-05T20:47Z"
   }
 ]
