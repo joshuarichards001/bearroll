@@ -12,9 +12,9 @@
     "url": "https://kadennewton.com/learning-how-to-email/",
     "title": "Learning how to Email",
     "author": "https://kadennewton.com",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-05T07:43:55.624Z",
-    "last_updated": "2026-05-05T23:22:56.945Z",
+    "last_updated": "2026-05-06T03:14:52.899Z",
     "published": "2026-05-05T02:04Z"
   },
   {
@@ -57,18 +57,18 @@
     "url": "https://woolgathering.bearblog.dev/learning-to-talk-about-things-i-like/",
     "title": "learning to talk about things i like",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-05T15:42:53.267Z",
-    "last_updated": "2026-05-06T00:50:25.258Z",
+    "last_updated": "2026-05-06T03:14:52.899Z",
     "published": "2026-05-05T11:40Z"
   },
   {
     "url": "https://garnet.bearblog.dev/things-inside-other-things/",
     "title": "things inside other things",
     "author": "https://garnet.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-05T17:38:34.288Z",
-    "last_updated": "2026-05-06T01:40:44.243Z",
+    "last_updated": "2026-05-06T03:14:52.899Z",
     "published": "2026-05-05T06:01Z"
   },
   {
@@ -120,9 +120,18 @@
     "url": "https://mossbed.bearblog.dev/abandoning-the-algorithm/",
     "title": "abandoning the algorithm",
     "author": "https://mossbed.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-06T01:40:44.243Z",
-    "last_updated": "2026-05-06T01:40:44.243Z",
+    "last_updated": "2026-05-06T03:14:52.899Z",
     "published": "2026-05-05T23:36Z"
+  },
+  {
+    "url": "https://imperfect.bearblog.dev/preserve-your-artifacts/",
+    "title": "preserve your artifacts",
+    "author": "https://imperfect.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-05-06T03:14:52.899Z",
+    "last_updated": "2026-05-06T03:14:52.899Z",
+    "published": "2026-05-05T19:30Z"
   }
 ]
