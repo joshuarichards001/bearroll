@@ -21,27 +21,27 @@
     "url": "https://streetlightcadence.com/hoedown/",
     "title": "HOEDOWN is here!",
     "author": "https://streetlightcadence.com",
-    "toasts": 13,
+    "toasts": 15,
     "first_seen": "2026-05-06T18:42:09.294Z",
-    "last_updated": "2026-05-07T09:01:27.382Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
     "published": "2026-05-06T16:11Z"
   },
   {
     "url": "https://receipts.bearblog.dev/the-freedom-of-writing-anonymously/",
     "title": "the freedom of writing anonymously",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 41,
+    "toasts": 44,
     "first_seen": "2026-05-06T19:37:54.893Z",
-    "last_updated": "2026-05-07T11:38:48.248Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
     "published": "2026-05-06T16:25Z"
   },
   {
     "url": "https://robertbirming.com/let-others-know-blog/",
     "title": "Let others know you blog",
     "author": "https://robertbirming.com",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-05-06T19:37:54.893Z",
-    "last_updated": "2026-05-07T11:38:48.248Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
     "published": "2026-05-06T16:27Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://blog.absurdpirate.com/to-smartphone-or-not-to-smartphone/",
     "title": "To Smartphone or Not to Smartphone",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-05-06T21:29:09.745Z",
-    "last_updated": "2026-05-07T10:48:09.214Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
     "published": "2026-05-06T16:21Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://rnotte.art/bear-blog-carnival-flower-photos/",
     "title": "bear blog carnival: flower photos",
     "author": "https://rnotte.art",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-05-07T00:54:38.781Z",
-    "last_updated": "2026-05-07T10:48:09.214Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
     "published": "2026-05-06T20:29Z"
   },
   {
@@ -115,5 +115,14 @@
     "first_seen": "2026-05-07T09:01:27.382Z",
     "last_updated": "2026-05-07T09:01:27.382Z",
     "published": "2026-05-06T13:38Z"
+  },
+  {
+    "url": "https://bx.bearblog.dev/its-been-two-days-and-im-already-happier/",
+    "title": "it’s been two days and i’m already happier",
+    "author": "https://bx.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-07T12:47:52.619Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
+    "published": "2026-05-06T20:46Z"
   }
 ]

@@ -3,9 +3,9 @@
     "url": "https://kalomaze.bearblog.dev/rl-for-knowledge-awareness/",
     "title": "Reinforcement Learning for Knowledge Awareness",
     "author": "https://kalomaze.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-07T05:13:54.824Z",
-    "last_updated": "2026-05-07T09:01:27.382Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
     "published": "2026-05-07T02:07Z"
   },
   {
@@ -21,18 +21,18 @@
     "url": "https://skryblans.com/blogging-wobbling/",
     "title": "blogging wobbling",
     "author": "https://skryblans.com",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-07T09:01:27.382Z",
-    "last_updated": "2026-05-07T10:48:09.214Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
     "published": "2026-05-07T07:08Z"
   },
   {
     "url": "https://receipts.bearblog.dev/are-you-still-waiting-to-be-chosen/",
     "title": "are you still waiting to be chosen?",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-07T09:01:27.382Z",
-    "last_updated": "2026-05-07T10:48:09.214Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
     "published": "2026-05-07T05:29Z"
   },
   {
@@ -48,9 +48,27 @@
     "url": "https://stitching.bearblog.dev/bearblog-carnival-my-favorite-slow-going-color-inverting-knitting-technique-double-knitting/",
     "title": "my favorite slow-going color-inverting knitting technique, double knitting",
     "author": "https://stitching.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-05-07T10:48:09.214Z",
-    "last_updated": "2026-05-07T10:48:09.214Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
     "published": "2026-05-07T01:43Z"
+  },
+  {
+    "url": "https://blog.mattglassman.net/notes-on-influencing-politics/",
+    "title": "Notes on influencing politics",
+    "author": "https://blog.mattglassman.net",
+    "toasts": 8,
+    "first_seen": "2026-05-07T12:47:52.619Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
+    "published": "2026-05-07T01:26Z"
+  },
+  {
+    "url": "https://crescendo.bearblog.dev/i-like-to-love-intensely/",
+    "title": "I Like to Love Intensely",
+    "author": "https://crescendo.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-07T12:47:52.619Z",
+    "last_updated": "2026-05-07T12:47:52.619Z",
+    "published": "2026-05-07T09:56Z"
   }
 ]
