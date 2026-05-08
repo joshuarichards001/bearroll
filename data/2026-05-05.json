@@ -12,9 +12,9 @@
     "url": "https://kadennewton.com/learning-how-to-email/",
     "title": "Learning how to Email",
     "author": "https://kadennewton.com",
-    "toasts": 48,
+    "toasts": 49,
     "first_seen": "2026-05-05T07:43:55.624Z",
-    "last_updated": "2026-05-08T07:37:59.847Z",
+    "last_updated": "2026-05-08T08:39:37.226Z",
     "published": "2026-05-05T02:04Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://chas.quest/tough-days-are-ok/",
     "title": "Tough Days are OK",
     "author": "https://chas.quest",
-    "toasts": 6,
+    "toasts": 16,
     "first_seen": "2026-05-05T18:39:06.688Z",
-    "last_updated": "2026-05-05T18:39:06.688Z",
+    "last_updated": "2026-05-08T08:39:37.226Z",
     "published": "2026-05-05T13:48Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://analogwave.bearblog.dev/notebooks/",
     "title": "moving to notebooks",
     "author": "https://analogwave.bearblog.dev",
-    "toasts": 26,
+    "toasts": 27,
     "first_seen": "2026-05-06T11:38:53.046Z",
-    "last_updated": "2026-05-08T07:37:59.847Z",
+    "last_updated": "2026-05-08T08:39:37.226Z",
     "published": "2026-05-05T20:47Z"
   },
   {
@@ -205,5 +205,23 @@
     "first_seen": "2026-05-08T03:12:19.712Z",
     "last_updated": "2026-05-08T07:37:59.847Z",
     "published": "2026-05-05T23:46Z"
+  },
+  {
+    "url": "https://receipts.bearblog.dev/pushing-through-fear-of-poverty/",
+    "title": "pushing through fear of poverty",
+    "author": "https://receipts.bearblog.dev",
+    "toasts": 15,
+    "first_seen": "2026-05-08T08:39:37.226Z",
+    "last_updated": "2026-05-08T08:39:37.226Z",
+    "published": "2026-05-05T23:52Z"
+  },
+  {
+    "url": "https://bruceblog.bearblog.dev/how-lomochrome-purple-and-turquoise-work/",
+    "title": "how lomochrome purple and turquoise work",
+    "author": "https://bruceblog.bearblog.dev",
+    "toasts": 17,
+    "first_seen": "2026-05-08T08:39:37.226Z",
+    "last_updated": "2026-05-08T08:39:37.226Z",
+    "published": "2026-05-05T15:44Z"
   }
 ]
