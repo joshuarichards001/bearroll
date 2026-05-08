@@ -48,9 +48,9 @@
     "url": "https://blog.bearroll.dev/april-stats/",
     "title": "bearroll.dev - April Stats from Bear Blog trending",
     "author": "https://blog.bearroll.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-05-05T13:58:55.374Z",
-    "last_updated": "2026-05-08T03:12:19.712Z",
+    "last_updated": "2026-05-08T14:42:07.926Z",
     "published": "2026-05-05T11:59Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://blog.sulimans.space/superior-alts/",
     "title": "institutionally managed open source alternatives that don’t suck",
     "author": "https://blog.sulimans.space",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-05-05T18:39:06.688Z",
-    "last_updated": "2026-05-08T05:06:32.318Z",
+    "last_updated": "2026-05-08T14:42:07.926Z",
     "published": "2026-05-05T13:55Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://chas.quest/tough-days-are-ok/",
     "title": "Tough Days are OK",
     "author": "https://chas.quest",
-    "toasts": 16,
+    "toasts": 18,
     "first_seen": "2026-05-05T18:39:06.688Z",
-    "last_updated": "2026-05-08T08:39:37.226Z",
+    "last_updated": "2026-05-08T14:42:07.926Z",
     "published": "2026-05-05T13:48Z"
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://tala.bearblog.dev/i-havent-talked-about-depression-my-old-self-in-a-while/",
     "title": "i haven't talked about depression & my old self in a while",
     "author": "https://tala.bearblog.dev",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-05-07T01:41:54.496Z",
-    "last_updated": "2026-05-08T06:44:29.708Z",
+    "last_updated": "2026-05-08T14:42:07.926Z",
     "published": "2026-05-05T15:53Z"
   },
   {
@@ -210,18 +210,27 @@
     "url": "https://receipts.bearblog.dev/pushing-through-fear-of-poverty/",
     "title": "pushing through fear of poverty",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-05-08T08:39:37.226Z",
-    "last_updated": "2026-05-08T08:39:37.226Z",
+    "last_updated": "2026-05-08T14:42:07.926Z",
     "published": "2026-05-05T23:52Z"
   },
   {
     "url": "https://bruceblog.bearblog.dev/how-lomochrome-purple-and-turquoise-work/",
     "title": "how lomochrome purple and turquoise work",
     "author": "https://bruceblog.bearblog.dev",
-    "toasts": 17,
+    "toasts": 19,
     "first_seen": "2026-05-08T08:39:37.226Z",
-    "last_updated": "2026-05-08T08:39:37.226Z",
+    "last_updated": "2026-05-08T14:42:07.926Z",
     "published": "2026-05-05T15:44Z"
+  },
+  {
+    "url": "https://onlinegoddess.net/2026/05/gcses-and-birthday-season/",
+    "title": "GCSEs and Birthday Season",
+    "author": "https://onlinegoddess.net",
+    "toasts": 17,
+    "first_seen": "2026-05-08T14:42:07.926Z",
+    "last_updated": "2026-05-08T14:42:07.926Z",
+    "published": "2026-05-05T19:06Z"
   }
 ]
