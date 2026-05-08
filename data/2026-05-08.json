@@ -12,9 +12,9 @@
     "url": "https://blog.bidisaster.party/brainrot-is-killing-the-queer-movement/",
     "title": "Brainrot is killing the queer movement",
     "author": "https://blog.bidisaster.party",
-    "toasts": 32,
+    "toasts": 33,
     "first_seen": "2026-05-08T08:39:37.226Z",
-    "last_updated": "2026-05-08T19:35:37.253Z",
+    "last_updated": "2026-05-08T21:27:01.064Z",
     "published": "2026-05-08T03:38Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://blog.lauramichet.com/check-out-amberspire/",
     "title": "Check out Amberspire!",
     "author": "https://blog.lauramichet.com",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-05-08T16:37:13.524Z",
-    "last_updated": "2026-05-08T20:27:35.923Z",
+    "last_updated": "2026-05-08T21:27:01.064Z",
     "published": "2026-05-08T04:39Z"
   },
   {
     "url": "https://migrainebrain.bearblog.dev/a-rant-about-tv-shows/",
     "title": "A rant about TV shows",
     "author": "https://migrainebrain.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-05-08T16:37:13.524Z",
-    "last_updated": "2026-05-08T19:35:37.253Z",
+    "last_updated": "2026-05-08T21:27:01.064Z",
     "published": "2026-05-08T13:19Z"
   },
   {
@@ -70,5 +70,14 @@
     "first_seen": "2026-05-08T17:36:32.046Z",
     "last_updated": "2026-05-08T17:36:32.046Z",
     "published": "2026-05-08T08:44Z"
+  },
+  {
+    "url": "https://omniafluunt.me/under-the-weather/",
+    "title": "Under the weather",
+    "author": "https://omniafluunt.me",
+    "toasts": 12,
+    "first_seen": "2026-05-08T21:27:01.064Z",
+    "last_updated": "2026-05-08T21:27:01.064Z",
+    "published": "2026-05-08T20:00Z"
   }
 ]
