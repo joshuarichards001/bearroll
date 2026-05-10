@@ -93,9 +93,9 @@
     "url": "https://rnotte.art/is-old-stuff-better/",
     "title": "is old stuff better?",
     "author": "https://rnotte.art",
-    "toasts": 32,
+    "toasts": 33,
     "first_seen": "2026-05-08T22:25:09.472Z",
-    "last_updated": "2026-05-10T05:18:47.040Z",
+    "last_updated": "2026-05-10T07:02:37.631Z",
     "published": "2026-05-08T19:46Z"
   },
   {
@@ -111,18 +111,18 @@
     "url": "https://blog.sulimans.space/dumbphone/",
     "title": "the dumbphone idea is nothing but an idea",
     "author": "https://blog.sulimans.space",
-    "toasts": 68,
+    "toasts": 70,
     "first_seen": "2026-05-09T00:54:41.871Z",
-    "last_updated": "2026-05-10T00:58:24.465Z",
+    "last_updated": "2026-05-10T07:02:37.631Z",
     "published": "2026-05-08T19:48Z"
   },
   {
     "url": "https://bx.bearblog.dev/adventure-is-good-for-the-soul/",
     "title": "adventure is good for the soul",
     "author": "https://bx.bearblog.dev",
-    "toasts": 27,
+    "toasts": 29,
     "first_seen": "2026-05-09T00:54:41.871Z",
-    "last_updated": "2026-05-09T20:19:50.403Z",
+    "last_updated": "2026-05-10T07:02:37.631Z",
     "published": "2026-05-08T22:47Z"
   },
   {
@@ -178,5 +178,14 @@
     "first_seen": "2026-05-10T03:14:50.049Z",
     "last_updated": "2026-05-10T03:14:50.049Z",
     "published": "2026-05-08T15:12Z"
+  },
+  {
+    "url": "https://arnau.bearblog.dev/offline/",
+    "title": "offline",
+    "author": "https://arnau.bearblog.dev",
+    "toasts": 13,
+    "first_seen": "2026-05-10T07:02:37.631Z",
+    "last_updated": "2026-05-10T07:02:37.631Z",
+    "published": "2026-05-08T14:24Z"
   }
 ]
