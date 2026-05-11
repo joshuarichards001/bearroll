@@ -3,9 +3,9 @@
     "url": "https://forkingmad.blog/hey-you-start-communicating/",
     "title": "Hey you, start communicating!",
     "author": "https://forkingmad.blog",
-    "toasts": 51,
+    "toasts": 57,
     "first_seen": "2026-05-10T17:24:08.890Z",
-    "last_updated": "2026-05-11T15:09:03.947Z",
+    "last_updated": "2026-05-11T18:45:28.953Z",
     "published": "2026-05-10T14:59Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://savvynormie.com/how-nuking-my-pkm-paralyzed-my-productivity-for-6-months/",
     "title": "How Nuking My PKM Paralyzed My Productivity for 6 Months",
     "author": "https://savvynormie.com",
-    "toasts": 50,
+    "toasts": 51,
     "first_seen": "2026-05-10T22:21:05.479Z",
-    "last_updated": "2026-05-11T17:00:40.177Z",
+    "last_updated": "2026-05-11T18:45:28.953Z",
     "published": "2026-05-10T13:31Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://weaponizer.bearblog.dev/social-media-has-never-been-more-distant-from-my-life/",
     "title": "Social media has never been more distant from my life",
     "author": "https://weaponizer.bearblog.dev",
-    "toasts": 32,
+    "toasts": 34,
     "first_seen": "2026-05-11T00:58:29.986Z",
-    "last_updated": "2026-05-11T15:09:03.947Z",
+    "last_updated": "2026-05-11T18:45:28.953Z",
     "published": "2026-05-10T02:18Z"
   },
   {
     "url": "https://onomade.bearblog.dev/light-mode-light-mood/",
     "title": "light mode, lighter mood",
     "author": "https://onomade.bearblog.dev",
-    "toasts": 31,
+    "toasts": 33,
     "first_seen": "2026-05-11T03:17:18.478Z",
-    "last_updated": "2026-05-11T17:00:40.177Z",
+    "last_updated": "2026-05-11T18:45:28.953Z",
     "published": "2026-05-10T20:09Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://bx.bearblog.dev/one-month-on-bearblog/",
     "title": "one month on bearblog !!",
     "author": "https://bx.bearblog.dev",
-    "toasts": 39,
+    "toasts": 41,
     "first_seen": "2026-05-11T07:24:31.024Z",
-    "last_updated": "2026-05-11T17:00:40.177Z",
+    "last_updated": "2026-05-11T18:45:28.953Z",
     "published": "2026-05-10T22:18Z"
   },
   {
@@ -84,9 +84,36 @@
     "url": "https://davidmcgee.xyz/ocarina-of-time-hits-differently-as-an-adult/",
     "title": "Ocarina of Time Hits Differently as an Adult",
     "author": "https://davidmcgee.xyz",
-    "toasts": 45,
+    "toasts": 48,
     "first_seen": "2026-05-11T09:19:50.175Z",
-    "last_updated": "2026-05-11T15:09:03.947Z",
+    "last_updated": "2026-05-11T18:45:28.953Z",
     "published": "2026-05-10T22:43Z"
+  },
+  {
+    "url": "https://thelearningloop.bearblog.dev/meandering-into-an-offline-life/",
+    "title": "Meandering into an offline life",
+    "author": "https://thelearningloop.bearblog.dev",
+    "toasts": 11,
+    "first_seen": "2026-05-11T18:45:28.953Z",
+    "last_updated": "2026-05-11T18:45:28.953Z",
+    "published": "2026-05-10T18:39Z"
+  },
+  {
+    "url": "https://eternalconstellations.bearblog.dev/an-update-on-leaving-social-media/",
+    "title": "an update on leaving social media",
+    "author": "https://eternalconstellations.bearblog.dev",
+    "toasts": 11,
+    "first_seen": "2026-05-11T18:45:28.953Z",
+    "last_updated": "2026-05-11T18:45:28.953Z",
+    "published": "2026-05-10T16:06Z"
+  },
+  {
+    "url": "https://skuth.us/iphone-dumb-phone/",
+    "title": "Your iPhone can be turned into a dumb phone",
+    "author": "https://skuth.us",
+    "toasts": 11,
+    "first_seen": "2026-05-11T18:45:28.953Z",
+    "last_updated": "2026-05-11T18:45:28.953Z",
+    "published": "2026-05-10T15:31Z"
   }
 ]
