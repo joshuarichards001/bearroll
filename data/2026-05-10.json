@@ -3,9 +3,9 @@
     "url": "https://forkingmad.blog/hey-you-start-communicating/",
     "title": "Hey you, start communicating!",
     "author": "https://forkingmad.blog",
-    "toasts": 18,
+    "toasts": 20,
     "first_seen": "2026-05-10T17:24:08.890Z",
-    "last_updated": "2026-05-11T00:58:29.986Z",
+    "last_updated": "2026-05-11T05:26:03.515Z",
     "published": "2026-05-10T14:59Z"
   },
   {
@@ -21,18 +21,18 @@
     "url": "https://savvynormie.com/how-nuking-my-pkm-paralyzed-my-productivity-for-6-months/",
     "title": "How Nuking My PKM Paralyzed My Productivity for 6 Months",
     "author": "https://savvynormie.com",
-    "toasts": 30,
+    "toasts": 33,
     "first_seen": "2026-05-10T22:21:05.479Z",
-    "last_updated": "2026-05-11T03:17:18.478Z",
+    "last_updated": "2026-05-11T05:26:03.515Z",
     "published": "2026-05-10T13:31Z"
   },
   {
     "url": "https://omniafluunt.me/a-small-history-of-light/",
     "title": "A small history of light",
     "author": "https://omniafluunt.me",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-10T23:22:52.441Z",
-    "last_updated": "2026-05-11T00:58:29.986Z",
+    "last_updated": "2026-05-11T05:26:03.515Z",
     "published": "2026-05-10T21:26Z"
   },
   {
@@ -52,5 +52,14 @@
     "first_seen": "2026-05-11T03:17:18.478Z",
     "last_updated": "2026-05-11T03:17:18.478Z",
     "published": "2026-05-10T20:09Z"
+  },
+  {
+    "url": "https://omniafluunt.me/the-sea-remains/",
+    "title": "The sea remains",
+    "author": "https://omniafluunt.me",
+    "toasts": 10,
+    "first_seen": "2026-05-11T05:26:03.515Z",
+    "last_updated": "2026-05-11T05:26:03.515Z",
+    "published": "2026-05-10T22:57Z"
   }
 ]
