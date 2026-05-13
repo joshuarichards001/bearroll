@@ -39,11 +39,15 @@ export function GET(context: APIContext) {
       )
       .join("\n");
 
+    const publishedAt = new Date(`${date}T00:00:00Z`);
+    publishedAt.setUTCDate(publishedAt.getUTCDate() + 1);
+    publishedAt.setUTCHours(9, 0, 0, 0);
+
     return [
       {
         title: `${formatDate(date)} - Top 10`,
         link: `${context.site!}archive/${date}`,
-        pubDate: new Date(date),
+        pubDate: publishedAt,
         content: `<ol>${listHtml}</ol>`,
       },
     ];
