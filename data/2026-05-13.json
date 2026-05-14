@@ -3,9 +3,9 @@
     "url": "https://chupacabra.bearblog.dev/your-request-to-close-your-amazon-account-has-been-confirmed/",
     "title": "\"Your Request To Close Your Amazon Account Has Been Confirmed\".",
     "author": "https://chupacabra.bearblog.dev",
-    "toasts": 57,
+    "toasts": 58,
     "first_seen": "2026-05-13T03:15:55.113Z",
-    "last_updated": "2026-05-14T19:36:26.661Z",
+    "last_updated": "2026-05-14T20:36:17.761Z",
     "published": "2026-05-13T00:44Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://untangled.bearblog.dev/make-email-fun-again/",
     "title": "Make Email Fun Again!",
     "author": "https://untangled.bearblog.dev",
-    "toasts": 40,
+    "toasts": 42,
     "first_seen": "2026-05-13T16:53:36.020Z",
-    "last_updated": "2026-05-14T19:36:26.661Z",
+    "last_updated": "2026-05-14T20:36:17.761Z",
     "published": "2026-05-13T12:46Z"
   },
   {
@@ -61,5 +61,14 @@
     "first_seen": "2026-05-14T18:44:25.034Z",
     "last_updated": "2026-05-14T18:44:25.034Z",
     "published": "2026-05-13T18:31Z"
+  },
+  {
+    "url": "https://receipts.bearblog.dev/the-heartbreak-of-carving-your-own-path/",
+    "title": "the heartbreak of carving your own path",
+    "author": "https://receipts.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-05-14T20:36:17.761Z",
+    "last_updated": "2026-05-14T20:36:17.761Z",
+    "published": "2026-05-13T19:56Z"
   }
 ]
