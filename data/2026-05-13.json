@@ -3,9 +3,9 @@
     "url": "https://chupacabra.bearblog.dev/your-request-to-close-your-amazon-account-has-been-confirmed/",
     "title": "\"Your Request To Close Your Amazon Account Has Been Confirmed\".",
     "author": "https://chupacabra.bearblog.dev",
-    "toasts": 53,
+    "toasts": 54,
     "first_seen": "2026-05-13T03:15:55.113Z",
-    "last_updated": "2026-05-14T10:53:14.426Z",
+    "last_updated": "2026-05-14T11:38:52.283Z",
     "published": "2026-05-13T00:44Z"
   },
   {
@@ -43,5 +43,14 @@
     "first_seen": "2026-05-14T07:10:11.269Z",
     "last_updated": "2026-05-14T10:53:14.426Z",
     "published": "2026-05-13T23:52Z"
+  },
+  {
+    "url": "https://www.zweisechsneun.de/ich-habe-versagt/",
+    "title": "Ich habe versagt und versuche es nochmal",
+    "author": "https://www.zweisechsneun.de",
+    "toasts": 10,
+    "first_seen": "2026-05-14T11:38:52.283Z",
+    "last_updated": "2026-05-14T11:38:52.283Z",
+    "published": "2026-05-13T14:06Z"
   }
 ]
