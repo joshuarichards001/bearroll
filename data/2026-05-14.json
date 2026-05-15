@@ -3,27 +3,27 @@
     "url": "https://receipts.bearblog.dev/creating-is-living-consuming-is-not/",
     "title": "creating is living, consuming is not",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-05-14T09:04:30.131Z",
-    "last_updated": "2026-05-15T14:54:12.374Z",
+    "last_updated": "2026-05-15T15:47:06.293Z",
     "published": "2026-05-14T05:01Z"
   },
   {
     "url": "https://skryblans.com/left-behind/",
     "title": "left behind",
     "author": "https://skryblans.com",
-    "toasts": 52,
+    "toasts": 53,
     "first_seen": "2026-05-14T10:53:14.426Z",
-    "last_updated": "2026-05-15T14:54:12.374Z",
+    "last_updated": "2026-05-15T15:47:06.293Z",
     "published": "2026-05-14T07:48Z"
   },
   {
     "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
     "title": "God Damn AI is making me dumb",
     "author": "https://jpain.io",
-    "toasts": 1061,
+    "toasts": 1070,
     "first_seen": "2026-05-14T18:44:25.034Z",
-    "last_updated": "2026-05-15T14:54:12.374Z",
+    "last_updated": "2026-05-15T15:47:06.293Z",
     "published": "2026-05-14T18:17Z"
   },
   {
@@ -39,36 +39,36 @@
     "url": "https://jpain.io/i-love-linux-but-i-cant-quit-windows/",
     "title": "I love Linux, but I can't quit Windows",
     "author": "https://jpain.io",
-    "toasts": 35,
+    "toasts": 36,
     "first_seen": "2026-05-14T20:36:17.761Z",
-    "last_updated": "2026-05-15T14:54:12.374Z",
+    "last_updated": "2026-05-15T15:47:06.293Z",
     "published": "2026-05-14T16:47Z"
   },
   {
     "url": "https://rnotte.art/id-rather-die-than-be-a-content-creator/",
     "title": "i’d rather die than be a content creator",
     "author": "https://rnotte.art",
-    "toasts": 39,
+    "toasts": 42,
     "first_seen": "2026-05-15T00:56:56.237Z",
-    "last_updated": "2026-05-15T14:54:12.374Z",
+    "last_updated": "2026-05-15T15:47:06.293Z",
     "published": "2026-05-14T21:28Z"
   },
   {
     "url": "https://puppynet.work/my-battery-is-low-and-its-getting-dark/",
     "title": "My battery is low and it's getting dark",
     "author": "https://puppynet.work",
-    "toasts": 44,
+    "toasts": 45,
     "first_seen": "2026-05-15T00:56:56.237Z",
-    "last_updated": "2026-05-15T14:54:12.374Z",
+    "last_updated": "2026-05-15T15:47:06.293Z",
     "published": "2026-05-14T20:43Z"
   },
   {
     "url": "https://robertbirming.com/full-of-life/",
     "title": "Full of life",
     "author": "https://robertbirming.com",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-05-15T00:56:56.237Z",
-    "last_updated": "2026-05-15T12:45:56.639Z",
+    "last_updated": "2026-05-15T15:47:06.293Z",
     "published": "2026-05-14T19:54Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-05-15T12:45:56.639Z",
     "last_updated": "2026-05-15T12:45:56.639Z",
     "published": "2026-05-14T19:25Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/goodbye-rss/",
+    "title": "Goodbye RSS",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-05-15T15:47:06.293Z",
+    "last_updated": "2026-05-15T15:47:06.293Z",
+    "published": "2026-05-14T18:53Z"
   }
 ]
