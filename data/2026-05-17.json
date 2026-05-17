@@ -57,27 +57,27 @@
     "url": "https://chas.quest/beginning-the-big-o/",
     "title": "Beginning the Big O",
     "author": "https://chas.quest",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-17T15:27:29.412Z",
-    "last_updated": "2026-05-17T18:29:08.185Z",
+    "last_updated": "2026-05-17T19:30:27.746Z",
     "published": "2026-05-17T13:26Z"
   },
   {
     "url": "https://blog.avas.space/uber-data-leak/",
     "title": "i suspect there is a new uber data leak",
     "author": "https://blog.avas.space",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-17T17:26:14.071Z",
-    "last_updated": "2026-05-17T18:29:08.185Z",
+    "last_updated": "2026-05-17T19:30:27.746Z",
     "published": "2026-05-17T13:06Z"
   },
   {
     "url": "https://scottgehlbach.bearblog.dev/on-arxiv-llms-and-what-it-means-to-put-your-name-on-a-paper/",
     "title": "On arXiv, LLMs, and What It Means to Put Your Name on a Paper",
     "author": "https://scottgehlbach.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-05-17T18:29:08.185Z",
-    "last_updated": "2026-05-17T18:29:08.185Z",
+    "last_updated": "2026-05-17T19:30:27.746Z",
     "published": "2026-05-17T16:22Z"
   }
 ]
