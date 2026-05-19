@@ -30,9 +30,9 @@
     "url": "https://robertbirming.com/your-blog-photos/",
     "title": "Your blog needs more photos",
     "author": "https://robertbirming.com",
-    "toasts": 25,
+    "toasts": 26,
     "first_seen": "2026-05-18T17:04:13.579Z",
-    "last_updated": "2026-05-18T23:28:24.417Z",
+    "last_updated": "2026-05-19T03:16:23.701Z",
     "published": "2026-05-18T14:57Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://hanki.dev/website-blocking-which-works-long-term/",
     "title": "website blocking which works long term",
     "author": "https://hanki.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-18T17:04:13.579Z",
-    "last_updated": "2026-05-18T20:37:25.983Z",
+    "last_updated": "2026-05-19T03:16:23.701Z",
     "published": "2026-05-18T07:51Z"
   },
   {
@@ -75,18 +75,18 @@
     "url": "https://blog.avas.space/disappointing-companies/",
     "title": "many people's business is really not that impressive",
     "author": "https://blog.avas.space",
-    "toasts": 13,
+    "toasts": 16,
     "first_seen": "2026-05-18T19:36:44.682Z",
-    "last_updated": "2026-05-19T01:00:57.786Z",
+    "last_updated": "2026-05-19T03:16:23.701Z",
     "published": "2026-05-18T09:59Z"
   },
   {
     "url": "https://rnotte.art/re-adults-have-lost-the-ability-to-smile-why/",
     "title": "RE: adults have lost the ability to smile, why?",
     "author": "https://rnotte.art",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-05-18T19:36:44.682Z",
-    "last_updated": "2026-05-19T01:00:57.786Z",
+    "last_updated": "2026-05-19T03:16:23.701Z",
     "published": "2026-05-18T18:27Z"
   },
   {
@@ -106,5 +106,32 @@
     "first_seen": "2026-05-18T20:37:25.983Z",
     "last_updated": "2026-05-18T20:37:25.983Z",
     "published": "2026-05-18T16:50Z"
+  },
+  {
+    "url": "https://blog.loreleice.net/growing-with-my-website/",
+    "title": "Re: Growing with my website",
+    "author": "https://blog.loreleice.net",
+    "toasts": 9,
+    "first_seen": "2026-05-19T03:16:23.701Z",
+    "last_updated": "2026-05-19T03:16:23.701Z",
+    "published": "2026-05-18T02:12Z"
+  },
+  {
+    "url": "https://jonathanscott.bearblog.dev/the-great-crypto-con/",
+    "title": "The Great Crypto Con",
+    "author": "https://jonathanscott.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-19T03:16:23.701Z",
+    "last_updated": "2026-05-19T03:16:23.701Z",
+    "published": "2026-05-18T13:58Z"
+  },
+  {
+    "url": "https://forkingmad.blog/feeling-flat/",
+    "title": "Feeling Flat",
+    "author": "https://forkingmad.blog",
+    "toasts": 7,
+    "first_seen": "2026-05-19T03:16:23.701Z",
+    "last_updated": "2026-05-19T03:16:23.701Z",
+    "published": "2026-05-18T20:15Z"
   }
 ]
