@@ -57,9 +57,9 @@
     "url": "https://superlemon.bearblog.dev/the-majority-of-people-is-pro-ai/",
     "title": "The majority of people seems to be pro AI",
     "author": "https://superlemon.bearblog.dev",
-    "toasts": 69,
+    "toasts": 71,
     "first_seen": "2026-05-22T13:54:17.059Z",
-    "last_updated": "2026-05-22T22:27:15.704Z",
+    "last_updated": "2026-05-22T23:29:38.287Z",
     "published": "2026-05-22T13:39Z"
   },
   {
@@ -84,18 +84,18 @@
     "url": "https://freedman.dev/stop-using-ai-to-write/",
     "title": "Stop using AI to write",
     "author": "https://freedman.dev",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-05-22T15:08:58.661Z",
-    "last_updated": "2026-05-22T22:27:15.704Z",
+    "last_updated": "2026-05-22T23:29:38.287Z",
     "published": "2026-05-22T11:59Z"
   },
   {
     "url": "https://yarn.bearblog.dev/my-first-post-on-bear-hello/",
     "title": "My First Post On Bear (Hello)",
     "author": "https://yarn.bearblog.dev",
-    "toasts": 22,
+    "toasts": 25,
     "first_seen": "2026-05-22T15:08:58.661Z",
-    "last_updated": "2026-05-22T22:27:15.704Z",
+    "last_updated": "2026-05-22T23:29:38.287Z",
     "published": "2026-05-22T12:58Z"
   },
   {
@@ -147,9 +147,18 @@
     "url": "https://bengunn.bearblog.dev/most-people-do-not-like-ai/",
     "title": "Most People Do Not Like AI",
     "author": "https://bengunn.bearblog.dev",
-    "toasts": 13,
+    "toasts": 15,
     "first_seen": "2026-05-22T20:37:50.760Z",
-    "last_updated": "2026-05-22T22:27:15.704Z",
+    "last_updated": "2026-05-22T23:29:38.287Z",
     "published": "2026-05-22T18:13Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/you-should-check-out-forbidden-solitaire/",
+    "title": "You should check out Forbidden Solitaire",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 8,
+    "first_seen": "2026-05-22T23:29:38.287Z",
+    "last_updated": "2026-05-22T23:29:38.287Z",
+    "published": "2026-05-22T05:23Z"
   }
 ]
