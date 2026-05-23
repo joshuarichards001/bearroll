@@ -3,18 +3,36 @@
     "url": "https://moodywarlock.net/a-group-of-ghouls-and-ai-exhaustion/",
     "title": "A group of ghouls and ai exhaustion",
     "author": "https://moodywarlock.net",
-    "toasts": 14,
+    "toasts": 29,
     "first_seen": "2026-05-23T08:48:16.912Z",
-    "last_updated": "2026-05-23T08:48:16.912Z",
+    "last_updated": "2026-05-23T11:30:06.590Z",
     "published": "2026-05-23T07:03Z"
   },
   {
     "url": "https://pinewind.bearblog.dev/a-silly-thing-that-i-do/",
     "title": "a silly thing that I do",
     "author": "https://pinewind.bearblog.dev",
-    "toasts": 7,
+    "toasts": 13,
     "first_seen": "2026-05-23T08:48:16.912Z",
-    "last_updated": "2026-05-23T08:48:16.912Z",
+    "last_updated": "2026-05-23T11:30:06.590Z",
     "published": "2026-05-23T05:00Z"
+  },
+  {
+    "url": "https://skryblans.com/vibe-blogging/",
+    "title": "vibe blogging",
+    "author": "https://skryblans.com",
+    "toasts": 15,
+    "first_seen": "2026-05-23T11:30:06.590Z",
+    "last_updated": "2026-05-23T11:30:06.590Z",
+    "published": "2026-05-23T08:29Z"
+  },
+  {
+    "url": "https://stellardecay.com/first-cattiversary/",
+    "title": "First Cattiversary!",
+    "author": "https://stellardecay.com",
+    "toasts": 8,
+    "first_seen": "2026-05-23T11:30:06.590Z",
+    "last_updated": "2026-05-23T11:30:06.590Z",
+    "published": "2026-05-23T10:09Z"
   }
 ]
