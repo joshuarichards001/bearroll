@@ -138,9 +138,9 @@
     "url": "https://rnotte.art/to-make-art-or-buy-it/",
     "title": "to make art, or buy it?",
     "author": "https://rnotte.art",
-    "toasts": 46,
+    "toasts": 47,
     "first_seen": "2026-05-22T19:36:41.267Z",
-    "last_updated": "2026-05-25T11:28:19.211Z",
+    "last_updated": "2026-05-25T13:19:15.785Z",
     "published": "2026-05-22T17:43Z"
   },
   {
@@ -210,9 +210,9 @@
     "url": "https://zarar.dev/paypal-has-no-undo-button-and-it-cost-me-68775/",
     "title": "PayPal Has No Undo Button and It Cost Me $687.75",
     "author": "https://zarar.dev",
-    "toasts": 40,
+    "toasts": 41,
     "first_seen": "2026-05-23T08:48:16.912Z",
-    "last_updated": "2026-05-25T09:29:30.605Z",
+    "last_updated": "2026-05-25T13:19:15.785Z",
     "published": "2026-05-22T19:34Z"
   },
   {
@@ -240,6 +240,15 @@
     "toasts": 46,
     "first_seen": "2026-05-23T20:22:06.117Z",
     "last_updated": "2026-05-24T23:26:23.336Z",
+    "published": "2026-05-22T18:19Z"
+  },
+  {
+    "url": "https://lightlogged.blog/who-likes-bees/",
+    "title": "Who likes bees?",
+    "author": "https://lightlogged.blog",
+    "toasts": 46,
+    "first_seen": "2026-05-25T13:19:15.785Z",
+    "last_updated": "2026-05-25T13:19:15.785Z",
     "published": "2026-05-22T18:19Z"
   }
 ]
