@@ -12,9 +12,9 @@
     "url": "https://blog.avas.space/eu-washing/",
     "title": "beware of EU-washing",
     "author": "https://blog.avas.space",
-    "toasts": 40,
+    "toasts": 41,
     "first_seen": "2026-05-24T10:38:04.879Z",
-    "last_updated": "2026-05-25T18:41:03.541Z",
+    "last_updated": "2026-05-25T21:30:46.246Z",
     "published": "2026-05-24T08:34Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://arnau.bearblog.dev/build-a-library/",
     "title": "build a library",
     "author": "https://arnau.bearblog.dev",
-    "toasts": 29,
+    "toasts": 32,
     "first_seen": "2026-05-24T19:33:37.839Z",
-    "last_updated": "2026-05-25T20:35:31.663Z",
+    "last_updated": "2026-05-25T21:30:46.246Z",
     "published": "2026-05-24T18:56Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://fragmentadamente.bearblog.dev/uma-prova-para-a-vida/",
     "title": "Uma prova para a vida",
     "author": "https://fragmentadamente.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-24T21:23:53.937Z",
-    "last_updated": "2026-05-25T18:41:03.541Z",
+    "last_updated": "2026-05-25T21:30:46.246Z",
     "published": "2026-05-24T17:15Z"
   },
   {
@@ -138,18 +138,18 @@
     "url": "https://basic.bearblog.dev/life-without-notifications/",
     "title": "Life without notifications",
     "author": "https://basic.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-25T15:09:27.766Z",
-    "last_updated": "2026-05-25T19:35:15.084Z",
+    "last_updated": "2026-05-25T21:30:46.246Z",
     "published": "2026-05-24T21:42Z"
   },
   {
     "url": "https://bahadir.digital/claude-el-kitabi/",
     "title": "Claude El Kitabı",
     "author": "https://bahadir.digital",
-    "toasts": 20,
+    "toasts": 23,
     "first_seen": "2026-05-25T17:36:40.118Z",
-    "last_updated": "2026-05-25T20:35:31.663Z",
+    "last_updated": "2026-05-25T21:30:46.246Z",
     "published": "2026-05-24T22:32Z"
   }
 ]
