@@ -21,9 +21,18 @@
     "url": "https://valentine.bearblog.dev/two-years-of-blogging/",
     "title": "two years of blogging",
     "author": "https://valentine.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-25T16:48:33.372Z",
-    "last_updated": "2026-05-25T16:48:33.372Z",
+    "last_updated": "2026-05-25T18:41:03.541Z",
     "published": "2026-05-25T14:56Z"
+  },
+  {
+    "url": "https://nostalgia.bearblog.dev/quote-unquote-autistic/",
+    "title": "four adults discussing an \"autistic\" daughter in a restaurant",
+    "author": "https://nostalgia.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-05-25T18:41:03.541Z",
+    "last_updated": "2026-05-25T18:41:03.541Z",
+    "published": "2026-05-25T04:49Z"
   }
 ]
