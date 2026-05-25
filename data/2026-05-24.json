@@ -21,9 +21,9 @@
     "url": "https://diels-daydreams.bearblog.dev/my-blog-isnt-my-diary-its-my-friend/",
     "title": "My blog isn’t my diary, it’s my friend",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-05-24T16:26:45.799Z",
-    "last_updated": "2026-05-25T13:19:15.785Z",
+    "last_updated": "2026-05-25T15:09:27.766Z",
     "published": "2026-05-24T16:00Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://arnau.bearblog.dev/build-a-library/",
     "title": "build a library",
     "author": "https://arnau.bearblog.dev",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-05-24T19:33:37.839Z",
-    "last_updated": "2026-05-25T09:29:30.605Z",
+    "last_updated": "2026-05-25T15:09:27.766Z",
     "published": "2026-05-24T18:56Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://lightlogged.blog/630-silly-portraits/",
     "title": "6/30 — Silly portraits",
     "author": "https://lightlogged.blog",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-25T13:19:15.785Z",
-    "last_updated": "2026-05-25T13:19:15.785Z",
+    "last_updated": "2026-05-25T15:09:27.766Z",
     "published": "2026-05-24T17:17Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-05-25T13:19:15.785Z",
     "last_updated": "2026-05-25T13:19:15.785Z",
     "published": "2026-05-24T15:20Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/life-without-notifications/",
+    "title": "Life without notifications",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-05-25T15:09:27.766Z",
+    "last_updated": "2026-05-25T15:09:27.766Z",
+    "published": "2026-05-24T21:42Z"
   }
 ]
