@@ -12,9 +12,9 @@
     "url": "https://blog.avas.space/eu-washing/",
     "title": "beware of EU-washing",
     "author": "https://blog.avas.space",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-05-24T10:38:04.879Z",
-    "last_updated": "2026-05-25T01:03:36.970Z",
+    "last_updated": "2026-05-25T03:18:34.398Z",
     "published": "2026-05-24T08:34Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-05-25T01:03:36.970Z",
     "last_updated": "2026-05-25T01:03:36.970Z",
     "published": "2026-05-24T18:11Z"
+  },
+  {
+    "url": "https://trialandfailure.net/the-exhausting-maintenance-of-good-habits/",
+    "title": "The Exhausting Maintenance of Good Habits",
+    "author": "https://trialandfailure.net",
+    "toasts": 9,
+    "first_seen": "2026-05-25T03:18:34.398Z",
+    "last_updated": "2026-05-25T03:18:34.398Z",
+    "published": "2026-05-24T20:41Z"
   }
 ]
