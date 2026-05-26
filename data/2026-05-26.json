@@ -39,9 +39,18 @@
     "url": "https://blog.absurdpirate.com/this-is-your-reminder-to-go-touch-grass/",
     "title": "This Is Your Reminder to Go Touch Grass",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-26T22:33:32.484Z",
-    "last_updated": "2026-05-26T22:33:32.484Z",
+    "last_updated": "2026-05-26T23:30:10.818Z",
     "published": "2026-05-26T15:14Z"
+  },
+  {
+    "url": "https://thecynicalnerd.bearblog.dev/the-ai-safety-double-standard-and-the-company-reading-your-emails-while-nobody-watches/",
+    "title": "The AI Safety Double Standard (And the Company Reading Your Emails While Nobody Watches)",
+    "author": "https://thecynicalnerd.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-26T23:30:10.818Z",
+    "last_updated": "2026-05-26T23:30:10.818Z",
+    "published": "2026-05-26T18:40Z"
   }
 ]
