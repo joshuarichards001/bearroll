@@ -12,9 +12,18 @@
     "url": "https://samsharp.ca/ishavesomefun/",
     "title": "all i wanna do",
     "author": "https://samsharp.ca",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-27T07:37:03.573Z",
-    "last_updated": "2026-05-27T07:37:03.573Z",
+    "last_updated": "2026-05-27T09:18:15.674Z",
     "published": "2026-05-27T03:08Z"
+  },
+  {
+    "url": "https://herman.bearblog.dev/resurfacing-posts/",
+    "title": "Resurfacing posts",
+    "author": "https://herman.bearblog.dev",
+    "toasts": 15,
+    "first_seen": "2026-05-27T09:18:15.674Z",
+    "last_updated": "2026-05-27T09:18:15.674Z",
+    "published": "2026-05-27T06:45Z"
   }
 ]
