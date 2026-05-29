@@ -3,18 +3,18 @@
     "url": "https://skryblans.com/the-pantsing-of-my-posts/",
     "title": "the pantsing of my posts",
     "author": "https://skryblans.com",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-05-28T13:26:18.920Z",
-    "last_updated": "2026-05-29T03:17:24.545Z",
+    "last_updated": "2026-05-29T05:34:07.803Z",
     "published": "2026-05-28T09:12Z"
   },
   {
     "url": "https://mickbrun.com/three-things-i-have-learned-about-bear/",
     "title": "Three things I have learned about Bear",
     "author": "https://mickbrun.com",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-05-28T13:26:18.920Z",
-    "last_updated": "2026-05-29T03:17:24.545Z",
+    "last_updated": "2026-05-29T05:34:07.803Z",
     "published": "2026-05-28T06:03Z"
   },
   {
@@ -88,5 +88,23 @@
     "first_seen": "2026-05-29T03:17:24.545Z",
     "last_updated": "2026-05-29T03:17:24.545Z",
     "published": "2026-05-28T20:20Z"
+  },
+  {
+    "url": "https://zoeloukia.bearblog.dev/re-is-everyone-copy/",
+    "title": "re: is everyone copy?",
+    "author": "https://zoeloukia.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-29T05:34:07.803Z",
+    "last_updated": "2026-05-29T05:34:07.803Z",
+    "published": "2026-05-28T20:00Z"
+  },
+  {
+    "url": "https://rickw.bearblog.dev/six-months-without-social-media/",
+    "title": "Six Months without Social Media",
+    "author": "https://rickw.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-29T05:34:07.803Z",
+    "last_updated": "2026-05-29T05:34:07.803Z",
+    "published": "2026-05-28T15:33Z"
   }
 ]
