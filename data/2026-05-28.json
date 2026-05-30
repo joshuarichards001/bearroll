@@ -66,9 +66,9 @@
     "url": "https://www.justinthestacks.com/i-havent-had-meth-in-five-days/",
     "title": "\"I Haven't Had Meth in Five Days.\"",
     "author": "https://www.justinthestacks.com",
-    "toasts": 59,
+    "toasts": 61,
     "first_seen": "2026-05-29T01:04:54.109Z",
-    "last_updated": "2026-05-30T13:35:44.207Z",
+    "last_updated": "2026-05-30T15:31:32.749Z",
     "published": "2026-05-28T22:16Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://forkingmad.blog/wikipedia-doesnt-need-my-cash/",
     "title": "Wikipedia doesn't need my cash",
     "author": "https://forkingmad.blog",
-    "toasts": 26,
+    "toasts": 27,
     "first_seen": "2026-05-29T03:17:24.545Z",
-    "last_updated": "2026-05-30T14:36:53.140Z",
+    "last_updated": "2026-05-30T15:31:32.749Z",
     "published": "2026-05-28T20:20Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://rickw.bearblog.dev/six-months-without-social-media/",
     "title": "Six Months without Social Media",
     "author": "https://rickw.bearblog.dev",
-    "toasts": 46,
+    "toasts": 47,
     "first_seen": "2026-05-29T05:34:07.803Z",
-    "last_updated": "2026-05-30T14:36:53.140Z",
+    "last_updated": "2026-05-30T15:31:32.749Z",
     "published": "2026-05-28T15:33Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://donthave2sting.bearblog.dev/re-adults-have-lost-the-ability-to-smile-why/",
     "title": "re: adults have lost the ability to smile, why?",
     "author": "https://donthave2sting.bearblog.dev",
-    "toasts": 18,
+    "toasts": 20,
     "first_seen": "2026-05-29T11:12:33.303Z",
-    "last_updated": "2026-05-30T11:34:04.443Z",
+    "last_updated": "2026-05-30T15:31:32.749Z",
     "published": "2026-05-28T21:41Z"
   },
   {
@@ -160,5 +160,14 @@
     "first_seen": "2026-05-29T18:59:49.115Z",
     "last_updated": "2026-05-30T01:00:09.665Z",
     "published": "2026-05-28T16:55Z"
+  },
+  {
+    "url": "https://fragmentadamente.bearblog.dev/ansiedade-de-viajar/",
+    "title": "Ansiedade de viajar",
+    "author": "https://fragmentadamente.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-05-30T15:31:32.749Z",
+    "last_updated": "2026-05-30T15:31:32.749Z",
+    "published": "2026-05-28T16:20Z"
   }
 ]
