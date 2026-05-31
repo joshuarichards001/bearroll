@@ -21,36 +21,36 @@
     "url": "https://valentine.bearblog.dev/im-about-to-finish-college/",
     "title": "i'm about to finish college",
     "author": "https://valentine.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-30T16:27:56.149Z",
-    "last_updated": "2026-05-31T01:06:09.608Z",
+    "last_updated": "2026-05-31T05:37:27.355Z",
     "published": "2026-05-30T05:14Z"
   },
   {
     "url": "https://blog.lauramichet.com/hire-me/",
     "title": "Hire Me",
     "author": "https://blog.lauramichet.com",
-    "toasts": 20,
+    "toasts": 22,
     "first_seen": "2026-05-30T20:27:26.576Z",
-    "last_updated": "2026-05-31T03:17:33.632Z",
+    "last_updated": "2026-05-31T05:37:27.355Z",
     "published": "2026-05-30T19:04Z"
   },
   {
     "url": "https://blog.absurdpirate.com/im-so-tired-of-ads/",
     "title": "I'm So Tired of Ads",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 26,
+    "toasts": 30,
     "first_seen": "2026-05-30T21:25:37.929Z",
-    "last_updated": "2026-05-31T03:17:33.632Z",
+    "last_updated": "2026-05-31T05:37:27.355Z",
     "published": "2026-05-30T20:05Z"
   },
   {
     "url": "https://receipts.bearblog.dev/to-be-loved-is-to-be-understood/",
     "title": "to be loved is to be understood",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-30T21:25:37.929Z",
-    "last_updated": "2026-05-31T03:17:33.632Z",
+    "last_updated": "2026-05-31T05:37:27.355Z",
     "published": "2026-05-30T06:08Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://nostalgia.bearblog.dev/netanyahus-mom/",
     "title": "about my representative trying to be Netanyahu's mom",
     "author": "https://nostalgia.bearblog.dev",
-    "toasts": 25,
+    "toasts": 26,
     "first_seen": "2026-05-31T03:17:33.632Z",
-    "last_updated": "2026-05-31T03:17:33.632Z",
+    "last_updated": "2026-05-31T05:37:27.355Z",
     "published": "2026-05-30T10:41Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-05-31T03:17:33.632Z",
     "last_updated": "2026-05-31T03:17:33.632Z",
     "published": "2026-05-30T16:13Z"
+  },
+  {
+    "url": "https://bx.bearblog.dev/the-dopamine-of-1-trending-post/",
+    "title": "the dopamine of #1 trending post",
+    "author": "https://bx.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-31T05:37:27.355Z",
+    "last_updated": "2026-05-31T05:37:27.355Z",
+    "published": "2026-05-30T22:50Z"
   }
 ]
