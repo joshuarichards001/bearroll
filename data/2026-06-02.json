@@ -39,9 +39,9 @@
     "url": "https://blog.avas.space/be-a-good-cook/",
     "title": "be a good cook when you use AI to edit your writing",
     "author": "https://blog.avas.space",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-06-02T09:35:52.406Z",
-    "last_updated": "2026-06-02T13:28:23.441Z",
+    "last_updated": "2026-06-02T15:31:42.585Z",
     "published": "2026-06-02T06:42Z"
   },
   {
@@ -61,5 +61,23 @@
     "first_seen": "2026-06-02T09:35:52.406Z",
     "last_updated": "2026-06-02T13:28:23.441Z",
     "published": "2026-06-02T03:00Z"
+  },
+  {
+    "url": "https://chilblands.bearblog.dev/i-should-have-done-this-a-long-time-ago-delete-my-instagram-account/",
+    "title": "I should have done this a long time ago (delete my Instagram account)",
+    "author": "https://chilblands.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-02T15:31:42.585Z",
+    "last_updated": "2026-06-02T15:31:42.585Z",
+    "published": "2026-06-02T11:13Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/what-i-would-do-if-i-got-rich/",
+    "title": "What I Would Do If I Got Rich",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 6,
+    "first_seen": "2026-06-02T15:31:42.585Z",
+    "last_updated": "2026-06-02T15:31:42.585Z",
+    "published": "2026-06-02T02:28Z"
   }
 ]
