@@ -84,9 +84,9 @@
     "url": "https://robertbirming.com/blogging-without-pressure/",
     "title": "Blogging without pressure",
     "author": "https://robertbirming.com",
-    "toasts": 11,
+    "toasts": 14,
     "first_seen": "2026-06-02T17:40:02.211Z",
-    "last_updated": "2026-06-02T17:40:02.211Z",
+    "last_updated": "2026-06-02T19:23:23.938Z",
     "published": "2026-06-02T15:11Z"
   },
   {
@@ -124,5 +124,41 @@
     "first_seen": "2026-06-02T17:40:02.211Z",
     "last_updated": "2026-06-02T17:40:02.211Z",
     "published": "2026-06-02T11:21Z"
+  },
+  {
+    "url": "https://mindlesstalk.bearblog.dev/i-am-going-offline-everyone/",
+    "title": "I am going offline, everyone!!!",
+    "author": "https://mindlesstalk.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-02T19:23:23.938Z",
+    "last_updated": "2026-06-02T19:23:23.938Z",
+    "published": "2026-06-02T16:10Z"
+  },
+  {
+    "url": "https://blog.fiddery.com/declutter-1-small-thing-every-day/",
+    "title": "declutter 1 small thing every day",
+    "author": "https://blog.fiddery.com",
+    "toasts": 6,
+    "first_seen": "2026-06-02T19:23:23.938Z",
+    "last_updated": "2026-06-02T19:23:23.938Z",
+    "published": "2026-06-02T15:55Z"
+  },
+  {
+    "url": "https://lifeasyongen.bearblog.dev/beating-perfectionism-with-watercolour/",
+    "title": "Beating perfectionism with watercolour",
+    "author": "https://lifeasyongen.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-02T19:23:23.938Z",
+    "last_updated": "2026-06-02T19:23:23.938Z",
+    "published": "2026-06-02T15:51Z"
+  },
+  {
+    "url": "https://73pctgeek.com/378-vs-387-vs-403-vs-884/",
+    "title": "378 vs 387 vs 403 vs 884",
+    "author": "https://73pctgeek.com",
+    "toasts": 6,
+    "first_seen": "2026-06-02T19:23:23.938Z",
+    "last_updated": "2026-06-02T19:23:23.938Z",
+    "published": "2026-06-02T15:18Z"
   }
 ]
