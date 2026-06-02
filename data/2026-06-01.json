@@ -84,9 +84,9 @@
     "url": "https://robertbirming.com/luxury-normal/",
     "title": "The luxury of normal",
     "author": "https://robertbirming.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-06-01T18:08:32.131Z",
-    "last_updated": "2026-06-02T07:49:58.188Z",
+    "last_updated": "2026-06-02T11:35:55.969Z",
     "published": "2026-06-01T14:37Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://tinkerdwarf.com/new-post-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new/",
     "title": "Having A Green Thumb Is A Skill",
     "author": "https://tinkerdwarf.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-01T20:31:13.445Z",
-    "last_updated": "2026-06-02T09:35:52.406Z",
+    "last_updated": "2026-06-02T11:35:55.969Z",
     "published": "2026-06-01T17:32Z"
   },
   {
@@ -160,5 +160,23 @@
     "first_seen": "2026-06-02T07:49:58.188Z",
     "last_updated": "2026-06-02T07:49:58.188Z",
     "published": "2026-06-01T08:53Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/i-visited-the-earthship-welcome-center-in-taos-new-mexico/",
+    "title": "I visited the Earthship Welcome Center in Taos, New Mexico",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 7,
+    "first_seen": "2026-06-02T11:35:55.969Z",
+    "last_updated": "2026-06-02T11:35:55.969Z",
+    "published": "2026-06-01T19:25Z"
+  },
+  {
+    "url": "https://pooltime.bearblog.dev/crocodilian-imperatives/",
+    "title": "Crocodilian Imperatives",
+    "author": "https://pooltime.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-02T11:35:55.969Z",
+    "last_updated": "2026-06-02T11:35:55.969Z",
+    "published": "2026-06-01T20:39Z"
   }
 ]
