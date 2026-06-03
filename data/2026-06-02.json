@@ -84,9 +84,9 @@
     "url": "https://robertbirming.com/blogging-without-pressure/",
     "title": "Blogging without pressure",
     "author": "https://robertbirming.com",
-    "toasts": 22,
+    "toasts": 30,
     "first_seen": "2026-06-02T17:40:02.211Z",
-    "last_updated": "2026-06-03T07:53:25.825Z",
+    "last_updated": "2026-06-03T09:45:40.855Z",
     "published": "2026-06-02T15:11Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://trueblue.bearblog.dev/deadbeat-daughter/",
     "title": "deadbeat daughter",
     "author": "https://trueblue.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-02T17:40:02.211Z",
-    "last_updated": "2026-06-03T03:19:14.488Z",
+    "last_updated": "2026-06-03T09:45:40.855Z",
     "published": "2026-06-02T14:12Z"
   },
   {
@@ -129,18 +129,18 @@
     "url": "https://mindlesstalk.bearblog.dev/i-am-going-offline-everyone/",
     "title": "I am going offline, everyone!!!",
     "author": "https://mindlesstalk.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-02T19:23:23.938Z",
-    "last_updated": "2026-06-02T21:11:10.849Z",
+    "last_updated": "2026-06-03T09:45:40.855Z",
     "published": "2026-06-02T16:10Z"
   },
   {
     "url": "https://blog.fiddery.com/declutter-1-small-thing-every-day/",
     "title": "declutter 1 small thing every day",
     "author": "https://blog.fiddery.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-02T19:23:23.938Z",
-    "last_updated": "2026-06-02T19:23:23.938Z",
+    "last_updated": "2026-06-03T09:45:40.855Z",
     "published": "2026-06-02T15:55Z"
   },
   {
@@ -205,5 +205,14 @@
     "first_seen": "2026-06-03T07:53:25.825Z",
     "last_updated": "2026-06-03T07:53:25.825Z",
     "published": "2026-06-02T10:53Z"
+  },
+  {
+    "url": "https://disconnect.bearblog.dev/my-family-gives-a-sht-for-the-trees/",
+    "title": "My family gives a sh*t for the trees!",
+    "author": "https://disconnect.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-03T09:45:40.855Z",
+    "last_updated": "2026-06-03T09:45:40.855Z",
+    "published": "2026-06-02T13:09Z"
   }
 ]
