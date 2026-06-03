@@ -21,9 +21,9 @@
     "url": "https://zeina.bearblog.dev/cotton/",
     "title": "Cotton",
     "author": "https://zeina.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-03T09:45:40.855Z",
-    "last_updated": "2026-06-03T13:49:56.267Z",
+    "last_updated": "2026-06-03T21:11:45.694Z",
     "published": "2026-06-03T02:16Z"
   },
   {
@@ -79,5 +79,23 @@
     "first_seen": "2026-06-03T19:28:21.383Z",
     "last_updated": "2026-06-03T19:28:21.383Z",
     "published": "2026-06-03T10:26Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/am-i-allowed-to-be-angry-about-having-diabetes/",
+    "title": "Am I allowed to be angry about having diabetes?",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 8,
+    "first_seen": "2026-06-03T21:11:45.694Z",
+    "last_updated": "2026-06-03T21:11:45.694Z",
+    "published": "2026-06-03T19:25Z"
+  },
+  {
+    "url": "https://donthave2sting.bearblog.dev/good-morning-my-shirt-looks-like-a-bag-of-popcorn/",
+    "title": "good morning, my shirt looks like a bag of popcorn",
+    "author": "https://donthave2sting.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-03T21:11:45.694Z",
+    "last_updated": "2026-06-03T21:11:45.694Z",
+    "published": "2026-06-03T12:44Z"
   }
 ]
