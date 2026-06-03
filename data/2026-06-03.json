@@ -12,18 +12,18 @@
     "url": "https://after.bearblog.dev/sharing-blog-theme/",
     "title": "Sharing blog theme",
     "author": "https://after.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-03T07:53:25.825Z",
-    "last_updated": "2026-06-03T11:43:21.524Z",
+    "last_updated": "2026-06-03T22:47:11.097Z",
     "published": "2026-06-03T00:55Z"
   },
   {
     "url": "https://zeina.bearblog.dev/cotton/",
     "title": "Cotton",
     "author": "https://zeina.bearblog.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-06-03T09:45:40.855Z",
-    "last_updated": "2026-06-03T21:11:45.694Z",
+    "last_updated": "2026-06-03T22:47:11.097Z",
     "published": "2026-06-03T02:16Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://lin-living-life.bearblog.dev/self-actualization-through-lesbian-bdsm/",
     "title": "Self Actualization through Lesbian BDSM",
     "author": "https://lin-living-life.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-03T13:49:56.267Z",
-    "last_updated": "2026-06-03T19:28:21.383Z",
+    "last_updated": "2026-06-03T22:47:11.097Z",
     "published": "2026-06-03T10:12Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://blog.lauramichet.com/am-i-allowed-to-be-angry-about-having-diabetes/",
     "title": "Am I allowed to be angry about having diabetes?",
     "author": "https://blog.lauramichet.com",
-    "toasts": 8,
+    "toasts": 15,
     "first_seen": "2026-06-03T21:11:45.694Z",
-    "last_updated": "2026-06-03T21:11:45.694Z",
+    "last_updated": "2026-06-03T22:47:11.097Z",
     "published": "2026-06-03T19:25Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-06-03T21:11:45.694Z",
     "last_updated": "2026-06-03T21:11:45.694Z",
     "published": "2026-06-03T12:44Z"
+  },
+  {
+    "url": "https://aleksei.dev/ai-isnt-the-genie/",
+    "title": "AI isn't the \"genie\"",
+    "author": "https://aleksei.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-03T22:47:11.097Z",
+    "last_updated": "2026-06-03T22:47:11.097Z",
+    "published": "2026-06-03T20:43Z"
   }
 ]
