@@ -39,9 +39,9 @@
     "url": "https://blog.avas.space/be-a-good-cook/",
     "title": "be a good cook when you use AI to edit your writing",
     "author": "https://blog.avas.space",
-    "toasts": 25,
+    "toasts": 26,
     "first_seen": "2026-06-02T09:35:52.406Z",
-    "last_updated": "2026-06-02T23:38:52.095Z",
+    "last_updated": "2026-06-03T03:19:14.488Z",
     "published": "2026-06-02T06:42Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://robertbirming.com/blogging-without-pressure/",
     "title": "Blogging without pressure",
     "author": "https://robertbirming.com",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-06-02T17:40:02.211Z",
-    "last_updated": "2026-06-03T01:14:57.047Z",
+    "last_updated": "2026-06-03T03:19:14.488Z",
     "published": "2026-06-02T15:11Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://trueblue.bearblog.dev/deadbeat-daughter/",
     "title": "deadbeat daughter",
     "author": "https://trueblue.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-02T17:40:02.211Z",
-    "last_updated": "2026-06-02T22:46:22.103Z",
+    "last_updated": "2026-06-03T03:19:14.488Z",
     "published": "2026-06-02T14:12Z"
   },
   {
@@ -178,5 +178,14 @@
     "first_seen": "2026-06-02T23:38:52.095Z",
     "last_updated": "2026-06-02T23:38:52.095Z",
     "published": "2026-06-02T20:13Z"
+  },
+  {
+    "url": "https://justgoidea.com/yi-xiang-de-xiang-yin/",
+    "title": "异乡的乡音",
+    "author": "https://justgoidea.com",
+    "toasts": 6,
+    "first_seen": "2026-06-03T03:19:14.488Z",
+    "last_updated": "2026-06-03T03:19:14.488Z",
+    "published": "2026-06-02T20:02Z"
   }
 ]
