@@ -6,7 +6,7 @@ import { getAllDayDates, loadDay } from "../lib/posts";
 export function GET(context: APIContext) {
   const allDates = getAllDayDates();
 
-  // Skip today (still accumulating) and include yesterday only after 9am UTC,
+  // Skip today (still accumulating) and include yesterday only after 6am UTC,
   // giving toasts time to settle overnight before the feed updates.
   const now = new Date();
   const todayStr = now.toISOString().slice(0, 10);
@@ -18,7 +18,7 @@ export function GET(context: APIContext) {
   const dates = allDates
     .filter((date) => {
       if (date === todayStr) return false;
-      if (date === yesterdayStr && utcHour < 9) return false;
+      if (date === yesterdayStr && utcHour < 6) return false;
       return true;
     })
     .slice(0, 14);
@@ -43,7 +43,7 @@ export function GET(context: APIContext) {
       {
         title: `${formatDate(date)} - Top 10`,
         link: `${context.site!}archive/${date}`,
-        pubDate: new Date(new Date(date + "T09:00:00Z").getTime() + 86400000),
+        pubDate: new Date(new Date(date + "T06:00:00Z").getTime() + 86400000),
         content: `<ol>${listHtml}</ol>`,
       },
     ];
