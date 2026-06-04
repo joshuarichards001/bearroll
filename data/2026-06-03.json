@@ -21,9 +21,9 @@
     "url": "https://zeina.bearblog.dev/cotton/",
     "title": "Cotton",
     "author": "https://zeina.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-06-03T09:45:40.855Z",
-    "last_updated": "2026-06-04T01:15:03.447Z",
+    "last_updated": "2026-06-04T11:09:42.588Z",
     "published": "2026-06-03T02:16Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://robertbirming.com/cant-blog-blog/",
     "title": "Can't blog? Blog.",
     "author": "https://robertbirming.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-06-04T01:15:03.447Z",
-    "last_updated": "2026-06-04T09:27:31.688Z",
+    "last_updated": "2026-06-04T11:09:42.588Z",
     "published": "2026-06-03T19:19Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://scribblypam.bearblog.dev/re-bear-pride-theme/",
     "title": "Re: Bear Pride Theme!!",
     "author": "https://scribblypam.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-06-04T01:15:03.447Z",
-    "last_updated": "2026-06-04T09:27:31.688Z",
+    "last_updated": "2026-06-04T11:09:42.588Z",
     "published": "2026-06-03T22:52Z"
   },
   {
@@ -196,5 +196,14 @@
     "first_seen": "2026-06-04T09:27:31.688Z",
     "last_updated": "2026-06-04T09:27:31.688Z",
     "published": "2026-06-03T16:37Z"
+  },
+  {
+    "url": "https://lightlogged.blog/after-the-rain/",
+    "title": "After the rain",
+    "author": "https://lightlogged.blog",
+    "toasts": 6,
+    "first_seen": "2026-06-04T11:09:42.588Z",
+    "last_updated": "2026-06-04T11:09:42.588Z",
+    "published": "2026-06-03T22:28Z"
   }
 ]
