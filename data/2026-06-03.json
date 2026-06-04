@@ -30,9 +30,9 @@
     "url": "https://diels-daydreams.bearblog.dev/happy-pride/",
     "title": "HAPPY PRIDE!!!!!",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-03T13:49:56.267Z",
-    "last_updated": "2026-06-03T13:49:56.267Z",
+    "last_updated": "2026-06-04T03:18:54.266Z",
     "published": "2026-06-03T02:50Z"
   },
   {
@@ -111,27 +111,27 @@
     "url": "https://rnotte.art/well-always-have-the-library/",
     "title": "we'll always have the library",
     "author": "https://rnotte.art",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-03T23:37:16.939Z",
-    "last_updated": "2026-06-04T01:15:03.447Z",
+    "last_updated": "2026-06-04T03:18:54.266Z",
     "published": "2026-06-03T19:46Z"
   },
   {
     "url": "https://robertbirming.com/cant-blog-blog/",
     "title": "Can't blog? Blog.",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-04T01:15:03.447Z",
-    "last_updated": "2026-06-04T01:15:03.447Z",
+    "last_updated": "2026-06-04T03:18:54.266Z",
     "published": "2026-06-03T19:19Z"
   },
   {
     "url": "https://blog.awdrey.net/bear-with-me/",
     "title": "Bear with me",
     "author": "https://blog.awdrey.net",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-04T01:15:03.447Z",
-    "last_updated": "2026-06-04T01:15:03.447Z",
+    "last_updated": "2026-06-04T03:18:54.266Z",
     "published": "2026-06-03T22:08Z"
   },
   {
@@ -156,9 +156,18 @@
     "url": "https://scribblypam.bearblog.dev/re-bear-pride-theme/",
     "title": "Re: Bear Pride Theme!!",
     "author": "https://scribblypam.bearblog.dev",
-    "toasts": 5,
+    "toasts": 8,
     "first_seen": "2026-06-04T01:15:03.447Z",
-    "last_updated": "2026-06-04T01:15:03.447Z",
+    "last_updated": "2026-06-04T03:18:54.266Z",
     "published": "2026-06-03T22:52Z"
+  },
+  {
+    "url": "https://lightlogged.bearblog.dev/after-the-rain/",
+    "title": "After the rain",
+    "author": "https://lightlogged.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-04T03:18:54.266Z",
+    "last_updated": "2026-06-04T03:18:54.266Z",
+    "published": "2026-06-03T22:28Z"
   }
 ]
