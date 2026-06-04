@@ -129,9 +129,9 @@
     "url": "https://blog.awdrey.net/bear-with-me/",
     "title": "Bear with me",
     "author": "https://blog.awdrey.net",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-06-04T01:15:03.447Z",
-    "last_updated": "2026-06-04T03:18:54.266Z",
+    "last_updated": "2026-06-04T07:47:46.783Z",
     "published": "2026-06-03T22:08Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://scribblypam.bearblog.dev/re-bear-pride-theme/",
     "title": "Re: Bear Pride Theme!!",
     "author": "https://scribblypam.bearblog.dev",
-    "toasts": 9,
+    "toasts": 12,
     "first_seen": "2026-06-04T01:15:03.447Z",
-    "last_updated": "2026-06-04T05:43:07.573Z",
+    "last_updated": "2026-06-04T07:47:46.783Z",
     "published": "2026-06-03T22:52Z"
   },
   {
@@ -178,5 +178,14 @@
     "first_seen": "2026-06-04T05:43:07.573Z",
     "last_updated": "2026-06-04T05:43:07.573Z",
     "published": "2026-06-03T03:59Z"
+  },
+  {
+    "url": "https://indragm.bearblog.dev/bear-blog-after-2-years/",
+    "title": "Bear blog after 2 years",
+    "author": "https://indragm.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-04T07:47:46.783Z",
+    "last_updated": "2026-06-04T07:47:46.783Z",
+    "published": "2026-06-03T23:00Z"
   }
 ]
