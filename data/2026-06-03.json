@@ -111,18 +111,18 @@
     "url": "https://rnotte.art/well-always-have-the-library/",
     "title": "we'll always have the library",
     "author": "https://rnotte.art",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-03T23:37:16.939Z",
-    "last_updated": "2026-06-04T03:18:54.266Z",
+    "last_updated": "2026-06-04T09:27:31.688Z",
     "published": "2026-06-03T19:46Z"
   },
   {
     "url": "https://robertbirming.com/cant-blog-blog/",
     "title": "Can't blog? Blog.",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-06-04T01:15:03.447Z",
-    "last_updated": "2026-06-04T05:43:07.573Z",
+    "last_updated": "2026-06-04T09:27:31.688Z",
     "published": "2026-06-03T19:19Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://scribblypam.bearblog.dev/re-bear-pride-theme/",
     "title": "Re: Bear Pride Theme!!",
     "author": "https://scribblypam.bearblog.dev",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-06-04T01:15:03.447Z",
-    "last_updated": "2026-06-04T07:47:46.783Z",
+    "last_updated": "2026-06-04T09:27:31.688Z",
     "published": "2026-06-03T22:52Z"
   },
   {
@@ -183,9 +183,18 @@
     "url": "https://indragm.bearblog.dev/bear-blog-after-2-years/",
     "title": "Bear blog after 2 years",
     "author": "https://indragm.bearblog.dev",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-06-04T07:47:46.783Z",
-    "last_updated": "2026-06-04T07:47:46.783Z",
+    "last_updated": "2026-06-04T09:27:31.688Z",
     "published": "2026-06-03T23:00Z"
+  },
+  {
+    "url": "https://blog.curiousquail.com/junited-2026/",
+    "title": "Junited 2026",
+    "author": "https://blog.curiousquail.com",
+    "toasts": 6,
+    "first_seen": "2026-06-04T09:27:31.688Z",
+    "last_updated": "2026-06-04T09:27:31.688Z",
+    "published": "2026-06-03T16:37Z"
   }
 ]
