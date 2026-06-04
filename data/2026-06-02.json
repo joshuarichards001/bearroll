@@ -75,9 +75,9 @@
     "url": "https://blog.absurdpirate.com/what-i-would-do-if-i-got-rich/",
     "title": "What I Would Do If I Got Rich",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-02T15:31:42.585Z",
-    "last_updated": "2026-06-04T05:43:07.573Z",
+    "last_updated": "2026-06-04T15:08:30.750Z",
     "published": "2026-06-02T02:28Z"
   },
   {
@@ -232,5 +232,14 @@
     "first_seen": "2026-06-04T07:47:46.783Z",
     "last_updated": "2026-06-04T07:47:46.783Z",
     "published": "2026-06-02T11:13Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260602/",
+    "title": "职场的友谊值千金",
+    "author": "https://blog.solazy.me",
+    "toasts": 7,
+    "first_seen": "2026-06-04T15:08:30.750Z",
+    "last_updated": "2026-06-04T15:08:30.750Z",
+    "published": "2026-06-02T15:00Z"
   }
 ]
