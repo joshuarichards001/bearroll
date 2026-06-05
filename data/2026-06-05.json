@@ -3,9 +3,9 @@
     "url": "https://blog.lauramichet.com/starting-your-game-with-text-on-screen/",
     "title": "Starting your game with text on-screen",
     "author": "https://blog.lauramichet.com",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-06-05T07:39:58.035Z",
-    "last_updated": "2026-06-05T07:39:58.035Z",
+    "last_updated": "2026-06-05T11:12:15.563Z",
     "published": "2026-06-05T03:49Z"
   },
   {
@@ -16,5 +16,14 @@
     "first_seen": "2026-06-05T07:39:58.035Z",
     "last_updated": "2026-06-05T07:39:58.035Z",
     "published": "2026-06-05T02:18Z"
+  },
+  {
+    "url": "https://herman.bearblog.dev/the-giants-cup/",
+    "title": "The Giant's Cup",
+    "author": "https://herman.bearblog.dev",
+    "toasts": 20,
+    "first_seen": "2026-06-05T11:12:15.563Z",
+    "last_updated": "2026-06-05T11:12:15.563Z",
+    "published": "2026-06-05T08:23Z"
   }
 ]
