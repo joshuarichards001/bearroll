@@ -3,9 +3,9 @@
     "url": "https://blog.lauramichet.com/starting-your-game-with-text-on-screen/",
     "title": "Starting your game with text on-screen",
     "author": "https://blog.lauramichet.com",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-06-05T07:39:58.035Z",
-    "last_updated": "2026-06-05T16:54:04.532Z",
+    "last_updated": "2026-06-05T17:39:52.921Z",
     "published": "2026-06-05T03:49Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://herman.bearblog.dev/the-giants-cup/",
     "title": "The Giant's Cup",
     "author": "https://herman.bearblog.dev",
-    "toasts": 41,
+    "toasts": 42,
     "first_seen": "2026-06-05T11:12:15.563Z",
-    "last_updated": "2026-06-05T16:54:04.532Z",
+    "last_updated": "2026-06-05T17:39:52.921Z",
     "published": "2026-06-05T08:23Z"
   },
   {
@@ -61,5 +61,32 @@
     "first_seen": "2026-06-05T16:54:04.532Z",
     "last_updated": "2026-06-05T16:54:04.532Z",
     "published": "2026-06-05T14:43Z"
+  },
+  {
+    "url": "https://robertbirming.com/blogging-dark/",
+    "title": "Blogging in the dark",
+    "author": "https://robertbirming.com",
+    "toasts": 6,
+    "first_seen": "2026-06-05T17:39:52.921Z",
+    "last_updated": "2026-06-05T17:39:52.921Z",
+    "published": "2026-06-05T09:14Z"
+  },
+  {
+    "url": "https://cachola.bearblog.dev/its-not-okay-to-not-hate-ai/",
+    "title": "it's (not) okay to (not) hate AI",
+    "author": "https://cachola.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-05T17:39:52.921Z",
+    "last_updated": "2026-06-05T17:39:52.921Z",
+    "published": "2026-06-05T08:18Z"
+  },
+  {
+    "url": "https://jdtorian.bearblog.dev/why-do-i-keep-doing-this/",
+    "title": "Why Do I Keep Doing This?",
+    "author": "https://jdtorian.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-05T17:39:52.921Z",
+    "last_updated": "2026-06-05T17:39:52.921Z",
+    "published": "2026-06-05T05:00Z"
   }
 ]
