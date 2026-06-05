@@ -21,9 +21,9 @@
     "url": "https://herman.bearblog.dev/the-giants-cup/",
     "title": "The Giant's Cup",
     "author": "https://herman.bearblog.dev",
-    "toasts": 43,
+    "toasts": 46,
     "first_seen": "2026-06-05T11:12:15.563Z",
-    "last_updated": "2026-06-05T18:46:33.353Z",
+    "last_updated": "2026-06-05T19:38:12.672Z",
     "published": "2026-06-05T08:23Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://pego.dev/i-miss-the-climb/",
     "title": "I miss the climb",
     "author": "https://pego.dev",
-    "toasts": 7,
+    "toasts": 14,
     "first_seen": "2026-06-05T13:12:06.034Z",
-    "last_updated": "2026-06-05T18:46:33.353Z",
+    "last_updated": "2026-06-05T19:38:12.672Z",
     "published": "2026-06-05T07:44Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://robertbirming.com/blogging-dark/",
     "title": "Blogging in the dark",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-06-05T17:39:52.921Z",
-    "last_updated": "2026-06-05T18:46:33.353Z",
+    "last_updated": "2026-06-05T19:38:12.672Z",
     "published": "2026-06-05T09:14Z"
   },
   {
@@ -84,9 +84,18 @@
     "url": "https://jdtorian.bearblog.dev/why-do-i-keep-doing-this/",
     "title": "Why Do I Keep Doing This?",
     "author": "https://jdtorian.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-05T17:39:52.921Z",
-    "last_updated": "2026-06-05T17:39:52.921Z",
+    "last_updated": "2026-06-05T19:38:12.672Z",
     "published": "2026-06-05T05:00Z"
+  },
+  {
+    "url": "https://lightlogged.blog/bear-blog-question-challenge/",
+    "title": "Bear Blog Question Challenge",
+    "author": "https://lightlogged.blog",
+    "toasts": 6,
+    "first_seen": "2026-06-05T19:38:12.672Z",
+    "last_updated": "2026-06-05T19:38:12.672Z",
+    "published": "2026-06-05T17:00Z"
   }
 ]
