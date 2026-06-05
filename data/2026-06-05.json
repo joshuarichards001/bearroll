@@ -3,9 +3,9 @@
     "url": "https://blog.lauramichet.com/starting-your-game-with-text-on-screen/",
     "title": "Starting your game with text on-screen",
     "author": "https://blog.lauramichet.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-05T07:39:58.035Z",
-    "last_updated": "2026-06-05T11:12:15.563Z",
+    "last_updated": "2026-06-05T16:54:04.532Z",
     "published": "2026-06-05T03:49Z"
   },
   {
@@ -21,18 +21,18 @@
     "url": "https://herman.bearblog.dev/the-giants-cup/",
     "title": "The Giant's Cup",
     "author": "https://herman.bearblog.dev",
-    "toasts": 35,
+    "toasts": 41,
     "first_seen": "2026-06-05T11:12:15.563Z",
-    "last_updated": "2026-06-05T15:07:32.086Z",
+    "last_updated": "2026-06-05T16:54:04.532Z",
     "published": "2026-06-05T08:23Z"
   },
   {
     "url": "https://elmc.at/a-world-that-answers/",
     "title": "A World That Answers",
     "author": "https://elmc.at",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-05T13:12:06.034Z",
-    "last_updated": "2026-06-05T15:07:32.086Z",
+    "last_updated": "2026-06-05T16:54:04.532Z",
     "published": "2026-06-05T11:12Z"
   },
   {
@@ -48,9 +48,18 @@
     "url": "https://behindthehelm.bearblog.dev/a-brief-observation-on-putting-guns-in-your-fantasy-game/",
     "title": "A Brief Observation on Putting Guns in your Fantasy Game",
     "author": "https://behindthehelm.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-05T15:07:32.086Z",
-    "last_updated": "2026-06-05T15:07:32.086Z",
+    "last_updated": "2026-06-05T16:54:04.532Z",
     "published": "2026-06-05T13:37Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/the-amazing-digital-circus-and-why-i-hate-fandoms/",
+    "title": "The Amazing Digital Circus and Why I Hate Fandoms",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 6,
+    "first_seen": "2026-06-05T16:54:04.532Z",
+    "last_updated": "2026-06-05T16:54:04.532Z",
+    "published": "2026-06-05T14:43Z"
   }
 ]
