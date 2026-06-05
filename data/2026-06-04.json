@@ -39,18 +39,18 @@
     "url": "https://skryblans.com/a-good-domain/",
     "title": "a good domain",
     "author": "https://skryblans.com",
-    "toasts": 46,
+    "toasts": 49,
     "first_seen": "2026-06-04T13:17:21.690Z",
-    "last_updated": "2026-06-05T20:41:13.190Z",
+    "last_updated": "2026-06-05T21:35:07.015Z",
     "published": "2026-06-04T09:51Z"
   },
   {
     "url": "https://myjourneywithdepression.com/my-weird-relationship-with-sex/",
     "title": "My Weird Relationship With Sex",
     "author": "https://myjourneywithdepression.com",
-    "toasts": 33,
+    "toasts": 34,
     "first_seen": "2026-06-04T15:08:30.750Z",
-    "last_updated": "2026-06-05T20:41:13.190Z",
+    "last_updated": "2026-06-05T21:35:07.015Z",
     "published": "2026-06-04T13:28Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://andyhawthorne.uk/the-day-the-sun-went-in/",
     "title": "The Day The Sun Went In",
     "author": "https://andyhawthorne.uk",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-04T21:36:45.738Z",
-    "last_updated": "2026-06-05T09:17:33.136Z",
+    "last_updated": "2026-06-05T21:35:07.015Z",
     "published": "2026-06-04T07:30Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://superlemon.bearblog.dev/the-company-i-work-for-is-losing-all-of-its-humanity-but-i-dont-know-where-else-to-go/",
     "title": "The company I work for is losing all of its humanity but I don't know where else to go",
     "author": "https://superlemon.bearblog.dev",
-    "toasts": 49,
+    "toasts": 61,
     "first_seen": "2026-06-05T05:39:07.391Z",
-    "last_updated": "2026-06-05T20:41:13.190Z",
+    "last_updated": "2026-06-05T21:35:07.015Z",
     "published": "2026-06-04T19:33Z"
   },
   {
@@ -259,5 +259,14 @@
     "first_seen": "2026-06-05T15:07:32.086Z",
     "last_updated": "2026-06-05T15:07:32.086Z",
     "published": "2026-06-04T15:32Z"
+  },
+  {
+    "url": "https://forsomeone.bearblog.dev/i-learned-what-pre-wash-means-on-the-laundry-machine/",
+    "title": "I Learned What Pre-Wash Means on the Laundry Machine",
+    "author": "https://forsomeone.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-06-05T21:35:07.015Z",
+    "last_updated": "2026-06-05T21:35:07.015Z",
+    "published": "2026-06-04T01:25Z"
   }
 ]
