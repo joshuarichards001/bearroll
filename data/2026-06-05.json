@@ -21,9 +21,27 @@
     "url": "https://herman.bearblog.dev/the-giants-cup/",
     "title": "The Giant's Cup",
     "author": "https://herman.bearblog.dev",
-    "toasts": 20,
+    "toasts": 30,
     "first_seen": "2026-06-05T11:12:15.563Z",
-    "last_updated": "2026-06-05T11:12:15.563Z",
+    "last_updated": "2026-06-05T13:12:06.034Z",
     "published": "2026-06-05T08:23Z"
+  },
+  {
+    "url": "https://elmc.at/a-world-that-answers/",
+    "title": "A World That Answers",
+    "author": "https://elmc.at",
+    "toasts": 9,
+    "first_seen": "2026-06-05T13:12:06.034Z",
+    "last_updated": "2026-06-05T13:12:06.034Z",
+    "published": "2026-06-05T11:12Z"
+  },
+  {
+    "url": "https://pego.dev/i-miss-the-climb/",
+    "title": "I miss the climb",
+    "author": "https://pego.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-05T13:12:06.034Z",
+    "last_updated": "2026-06-05T13:12:06.034Z",
+    "published": "2026-06-05T07:44Z"
   }
 ]
