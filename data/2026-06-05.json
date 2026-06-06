@@ -3,9 +3,9 @@
     "url": "https://blog.lauramichet.com/starting-your-game-with-text-on-screen/",
     "title": "Starting your game with text on-screen",
     "author": "https://blog.lauramichet.com",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-06-05T07:39:58.035Z",
-    "last_updated": "2026-06-06T03:14:38.154Z",
+    "last_updated": "2026-06-06T09:00:05.510Z",
     "published": "2026-06-05T03:49Z"
   },
   {
@@ -21,18 +21,18 @@
     "url": "https://herman.bearblog.dev/the-giants-cup/",
     "title": "The Giant's Cup",
     "author": "https://herman.bearblog.dev",
-    "toasts": 67,
+    "toasts": 71,
     "first_seen": "2026-06-05T11:12:15.563Z",
-    "last_updated": "2026-06-06T07:13:10.345Z",
+    "last_updated": "2026-06-06T09:00:05.510Z",
     "published": "2026-06-05T08:23Z"
   },
   {
     "url": "https://elmc.at/a-world-that-answers/",
     "title": "A World That Answers",
     "author": "https://elmc.at",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-06-05T13:12:06.034Z",
-    "last_updated": "2026-06-06T07:13:10.345Z",
+    "last_updated": "2026-06-06T09:00:05.510Z",
     "published": "2026-06-05T11:12Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://behindthehelm.bearblog.dev/a-brief-observation-on-putting-guns-in-your-fantasy-game/",
     "title": "A Brief Observation on Putting Guns in your Fantasy Game",
     "author": "https://behindthehelm.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-05T15:07:32.086Z",
-    "last_updated": "2026-06-06T07:13:10.345Z",
+    "last_updated": "2026-06-06T09:00:05.510Z",
     "published": "2026-06-05T13:37Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://lightlogged.blog/bear-blog-question-challenge/",
     "title": "Bear Blog Question Challenge",
     "author": "https://lightlogged.blog",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-06-05T19:38:12.672Z",
-    "last_updated": "2026-06-06T07:13:10.345Z",
+    "last_updated": "2026-06-06T09:00:05.510Z",
     "published": "2026-06-05T17:00Z"
   },
   {
@@ -151,5 +151,14 @@
     "first_seen": "2026-06-06T03:14:38.154Z",
     "last_updated": "2026-06-06T05:24:09.946Z",
     "published": "2026-06-05T03:59Z"
+  },
+  {
+    "url": "https://shuyulin1127.com/draw-a-cat/",
+    "title": "貓",
+    "author": "https://shuyulin1127.com",
+    "toasts": 6,
+    "first_seen": "2026-06-06T09:00:05.510Z",
+    "last_updated": "2026-06-06T09:00:05.510Z",
+    "published": "2026-06-05T04:00Z"
   }
 ]
