@@ -3,9 +3,9 @@
     "url": "https://blog.lauramichet.com/i-made-a-bee-bath/",
     "title": "I made a bee bath",
     "author": "https://blog.lauramichet.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-06T09:00:05.510Z",
-    "last_updated": "2026-06-06T10:42:51.927Z",
+    "last_updated": "2026-06-06T14:37:11.542Z",
     "published": "2026-06-06T06:44Z"
   },
   {
@@ -25,5 +25,14 @@
     "first_seen": "2026-06-06T13:36:29.134Z",
     "last_updated": "2026-06-06T13:36:29.134Z",
     "published": "2026-06-06T13:18Z"
+  },
+  {
+    "url": "https://lightlogged.blog/from-the-countryside-with-love/",
+    "title": "From the Countryside, With Love",
+    "author": "https://lightlogged.blog",
+    "toasts": 5,
+    "first_seen": "2026-06-06T14:37:11.542Z",
+    "last_updated": "2026-06-06T14:37:11.542Z",
+    "published": "2026-06-06T11:43Z"
   }
 ]
