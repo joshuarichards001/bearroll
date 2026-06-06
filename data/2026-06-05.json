@@ -3,9 +3,9 @@
     "url": "https://blog.lauramichet.com/starting-your-game-with-text-on-screen/",
     "title": "Starting your game with text on-screen",
     "author": "https://blog.lauramichet.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-06-05T07:39:58.035Z",
-    "last_updated": "2026-06-05T17:39:52.921Z",
+    "last_updated": "2026-06-06T03:14:38.154Z",
     "published": "2026-06-05T03:49Z"
   },
   {
@@ -21,27 +21,27 @@
     "url": "https://herman.bearblog.dev/the-giants-cup/",
     "title": "The Giant's Cup",
     "author": "https://herman.bearblog.dev",
-    "toasts": 60,
+    "toasts": 61,
     "first_seen": "2026-06-05T11:12:15.563Z",
-    "last_updated": "2026-06-06T01:01:31.670Z",
+    "last_updated": "2026-06-06T03:14:38.154Z",
     "published": "2026-06-05T08:23Z"
   },
   {
     "url": "https://elmc.at/a-world-that-answers/",
     "title": "A World That Answers",
     "author": "https://elmc.at",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-06-05T13:12:06.034Z",
-    "last_updated": "2026-06-05T22:31:16.141Z",
+    "last_updated": "2026-06-06T03:14:38.154Z",
     "published": "2026-06-05T11:12Z"
   },
   {
     "url": "https://pego.dev/i-miss-the-climb/",
     "title": "I miss the climb",
     "author": "https://pego.dev",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-06-05T13:12:06.034Z",
-    "last_updated": "2026-06-05T20:41:13.190Z",
+    "last_updated": "2026-06-06T03:14:38.154Z",
     "published": "2026-06-05T07:44Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://blog.absurdpirate.com/the-amazing-digital-circus-and-why-i-hate-fandoms/",
     "title": "The Amazing Digital Circus and Why I Hate Fandoms",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-05T16:54:04.532Z",
-    "last_updated": "2026-06-06T01:01:31.670Z",
+    "last_updated": "2026-06-06T03:14:38.154Z",
     "published": "2026-06-05T14:43Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-06-06T01:01:31.670Z",
     "last_updated": "2026-06-06T01:01:31.670Z",
     "published": "2026-06-05T18:57Z"
+  },
+  {
+    "url": "https://combatdavey.net/june-4-2026/",
+    "title": "june 4 nbc",
+    "author": "https://combatdavey.net",
+    "toasts": 6,
+    "first_seen": "2026-06-06T03:14:38.154Z",
+    "last_updated": "2026-06-06T03:14:38.154Z",
+    "published": "2026-06-05T03:59Z"
   }
 ]
