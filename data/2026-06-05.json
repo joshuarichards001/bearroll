@@ -21,9 +21,9 @@
     "url": "https://herman.bearblog.dev/the-giants-cup/",
     "title": "The Giant's Cup",
     "author": "https://herman.bearblog.dev",
-    "toasts": 79,
+    "toasts": 80,
     "first_seen": "2026-06-05T11:12:15.563Z",
-    "last_updated": "2026-06-06T18:34:09.295Z",
+    "last_updated": "2026-06-06T19:34:41.743Z",
     "published": "2026-06-05T08:23Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://jdtorian.bearblog.dev/why-do-i-keep-doing-this/",
     "title": "Why Do I Keep Doing This?",
     "author": "https://jdtorian.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-05T17:39:52.921Z",
-    "last_updated": "2026-06-05T19:38:12.672Z",
+    "last_updated": "2026-06-06T19:34:41.743Z",
     "published": "2026-06-05T05:00Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://blog.curiousquail.com/heard-you-was-cardinal/",
     "title": "heard you was...",
     "author": "https://blog.curiousquail.com",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-06-05T20:41:13.190Z",
-    "last_updated": "2026-06-06T18:34:09.295Z",
+    "last_updated": "2026-06-06T19:34:41.743Z",
     "published": "2026-06-05T17:29Z"
   },
   {
@@ -178,5 +178,14 @@
     "first_seen": "2026-06-06T16:30:24.326Z",
     "last_updated": "2026-06-06T16:30:24.326Z",
     "published": "2026-06-05T18:06Z"
+  },
+  {
+    "url": "https://binarydigit.net/the-red-cardinal/",
+    "title": "The Red Cardinal",
+    "author": "https://binarydigit.net",
+    "toasts": 6,
+    "first_seen": "2026-06-06T19:34:41.743Z",
+    "last_updated": "2026-06-06T19:34:41.743Z",
+    "published": "2026-06-05T16:58Z"
   }
 ]
