@@ -48,9 +48,9 @@
     "url": "https://robertbirming.com/where-blogs-die/",
     "title": "Where do blogs go when they die?",
     "author": "https://robertbirming.com",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-06-07T16:35:59.486Z",
-    "last_updated": "2026-06-07T22:28:12.765Z",
+    "last_updated": "2026-06-07T23:28:25.709Z",
     "published": "2026-06-07T14:48Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
     "title": "Replies to comments on my \"LLMs are eroding my career\" post",
     "author": "https://human-in-the-loop.bearblog.dev",
-    "toasts": 16,
+    "toasts": 22,
     "first_seen": "2026-06-07T20:32:29.638Z",
-    "last_updated": "2026-06-07T22:28:12.765Z",
+    "last_updated": "2026-06-07T23:28:25.709Z",
     "published": "2026-06-07T19:15Z"
   },
   {
@@ -133,5 +133,32 @@
     "first_seen": "2026-06-07T21:31:26.332Z",
     "last_updated": "2026-06-07T21:31:26.332Z",
     "published": "2026-06-07T17:22Z"
+  },
+  {
+    "url": "https://justsnaps.uk/the-art-of-the-snap/",
+    "title": "The Art Of The Snap",
+    "author": "https://justsnaps.uk",
+    "toasts": 5,
+    "first_seen": "2026-06-07T23:28:25.709Z",
+    "last_updated": "2026-06-07T23:28:25.709Z",
+    "published": "2026-06-07T20:22Z"
+  },
+  {
+    "url": "https://rnotte.art/do-we-need-generative-ai/",
+    "title": "do we NEED generative AI?",
+    "author": "https://rnotte.art",
+    "toasts": 5,
+    "first_seen": "2026-06-07T23:28:25.709Z",
+    "last_updated": "2026-06-07T23:28:25.709Z",
+    "published": "2026-06-07T19:55Z"
+  },
+  {
+    "url": "https://blog.nicoleta.cc/recent-little-learnings-for-a-more-balanced-life/",
+    "title": "Recent little learnings for adulthood",
+    "author": "https://blog.nicoleta.cc",
+    "toasts": 5,
+    "first_seen": "2026-06-07T23:28:25.709Z",
+    "last_updated": "2026-06-07T23:28:25.709Z",
+    "published": "2026-06-07T19:29Z"
   }
 ]
