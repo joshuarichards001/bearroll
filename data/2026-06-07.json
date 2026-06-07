@@ -48,18 +48,18 @@
     "url": "https://robertbirming.com/where-blogs-die/",
     "title": "Where do blogs go when they die?",
     "author": "https://robertbirming.com",
-    "toasts": 11,
+    "toasts": 13,
     "first_seen": "2026-06-07T16:35:59.486Z",
-    "last_updated": "2026-06-07T18:34:47.850Z",
+    "last_updated": "2026-06-07T20:32:29.638Z",
     "published": "2026-06-07T14:48Z"
   },
   {
     "url": "https://tiramisu.bearblog.dev/the-season-i-love/",
     "title": "the season i love",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-07T18:34:47.850Z",
-    "last_updated": "2026-06-07T19:34:48.703Z",
+    "last_updated": "2026-06-07T20:32:29.638Z",
     "published": "2026-06-07T00:06Z"
   },
   {
@@ -97,5 +97,32 @@
     "first_seen": "2026-06-07T19:34:48.703Z",
     "last_updated": "2026-06-07T19:34:48.703Z",
     "published": "2026-06-07T13:17Z"
+  },
+  {
+    "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+    "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+    "author": "https://human-in-the-loop.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-07T20:32:29.638Z",
+    "last_updated": "2026-06-07T20:32:29.638Z",
+    "published": "2026-06-07T19:15Z"
+  },
+  {
+    "url": "https://tugbakibar.pro/living-in-day-tight-compartments/",
+    "title": "living in day-tight compartments",
+    "author": "https://tugbakibar.pro",
+    "toasts": 5,
+    "first_seen": "2026-06-07T20:32:29.638Z",
+    "last_updated": "2026-06-07T20:32:29.638Z",
+    "published": "2026-06-07T17:21Z"
+  },
+  {
+    "url": "https://blog.sulimans.space/what-is-this-space/",
+    "title": "what is this space?",
+    "author": "https://blog.sulimans.space",
+    "toasts": 5,
+    "first_seen": "2026-06-07T20:32:29.638Z",
+    "last_updated": "2026-06-07T20:32:29.638Z",
+    "published": "2026-06-07T17:06Z"
   }
 ]
