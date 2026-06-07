@@ -12,9 +12,9 @@
     "url": "https://blog.lauramichet.com/i-felt-like-i-had-to-get-a-switch-2/",
     "title": "I felt like I had to get a Switch 2",
     "author": "https://blog.lauramichet.com",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-06-07T07:32:57.907Z",
-    "last_updated": "2026-06-07T15:34:52.019Z",
+    "last_updated": "2026-06-07T18:34:47.850Z",
     "published": "2026-06-07T06:08Z"
   },
   {
@@ -39,18 +39,36 @@
     "url": "https://melange.bearblog.dev/kan-jag-gora-musik-for-barn/",
     "title": "Kan jag göra musik för barn?",
     "author": "https://melange.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-07T14:40:53.389Z",
-    "last_updated": "2026-06-07T16:35:59.486Z",
+    "last_updated": "2026-06-07T18:34:47.850Z",
     "published": "2026-06-07T13:50Z"
   },
   {
     "url": "https://robertbirming.com/where-blogs-die/",
     "title": "Where do blogs go when they die?",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-06-07T16:35:59.486Z",
-    "last_updated": "2026-06-07T17:33:56.961Z",
+    "last_updated": "2026-06-07T18:34:47.850Z",
     "published": "2026-06-07T14:48Z"
+  },
+  {
+    "url": "https://tiramisu.bearblog.dev/the-season-i-love/",
+    "title": "the season i love",
+    "author": "https://tiramisu.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-07T18:34:47.850Z",
+    "last_updated": "2026-06-07T18:34:47.850Z",
+    "published": "2026-06-07T00:06Z"
+  },
+  {
+    "url": "https://schaudenfrau.de/on-wanting-to-escape/",
+    "title": "On wanting to escape",
+    "author": "https://schaudenfrau.de",
+    "toasts": 5,
+    "first_seen": "2026-06-07T18:34:47.850Z",
+    "last_updated": "2026-06-07T18:34:47.850Z",
+    "published": "2026-06-07T13:57Z"
   }
 ]
