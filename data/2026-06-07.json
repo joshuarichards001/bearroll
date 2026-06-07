@@ -21,18 +21,27 @@
     "url": "https://skryblans.com/10000-and-out/",
     "title": "10,000 and out",
     "author": "https://skryblans.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-06-07T11:37:55.417Z",
-    "last_updated": "2026-06-07T11:37:55.417Z",
+    "last_updated": "2026-06-07T14:40:53.389Z",
     "published": "2026-06-07T09:41Z"
   },
   {
     "url": "https://after.bearblog.dev/forget-personal-curriculums/",
     "title": "Forget personal curriculums",
     "author": "https://after.bearblog.dev",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-06-07T13:38:05.939Z",
-    "last_updated": "2026-06-07T13:38:05.939Z",
+    "last_updated": "2026-06-07T14:40:53.389Z",
     "published": "2026-06-07T06:49Z"
+  },
+  {
+    "url": "https://melange.bearblog.dev/kan-jag-gora-musik-for-barn/",
+    "title": "Kan jag göra musik för barn?",
+    "author": "https://melange.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-07T14:40:53.389Z",
+    "last_updated": "2026-06-07T14:40:53.389Z",
+    "published": "2026-06-07T13:50Z"
   }
 ]
