@@ -3,9 +3,9 @@
     "url": "https://blog.lauramichet.com/i-made-a-bee-bath/",
     "title": "I made a bee bath",
     "author": "https://blog.lauramichet.com",
-    "toasts": 34,
+    "toasts": 35,
     "first_seen": "2026-06-06T09:00:05.510Z",
-    "last_updated": "2026-06-07T09:09:47.575Z",
+    "last_updated": "2026-06-07T11:37:55.417Z",
     "published": "2026-06-06T06:44Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://robertbirming.com/celebrating-blogosphere/",
     "title": "Celebrating the blogosphere",
     "author": "https://robertbirming.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-06T17:31:38.747Z",
-    "last_updated": "2026-06-06T23:27:58.309Z",
+    "last_updated": "2026-06-07T11:37:55.417Z",
     "published": "2026-06-06T15:06Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-06-07T05:38:31.573Z",
     "last_updated": "2026-06-07T05:38:31.573Z",
     "published": "2026-06-06T21:13Z"
+  },
+  {
+    "url": "https://trueself.bearblog.dev/your-self-expression-matters/",
+    "title": "your self expression matters",
+    "author": "https://trueself.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-07T11:37:55.417Z",
+    "last_updated": "2026-06-07T11:37:55.417Z",
+    "published": "2026-06-06T16:09Z"
   }
 ]
