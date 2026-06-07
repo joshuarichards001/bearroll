@@ -30,9 +30,9 @@
     "url": "https://elmc.at/a-world-that-answers/",
     "title": "A World That Answers",
     "author": "https://elmc.at",
-    "toasts": 30,
+    "toasts": 31,
     "first_seen": "2026-06-05T13:12:06.034Z",
-    "last_updated": "2026-06-07T07:32:57.907Z",
+    "last_updated": "2026-06-07T10:50:27.379Z",
     "published": "2026-06-05T11:12Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://cachola.bearblog.dev/its-not-okay-to-not-hate-ai/",
     "title": "it's (not) okay to (not) hate AI",
     "author": "https://cachola.bearblog.dev",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-06-05T17:39:52.921Z",
-    "last_updated": "2026-06-07T07:32:57.907Z",
+    "last_updated": "2026-06-07T10:50:27.379Z",
     "published": "2026-06-05T08:18Z"
   },
   {
@@ -187,5 +187,14 @@
     "first_seen": "2026-06-06T19:34:41.743Z",
     "last_updated": "2026-06-07T07:32:57.907Z",
     "published": "2026-06-05T16:58Z"
+  },
+  {
+    "url": "https://www.zweisechsneun.de/was-ist-veganismus/",
+    "title": "Was ist eigentlich Veganismus?",
+    "author": "https://www.zweisechsneun.de",
+    "toasts": 6,
+    "first_seen": "2026-06-07T10:50:27.379Z",
+    "last_updated": "2026-06-07T10:50:27.379Z",
+    "published": "2026-06-05T21:36Z"
   }
 ]
