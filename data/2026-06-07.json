@@ -57,9 +57,9 @@
     "url": "https://tiramisu.bearblog.dev/the-season-i-love/",
     "title": "the season i love",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-07T18:34:47.850Z",
-    "last_updated": "2026-06-07T20:32:29.638Z",
+    "last_updated": "2026-06-07T21:31:26.332Z",
     "published": "2026-06-07T00:06Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://blog.curiousquail.com/the-weird-way-i-found-out-about-the-insidious-san-francisco-civic-joy-fund/",
     "title": "The Weird Way I Found Out About the Insidious San Francisco 'Civic Joy' Fund",
     "author": "https://blog.curiousquail.com",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-06-07T19:34:48.703Z",
-    "last_updated": "2026-06-07T19:34:48.703Z",
+    "last_updated": "2026-06-07T21:31:26.332Z",
     "published": "2026-06-07T15:54Z"
   },
   {
@@ -124,5 +124,14 @@
     "first_seen": "2026-06-07T20:32:29.638Z",
     "last_updated": "2026-06-07T20:32:29.638Z",
     "published": "2026-06-07T17:06Z"
+  },
+  {
+    "url": "https://fornoone.bearblog.dev/junited-2026/",
+    "title": "Junited 2026",
+    "author": "https://fornoone.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-07T21:31:26.332Z",
+    "last_updated": "2026-06-07T21:31:26.332Z",
+    "published": "2026-06-07T17:22Z"
   }
 ]
