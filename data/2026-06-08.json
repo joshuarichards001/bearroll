@@ -3,9 +3,9 @@
     "url": "https://basic.bearblog.dev/deleting-everything-but-this-blog/",
     "title": "Deleting everything but this blog",
     "author": "https://basic.bearblog.dev",
-    "toasts": 20,
+    "toasts": 22,
     "first_seen": "2026-06-08T05:42:43.774Z",
-    "last_updated": "2026-06-08T13:37:42.784Z",
+    "last_updated": "2026-06-08T15:14:12.686Z",
     "published": "2026-06-08T02:53Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://human-in-the-loop.bearblog.dev/some-reflections-on-anthropics-ai-pause-button/",
     "title": "Some reflections on Anthropic's \"AI pause button\"",
     "author": "https://human-in-the-loop.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-06-08T09:46:53.649Z",
-    "last_updated": "2026-06-08T09:46:53.649Z",
+    "last_updated": "2026-06-08T15:14:12.686Z",
     "published": "2026-06-08T02:19Z"
   },
   {
     "url": "https://nostalgia.bearblog.dev/flakiness/",
     "title": "the cost of flakiness falls on everyone",
     "author": "https://nostalgia.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-08T11:42:30.405Z",
-    "last_updated": "2026-06-08T13:37:42.784Z",
+    "last_updated": "2026-06-08T15:14:12.686Z",
     "published": "2026-06-08T07:39Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-06-08T13:37:42.784Z",
     "last_updated": "2026-06-08T13:37:42.784Z",
     "published": "2026-06-08T03:15Z"
+  },
+  {
+    "url": "https://blog.nicoleta.cc/creative-tech-sagamaking-a-programmable-led-skirt/",
+    "title": "🎀 making a programmable LED skirt 🎄 [creative tech saga]",
+    "author": "https://blog.nicoleta.cc",
+    "toasts": 2,
+    "first_seen": "2026-06-08T15:14:12.686Z",
+    "last_updated": "2026-06-08T15:14:12.686Z",
+    "published": "2026-06-08T11:13Z"
   }
 ]
