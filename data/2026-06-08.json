@@ -102,9 +102,9 @@
     "url": "https://blog.avas.space/email-change/",
     "title": "changed email address!",
     "author": "https://blog.avas.space",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-06-08T18:57:53.812Z",
-    "last_updated": "2026-06-08T18:57:53.812Z",
+    "last_updated": "2026-06-08T19:48:40.137Z",
     "published": "2026-06-08T17:34Z"
   },
   {
@@ -115,5 +115,14 @@
     "first_seen": "2026-06-08T18:57:53.812Z",
     "last_updated": "2026-06-08T18:57:53.812Z",
     "published": "2026-06-08T14:52Z"
+  },
+  {
+    "url": "https://robertbirming.com/bad-blog-posts/",
+    "title": "Bad blog posts",
+    "author": "https://robertbirming.com",
+    "toasts": 5,
+    "first_seen": "2026-06-08T19:48:40.137Z",
+    "last_updated": "2026-06-08T19:48:40.137Z",
+    "published": "2026-06-08T19:20Z"
   }
 ]
