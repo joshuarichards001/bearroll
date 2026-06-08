@@ -48,9 +48,9 @@
     "url": "https://robertbirming.com/where-blogs-die/",
     "title": "Where do blogs go when they die?",
     "author": "https://robertbirming.com",
-    "toasts": 17,
+    "toasts": 20,
     "first_seen": "2026-06-07T16:35:59.486Z",
-    "last_updated": "2026-06-07T23:28:25.709Z",
+    "last_updated": "2026-06-08T01:08:51.081Z",
     "published": "2026-06-07T14:48Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
     "title": "Replies to comments on my \"LLMs are eroding my career\" post",
     "author": "https://human-in-the-loop.bearblog.dev",
-    "toasts": 22,
+    "toasts": 29,
     "first_seen": "2026-06-07T20:32:29.638Z",
-    "last_updated": "2026-06-07T23:28:25.709Z",
+    "last_updated": "2026-06-08T01:08:51.081Z",
     "published": "2026-06-07T19:15Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://rnotte.art/do-we-need-generative-ai/",
     "title": "do we NEED generative AI?",
     "author": "https://rnotte.art",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-06-07T23:28:25.709Z",
-    "last_updated": "2026-06-07T23:28:25.709Z",
+    "last_updated": "2026-06-08T01:08:51.081Z",
     "published": "2026-06-07T19:55Z"
   },
   {
@@ -160,5 +160,14 @@
     "first_seen": "2026-06-07T23:28:25.709Z",
     "last_updated": "2026-06-07T23:28:25.709Z",
     "published": "2026-06-07T19:29Z"
+  },
+  {
+    "url": "https://trueself.bearblog.dev/updated-my-blogs-theme/",
+    "title": "Updated my blog's theme",
+    "author": "https://trueself.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-08T01:08:51.081Z",
+    "last_updated": "2026-06-08T01:08:51.081Z",
+    "published": "2026-06-07T20:00Z"
   }
 ]
