@@ -3,9 +3,9 @@
     "url": "https://basic.bearblog.dev/deleting-everything-but-this-blog/",
     "title": "Deleting everything but this blog",
     "author": "https://basic.bearblog.dev",
-    "toasts": 11,
+    "toasts": 13,
     "first_seen": "2026-06-08T05:42:43.774Z",
-    "last_updated": "2026-06-08T07:55:47.783Z",
+    "last_updated": "2026-06-08T09:46:53.649Z",
     "published": "2026-06-08T02:53Z"
   },
   {
@@ -34,5 +34,23 @@
     "first_seen": "2026-06-08T07:55:47.783Z",
     "last_updated": "2026-06-08T07:55:47.783Z",
     "published": "2026-06-08T01:29Z"
+  },
+  {
+    "url": "https://thewords.uk/people-being-people/",
+    "title": "People Being People",
+    "author": "https://thewords.uk",
+    "toasts": 5,
+    "first_seen": "2026-06-08T09:46:53.649Z",
+    "last_updated": "2026-06-08T09:46:53.649Z",
+    "published": "2026-06-08T06:07Z"
+  },
+  {
+    "url": "https://human-in-the-loop.bearblog.dev/some-reflections-on-anthropics-ai-pause-button/",
+    "title": "Some reflections on Anthropic's \"AI pause button\"",
+    "author": "https://human-in-the-loop.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-08T09:46:53.649Z",
+    "last_updated": "2026-06-08T09:46:53.649Z",
+    "published": "2026-06-08T02:19Z"
   }
 ]
