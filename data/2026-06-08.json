@@ -30,9 +30,9 @@
     "url": "https://mintcitylights.com/2026/06/08/on-travelling-styles/",
     "title": "on travelling styles",
     "author": "https://mintcitylights.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-08T07:55:47.783Z",
-    "last_updated": "2026-06-09T17:01:33.534Z",
+    "last_updated": "2026-06-09T18:52:06.699Z",
     "published": "2026-06-08T01:29Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://blog.avas.space/email-change/",
     "title": "changed email address!",
     "author": "https://blog.avas.space",
-    "toasts": 20,
+    "toasts": 22,
     "first_seen": "2026-06-08T18:57:53.812Z",
-    "last_updated": "2026-06-09T17:01:33.534Z",
+    "last_updated": "2026-06-09T18:52:06.699Z",
     "published": "2026-06-08T17:34Z"
   },
   {
@@ -120,18 +120,18 @@
     "url": "https://robertbirming.com/bad-blog-posts/",
     "title": "Bad blog posts",
     "author": "https://robertbirming.com",
-    "toasts": 54,
+    "toasts": 55,
     "first_seen": "2026-06-08T19:48:40.137Z",
-    "last_updated": "2026-06-09T17:01:33.534Z",
+    "last_updated": "2026-06-09T18:52:06.699Z",
     "published": "2026-06-08T19:20Z"
   },
   {
     "url": "https://imperfect.bearblog.dev/ask-for-clarification/",
     "title": "ask for clarification",
     "author": "https://imperfect.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-08T20:57:58.223Z",
-    "last_updated": "2026-06-09T09:17:17.983Z",
+    "last_updated": "2026-06-09T18:52:06.699Z",
     "published": "2026-06-08T19:30Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://jerichards.me/goodbye-destiny-2/",
     "title": "Goodbye, Destiny 2",
     "author": "https://jerichards.me",
-    "toasts": 27,
+    "toasts": 28,
     "first_seen": "2026-06-08T23:31:21.800Z",
-    "last_updated": "2026-06-09T17:01:33.534Z",
+    "last_updated": "2026-06-09T18:52:06.699Z",
     "published": "2026-06-08T22:33Z"
   },
   {
@@ -268,5 +268,14 @@
     "first_seen": "2026-06-09T11:09:05.305Z",
     "last_updated": "2026-06-09T15:16:56.189Z",
     "published": "2026-06-08T21:37Z"
+  },
+  {
+    "url": "https://trueself.bearblog.dev/junited/",
+    "title": "JUNITED",
+    "author": "https://trueself.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-09T18:52:06.699Z",
+    "last_updated": "2026-06-09T18:52:06.699Z",
+    "published": "2026-06-08T20:06Z"
   }
 ]
