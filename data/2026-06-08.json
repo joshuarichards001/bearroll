@@ -3,9 +3,9 @@
     "url": "https://basic.bearblog.dev/deleting-everything-but-this-blog/",
     "title": "Deleting everything but this blog",
     "author": "https://basic.bearblog.dev",
-    "toasts": 51,
+    "toasts": 53,
     "first_seen": "2026-06-08T05:42:43.774Z",
-    "last_updated": "2026-06-09T22:37:14.848Z",
+    "last_updated": "2026-06-09T23:33:10.148Z",
     "published": "2026-06-08T02:53Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://robertbirming.com/bad-blog-posts/",
     "title": "Bad blog posts",
     "author": "https://robertbirming.com",
-    "toasts": 60,
+    "toasts": 63,
     "first_seen": "2026-06-08T19:48:40.137Z",
-    "last_updated": "2026-06-09T22:37:14.848Z",
+    "last_updated": "2026-06-09T23:33:10.148Z",
     "published": "2026-06-08T19:20Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://jerichards.me/goodbye-destiny-2/",
     "title": "Goodbye, Destiny 2",
     "author": "https://jerichards.me",
-    "toasts": 30,
+    "toasts": 31,
     "first_seen": "2026-06-08T23:31:21.800Z",
-    "last_updated": "2026-06-09T22:37:14.848Z",
+    "last_updated": "2026-06-09T23:33:10.148Z",
     "published": "2026-06-08T22:33Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://lin-living-life.bearblog.dev/adrenaline-addict-former-prostitute-future-nun/",
     "title": "Adrenaline Addict, Former Prostitute, Future Nun",
     "author": "https://lin-living-life.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-09T01:00:43.933Z",
-    "last_updated": "2026-06-09T13:09:33.923Z",
+    "last_updated": "2026-06-09T23:33:10.148Z",
     "published": "2026-06-08T22:08Z"
   },
   {
@@ -277,5 +277,14 @@
     "first_seen": "2026-06-09T18:52:06.699Z",
     "last_updated": "2026-06-09T18:52:06.699Z",
     "published": "2026-06-08T20:06Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/xbox-showcase-2026/",
+    "title": "Xbox Showcase 2026",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-09T23:33:10.148Z",
+    "last_updated": "2026-06-09T23:33:10.148Z",
+    "published": "2026-06-08T07:00Z"
   }
 ]
