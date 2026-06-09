@@ -3,36 +3,36 @@
     "url": "https://alterick.bearblog.dev/anonymous-blog/",
     "title": "I've made an anonymous blog",
     "author": "https://alterick.bearblog.dev",
-    "toasts": 25,
+    "toasts": 27,
     "first_seen": "2026-06-09T01:00:43.933Z",
-    "last_updated": "2026-06-09T11:09:05.305Z",
+    "last_updated": "2026-06-09T13:09:33.923Z",
     "published": "2026-06-09T00:26Z"
   },
   {
     "url": "https://tiramisu.bearblog.dev/so-long-spotify/",
     "title": "so long, spotify",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 7,
+    "toasts": 12,
     "first_seen": "2026-06-09T07:25:02.675Z",
-    "last_updated": "2026-06-09T09:17:17.983Z",
+    "last_updated": "2026-06-09T13:09:33.923Z",
     "published": "2026-06-09T02:52Z"
   },
   {
     "url": "https://basic.bearblog.dev/ai-can-fix-your-leaked-passwords/",
     "title": "AI can fix your leaked passwords",
     "author": "https://basic.bearblog.dev",
-    "toasts": 8,
+    "toasts": 17,
     "first_seen": "2026-06-09T09:17:17.983Z",
-    "last_updated": "2026-06-09T11:09:05.305Z",
+    "last_updated": "2026-06-09T13:09:33.923Z",
     "published": "2026-06-09T07:00Z"
   },
   {
     "url": "https://blog.lauramichet.com/employment-update/",
     "title": "Employment update",
     "author": "https://blog.lauramichet.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-06-09T09:17:17.983Z",
-    "last_updated": "2026-06-09T09:17:17.983Z",
+    "last_updated": "2026-06-09T13:09:33.923Z",
     "published": "2026-06-09T06:10Z"
   },
   {
@@ -43,5 +43,23 @@
     "first_seen": "2026-06-09T11:09:05.305Z",
     "last_updated": "2026-06-09T11:09:05.305Z",
     "published": "2026-06-09T06:51Z"
+  },
+  {
+    "url": "https://mrmarket.bearblog.dev/growing-pains-of-starting-a-secret-society/",
+    "title": "Growing Pains of Starting a Secret Society",
+    "author": "https://mrmarket.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-09T13:09:33.923Z",
+    "last_updated": "2026-06-09T13:09:33.923Z",
+    "published": "2026-06-09T09:19Z"
+  },
+  {
+    "url": "https://urbancronescauldron.com/so-i-had-myself-a-good-cry-tonight/",
+    "title": "So I had myself a good cry tonight",
+    "author": "https://urbancronescauldron.com",
+    "toasts": 5,
+    "first_seen": "2026-06-09T13:09:33.923Z",
+    "last_updated": "2026-06-09T13:09:33.923Z",
+    "published": "2026-06-09T01:54Z"
   }
 ]
