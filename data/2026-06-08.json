@@ -3,9 +3,9 @@
     "url": "https://basic.bearblog.dev/deleting-everything-but-this-blog/",
     "title": "Deleting everything but this blog",
     "author": "https://basic.bearblog.dev",
-    "toasts": 45,
+    "toasts": 46,
     "first_seen": "2026-06-08T05:42:43.774Z",
-    "last_updated": "2026-06-09T09:17:17.983Z",
+    "last_updated": "2026-06-09T11:09:05.305Z",
     "published": "2026-06-08T02:53Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://human-in-the-loop.bearblog.dev/some-reflections-on-anthropics-ai-pause-button/",
     "title": "Some reflections on Anthropic's \"AI pause button\"",
     "author": "https://human-in-the-loop.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-08T09:46:53.649Z",
-    "last_updated": "2026-06-09T09:17:17.983Z",
+    "last_updated": "2026-06-09T11:09:05.305Z",
     "published": "2026-06-08T02:19Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://blog.lauramichet.com/initial-pokopia-thoughts/",
     "title": "Initial Pokopia thoughts",
     "author": "https://blog.lauramichet.com",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-06-08T11:42:30.405Z",
-    "last_updated": "2026-06-09T09:17:17.983Z",
+    "last_updated": "2026-06-09T11:09:05.305Z",
     "published": "2026-06-08T06:22Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://toska.bearblog.dev/letting-yourself-be-cared-for/",
     "title": "Letting yourself be cared for",
     "author": "https://toska.bearblog.dev",
-    "toasts": 13,
+    "toasts": 15,
     "first_seen": "2026-06-08T13:37:42.784Z",
-    "last_updated": "2026-06-09T05:29:35.674Z",
+    "last_updated": "2026-06-09T11:09:05.305Z",
     "published": "2026-06-08T03:15Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://robertbirming.com/bad-blog-posts/",
     "title": "Bad blog posts",
     "author": "https://robertbirming.com",
-    "toasts": 44,
+    "toasts": 45,
     "first_seen": "2026-06-08T19:48:40.137Z",
-    "last_updated": "2026-06-09T09:17:17.983Z",
+    "last_updated": "2026-06-09T11:09:05.305Z",
     "published": "2026-06-08T19:20Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://jerichards.me/goodbye-destiny-2/",
     "title": "Goodbye, Destiny 2",
     "author": "https://jerichards.me",
-    "toasts": 15,
+    "toasts": 19,
     "first_seen": "2026-06-08T23:31:21.800Z",
-    "last_updated": "2026-06-09T09:17:17.983Z",
+    "last_updated": "2026-06-09T11:09:05.305Z",
     "published": "2026-06-08T22:33Z"
   },
   {
@@ -259,5 +259,14 @@
     "first_seen": "2026-06-09T05:29:35.674Z",
     "last_updated": "2026-06-09T05:29:35.674Z",
     "published": "2026-06-08T18:47Z"
+  },
+  {
+    "url": "https://blog.avas.space/the-beach-episode/",
+    "title": "the beach episode",
+    "author": "https://blog.avas.space",
+    "toasts": 5,
+    "first_seen": "2026-06-09T11:09:05.305Z",
+    "last_updated": "2026-06-09T11:09:05.305Z",
+    "published": "2026-06-08T21:37Z"
   }
 ]

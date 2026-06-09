@@ -3,9 +3,9 @@
     "url": "https://alterick.bearblog.dev/anonymous-blog/",
     "title": "I've made an anonymous blog",
     "author": "https://alterick.bearblog.dev",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-06-09T01:00:43.933Z",
-    "last_updated": "2026-06-09T09:17:17.983Z",
+    "last_updated": "2026-06-09T11:09:05.305Z",
     "published": "2026-06-09T00:26Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://basic.bearblog.dev/ai-can-fix-your-leaked-passwords/",
     "title": "AI can fix your leaked passwords",
     "author": "https://basic.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-09T09:17:17.983Z",
-    "last_updated": "2026-06-09T09:17:17.983Z",
+    "last_updated": "2026-06-09T11:09:05.305Z",
     "published": "2026-06-09T07:00Z"
   },
   {
@@ -34,5 +34,14 @@
     "first_seen": "2026-06-09T09:17:17.983Z",
     "last_updated": "2026-06-09T09:17:17.983Z",
     "published": "2026-06-09T06:10Z"
+  },
+  {
+    "url": "https://folkmoss.bearblog.dev/went-too-far-back/",
+    "title": "Went too far back",
+    "author": "https://folkmoss.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-09T11:09:05.305Z",
+    "last_updated": "2026-06-09T11:09:05.305Z",
+    "published": "2026-06-09T06:51Z"
   }
 ]
