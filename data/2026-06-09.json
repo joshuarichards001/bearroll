@@ -3,27 +3,27 @@
     "url": "https://alterick.bearblog.dev/anonymous-blog/",
     "title": "I've made an anonymous blog",
     "author": "https://alterick.bearblog.dev",
-    "toasts": 43,
+    "toasts": 45,
     "first_seen": "2026-06-09T01:00:43.933Z",
-    "last_updated": "2026-06-09T21:38:48.751Z",
+    "last_updated": "2026-06-09T22:37:14.848Z",
     "published": "2026-06-09T00:26Z"
   },
   {
     "url": "https://tiramisu.bearblog.dev/so-long-spotify/",
     "title": "so long, spotify",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 22,
+    "toasts": 25,
     "first_seen": "2026-06-09T07:25:02.675Z",
-    "last_updated": "2026-06-09T20:46:24.039Z",
+    "last_updated": "2026-06-09T22:37:14.848Z",
     "published": "2026-06-09T02:52Z"
   },
   {
     "url": "https://basic.bearblog.dev/ai-can-fix-your-leaked-passwords/",
     "title": "AI can fix your leaked passwords",
     "author": "https://basic.bearblog.dev",
-    "toasts": 21,
+    "toasts": 23,
     "first_seen": "2026-06-09T09:17:17.983Z",
-    "last_updated": "2026-06-09T20:46:24.039Z",
+    "last_updated": "2026-06-09T22:37:14.848Z",
     "published": "2026-06-09T07:00Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://herman.bearblog.dev/active-recall/",
     "title": "Active recall",
     "author": "https://herman.bearblog.dev",
-    "toasts": 48,
+    "toasts": 51,
     "first_seen": "2026-06-09T15:16:56.189Z",
-    "last_updated": "2026-06-09T21:38:48.751Z",
+    "last_updated": "2026-06-09T22:37:14.848Z",
     "published": "2026-06-09T14:50Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://unturnedhovel.bearblog.dev/stranger-danger/",
     "title": "12 Random Reasons to Never Listen to a Stranger",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-09T17:01:33.534Z",
-    "last_updated": "2026-06-09T19:45:19.542Z",
+    "last_updated": "2026-06-09T22:37:14.848Z",
     "published": "2026-06-09T15:43Z"
   },
   {
@@ -102,9 +102,18 @@
     "url": "https://readflag.bearblog.dev/so-i-found-out-i-was-clickbait-content/",
     "title": "So, I Found Out I Was Clickbait Content",
     "author": "https://readflag.bearblog.dev",
-    "toasts": 7,
+    "toasts": 11,
     "first_seen": "2026-06-09T19:45:19.542Z",
-    "last_updated": "2026-06-09T21:38:48.751Z",
+    "last_updated": "2026-06-09T22:37:14.848Z",
     "published": "2026-06-09T17:06Z"
+  },
+  {
+    "url": "https://blog.fiddery.com/technically-junited/",
+    "title": "technically junited",
+    "author": "https://blog.fiddery.com",
+    "toasts": 4,
+    "first_seen": "2026-06-09T22:37:14.848Z",
+    "last_updated": "2026-06-09T22:37:14.848Z",
+    "published": "2026-06-09T19:08Z"
   }
 ]
