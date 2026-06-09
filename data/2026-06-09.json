@@ -3,45 +3,45 @@
     "url": "https://alterick.bearblog.dev/anonymous-blog/",
     "title": "I've made an anonymous blog",
     "author": "https://alterick.bearblog.dev",
-    "toasts": 27,
+    "toasts": 33,
     "first_seen": "2026-06-09T01:00:43.933Z",
-    "last_updated": "2026-06-09T13:09:33.923Z",
+    "last_updated": "2026-06-09T15:16:56.189Z",
     "published": "2026-06-09T00:26Z"
   },
   {
     "url": "https://tiramisu.bearblog.dev/so-long-spotify/",
     "title": "so long, spotify",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-06-09T07:25:02.675Z",
-    "last_updated": "2026-06-09T13:09:33.923Z",
+    "last_updated": "2026-06-09T15:16:56.189Z",
     "published": "2026-06-09T02:52Z"
   },
   {
     "url": "https://basic.bearblog.dev/ai-can-fix-your-leaked-passwords/",
     "title": "AI can fix your leaked passwords",
     "author": "https://basic.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-06-09T09:17:17.983Z",
-    "last_updated": "2026-06-09T13:09:33.923Z",
+    "last_updated": "2026-06-09T15:16:56.189Z",
     "published": "2026-06-09T07:00Z"
   },
   {
     "url": "https://blog.lauramichet.com/employment-update/",
     "title": "Employment update",
     "author": "https://blog.lauramichet.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-09T09:17:17.983Z",
-    "last_updated": "2026-06-09T13:09:33.923Z",
+    "last_updated": "2026-06-09T15:16:56.189Z",
     "published": "2026-06-09T06:10Z"
   },
   {
     "url": "https://folkmoss.bearblog.dev/went-too-far-back/",
     "title": "Went too far back",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-06-09T11:09:05.305Z",
-    "last_updated": "2026-06-09T11:09:05.305Z",
+    "last_updated": "2026-06-09T15:16:56.189Z",
     "published": "2026-06-09T06:51Z"
   },
   {
@@ -57,9 +57,27 @@
     "url": "https://urbancronescauldron.com/so-i-had-myself-a-good-cry-tonight/",
     "title": "So I had myself a good cry tonight",
     "author": "https://urbancronescauldron.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-06-09T13:09:33.923Z",
-    "last_updated": "2026-06-09T13:09:33.923Z",
+    "last_updated": "2026-06-09T15:16:56.189Z",
     "published": "2026-06-09T01:54Z"
+  },
+  {
+    "url": "https://herman.bearblog.dev/active-recall/",
+    "title": "Active recall",
+    "author": "https://herman.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-06-09T15:16:56.189Z",
+    "last_updated": "2026-06-09T15:16:56.189Z",
+    "published": "2026-06-09T14:50Z"
+  },
+  {
+    "url": "https://jamesbaker.uk/bear-blog-2026-fifa-world-cup-fantasy-league/",
+    "title": "⚽️ Bear Blog 2026 FIFA World Cup Fantasy League",
+    "author": "https://jamesbaker.uk",
+    "toasts": 5,
+    "first_seen": "2026-06-09T15:16:56.189Z",
+    "last_updated": "2026-06-09T15:16:56.189Z",
+    "published": "2026-06-09T13:02Z"
   }
 ]
