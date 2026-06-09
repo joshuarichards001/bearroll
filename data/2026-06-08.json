@@ -3,9 +3,9 @@
     "url": "https://basic.bearblog.dev/deleting-everything-but-this-blog/",
     "title": "Deleting everything but this blog",
     "author": "https://basic.bearblog.dev",
-    "toasts": 41,
+    "toasts": 42,
     "first_seen": "2026-06-08T05:42:43.774Z",
-    "last_updated": "2026-06-09T01:00:43.933Z",
+    "last_updated": "2026-06-09T05:29:35.674Z",
     "published": "2026-06-08T02:53Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://human-in-the-loop.bearblog.dev/some-reflections-on-anthropics-ai-pause-button/",
     "title": "Some reflections on Anthropic's \"AI pause button\"",
     "author": "https://human-in-the-loop.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-08T09:46:53.649Z",
-    "last_updated": "2026-06-09T01:00:43.933Z",
+    "last_updated": "2026-06-09T05:29:35.674Z",
     "published": "2026-06-08T02:19Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://toska.bearblog.dev/letting-yourself-be-cared-for/",
     "title": "Letting yourself be cared for",
     "author": "https://toska.bearblog.dev",
-    "toasts": 11,
+    "toasts": 13,
     "first_seen": "2026-06-08T13:37:42.784Z",
-    "last_updated": "2026-06-09T01:00:43.933Z",
+    "last_updated": "2026-06-09T05:29:35.674Z",
     "published": "2026-06-08T03:15Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://blog.avas.space/email-change/",
     "title": "changed email address!",
     "author": "https://blog.avas.space",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-06-08T18:57:53.812Z",
-    "last_updated": "2026-06-09T01:00:43.933Z",
+    "last_updated": "2026-06-09T05:29:35.674Z",
     "published": "2026-06-08T17:34Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://robertbirming.com/bad-blog-posts/",
     "title": "Bad blog posts",
     "author": "https://robertbirming.com",
-    "toasts": 28,
+    "toasts": 35,
     "first_seen": "2026-06-08T19:48:40.137Z",
-    "last_updated": "2026-06-09T03:16:25.476Z",
+    "last_updated": "2026-06-09T05:29:35.674Z",
     "published": "2026-06-08T19:20Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://basic.bearblog.dev/wake-up-call/",
     "title": "Wake Up Call",
     "author": "https://basic.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-08T20:57:58.223Z",
-    "last_updated": "2026-06-09T03:16:25.476Z",
+    "last_updated": "2026-06-09T05:29:35.674Z",
     "published": "2026-06-08T18:46Z"
   },
   {
@@ -165,18 +165,18 @@
     "url": "https://thewords.uk/hopeful-blogging/",
     "title": "Hopeful Blogging",
     "author": "https://thewords.uk",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-08T21:39:35.295Z",
-    "last_updated": "2026-06-09T01:00:43.933Z",
+    "last_updated": "2026-06-09T05:29:35.674Z",
     "published": "2026-06-08T19:11Z"
   },
   {
     "url": "https://jerichards.me/goodbye-destiny-2/",
     "title": "Goodbye, Destiny 2",
     "author": "https://jerichards.me",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-08T23:31:21.800Z",
-    "last_updated": "2026-06-09T01:00:43.933Z",
+    "last_updated": "2026-06-09T05:29:35.674Z",
     "published": "2026-06-08T22:33Z"
   },
   {
@@ -232,5 +232,32 @@
     "first_seen": "2026-06-09T03:16:25.476Z",
     "last_updated": "2026-06-09T03:16:25.476Z",
     "published": "2026-06-08T09:00Z"
+  },
+  {
+    "url": "https://thevoidshoutsback.bearblog.dev/first-posts-and-new-blogs-log-20260608/",
+    "title": "First posts and new blogs log 20260608",
+    "author": "https://thevoidshoutsback.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-09T05:29:35.674Z",
+    "last_updated": "2026-06-09T05:29:35.674Z",
+    "published": "2026-06-08T22:59Z"
+  },
+  {
+    "url": "https://anondev.bearblog.dev/re-where-do-blogs-go-when-they-die/",
+    "title": "Re: Where do blogs go when they die?",
+    "author": "https://anondev.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-09T05:29:35.674Z",
+    "last_updated": "2026-06-09T05:29:35.674Z",
+    "published": "2026-06-08T21:44Z"
+  },
+  {
+    "url": "https://awanaltrove.bearblog.dev/a-small-inventory/",
+    "title": "A Small Inventory",
+    "author": "https://awanaltrove.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-09T05:29:35.674Z",
+    "last_updated": "2026-06-09T05:29:35.674Z",
+    "published": "2026-06-08T18:47Z"
   }
 ]
