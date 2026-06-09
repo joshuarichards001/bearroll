@@ -3,36 +3,36 @@
     "url": "https://alterick.bearblog.dev/anonymous-blog/",
     "title": "I've made an anonymous blog",
     "author": "https://alterick.bearblog.dev",
-    "toasts": 33,
+    "toasts": 37,
     "first_seen": "2026-06-09T01:00:43.933Z",
-    "last_updated": "2026-06-09T15:16:56.189Z",
+    "last_updated": "2026-06-09T17:01:33.534Z",
     "published": "2026-06-09T00:26Z"
   },
   {
     "url": "https://tiramisu.bearblog.dev/so-long-spotify/",
     "title": "so long, spotify",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 14,
+    "toasts": 18,
     "first_seen": "2026-06-09T07:25:02.675Z",
-    "last_updated": "2026-06-09T15:16:56.189Z",
+    "last_updated": "2026-06-09T17:01:33.534Z",
     "published": "2026-06-09T02:52Z"
   },
   {
     "url": "https://basic.bearblog.dev/ai-can-fix-your-leaked-passwords/",
     "title": "AI can fix your leaked passwords",
     "author": "https://basic.bearblog.dev",
-    "toasts": 18,
+    "toasts": 20,
     "first_seen": "2026-06-09T09:17:17.983Z",
-    "last_updated": "2026-06-09T15:16:56.189Z",
+    "last_updated": "2026-06-09T17:01:33.534Z",
     "published": "2026-06-09T07:00Z"
   },
   {
     "url": "https://blog.lauramichet.com/employment-update/",
     "title": "Employment update",
     "author": "https://blog.lauramichet.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-09T09:17:17.983Z",
-    "last_updated": "2026-06-09T15:16:56.189Z",
+    "last_updated": "2026-06-09T17:01:33.534Z",
     "published": "2026-06-09T06:10Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://mrmarket.bearblog.dev/growing-pains-of-starting-a-secret-society/",
     "title": "Growing Pains of Starting a Secret Society",
     "author": "https://mrmarket.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-06-09T13:09:33.923Z",
-    "last_updated": "2026-06-09T13:09:33.923Z",
+    "last_updated": "2026-06-09T17:01:33.534Z",
     "published": "2026-06-09T09:19Z"
   },
   {
@@ -66,18 +66,36 @@
     "url": "https://herman.bearblog.dev/active-recall/",
     "title": "Active recall",
     "author": "https://herman.bearblog.dev",
-    "toasts": 9,
+    "toasts": 19,
     "first_seen": "2026-06-09T15:16:56.189Z",
-    "last_updated": "2026-06-09T15:16:56.189Z",
+    "last_updated": "2026-06-09T17:01:33.534Z",
     "published": "2026-06-09T14:50Z"
   },
   {
     "url": "https://jamesbaker.uk/bear-blog-2026-fifa-world-cup-fantasy-league/",
     "title": "⚽️ Bear Blog 2026 FIFA World Cup Fantasy League",
     "author": "https://jamesbaker.uk",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-06-09T15:16:56.189Z",
-    "last_updated": "2026-06-09T15:16:56.189Z",
+    "last_updated": "2026-06-09T17:01:33.534Z",
     "published": "2026-06-09T13:02Z"
+  },
+  {
+    "url": "https://unturnedhovel.bearblog.dev/stranger-danger/",
+    "title": "12 Random Reasons to Never Listen to a Stranger",
+    "author": "https://unturnedhovel.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-09T17:01:33.534Z",
+    "last_updated": "2026-06-09T17:01:33.534Z",
+    "published": "2026-06-09T15:43Z"
+  },
+  {
+    "url": "https://untangled.bearblog.dev/physical-books-ebooks/",
+    "title": "Physical vs. eBooks",
+    "author": "https://untangled.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-09T17:01:33.534Z",
+    "last_updated": "2026-06-09T17:01:33.534Z",
+    "published": "2026-06-09T13:00Z"
   }
 ]
