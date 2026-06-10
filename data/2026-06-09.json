@@ -12,9 +12,9 @@
     "url": "https://tiramisu.bearblog.dev/so-long-spotify/",
     "title": "so long, spotify",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 55,
+    "toasts": 56,
     "first_seen": "2026-06-09T07:25:02.675Z",
-    "last_updated": "2026-06-10T17:12:57.698Z",
+    "last_updated": "2026-06-10T19:01:34.047Z",
     "published": "2026-06-09T02:52Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://herman.bearblog.dev/active-recall/",
     "title": "Active recall",
     "author": "https://herman.bearblog.dev",
-    "toasts": 105,
+    "toasts": 109,
     "first_seen": "2026-06-09T15:16:56.189Z",
-    "last_updated": "2026-06-10T17:12:57.698Z",
+    "last_updated": "2026-06-10T19:01:34.047Z",
     "published": "2026-06-09T14:50Z"
   },
   {
@@ -84,27 +84,27 @@
     "url": "https://unturnedhovel.bearblog.dev/stranger-danger/",
     "title": "12 Random Reasons to Never Listen to a Stranger",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 19,
+    "toasts": 20,
     "first_seen": "2026-06-09T17:01:33.534Z",
-    "last_updated": "2026-06-10T15:12:20.116Z",
+    "last_updated": "2026-06-10T19:01:34.047Z",
     "published": "2026-06-09T15:43Z"
   },
   {
     "url": "https://untangled.bearblog.dev/physical-books-ebooks/",
     "title": "Physical vs. eBooks",
     "author": "https://untangled.bearblog.dev",
-    "toasts": 33,
+    "toasts": 36,
     "first_seen": "2026-06-09T17:01:33.534Z",
-    "last_updated": "2026-06-10T17:12:57.698Z",
+    "last_updated": "2026-06-10T19:01:34.047Z",
     "published": "2026-06-09T13:00Z"
   },
   {
     "url": "https://readflag.bearblog.dev/so-i-found-out-i-was-clickbait-content/",
     "title": "So, I found out I was clickbait content",
     "author": "https://readflag.bearblog.dev",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-06-09T19:45:19.542Z",
-    "last_updated": "2026-06-10T17:12:57.698Z",
+    "last_updated": "2026-06-10T19:01:34.047Z",
     "published": "2026-06-09T17:06Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://gary.onl/i-finally-finished-the-internet/",
     "title": "I finally finished the internet",
     "author": "https://gary.onl",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-06-10T01:07:23.236Z",
-    "last_updated": "2026-06-10T17:12:57.698Z",
+    "last_updated": "2026-06-10T19:01:34.047Z",
     "published": "2026-06-09T22:12Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://blog.lauramichet.com/nurturing-games/",
     "title": "Nurturing games",
     "author": "https://blog.lauramichet.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-10T05:39:09.379Z",
-    "last_updated": "2026-06-10T13:21:44.478Z",
+    "last_updated": "2026-06-10T19:01:34.047Z",
     "published": "2026-06-09T21:02Z"
   },
   {
@@ -169,5 +169,14 @@
     "first_seen": "2026-06-10T05:39:09.379Z",
     "last_updated": "2026-06-10T13:21:44.478Z",
     "published": "2026-06-09T22:40Z"
+  },
+  {
+    "url": "https://combatdavey.net/june-8-2026/",
+    "title": "june 8 boo",
+    "author": "https://combatdavey.net",
+    "toasts": 9,
+    "first_seen": "2026-06-10T19:01:34.047Z",
+    "last_updated": "2026-06-10T19:01:34.047Z",
+    "published": "2026-06-09T03:59Z"
   }
 ]
