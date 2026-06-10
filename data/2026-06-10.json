@@ -12,9 +12,18 @@
     "url": "https://marcies.cloud/give-your-computer-a-fresh-start/",
     "title": "give your computer a fresh start",
     "author": "https://marcies.cloud",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-06-10T07:39:51.061Z",
-    "last_updated": "2026-06-10T07:39:51.061Z",
+    "last_updated": "2026-06-10T11:21:05.917Z",
     "published": "2026-06-10T04:00Z"
+  },
+  {
+    "url": "https://ignacyr.bearblog.dev/becoming-dependent-in-the-world-of-ai-and-why-do-we-need-a-don-quixote-to-save-us/",
+    "title": "Becoming Dependent in the World of AI and Why do We Need a Don Quixote To Save Us.",
+    "author": "https://ignacyr.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-10T11:21:05.917Z",
+    "last_updated": "2026-06-10T11:21:05.917Z",
+    "published": "2026-06-10T09:25Z"
   }
 ]
