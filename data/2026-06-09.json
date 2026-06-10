@@ -3,18 +3,18 @@
     "url": "https://alterick.bearblog.dev/anonymous-blog/",
     "title": "I've made an anonymous blog",
     "author": "https://alterick.bearblog.dev",
-    "toasts": 48,
+    "toasts": 49,
     "first_seen": "2026-06-09T01:00:43.933Z",
-    "last_updated": "2026-06-10T01:07:23.236Z",
+    "last_updated": "2026-06-10T05:39:09.379Z",
     "published": "2026-06-09T00:26Z"
   },
   {
     "url": "https://tiramisu.bearblog.dev/so-long-spotify/",
     "title": "so long, spotify",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 33,
+    "toasts": 34,
     "first_seen": "2026-06-09T07:25:02.675Z",
-    "last_updated": "2026-06-10T03:16:22.163Z",
+    "last_updated": "2026-06-10T05:39:09.379Z",
     "published": "2026-06-09T02:52Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://herman.bearblog.dev/active-recall/",
     "title": "Active recall",
     "author": "https://herman.bearblog.dev",
-    "toasts": 66,
+    "toasts": 71,
     "first_seen": "2026-06-09T15:16:56.189Z",
-    "last_updated": "2026-06-10T03:16:22.163Z",
+    "last_updated": "2026-06-10T05:39:09.379Z",
     "published": "2026-06-09T14:50Z"
   },
   {
@@ -84,27 +84,27 @@
     "url": "https://unturnedhovel.bearblog.dev/stranger-danger/",
     "title": "12 Random Reasons to Never Listen to a Stranger",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-06-09T17:01:33.534Z",
-    "last_updated": "2026-06-10T03:16:22.163Z",
+    "last_updated": "2026-06-10T05:39:09.379Z",
     "published": "2026-06-09T15:43Z"
   },
   {
     "url": "https://untangled.bearblog.dev/physical-books-ebooks/",
     "title": "Physical vs. eBooks",
     "author": "https://untangled.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-06-09T17:01:33.534Z",
-    "last_updated": "2026-06-10T01:07:23.236Z",
+    "last_updated": "2026-06-10T05:39:09.379Z",
     "published": "2026-06-09T13:00Z"
   },
   {
     "url": "https://readflag.bearblog.dev/so-i-found-out-i-was-clickbait-content/",
     "title": "So, I Found Out I Was Clickbait Content",
     "author": "https://readflag.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-06-09T19:45:19.542Z",
-    "last_updated": "2026-06-10T03:16:22.163Z",
+    "last_updated": "2026-06-10T05:39:09.379Z",
     "published": "2026-06-09T17:06Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://gary.onl/i-finally-finished-the-internet/",
     "title": "I finally finished the internet",
     "author": "https://gary.onl",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-10T01:07:23.236Z",
-    "last_updated": "2026-06-10T03:16:22.163Z",
+    "last_updated": "2026-06-10T05:39:09.379Z",
     "published": "2026-06-09T22:12Z"
   },
   {
@@ -138,18 +138,36 @@
     "url": "https://bowlofmisua.bearblog.dev/my-little-star/",
     "title": "⭐ my little star",
     "author": "https://bowlofmisua.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-10T03:16:22.163Z",
-    "last_updated": "2026-06-10T03:16:22.163Z",
+    "last_updated": "2026-06-10T05:39:09.379Z",
     "published": "2026-06-09T18:01Z"
   },
   {
     "url": "https://donthave2sting.bearblog.dev/ive-decided-to-stop-using-bluetooth/",
     "title": "i've decided to stop using bluetooth",
     "author": "https://donthave2sting.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-06-10T03:16:22.163Z",
-    "last_updated": "2026-06-10T03:16:22.163Z",
+    "last_updated": "2026-06-10T05:39:09.379Z",
     "published": "2026-06-09T20:59Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/nurturing-games/",
+    "title": "Nurturing games",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 7,
+    "first_seen": "2026-06-10T05:39:09.379Z",
+    "last_updated": "2026-06-10T05:39:09.379Z",
+    "published": "2026-06-09T21:02Z"
+  },
+  {
+    "url": "https://carlosacollazo.com/blog-design-v-21/",
+    "title": "Blog Design V 2.1",
+    "author": "https://carlosacollazo.com",
+    "toasts": 5,
+    "first_seen": "2026-06-10T05:39:09.379Z",
+    "last_updated": "2026-06-10T05:39:09.379Z",
+    "published": "2026-06-09T22:40Z"
   }
 ]
