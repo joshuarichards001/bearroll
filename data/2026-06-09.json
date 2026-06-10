@@ -3,18 +3,18 @@
     "url": "https://alterick.bearblog.dev/anonymous-blog/",
     "title": "I've made an anonymous blog",
     "author": "https://alterick.bearblog.dev",
-    "toasts": 46,
+    "toasts": 48,
     "first_seen": "2026-06-09T01:00:43.933Z",
-    "last_updated": "2026-06-09T23:33:10.148Z",
+    "last_updated": "2026-06-10T01:07:23.236Z",
     "published": "2026-06-09T00:26Z"
   },
   {
     "url": "https://tiramisu.bearblog.dev/so-long-spotify/",
     "title": "so long, spotify",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 27,
+    "toasts": 30,
     "first_seen": "2026-06-09T07:25:02.675Z",
-    "last_updated": "2026-06-09T23:33:10.148Z",
+    "last_updated": "2026-06-10T01:07:23.236Z",
     "published": "2026-06-09T02:52Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://folkmoss.bearblog.dev/went-too-far-back/",
     "title": "Went too far back",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-09T11:09:05.305Z",
-    "last_updated": "2026-06-09T20:46:24.039Z",
+    "last_updated": "2026-06-10T01:07:23.236Z",
     "published": "2026-06-09T06:51Z"
   },
   {
     "url": "https://mrmarket.bearblog.dev/growing-pains-of-starting-a-secret-society/",
     "title": "Growing Pains of Starting a Secret Society",
     "author": "https://mrmarket.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-09T13:09:33.923Z",
-    "last_updated": "2026-06-09T17:01:33.534Z",
+    "last_updated": "2026-06-10T01:07:23.236Z",
     "published": "2026-06-09T09:19Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://herman.bearblog.dev/active-recall/",
     "title": "Active recall",
     "author": "https://herman.bearblog.dev",
-    "toasts": 53,
+    "toasts": 60,
     "first_seen": "2026-06-09T15:16:56.189Z",
-    "last_updated": "2026-06-09T23:33:10.148Z",
+    "last_updated": "2026-06-10T01:07:23.236Z",
     "published": "2026-06-09T14:50Z"
   },
   {
@@ -84,27 +84,27 @@
     "url": "https://unturnedhovel.bearblog.dev/stranger-danger/",
     "title": "12 Random Reasons to Never Listen to a Stranger",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-09T17:01:33.534Z",
-    "last_updated": "2026-06-09T22:37:14.848Z",
+    "last_updated": "2026-06-10T01:07:23.236Z",
     "published": "2026-06-09T15:43Z"
   },
   {
     "url": "https://untangled.bearblog.dev/physical-books-ebooks/",
     "title": "Physical vs. eBooks",
     "author": "https://untangled.bearblog.dev",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-06-09T17:01:33.534Z",
-    "last_updated": "2026-06-09T21:38:48.751Z",
+    "last_updated": "2026-06-10T01:07:23.236Z",
     "published": "2026-06-09T13:00Z"
   },
   {
     "url": "https://readflag.bearblog.dev/so-i-found-out-i-was-clickbait-content/",
     "title": "So, I Found Out I Was Clickbait Content",
     "author": "https://readflag.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-06-09T19:45:19.542Z",
-    "last_updated": "2026-06-09T23:33:10.148Z",
+    "last_updated": "2026-06-10T01:07:23.236Z",
     "published": "2026-06-09T17:06Z"
   },
   {
@@ -115,5 +115,14 @@
     "first_seen": "2026-06-09T22:37:14.848Z",
     "last_updated": "2026-06-09T22:37:14.848Z",
     "published": "2026-06-09T19:08Z"
+  },
+  {
+    "url": "https://gary.onl/i-finally-finished-the-internet/",
+    "title": "I finally finished the internet",
+    "author": "https://gary.onl",
+    "toasts": 5,
+    "first_seen": "2026-06-10T01:07:23.236Z",
+    "last_updated": "2026-06-10T01:07:23.236Z",
+    "published": "2026-06-09T22:12Z"
   }
 ]
