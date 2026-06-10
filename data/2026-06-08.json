@@ -3,9 +3,9 @@
     "url": "https://basic.bearblog.dev/deleting-everything-but-this-blog/",
     "title": "Deleting everything but this blog",
     "author": "https://basic.bearblog.dev",
-    "toasts": 54,
+    "toasts": 55,
     "first_seen": "2026-06-08T05:42:43.774Z",
-    "last_updated": "2026-06-10T05:39:09.379Z",
+    "last_updated": "2026-06-10T09:23:15.693Z",
     "published": "2026-06-08T02:53Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://blog.lauramichet.com/initial-pokopia-thoughts/",
     "title": "Initial Pokopia thoughts",
     "author": "https://blog.lauramichet.com",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-06-08T11:42:30.405Z",
-    "last_updated": "2026-06-10T01:07:23.236Z",
+    "last_updated": "2026-06-10T09:23:15.693Z",
     "published": "2026-06-08T06:22Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://robertbirming.com/bad-blog-posts/",
     "title": "Bad blog posts",
     "author": "https://robertbirming.com",
-    "toasts": 67,
+    "toasts": 68,
     "first_seen": "2026-06-08T19:48:40.137Z",
-    "last_updated": "2026-06-10T07:39:51.061Z",
+    "last_updated": "2026-06-10T09:23:15.693Z",
     "published": "2026-06-08T19:20Z"
   },
   {
@@ -183,9 +183,9 @@
     "url": "https://journal.james-zhan.com/canto-dad/",
     "title": "The Worst Way to Teach Your Child to Care About Their Culture",
     "author": "https://journal.james-zhan.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-09T01:00:43.933Z",
-    "last_updated": "2026-06-09T17:01:33.534Z",
+    "last_updated": "2026-06-10T09:23:15.693Z",
     "published": "2026-06-08T13:17Z"
   },
   {
@@ -228,9 +228,9 @@
     "url": "https://notebookery.bearblog.dev/notebook-tipps-1/",
     "title": "5 Unusual Notebook Tipps",
     "author": "https://notebookery.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-09T03:16:25.476Z",
-    "last_updated": "2026-06-09T17:01:33.534Z",
+    "last_updated": "2026-06-10T09:23:15.693Z",
     "published": "2026-06-08T09:00Z"
   },
   {
@@ -286,5 +286,14 @@
     "first_seen": "2026-06-09T23:33:10.148Z",
     "last_updated": "2026-06-09T23:33:10.148Z",
     "published": "2026-06-08T07:00Z"
+  },
+  {
+    "url": "https://after.bearblog.dev/do-i-want-to-move/",
+    "title": "Do I want to move?",
+    "author": "https://after.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-10T09:23:15.693Z",
+    "last_updated": "2026-06-10T09:23:15.693Z",
+    "published": "2026-06-08T20:11Z"
   }
 ]
