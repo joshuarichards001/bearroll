@@ -30,9 +30,9 @@
     "url": "https://blog.avas.space/llm-circus/",
     "title": "our workplace LLM mass delusion",
     "author": "https://blog.avas.space",
-    "toasts": 32,
+    "toasts": 35,
     "first_seen": "2026-06-10T13:21:44.478Z",
-    "last_updated": "2026-06-11T03:15:12.110Z",
+    "last_updated": "2026-06-11T05:42:13.158Z",
     "published": "2026-06-10T11:22Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://combatdavey.net/june-9-2026/",
     "title": "june 9 dcm",
     "author": "https://combatdavey.net",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-06-10T15:12:20.116Z",
-    "last_updated": "2026-06-11T01:07:20.794Z",
+    "last_updated": "2026-06-11T05:42:13.158Z",
     "published": "2026-06-10T03:59Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://l3on.site/article/been-a-while-ii/",
     "title": "好久不见 Ⅱ",
     "author": "https://l3on.site",
-    "toasts": 10,
+    "toasts": 13,
     "first_seen": "2026-06-10T17:12:57.698Z",
-    "last_updated": "2026-06-11T03:15:12.110Z",
+    "last_updated": "2026-06-11T05:42:13.158Z",
     "published": "2026-06-10T15:48Z"
   },
   {
@@ -102,9 +102,36 @@
     "url": "https://blog.welcomehome.city/b/three-lines/",
     "title": "The three lines of CSS that saved me 40kb and might do the same for you",
     "author": "https://blog.welcomehome.city",
-    "toasts": 18,
+    "toasts": 21,
     "first_seen": "2026-06-11T03:15:12.110Z",
-    "last_updated": "2026-06-11T03:15:12.110Z",
+    "last_updated": "2026-06-11T05:42:13.158Z",
     "published": "2026-06-10T21:11Z"
+  },
+  {
+    "url": "https://choir-of-fire.bearblog.dev/dont-give-up-skeleton/",
+    "title": "don't give up, skeleton!",
+    "author": "https://choir-of-fire.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-11T05:42:13.158Z",
+    "last_updated": "2026-06-11T05:42:13.158Z",
+    "published": "2026-06-10T13:46Z"
+  },
+  {
+    "url": "https://rnotte.art/introducing-my-photo-gallery-page/",
+    "title": "introducing: my photo gallery page!",
+    "author": "https://rnotte.art",
+    "toasts": 6,
+    "first_seen": "2026-06-11T05:42:13.158Z",
+    "last_updated": "2026-06-11T05:42:13.158Z",
+    "published": "2026-06-10T23:56Z"
+  },
+  {
+    "url": "https://what.bearblog.dev/rest-in-peace-yellow/",
+    "title": "rest in peace, Yellow",
+    "author": "https://what.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-11T05:42:13.158Z",
+    "last_updated": "2026-06-11T05:42:13.158Z",
+    "published": "2026-06-10T03:13Z"
   }
 ]
