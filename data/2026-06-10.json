@@ -30,9 +30,9 @@
     "url": "https://blog.avas.space/llm-circus/",
     "title": "our workplace LLM mass delusion",
     "author": "https://blog.avas.space",
-    "toasts": 53,
+    "toasts": 54,
     "first_seen": "2026-06-10T13:21:44.478Z",
-    "last_updated": "2026-06-11T21:45:48.571Z",
+    "last_updated": "2026-06-11T22:39:42.659Z",
     "published": "2026-06-10T11:22Z"
   },
   {
@@ -93,18 +93,18 @@
     "url": "https://semdominio.bearblog.dev/deixa-acontecer-naturalmente/",
     "title": "Deixa acontecer naturalmente",
     "author": "https://semdominio.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-10T20:58:43.208Z",
-    "last_updated": "2026-06-10T20:58:43.208Z",
+    "last_updated": "2026-06-11T22:39:42.659Z",
     "published": "2026-06-10T13:38Z"
   },
   {
     "url": "https://blog.welcomehome.city/b/three-lines/",
     "title": "The three lines of CSS that saved me 40kb and might do the same for you",
     "author": "https://blog.welcomehome.city",
-    "toasts": 46,
+    "toasts": 50,
     "first_seen": "2026-06-11T03:15:12.110Z",
-    "last_updated": "2026-06-11T20:55:14.939Z",
+    "last_updated": "2026-06-11T22:39:42.659Z",
     "published": "2026-06-10T21:11Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://blog.lauramichet.com/reminder-about-the-blendo-steam-sales-data-viewer/",
     "title": "Reminder about the Blendo Steam Sales Data Viewer",
     "author": "https://blog.lauramichet.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-11T09:38:45.548Z",
-    "last_updated": "2026-06-11T09:38:45.548Z",
+    "last_updated": "2026-06-11T22:39:42.659Z",
     "published": "2026-06-10T22:33Z"
   },
   {
@@ -187,5 +187,14 @@
     "first_seen": "2026-06-11T15:16:47.019Z",
     "last_updated": "2026-06-11T15:16:47.019Z",
     "published": "2026-06-10T13:53Z"
+  },
+  {
+    "url": "https://techdemo.com.br/dilema/",
+    "title": "Dilema",
+    "author": "https://techdemo.com.br",
+    "toasts": 7,
+    "first_seen": "2026-06-11T22:39:42.659Z",
+    "last_updated": "2026-06-11T22:39:42.659Z",
+    "published": "2026-06-10T17:59Z"
   }
 ]

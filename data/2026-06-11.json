@@ -57,9 +57,9 @@
     "url": "https://robertbirming.com/blogging-daily-easier/",
     "title": "Why blogging daily feels easier",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-11T19:07:38.763Z",
-    "last_updated": "2026-06-11T20:55:14.939Z",
+    "last_updated": "2026-06-11T22:39:42.659Z",
     "published": "2026-06-11T14:54Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://kennyqin.com/degoogling-my-theme/",
     "title": "Degoogling My Theme",
     "author": "https://kennyqin.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-11T19:07:38.763Z",
-    "last_updated": "2026-06-11T19:07:38.763Z",
+    "last_updated": "2026-06-11T22:39:42.659Z",
     "published": "2026-06-11T08:06Z"
   },
   {
@@ -102,9 +102,18 @@
     "url": "https://lightlogged.blog/drinking-beer-with-mom/",
     "title": "Drinking Beer with Mom",
     "author": "https://lightlogged.blog",
-    "toasts": 7,
+    "toasts": 10,
     "first_seen": "2026-06-11T21:45:48.571Z",
-    "last_updated": "2026-06-11T21:45:48.571Z",
+    "last_updated": "2026-06-11T22:39:42.659Z",
     "published": "2026-06-11T21:04Z"
+  },
+  {
+    "url": "https://adumbchildindogschool.bearblog.dev/this-is-a-sentence-uttered-to-me-in-real-life/",
+    "title": "This is a sentence uttered to me in real life",
+    "author": "https://adumbchildindogschool.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-11T22:39:42.659Z",
+    "last_updated": "2026-06-11T22:39:42.659Z",
+    "published": "2026-06-11T21:07Z"
   }
 ]
