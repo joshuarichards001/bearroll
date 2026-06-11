@@ -3,9 +3,9 @@
     "url": "https://after.bearblog.dev/perfect-first-sentences/",
     "title": "Perfect first sentences",
     "author": "https://after.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-10T05:39:09.379Z",
-    "last_updated": "2026-06-10T22:41:06.031Z",
+    "last_updated": "2026-06-11T09:38:45.548Z",
     "published": "2026-06-10T01:54Z"
   },
   {
@@ -21,18 +21,18 @@
     "url": "https://ignacyr.bearblog.dev/becoming-dependent-in-the-world-of-ai-and-why-do-we-need-a-don-quixote-to-save-us/",
     "title": "Becoming Dependent in the World of AI and Why do We Need a Don Quixote To Save Us.",
     "author": "https://ignacyr.bearblog.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-06-10T11:21:05.917Z",
-    "last_updated": "2026-06-10T20:58:43.208Z",
+    "last_updated": "2026-06-11T09:38:45.548Z",
     "published": "2026-06-10T09:25Z"
   },
   {
     "url": "https://blog.avas.space/llm-circus/",
     "title": "our workplace LLM mass delusion",
     "author": "https://blog.avas.space",
-    "toasts": 41,
+    "toasts": 43,
     "first_seen": "2026-06-10T13:21:44.478Z",
-    "last_updated": "2026-06-11T07:52:27.425Z",
+    "last_updated": "2026-06-11T09:38:45.548Z",
     "published": "2026-06-10T11:22Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://l3on.site/article/been-a-while-ii/",
     "title": "好久不见 Ⅱ",
     "author": "https://l3on.site",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-06-10T17:12:57.698Z",
-    "last_updated": "2026-06-11T07:52:27.425Z",
+    "last_updated": "2026-06-11T09:38:45.548Z",
     "published": "2026-06-10T15:48Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://blog.welcomehome.city/b/three-lines/",
     "title": "The three lines of CSS that saved me 40kb and might do the same for you",
     "author": "https://blog.welcomehome.city",
-    "toasts": 27,
+    "toasts": 32,
     "first_seen": "2026-06-11T03:15:12.110Z",
-    "last_updated": "2026-06-11T07:52:27.425Z",
+    "last_updated": "2026-06-11T09:38:45.548Z",
     "published": "2026-06-10T21:11Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://skryblans.com/splendid-things-laptop-keyboard/",
     "title": "splendid things - laptop keyboard",
     "author": "https://skryblans.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-11T07:52:27.425Z",
-    "last_updated": "2026-06-11T07:52:27.425Z",
+    "last_updated": "2026-06-11T09:38:45.548Z",
     "published": "2026-06-10T13:24Z"
   },
   {
@@ -160,5 +160,14 @@
     "first_seen": "2026-06-11T07:52:27.425Z",
     "last_updated": "2026-06-11T07:52:27.425Z",
     "published": "2026-06-10T14:01Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/reminder-about-the-blendo-steam-sales-data-viewer/",
+    "title": "Reminder about the Blendo Steam Sales Data Viewer",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 6,
+    "first_seen": "2026-06-11T09:38:45.548Z",
+    "last_updated": "2026-06-11T09:38:45.548Z",
+    "published": "2026-06-10T22:33Z"
   }
 ]
