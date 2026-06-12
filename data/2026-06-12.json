@@ -66,9 +66,9 @@
     "url": "https://robertbirming.com/bear-blog-open-graph-image-generator/",
     "title": "Bear OG image generator",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-12T18:47:54.382Z",
-    "last_updated": "2026-06-12T18:47:54.382Z",
+    "last_updated": "2026-06-12T23:36:07.947Z",
     "published": "2026-06-12T14:18Z"
   },
   {
@@ -115,5 +115,14 @@
     "first_seen": "2026-06-12T21:38:21.062Z",
     "last_updated": "2026-06-12T21:38:21.062Z",
     "published": "2026-06-12T12:10Z"
+  },
+  {
+    "url": "https://mattiverse.online/ninety-nine-posts/",
+    "title": "number 99",
+    "author": "https://mattiverse.online",
+    "toasts": 8,
+    "first_seen": "2026-06-12T23:36:07.947Z",
+    "last_updated": "2026-06-12T23:36:07.947Z",
+    "published": "2026-06-12T05:37Z"
   }
 ]
