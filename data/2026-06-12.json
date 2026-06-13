@@ -48,9 +48,9 @@
     "url": "https://thequarterlight.bearblog.dev/do-i-talk-too-much/",
     "title": "do i talk too much?",
     "author": "https://thequarterlight.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-12T17:06:37.834Z",
-    "last_updated": "2026-06-12T19:43:37.008Z",
+    "last_updated": "2026-06-13T10:52:58.585Z",
     "published": "2026-06-12T08:50Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://rnotte.art/junited-my-favorite-blogs-from-outside-of-bear/",
     "title": "junited: my favorite blogs from outside of bear",
     "author": "https://rnotte.art",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-13T01:09:13.066Z",
-    "last_updated": "2026-06-13T01:09:13.066Z",
+    "last_updated": "2026-06-13T10:52:58.585Z",
     "published": "2026-06-12T18:07Z"
   },
   {
@@ -169,5 +169,23 @@
     "first_seen": "2026-06-13T07:27:50.817Z",
     "last_updated": "2026-06-13T09:11:36.037Z",
     "published": "2026-06-12T11:00Z"
+  },
+  {
+    "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+    "title": "What the Fuck Happened to Nerds",
+    "author": "https://mrmarket.lol",
+    "toasts": 37,
+    "first_seen": "2026-06-13T10:52:58.585Z",
+    "last_updated": "2026-06-13T10:52:58.585Z",
+    "published": "2026-06-12T14:08Z"
+  },
+  {
+    "url": "https://unturnedhovel.bearblog.dev/ct-combat-styles/",
+    "title": "Mythras Combat Styles in Classic Traveller",
+    "author": "https://unturnedhovel.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-13T10:52:58.585Z",
+    "last_updated": "2026-06-13T10:52:58.585Z",
+    "published": "2026-06-12T21:49Z"
   }
 ]
