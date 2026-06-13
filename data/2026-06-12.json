@@ -21,9 +21,9 @@
     "url": "https://mrmarket.bearblog.dev/what-the-fuck-happened-to-nerds/",
     "title": "What the Fuck Happened to Nerds",
     "author": "https://mrmarket.bearblog.dev",
-    "toasts": 27,
+    "toasts": 30,
     "first_seen": "2026-06-12T17:06:37.834Z",
-    "last_updated": "2026-06-12T21:38:21.062Z",
+    "last_updated": "2026-06-13T03:16:00.536Z",
     "published": "2026-06-12T14:08Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://murugappan.com/you-seem-pretty-upbeat-for-an-album-so-sad/",
     "title": "You seem pretty upbeat for an album so sad",
     "author": "https://murugappan.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-12T21:38:21.062Z",
-    "last_updated": "2026-06-12T21:38:21.062Z",
+    "last_updated": "2026-06-13T03:16:00.536Z",
     "published": "2026-06-12T14:00Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-06-13T01:09:13.066Z",
     "last_updated": "2026-06-13T01:09:13.066Z",
     "published": "2026-06-12T18:07Z"
+  },
+  {
+    "url": "https://after.bearblog.dev/reminiscing/",
+    "title": "Reminiscing",
+    "author": "https://after.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-13T03:16:00.536Z",
+    "last_updated": "2026-06-13T03:16:00.536Z",
+    "published": "2026-06-12T04:26Z"
   }
 ]
