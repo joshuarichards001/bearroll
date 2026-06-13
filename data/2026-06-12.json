@@ -147,27 +147,27 @@
     "url": "https://blog.sulimans.space/how-i-stay-connected-as-a-digital-minimalist/",
     "title": "how i stay connected as a digital minimalist",
     "author": "https://blog.sulimans.space",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-13T05:38:02.219Z",
-    "last_updated": "2026-06-13T07:27:50.817Z",
+    "last_updated": "2026-06-13T12:45:44.299Z",
     "published": "2026-06-12T20:42Z"
   },
   {
     "url": "https://blog.curiousquail.com/the-utter-joy-of-the-spirit-crossing-playtest/",
     "title": "The Utter Joy of the Spirit Crossing Playtest",
     "author": "https://blog.curiousquail.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-13T05:38:02.219Z",
-    "last_updated": "2026-06-13T05:38:02.219Z",
+    "last_updated": "2026-06-13T12:45:44.299Z",
     "published": "2026-06-12T17:23Z"
   },
   {
     "url": "https://blog.solazy.me/20260612/",
     "title": "记一次出差时的 AirPods 巡回",
     "author": "https://blog.solazy.me",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-13T07:27:50.817Z",
-    "last_updated": "2026-06-13T09:11:36.037Z",
+    "last_updated": "2026-06-13T12:45:44.299Z",
     "published": "2026-06-12T11:00Z"
   },
   {
@@ -187,5 +187,14 @@
     "first_seen": "2026-06-13T10:52:58.585Z",
     "last_updated": "2026-06-13T10:52:58.585Z",
     "published": "2026-06-12T21:49Z"
+  },
+  {
+    "url": "https://notes.seantaylor.work/universal-basic-identity/",
+    "title": "Universal Basic Identity",
+    "author": "https://notes.seantaylor.work",
+    "toasts": 7,
+    "first_seen": "2026-06-13T12:45:44.299Z",
+    "last_updated": "2026-06-13T12:45:44.299Z",
+    "published": "2026-06-12T05:30Z"
   }
 ]
