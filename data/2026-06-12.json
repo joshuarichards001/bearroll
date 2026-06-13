@@ -75,9 +75,9 @@
     "url": "https://psychidion.bearblog.dev/actually-writing-again/",
     "title": "actually writing again",
     "author": "https://psychidion.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-12T18:47:54.382Z",
-    "last_updated": "2026-06-12T18:47:54.382Z",
+    "last_updated": "2026-06-13T14:48:38.105Z",
     "published": "2026-06-12T16:21Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://after.bearblog.dev/reminiscing/",
     "title": "Reminiscing",
     "author": "https://after.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-13T03:16:00.536Z",
-    "last_updated": "2026-06-13T03:16:00.536Z",
+    "last_updated": "2026-06-13T14:48:38.105Z",
     "published": "2026-06-12T04:26Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
     "title": "What the Fuck Happened to Nerds",
     "author": "https://mrmarket.lol",
-    "toasts": 41,
+    "toasts": 43,
     "first_seen": "2026-06-13T10:52:58.585Z",
-    "last_updated": "2026-06-13T13:38:13.953Z",
+    "last_updated": "2026-06-13T14:48:38.105Z",
     "published": "2026-06-12T14:08Z"
   },
   {
@@ -196,5 +196,14 @@
     "first_seen": "2026-06-13T12:45:44.299Z",
     "last_updated": "2026-06-13T12:45:44.299Z",
     "published": "2026-06-12T05:30Z"
+  },
+  {
+    "url": "https://forkingmad.blog/the-diary-of-a-young-girl/",
+    "title": "The Diary of a Young Girl",
+    "author": "https://forkingmad.blog",
+    "toasts": 6,
+    "first_seen": "2026-06-13T14:48:38.105Z",
+    "last_updated": "2026-06-13T14:48:38.105Z",
+    "published": "2026-06-12T17:18Z"
   }
 ]
