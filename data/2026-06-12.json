@@ -21,9 +21,9 @@
     "url": "https://mrmarket.bearblog.dev/what-the-fuck-happened-to-nerds/",
     "title": "What the Fuck Happened to Nerds",
     "author": "https://mrmarket.bearblog.dev",
-    "toasts": 31,
+    "toasts": 34,
     "first_seen": "2026-06-12T17:06:37.834Z",
-    "last_updated": "2026-06-13T05:38:02.219Z",
+    "last_updated": "2026-06-13T07:27:50.817Z",
     "published": "2026-06-12T14:08Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://blog.sulimans.space/how-i-stay-connected-as-a-digital-minimalist/",
     "title": "how i stay connected as a digital minimalist",
     "author": "https://blog.sulimans.space",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-13T05:38:02.219Z",
-    "last_updated": "2026-06-13T05:38:02.219Z",
+    "last_updated": "2026-06-13T07:27:50.817Z",
     "published": "2026-06-12T20:42Z"
   },
   {
@@ -160,5 +160,14 @@
     "first_seen": "2026-06-13T05:38:02.219Z",
     "last_updated": "2026-06-13T05:38:02.219Z",
     "published": "2026-06-12T17:23Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260612/",
+    "title": "记一次出差时的 AirPods 巡回",
+    "author": "https://blog.solazy.me",
+    "toasts": 6,
+    "first_seen": "2026-06-13T07:27:50.817Z",
+    "last_updated": "2026-06-13T07:27:50.817Z",
+    "published": "2026-06-12T11:00Z"
   }
 ]
