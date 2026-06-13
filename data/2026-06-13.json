@@ -3,9 +3,9 @@
     "url": "https://sususol.bearblog.dev/i-dont-know-how-to-be-creative/",
     "title": "i don't know how to be creative",
     "author": "https://sususol.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-06-13T03:16:00.536Z",
-    "last_updated": "2026-06-13T15:37:45.687Z",
+    "last_updated": "2026-06-13T17:34:35.947Z",
     "published": "2026-06-13T01:01Z"
   },
   {
@@ -16,5 +16,23 @@
     "first_seen": "2026-06-13T16:36:31.937Z",
     "last_updated": "2026-06-13T16:36:31.937Z",
     "published": "2026-06-13T09:39Z"
+  },
+  {
+    "url": "https://readdwarfreviews.bearblog.dev/when-youve-got-a-library-card/",
+    "title": "When You've Got a Library Card",
+    "author": "https://readdwarfreviews.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-13T17:34:35.947Z",
+    "last_updated": "2026-06-13T17:34:35.947Z",
+    "published": "2026-06-13T03:58Z"
+  },
+  {
+    "url": "https://deviatedspectrum.xyz/projects/colorlab/",
+    "title": "Color Lab",
+    "author": "https://deviatedspectrum.xyz",
+    "toasts": 5,
+    "first_seen": "2026-06-13T17:34:35.947Z",
+    "last_updated": "2026-06-13T17:34:35.947Z",
+    "published": "2026-06-13T15:18Z"
   }
 ]
