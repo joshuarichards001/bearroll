@@ -12,9 +12,9 @@
     "url": "https://tism.help/greep/",
     "title": "(FML) Uninvited from the Geordie Greep After Party",
     "author": "https://tism.help",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-14T07:45:10.234Z",
-    "last_updated": "2026-06-14T16:37:50.629Z",
+    "last_updated": "2026-06-14T18:37:27.815Z",
     "published": "2026-06-14T06:19Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://robertbirming.com/junited-buttons-collection/",
     "title": "Junited buttons collection",
     "author": "https://robertbirming.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-14T14:50:53.115Z",
-    "last_updated": "2026-06-14T14:50:53.115Z",
+    "last_updated": "2026-06-14T18:37:27.815Z",
     "published": "2026-06-14T09:20Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://slowsongs.bearblog.dev/this-is-probably-about-you/",
     "title": "this is (probably) about you.",
     "author": "https://slowsongs.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-14T15:37:58.764Z",
-    "last_updated": "2026-06-14T17:33:50.242Z",
+    "last_updated": "2026-06-14T18:37:27.815Z",
     "published": "2026-06-14T13:34Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://valerialoves.com/fail-more-coward/",
     "title": "Fail more, coward 🖤",
     "author": "https://valerialoves.com",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-06-14T16:37:50.629Z",
-    "last_updated": "2026-06-14T17:33:50.242Z",
+    "last_updated": "2026-06-14T18:37:27.815Z",
     "published": "2026-06-14T14:53Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-06-14T17:33:50.242Z",
     "last_updated": "2026-06-14T17:33:50.242Z",
     "published": "2026-06-14T00:18Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/bearblog-script-for-your-posts/",
+    "title": "BearBlog script for your Posts",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-14T18:37:27.815Z",
+    "last_updated": "2026-06-14T18:37:27.815Z",
+    "published": "2026-06-14T07:00Z"
   }
 ]
