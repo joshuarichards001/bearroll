@@ -48,9 +48,9 @@
     "url": "https://slowsongs.bearblog.dev/this-is-probably-about-you/",
     "title": "this is (probably) about you.",
     "author": "https://slowsongs.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-14T15:37:58.764Z",
-    "last_updated": "2026-06-14T16:37:50.629Z",
+    "last_updated": "2026-06-14T17:33:50.242Z",
     "published": "2026-06-14T13:34Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://valerialoves.com/fail-more-coward/",
     "title": "Fail more, coward 🖤",
     "author": "https://valerialoves.com",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-06-14T16:37:50.629Z",
-    "last_updated": "2026-06-14T16:37:50.629Z",
+    "last_updated": "2026-06-14T17:33:50.242Z",
     "published": "2026-06-14T14:53Z"
   },
   {
@@ -79,5 +79,14 @@
     "first_seen": "2026-06-14T16:37:50.629Z",
     "last_updated": "2026-06-14T16:37:50.629Z",
     "published": "2026-06-14T05:00Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/world-cup-energy-in-la-is-pretty-sweet/",
+    "title": "World Cup energy in LA is pretty sweet",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 6,
+    "first_seen": "2026-06-14T17:33:50.242Z",
+    "last_updated": "2026-06-14T17:33:50.242Z",
+    "published": "2026-06-14T00:18Z"
   }
 ]
