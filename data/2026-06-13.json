@@ -39,9 +39,9 @@
     "url": "https://robertbirming.com/just-human/",
     "title": "Just human",
     "author": "https://robertbirming.com",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-06-13T21:32:33.975Z",
-    "last_updated": "2026-06-14T07:45:10.234Z",
+    "last_updated": "2026-06-14T09:12:57.043Z",
     "published": "2026-06-13T20:01Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://vidknight.bearblog.dev/i-feel-that-the-internet-gotten-too-close/",
     "title": "I feel that the internet gotten too close",
     "author": "https://vidknight.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-14T01:10:40.283Z",
-    "last_updated": "2026-06-14T05:41:25.566Z",
+    "last_updated": "2026-06-14T09:12:57.043Z",
     "published": "2026-06-13T19:16Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://gitzandglory.com/my-one-gripe-about-forums-dying/",
     "title": "My One Gripe About Forums Dying",
     "author": "https://gitzandglory.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-06-14T01:10:40.283Z",
-    "last_updated": "2026-06-14T07:45:10.234Z",
+    "last_updated": "2026-06-14T09:12:57.043Z",
     "published": "2026-06-13T21:41Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-06-14T07:45:10.234Z",
     "last_updated": "2026-06-14T07:45:10.234Z",
     "published": "2026-06-13T08:36Z"
+  },
+  {
+    "url": "https://skryblans.com/guests-and-requests/",
+    "title": "guests and requests",
+    "author": "https://skryblans.com",
+    "toasts": 9,
+    "first_seen": "2026-06-14T09:12:57.043Z",
+    "last_updated": "2026-06-14T09:12:57.043Z",
+    "published": "2026-06-13T09:23Z"
   }
 ]
