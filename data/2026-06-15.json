@@ -3,9 +3,9 @@
     "url": "https://stitching.bearblog.dev/life-is-easier-since-going-low-contact/",
     "title": "life is easier since going low-contact",
     "author": "https://stitching.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-15T03:19:34.427Z",
-    "last_updated": "2026-06-15T14:17:23.357Z",
+    "last_updated": "2026-06-15T18:36:40.443Z",
     "published": "2026-06-15T01:45Z"
   },
   {
@@ -39,18 +39,45 @@
     "url": "https://blog.lauramichet.com/i-forced-myself-to-rto-and-im-exhausted/",
     "title": "I forced myself to RTO and I'm exhausted",
     "author": "https://blog.lauramichet.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-15T16:42:32.297Z",
-    "last_updated": "2026-06-15T16:42:32.297Z",
+    "last_updated": "2026-06-15T18:36:40.443Z",
     "published": "2026-06-15T06:14Z"
   },
   {
     "url": "https://blog.avas.space/dagobah-yoda/",
     "title": "something my wife said today",
     "author": "https://blog.avas.space",
-    "toasts": 6,
+    "toasts": 9,
     "first_seen": "2026-06-15T16:42:32.297Z",
-    "last_updated": "2026-06-15T16:42:32.297Z",
+    "last_updated": "2026-06-15T18:36:40.443Z",
     "published": "2026-06-15T12:42Z"
+  },
+  {
+    "url": "https://blog.avas.space/digital-remains/",
+    "title": "let's talk about your digital remains!",
+    "author": "https://blog.avas.space",
+    "toasts": 7,
+    "first_seen": "2026-06-15T18:36:40.443Z",
+    "last_updated": "2026-06-15T18:36:40.443Z",
+    "published": "2026-06-15T15:50Z"
+  },
+  {
+    "url": "https://autisticteacher.bearblog.dev/being-autistic-helped-me-as-a-teacher-aide/",
+    "title": "Being autistic helped me as a teacher aide",
+    "author": "https://autisticteacher.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-15T18:36:40.443Z",
+    "last_updated": "2026-06-15T18:36:40.443Z",
+    "published": "2026-06-15T14:16Z"
+  },
+  {
+    "url": "https://yohann.io/its-okay-to-use-a-wired-keyboard-and-mouse/",
+    "title": "It's OKAY to use a wired keyboard and mouse",
+    "author": "https://yohann.io",
+    "toasts": 6,
+    "first_seen": "2026-06-15T18:36:40.443Z",
+    "last_updated": "2026-06-15T18:36:40.443Z",
+    "published": "2026-06-15T13:40Z"
   }
 ]
