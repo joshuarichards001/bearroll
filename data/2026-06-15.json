@@ -57,9 +57,9 @@
     "url": "https://blog.avas.space/digital-remains/",
     "title": "let's talk about your digital remains!",
     "author": "https://blog.avas.space",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-06-15T18:36:40.443Z",
-    "last_updated": "2026-06-16T14:43:01.665Z",
+    "last_updated": "2026-06-16T16:36:27.100Z",
     "published": "2026-06-15T15:50Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://lwgrs.bearblog.dev/re-bloggers-can-we-make-better-titles-for-our-posts/",
     "title": "re: Bloggers, can we make better titles for our posts?",
     "author": "https://lwgrs.bearblog.dev",
-    "toasts": 72,
+    "toasts": 76,
     "first_seen": "2026-06-15T20:13:08.689Z",
-    "last_updated": "2026-06-16T14:43:01.665Z",
+    "last_updated": "2026-06-16T16:36:27.100Z",
     "published": "2026-06-15T18:35Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://menotexts.bearblog.dev/the-unhappy-web-person/",
     "title": "The Unhappy Web Person",
     "author": "https://menotexts.bearblog.dev",
-    "toasts": 21,
+    "toasts": 24,
     "first_seen": "2026-06-15T20:13:08.689Z",
-    "last_updated": "2026-06-16T08:14:24.625Z",
+    "last_updated": "2026-06-16T16:36:27.100Z",
     "published": "2026-06-15T19:42Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://basic.bearblog.dev/analytics-in-bearblog-do-i-care/",
     "title": "Analytics in Bearblog, do I care?",
     "author": "https://basic.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-16T01:16:18.756Z",
-    "last_updated": "2026-06-16T05:57:55.339Z",
+    "last_updated": "2026-06-16T16:36:27.100Z",
     "published": "2026-06-15T07:00Z"
   },
   {
@@ -205,5 +205,14 @@
     "first_seen": "2026-06-16T12:39:20.394Z",
     "last_updated": "2026-06-16T12:39:20.394Z",
     "published": "2026-06-15T13:35Z"
+  },
+  {
+    "url": "https://hadipirzada.bearblog.dev/roadkill-flowers/",
+    "title": "Roadkill Flowers",
+    "author": "https://hadipirzada.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-16T16:36:27.100Z",
+    "last_updated": "2026-06-16T16:36:27.100Z",
+    "published": "2026-06-15T16:23Z"
   }
 ]

@@ -12,27 +12,27 @@
     "url": "https://pego.dev/i-wanted-bear-blog-but-for-my-photos/",
     "title": "I wanted Bear Blog, but for my photos",
     "author": "https://pego.dev",
-    "toasts": 33,
+    "toasts": 49,
     "first_seen": "2026-06-16T12:39:20.394Z",
-    "last_updated": "2026-06-16T14:43:01.665Z",
+    "last_updated": "2026-06-16T16:36:27.100Z",
     "published": "2026-06-16T10:14Z"
   },
   {
     "url": "https://passerine.bearblog.dev/grieving-in-advance/",
     "title": "grieving in advance",
     "author": "https://passerine.bearblog.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-06-16T12:39:20.394Z",
-    "last_updated": "2026-06-16T14:43:01.665Z",
+    "last_updated": "2026-06-16T16:36:27.100Z",
     "published": "2026-06-16T10:10Z"
   },
   {
     "url": "https://unturnedhovel.bearblog.dev/legwork-and-the-home-game/",
     "title": "Legwork and the Home Game",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-06-16T12:39:20.394Z",
-    "last_updated": "2026-06-16T14:43:01.665Z",
+    "last_updated": "2026-06-16T16:36:27.100Z",
     "published": "2026-06-16T11:39Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://skuka.online/american-culture-things-i-like-dislike-as-a-non-american-person/",
     "title": "american culture things i like / dislike (as a non-american person)",
     "author": "https://skuka.online",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-06-16T14:43:01.665Z",
-    "last_updated": "2026-06-16T14:43:01.665Z",
+    "last_updated": "2026-06-16T16:36:27.100Z",
     "published": "2026-06-16T12:11Z"
   },
   {
@@ -61,5 +61,23 @@
     "first_seen": "2026-06-16T14:43:01.665Z",
     "last_updated": "2026-06-16T14:43:01.665Z",
     "published": "2026-06-16T01:36Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/the-commodore-flip-phone-is-how-much/",
+    "title": "The Commodore flip phone is how much?",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-06-16T16:36:27.100Z",
+    "last_updated": "2026-06-16T16:36:27.100Z",
+    "published": "2026-06-16T13:02Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/no-socials-write-more-blogs/",
+    "title": "No socials, write more blogs",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-16T16:36:27.100Z",
+    "last_updated": "2026-06-16T16:36:27.100Z",
+    "published": "2026-06-16T07:00Z"
   }
 ]
