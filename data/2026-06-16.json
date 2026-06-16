@@ -3,36 +3,36 @@
     "url": "https://landofthelost.bearblog.dev/new-blog-yeah/",
     "title": "New blog, yeah!",
     "author": "https://landofthelost.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-16T05:57:55.339Z",
-    "last_updated": "2026-06-16T08:14:24.625Z",
+    "last_updated": "2026-06-16T14:43:01.665Z",
     "published": "2026-06-16T01:31Z"
   },
   {
     "url": "https://pego.dev/i-wanted-bear-blog-but-for-my-photos/",
     "title": "I wanted Bear Blog, but for my photos",
     "author": "https://pego.dev",
-    "toasts": 23,
+    "toasts": 33,
     "first_seen": "2026-06-16T12:39:20.394Z",
-    "last_updated": "2026-06-16T12:39:20.394Z",
+    "last_updated": "2026-06-16T14:43:01.665Z",
     "published": "2026-06-16T10:14Z"
   },
   {
     "url": "https://passerine.bearblog.dev/grieving-in-advance/",
     "title": "grieving in advance",
     "author": "https://passerine.bearblog.dev",
-    "toasts": 7,
+    "toasts": 10,
     "first_seen": "2026-06-16T12:39:20.394Z",
-    "last_updated": "2026-06-16T12:39:20.394Z",
+    "last_updated": "2026-06-16T14:43:01.665Z",
     "published": "2026-06-16T10:10Z"
   },
   {
     "url": "https://unturnedhovel.bearblog.dev/legwork-and-the-home-game/",
     "title": "Legwork and the Home Game",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 6,
+    "toasts": 10,
     "first_seen": "2026-06-16T12:39:20.394Z",
-    "last_updated": "2026-06-16T12:39:20.394Z",
+    "last_updated": "2026-06-16T14:43:01.665Z",
     "published": "2026-06-16T11:39Z"
   },
   {
@@ -43,5 +43,23 @@
     "first_seen": "2026-06-16T12:39:20.394Z",
     "last_updated": "2026-06-16T12:39:20.394Z",
     "published": "2026-06-16T09:00Z"
+  },
+  {
+    "url": "https://skuka.online/american-culture-things-i-like-dislike-as-a-non-american-person/",
+    "title": "american culture things i like / dislike (as a non-american person)",
+    "author": "https://skuka.online",
+    "toasts": 6,
+    "first_seen": "2026-06-16T14:43:01.665Z",
+    "last_updated": "2026-06-16T14:43:01.665Z",
+    "published": "2026-06-16T12:11Z"
+  },
+  {
+    "url": "https://sususol.bearblog.dev/a-smol-list-of-things-that-make-me-smile-when-web-surfing/",
+    "title": "a smol list of things that make me smile when web surfing",
+    "author": "https://sususol.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-16T14:43:01.665Z",
+    "last_updated": "2026-06-16T14:43:01.665Z",
+    "published": "2026-06-16T01:36Z"
   }
 ]
