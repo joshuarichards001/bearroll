@@ -12,27 +12,27 @@
     "url": "https://pego.dev/i-wanted-bear-blog-but-for-my-photos/",
     "title": "I wanted Bear Blog, but for my photos",
     "author": "https://pego.dev",
-    "toasts": 49,
+    "toasts": 56,
     "first_seen": "2026-06-16T12:39:20.394Z",
-    "last_updated": "2026-06-16T16:36:27.100Z",
+    "last_updated": "2026-06-16T18:34:10.024Z",
     "published": "2026-06-16T10:14Z"
   },
   {
     "url": "https://passerine.bearblog.dev/grieving-in-advance/",
     "title": "grieving in advance",
     "author": "https://passerine.bearblog.dev",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-06-16T12:39:20.394Z",
-    "last_updated": "2026-06-16T16:36:27.100Z",
+    "last_updated": "2026-06-16T18:34:10.024Z",
     "published": "2026-06-16T10:10Z"
   },
   {
     "url": "https://unturnedhovel.bearblog.dev/legwork-and-the-home-game/",
     "title": "Legwork and the Home Game",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-06-16T12:39:20.394Z",
-    "last_updated": "2026-06-16T16:36:27.100Z",
+    "last_updated": "2026-06-16T18:34:10.024Z",
     "published": "2026-06-16T11:39Z"
   },
   {
@@ -79,5 +79,23 @@
     "first_seen": "2026-06-16T16:36:27.100Z",
     "last_updated": "2026-06-16T16:36:27.100Z",
     "published": "2026-06-16T07:00Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/i-feel-like-an-awful-person/",
+    "title": "I Feel Like an Awful Person",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 6,
+    "first_seen": "2026-06-16T18:34:10.024Z",
+    "last_updated": "2026-06-16T18:34:10.024Z",
+    "published": "2026-06-16T16:05Z"
+  },
+  {
+    "url": "https://4thdim.bearblog.dev/bookshelf/",
+    "title": "bookshelf",
+    "author": "https://4thdim.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-16T18:34:10.024Z",
+    "last_updated": "2026-06-16T18:34:10.024Z",
+    "published": "2026-06-16T03:14Z"
   }
 ]
