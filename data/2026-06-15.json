@@ -48,18 +48,18 @@
     "url": "https://blog.avas.space/dagobah-yoda/",
     "title": "something my wife said today",
     "author": "https://blog.avas.space",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-06-15T16:42:32.297Z",
-    "last_updated": "2026-06-16T10:42:38.138Z",
+    "last_updated": "2026-06-16T12:39:20.394Z",
     "published": "2026-06-15T12:42Z"
   },
   {
     "url": "https://blog.avas.space/digital-remains/",
     "title": "let's talk about your digital remains!",
     "author": "https://blog.avas.space",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-06-15T18:36:40.443Z",
-    "last_updated": "2026-06-16T03:17:46.773Z",
+    "last_updated": "2026-06-16T12:39:20.394Z",
     "published": "2026-06-15T15:50Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://lwgrs.bearblog.dev/re-bloggers-can-we-make-better-titles-for-our-posts/",
     "title": "re: Bloggers, can we make better titles for our posts?",
     "author": "https://lwgrs.bearblog.dev",
-    "toasts": 66,
+    "toasts": 70,
     "first_seen": "2026-06-15T20:13:08.689Z",
-    "last_updated": "2026-06-16T10:42:38.138Z",
+    "last_updated": "2026-06-16T12:39:20.394Z",
     "published": "2026-06-15T18:35Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://blog.spu.io/a-stranger-made-me-cry-today/",
     "title": "A Stranger Made Me Cry Today",
     "author": "https://blog.spu.io",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-16T03:17:46.773Z",
-    "last_updated": "2026-06-16T10:42:38.138Z",
+    "last_updated": "2026-06-16T12:39:20.394Z",
     "published": "2026-06-15T23:49Z"
   },
   {
@@ -183,9 +183,9 @@
     "url": "https://blog.lauramichet.com/still-using-the-xteink-x4/",
     "title": "Still using the XTEink X4",
     "author": "https://blog.lauramichet.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-16T05:57:55.339Z",
-    "last_updated": "2026-06-16T08:14:24.625Z",
+    "last_updated": "2026-06-16T12:39:20.394Z",
     "published": "2026-06-15T23:29Z"
   },
   {
@@ -196,5 +196,14 @@
     "first_seen": "2026-06-16T10:42:38.138Z",
     "last_updated": "2026-06-16T10:42:38.138Z",
     "published": "2026-06-15T18:10Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/re-thblog-e-mikahgosto-de-onde-vem-o-meu-amor-pelos-livros/",
+    "title": "[Re: th.blog e mikahgosto] De onde vem o meu amor pelos livros?",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-16T12:39:20.394Z",
+    "last_updated": "2026-06-16T12:39:20.394Z",
+    "published": "2026-06-15T13:35Z"
   }
 ]
