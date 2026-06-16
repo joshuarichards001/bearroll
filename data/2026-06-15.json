@@ -3,9 +3,9 @@
     "url": "https://stitching.bearblog.dev/life-is-easier-since-going-low-contact/",
     "title": "life is easier since going low-contact",
     "author": "https://stitching.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-06-15T03:19:34.427Z",
-    "last_updated": "2026-06-16T01:16:18.756Z",
+    "last_updated": "2026-06-16T10:42:38.138Z",
     "published": "2026-06-15T01:45Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://blog.lauramichet.com/i-forced-myself-to-rto-and-im-exhausted/",
     "title": "I forced myself to RTO and I'm exhausted",
     "author": "https://blog.lauramichet.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-15T16:42:32.297Z",
-    "last_updated": "2026-06-16T08:14:24.625Z",
+    "last_updated": "2026-06-16T10:42:38.138Z",
     "published": "2026-06-15T06:14Z"
   },
   {
     "url": "https://blog.avas.space/dagobah-yoda/",
     "title": "something my wife said today",
     "author": "https://blog.avas.space",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-06-15T16:42:32.297Z",
-    "last_updated": "2026-06-15T20:13:08.689Z",
+    "last_updated": "2026-06-16T10:42:38.138Z",
     "published": "2026-06-15T12:42Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://autisticteacher.bearblog.dev/being-autistic-helped-me-as-a-teacher-aide/",
     "title": "Being autistic helped me as a teacher aide",
     "author": "https://autisticteacher.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-15T18:36:40.443Z",
-    "last_updated": "2026-06-16T08:14:24.625Z",
+    "last_updated": "2026-06-16T10:42:38.138Z",
     "published": "2026-06-15T14:16Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://lwgrs.bearblog.dev/re-bloggers-can-we-make-better-titles-for-our-posts/",
     "title": "re: Bloggers, can we make better titles for our posts?",
     "author": "https://lwgrs.bearblog.dev",
-    "toasts": 57,
+    "toasts": 66,
     "first_seen": "2026-06-15T20:13:08.689Z",
-    "last_updated": "2026-06-16T08:14:24.625Z",
+    "last_updated": "2026-06-16T10:42:38.138Z",
     "published": "2026-06-15T18:35Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://blog.spu.io/a-stranger-made-me-cry-today/",
     "title": "A Stranger Made Me Cry Today",
     "author": "https://blog.spu.io",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-16T03:17:46.773Z",
-    "last_updated": "2026-06-16T08:14:24.625Z",
+    "last_updated": "2026-06-16T10:42:38.138Z",
     "published": "2026-06-15T23:49Z"
   },
   {
@@ -187,5 +187,14 @@
     "first_seen": "2026-06-16T05:57:55.339Z",
     "last_updated": "2026-06-16T08:14:24.625Z",
     "published": "2026-06-15T23:29Z"
+  },
+  {
+    "url": "https://whateverthewindbrings.com/using-genai-to-translate-a-game-is-as-bad-as-using-it-to-make-assets/",
+    "title": "Using genAI to translate a game is as bad as using it to make assets",
+    "author": "https://whateverthewindbrings.com",
+    "toasts": 6,
+    "first_seen": "2026-06-16T10:42:38.138Z",
+    "last_updated": "2026-06-16T10:42:38.138Z",
+    "published": "2026-06-15T18:10Z"
   }
 ]
