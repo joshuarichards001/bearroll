@@ -3,9 +3,9 @@
     "url": "https://blog.avas.space/clean-girl-klein-dogwhistle/",
     "title": "the girly wellness aesthetic as a white supremacist dog whistle",
     "author": "https://blog.avas.space",
-    "toasts": 42,
+    "toasts": 44,
     "first_seen": "2026-06-17T14:14:51.789Z",
-    "last_updated": "2026-06-17T19:49:08.242Z",
+    "last_updated": "2026-06-17T20:49:23.778Z",
     "published": "2026-06-17T11:00Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://blog.lauramichet.com/i-installed-a-giant-antenna-on-my-mesh-radio/",
     "title": "I installed a giant antenna on my mesh radio",
     "author": "https://blog.lauramichet.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-17T16:20:09.684Z",
-    "last_updated": "2026-06-17T16:20:09.684Z",
+    "last_updated": "2026-06-17T20:49:23.778Z",
     "published": "2026-06-17T00:45Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://skuth.us/optimism-is-good-actually/",
     "title": "Optimism is good, actually",
     "author": "https://skuth.us",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-06-17T17:55:50.179Z",
-    "last_updated": "2026-06-17T19:00:05.851Z",
+    "last_updated": "2026-06-17T20:49:23.778Z",
     "published": "2026-06-17T15:56Z"
   },
   {
@@ -79,5 +79,14 @@
     "first_seen": "2026-06-17T17:55:50.179Z",
     "last_updated": "2026-06-17T17:55:50.179Z",
     "published": "2026-06-17T14:02Z"
+  },
+  {
+    "url": "https://turbiegaming.bearblog.dev/lifetime-subscription/",
+    "title": "Lifetime Subscription",
+    "author": "https://turbiegaming.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-17T20:49:23.778Z",
+    "last_updated": "2026-06-17T20:49:23.778Z",
+    "published": "2026-06-17T13:23Z"
   }
 ]
