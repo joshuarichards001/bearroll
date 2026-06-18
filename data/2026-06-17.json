@@ -3,9 +3,9 @@
     "url": "https://blog.avas.space/clean-girl-klein-dogwhistle/",
     "title": "the girly wellness aesthetic as a white supremacist dog whistle",
     "author": "https://blog.avas.space",
-    "toasts": 62,
+    "toasts": 67,
     "first_seen": "2026-06-17T14:14:51.789Z",
-    "last_updated": "2026-06-18T05:43:56.978Z",
+    "last_updated": "2026-06-18T07:52:33.418Z",
     "published": "2026-06-17T11:00Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://skuth.us/optimism-is-good-actually/",
     "title": "Optimism is good, actually",
     "author": "https://skuth.us",
-    "toasts": 18,
+    "toasts": 21,
     "first_seen": "2026-06-17T17:55:50.179Z",
-    "last_updated": "2026-06-18T01:09:37.847Z",
+    "last_updated": "2026-06-18T07:52:33.418Z",
     "published": "2026-06-17T15:56Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://chupacabra.bearblog.dev/why-tf-do-i-need-to-use-a-google-account-to-setup-a-passkey-to-login-to-your-site-to-increase-security-of-my-account/",
     "title": "WHY TF DO I NEED TO USE A GOOGLE ACCOUNT TO SETUP A PASSKEY TO LOGIN TO YOUR SITE TO INCREASE SECURITY OF MY ACCOUNT????",
     "author": "https://chupacabra.bearblog.dev",
-    "toasts": 17,
+    "toasts": 19,
     "first_seen": "2026-06-17T21:42:59.948Z",
-    "last_updated": "2026-06-18T05:43:56.978Z",
+    "last_updated": "2026-06-18T07:52:33.418Z",
     "published": "2026-06-17T19:29Z"
   },
   {
@@ -111,18 +111,18 @@
     "url": "https://valentine.bearblog.dev/do-i-clench-my-fists/",
     "title": "do i clench my fists?",
     "author": "https://valentine.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-17T22:38:18.601Z",
-    "last_updated": "2026-06-18T01:09:37.847Z",
+    "last_updated": "2026-06-18T07:52:33.418Z",
     "published": "2026-06-17T16:30Z"
   },
   {
     "url": "https://blog.mattglassman.net/pro-tip-dont-blindside-legislators/",
     "title": "Pro-tip: don’t blindside legislators",
     "author": "https://blog.mattglassman.net",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-06-18T01:09:37.847Z",
-    "last_updated": "2026-06-18T03:16:41.267Z",
+    "last_updated": "2026-06-18T07:52:33.418Z",
     "published": "2026-06-17T15:25Z"
   },
   {
@@ -133,5 +133,32 @@
     "first_seen": "2026-06-18T01:09:37.847Z",
     "last_updated": "2026-06-18T01:09:37.847Z",
     "published": "2026-06-17T15:15Z"
+  },
+  {
+    "url": "https://berniethewordsmith.bearblog.dev/re-this-is-probably-about-you/",
+    "title": "re: this is (probably) about you",
+    "author": "https://berniethewordsmith.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-18T07:52:33.418Z",
+    "last_updated": "2026-06-18T07:52:33.418Z",
+    "published": "2026-06-17T18:10Z"
+  },
+  {
+    "url": "https://qwertyfingers.bearblog.dev/facts-about-me/",
+    "title": "Facts about me",
+    "author": "https://qwertyfingers.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-18T07:52:33.418Z",
+    "last_updated": "2026-06-18T07:52:33.418Z",
+    "published": "2026-06-17T16:48Z"
+  },
+  {
+    "url": "https://heurista.net/my-new-domain-name/",
+    "title": "My New Domain Name",
+    "author": "https://heurista.net",
+    "toasts": 6,
+    "first_seen": "2026-06-18T07:52:33.418Z",
+    "last_updated": "2026-06-18T07:52:33.418Z",
+    "published": "2026-06-17T15:32Z"
   }
 ]
