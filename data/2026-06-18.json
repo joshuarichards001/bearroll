@@ -12,27 +12,27 @@
     "url": "https://basic.bearblog.dev/6-months-into-the-year-but-im-still-here/",
     "title": "6 months into the year but I'm still here",
     "author": "https://basic.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-18T07:52:33.418Z",
-    "last_updated": "2026-06-18T15:10:28.642Z",
+    "last_updated": "2026-06-18T17:10:27.954Z",
     "published": "2026-06-18T00:31Z"
   },
   {
     "url": "https://khoaly.xyz/20-steps-to-living-silly-ly/",
     "title": "20 steps to living silly-ly",
     "author": "https://khoaly.xyz",
-    "toasts": 14,
+    "toasts": 20,
     "first_seen": "2026-06-18T13:20:42.874Z",
-    "last_updated": "2026-06-18T15:10:28.642Z",
+    "last_updated": "2026-06-18T17:10:27.954Z",
     "published": "2026-06-18T11:09Z"
   },
   {
     "url": "https://basic.bearblog.dev/alive-internet-theory/",
     "title": "Alive Internet Theory",
     "author": "https://basic.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-18T15:10:28.642Z",
-    "last_updated": "2026-06-18T15:10:28.642Z",
+    "last_updated": "2026-06-18T17:10:27.954Z",
     "published": "2026-06-18T07:00Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://bruab.net/dont-blog-daily/",
     "title": "Don't blog daily",
     "author": "https://bruab.net",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-06-18T15:10:28.642Z",
-    "last_updated": "2026-06-18T15:10:28.642Z",
+    "last_updated": "2026-06-18T17:10:27.954Z",
     "published": "2026-06-18T10:51Z"
   },
   {
@@ -61,5 +61,14 @@
     "first_seen": "2026-06-18T15:10:28.642Z",
     "last_updated": "2026-06-18T15:10:28.642Z",
     "published": "2026-06-18T04:46Z"
+  },
+  {
+    "url": "https://combatdavey.net/june-17-2026/",
+    "title": "june 17 msw",
+    "author": "https://combatdavey.net",
+    "toasts": 6,
+    "first_seen": "2026-06-18T17:10:27.954Z",
+    "last_updated": "2026-06-18T17:10:27.954Z",
+    "published": "2026-06-18T03:59Z"
   }
 ]
