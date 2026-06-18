@@ -21,18 +21,18 @@
     "url": "https://khoaly.xyz/20-steps-to-living-silly-ly/",
     "title": "20 steps to living silly-ly",
     "author": "https://khoaly.xyz",
-    "toasts": 20,
+    "toasts": 22,
     "first_seen": "2026-06-18T13:20:42.874Z",
-    "last_updated": "2026-06-18T17:10:27.954Z",
+    "last_updated": "2026-06-18T18:55:47.455Z",
     "published": "2026-06-18T11:09Z"
   },
   {
     "url": "https://basic.bearblog.dev/alive-internet-theory/",
     "title": "Alive Internet Theory",
     "author": "https://basic.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-18T15:10:28.642Z",
-    "last_updated": "2026-06-18T17:10:27.954Z",
+    "last_updated": "2026-06-18T18:55:47.455Z",
     "published": "2026-06-18T07:00Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://bruab.net/dont-blog-daily/",
     "title": "Don't blog daily",
     "author": "https://bruab.net",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-06-18T15:10:28.642Z",
-    "last_updated": "2026-06-18T17:10:27.954Z",
+    "last_updated": "2026-06-18T18:55:47.455Z",
     "published": "2026-06-18T10:51Z"
   },
   {
@@ -66,9 +66,27 @@
     "url": "https://combatdavey.net/june-17-2026/",
     "title": "june 17 msw",
     "author": "https://combatdavey.net",
-    "toasts": 6,
+    "toasts": 9,
     "first_seen": "2026-06-18T17:10:27.954Z",
-    "last_updated": "2026-06-18T17:10:27.954Z",
+    "last_updated": "2026-06-18T18:55:47.455Z",
     "published": "2026-06-18T03:59Z"
+  },
+  {
+    "url": "https://robertbirming.com/knowledge-without-understanding/",
+    "title": "Knowledge without understanding",
+    "author": "https://robertbirming.com",
+    "toasts": 6,
+    "first_seen": "2026-06-18T18:55:47.455Z",
+    "last_updated": "2026-06-18T18:55:47.455Z",
+    "published": "2026-06-18T15:46Z"
+  },
+  {
+    "url": "https://kkc.bearblog.dev/the-simple-joy-of-being-on-my-puter-but-not-on-the-internet/",
+    "title": "The simple joy of being on my 'puter, but not on the internet",
+    "author": "https://kkc.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-18T18:55:47.455Z",
+    "last_updated": "2026-06-18T18:55:47.455Z",
+    "published": "2026-06-18T08:39Z"
   }
 ]
