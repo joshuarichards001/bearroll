@@ -3,27 +3,63 @@
     "url": "https://blog.lauramichet.com/chrck-out-my-favorite-local-plant/",
     "title": "Check out my favorite local plant",
     "author": "https://blog.lauramichet.com",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-06-18T07:52:33.418Z",
-    "last_updated": "2026-06-18T09:38:02.768Z",
+    "last_updated": "2026-06-18T15:10:28.642Z",
     "published": "2026-06-18T02:47Z"
   },
   {
     "url": "https://basic.bearblog.dev/6-months-into-the-year-but-im-still-here/",
     "title": "6 months into the year but I'm still here",
     "author": "https://basic.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-18T07:52:33.418Z",
-    "last_updated": "2026-06-18T07:52:33.418Z",
+    "last_updated": "2026-06-18T15:10:28.642Z",
     "published": "2026-06-18T00:31Z"
   },
   {
     "url": "https://khoaly.xyz/20-steps-to-living-silly-ly/",
     "title": "20 steps to living silly-ly",
     "author": "https://khoaly.xyz",
-    "toasts": 6,
+    "toasts": 14,
     "first_seen": "2026-06-18T13:20:42.874Z",
-    "last_updated": "2026-06-18T13:20:42.874Z",
+    "last_updated": "2026-06-18T15:10:28.642Z",
     "published": "2026-06-18T11:09Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/alive-internet-theory/",
+    "title": "Alive Internet Theory",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-06-18T15:10:28.642Z",
+    "last_updated": "2026-06-18T15:10:28.642Z",
+    "published": "2026-06-18T07:00Z"
+  },
+  {
+    "url": "https://mattervsspirit.bearblog.dev/make-more-weird-shit/",
+    "title": "Make More Weird Shit!",
+    "author": "https://mattervsspirit.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-06-18T15:10:28.642Z",
+    "last_updated": "2026-06-18T15:10:28.642Z",
+    "published": "2026-06-18T03:40Z"
+  },
+  {
+    "url": "https://bruab.net/dont-blog-daily/",
+    "title": "Don't blog daily",
+    "author": "https://bruab.net",
+    "toasts": 6,
+    "first_seen": "2026-06-18T15:10:28.642Z",
+    "last_updated": "2026-06-18T15:10:28.642Z",
+    "published": "2026-06-18T10:51Z"
+  },
+  {
+    "url": "https://yukonsafari.bearblog.dev/road-worthy-wednesday/",
+    "title": "road-worthy Wednesday",
+    "author": "https://yukonsafari.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-18T15:10:28.642Z",
+    "last_updated": "2026-06-18T15:10:28.642Z",
+    "published": "2026-06-18T04:46Z"
   }
 ]
