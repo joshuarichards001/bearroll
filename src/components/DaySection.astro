@@ -20,6 +20,6 @@ const { day } = Astro.props;
     </time>
   </h2>
   <ul>
-    {day.posts.map((post) => <PostItem post={post} />)}
+    {day.posts.map((post) => <PostItem post={post} hidden={post.rank > 10} />)}
   </ul>
 </section>
