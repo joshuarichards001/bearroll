@@ -93,9 +93,9 @@
     "url": "https://chupacabra.bearblog.dev/why-tf-do-i-need-to-use-a-google-account-to-setup-a-passkey-to-login-to-your-site-to-increase-security-of-my-account/",
     "title": "WHY TF DO I NEED TO USE A GOOGLE ACCOUNT TO SETUP A PASSKEY TO LOGIN TO YOUR SITE TO INCREASE SECURITY OF MY ACCOUNT????",
     "author": "https://chupacabra.bearblog.dev",
-    "toasts": 56,
+    "toasts": 57,
     "first_seen": "2026-06-17T21:42:59.948Z",
-    "last_updated": "2026-06-19T19:37:09.039Z",
+    "last_updated": "2026-06-19T22:25:00.201Z",
     "published": "2026-06-17T19:29Z"
   },
   {
@@ -169,5 +169,14 @@
     "first_seen": "2026-06-18T09:38:02.768Z",
     "last_updated": "2026-06-18T17:10:27.954Z",
     "published": "2026-06-17T17:36Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/what-is-considered-prime-these-days/",
+    "title": "What is considered Prime these days?",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-06-19T22:25:00.201Z",
+    "last_updated": "2026-06-19T22:25:00.201Z",
+    "published": "2026-06-17T07:00Z"
   }
 ]
