@@ -1,0 +1,23 @@
+---
+import Layout from "../layouts/Layout.astro";
+import PageHeader from "../components/PageHeader.astro";
+---
+
+<Layout title="Feeds - Bear Roll">
+  <PageHeader slot="header" title="Feeds" />
+  <main class="flex flex-col gap-4 mb-20">
+    <article class="flex flex-col gap-6">
+      <p>Subscribe to Bear Roll's top posts via RSS.</p>
+      <ul class="flex flex-col gap-1 list-disc list-inside">
+        <li>
+          <a href="/rss.xml" class="text-link underline">Daily</a> - the top 10 posts
+          from each day
+        </li>
+        <li>
+          <a href="/rss-weekly.xml" class="text-link underline">Weekly</a> - the top
+          30 posts from each week, published every Sunday
+        </li>
+      </ul>
+    </article>
+  </main>
+</Layout>

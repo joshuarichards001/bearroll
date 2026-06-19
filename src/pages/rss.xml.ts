@@ -2,6 +2,7 @@ import rss from "@astrojs/rss";
 import type { APIContext } from "astro";
 import { formatDate } from "../lib/format";
 import { getAllDayDates, loadDay } from "../lib/posts";
+import { postsToListHtml } from "../lib/rss";
 
 export function GET(context: APIContext) {
   const allDates = getAllDayDates();
@@ -32,28 +33,19 @@ export function GET(context: APIContext) {
     if (!day) return [];
 
     const top10 = [...day.posts].sort((a, b) => a.rank - b.rank).slice(0, 10);
-    const listHtml = top10
-      .map(
-        (post) =>
-          `<li><a href="${post.url}">${post.title}</a> by ${post.domain} — ${post.toasts} toasts</li>`,
-      )
-      .join("\n");
 
     return [
       {
-        title: `${formatDate(date)} - Top 10`,
+        title: `Bearroll Daily Top 10 - ${formatDate(date)}`,
         link: `${context.site!}archive/${date}`,
         pubDate: new Date(new Date(date + "T06:00:00Z").getTime() + 86400000),
-        content: `<ol>${listHtml}</ol>`,
+        content: postsToListHtml(top10),
       },
     ];
   });
 
-  const latestDate = new Date(dates[0] + "T12:00:00Z");
-  const feedTitle = `Bear Blog Top 10 - ${latestDate.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }).replace(",", "")}`;
-
   return rss({
-    title: feedTitle,
+    title: "Bearroll Daily Top 10",
     description: "Daily top 10 posts from Bear Blog's discover page",
     site: context.site!,
     items,
