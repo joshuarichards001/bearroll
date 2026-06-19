@@ -21,18 +21,18 @@
     "url": "https://khoaly.xyz/20-steps-to-living-silly-ly/",
     "title": "20 steps to living silly-ly",
     "author": "https://khoaly.xyz",
-    "toasts": 42,
+    "toasts": 45,
     "first_seen": "2026-06-18T13:20:42.874Z",
-    "last_updated": "2026-06-19T03:18:32.250Z",
+    "last_updated": "2026-06-19T05:50:41.339Z",
     "published": "2026-06-18T11:09Z"
   },
   {
     "url": "https://basic.bearblog.dev/alive-internet-theory/",
     "title": "Alive Internet Theory",
     "author": "https://basic.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-06-18T15:10:28.642Z",
-    "last_updated": "2026-06-19T01:15:48.520Z",
+    "last_updated": "2026-06-19T05:50:41.339Z",
     "published": "2026-06-18T07:00Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://bruab.net/dont-blog-daily/",
     "title": "Don't blog daily",
     "author": "https://bruab.net",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-06-18T15:10:28.642Z",
-    "last_updated": "2026-06-18T18:55:47.455Z",
+    "last_updated": "2026-06-19T05:50:41.339Z",
     "published": "2026-06-18T10:51Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://robertbirming.com/knowledge-without-understanding/",
     "title": "Knowledge without understanding",
     "author": "https://robertbirming.com",
-    "toasts": 11,
+    "toasts": 14,
     "first_seen": "2026-06-18T18:55:47.455Z",
-    "last_updated": "2026-06-19T03:18:32.250Z",
+    "last_updated": "2026-06-19T05:50:41.339Z",
     "published": "2026-06-18T15:46Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://mattiverse.online/surveillance-nation/",
     "title": "we want surveillance but it's all for the children",
     "author": "https://mattiverse.online",
-    "toasts": 9,
+    "toasts": 12,
     "first_seen": "2026-06-18T20:55:55.997Z",
-    "last_updated": "2026-06-18T22:43:58.976Z",
+    "last_updated": "2026-06-19T05:50:41.339Z",
     "published": "2026-06-18T19:49Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://reedybear.bearblog.dev/i-feel-like-giving-up-on-coding/",
     "title": "I feel like giving up on coding",
     "author": "https://reedybear.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-06-18T21:46:42.905Z",
-    "last_updated": "2026-06-19T01:15:48.520Z",
+    "last_updated": "2026-06-19T05:50:41.339Z",
     "published": "2026-06-18T18:53Z"
   },
   {
@@ -147,18 +147,27 @@
     "url": "https://stitching.bearblog.dev/i-wear-my-favorite-perfumes-at-home/",
     "title": "i wear my favorite perfumes at home",
     "author": "https://stitching.bearblog.dev",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-06-19T01:15:48.520Z",
-    "last_updated": "2026-06-19T03:18:32.250Z",
+    "last_updated": "2026-06-19T05:50:41.339Z",
     "published": "2026-06-18T22:59Z"
   },
   {
     "url": "https://mindlesstalk.bearblog.dev/nothing-to-do-on-the-internet/",
     "title": "Nothing to do on the internet",
     "author": "https://mindlesstalk.bearblog.dev",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-06-19T01:15:48.520Z",
-    "last_updated": "2026-06-19T01:15:48.520Z",
+    "last_updated": "2026-06-19T05:50:41.339Z",
     "published": "2026-06-18T20:39Z"
+  },
+  {
+    "url": "https://departure.blog/data-tags/",
+    "title": "Styling Bearblog post lists with data-tags",
+    "author": "https://departure.blog",
+    "toasts": 6,
+    "first_seen": "2026-06-19T05:50:41.339Z",
+    "last_updated": "2026-06-19T05:50:41.339Z",
+    "published": "2026-06-18T19:46Z"
   }
 ]
