@@ -3,9 +3,9 @@
     "url": "https://potatopotaro.com/an-email-to-my-high-school-english-teacher/",
     "title": "An email to my high-school english teacher",
     "author": "https://potatopotaro.com",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-06-19T05:50:41.339Z",
-    "last_updated": "2026-06-19T08:03:06.436Z",
+    "last_updated": "2026-06-19T10:36:08.010Z",
     "published": "2026-06-19T02:49Z"
   },
   {
@@ -21,18 +21,36 @@
     "url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
     "title": "Jobs and Software is Fucked",
     "author": "https://urflow.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-19T08:03:06.436Z",
-    "last_updated": "2026-06-19T08:03:06.436Z",
+    "last_updated": "2026-06-19T10:36:08.010Z",
     "published": "2026-06-19T05:32Z"
   },
   {
     "url": "https://diels-daydreams.bearblog.dev/bloggers-block/",
     "title": "Bloggers Block (?)",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-06-19T08:03:06.436Z",
-    "last_updated": "2026-06-19T08:03:06.436Z",
+    "last_updated": "2026-06-19T10:36:08.010Z",
     "published": "2026-06-19T02:25Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/cleaning-up-my-digital-life/",
+    "title": "Cleaning up my digital life",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-06-19T10:36:08.010Z",
+    "last_updated": "2026-06-19T10:36:08.010Z",
+    "published": "2026-06-19T07:00Z"
+  },
+  {
+    "url": "https://tism.help/people-still-exist-even-if-you-havent-thought-about-them-in-a-while/",
+    "title": "People still exist, even if you haven't thought about them in a while",
+    "author": "https://tism.help",
+    "toasts": 6,
+    "first_seen": "2026-06-19T10:36:08.010Z",
+    "last_updated": "2026-06-19T10:36:08.010Z",
+    "published": "2026-06-19T00:16Z"
   }
 ]
