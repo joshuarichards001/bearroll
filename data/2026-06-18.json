@@ -12,9 +12,9 @@
     "url": "https://basic.bearblog.dev/6-months-into-the-year-but-im-still-here/",
     "title": "6 months into the year but I'm still here",
     "author": "https://basic.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-18T07:52:33.418Z",
-    "last_updated": "2026-06-19T21:30:04.773Z",
+    "last_updated": "2026-06-20T12:45:51.917Z",
     "published": "2026-06-18T00:31Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://basic.bearblog.dev/alive-internet-theory/",
     "title": "Alive Internet Theory",
     "author": "https://basic.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-06-18T15:10:28.642Z",
-    "last_updated": "2026-06-20T11:42:13.196Z",
+    "last_updated": "2026-06-20T12:45:51.917Z",
     "published": "2026-06-18T07:00Z"
   },
   {
@@ -178,5 +178,14 @@
     "first_seen": "2026-06-19T08:03:06.436Z",
     "last_updated": "2026-06-20T11:42:13.196Z",
     "published": "2026-06-18T21:36Z"
+  },
+  {
+    "url": "https://endoftheworld.bearblog.dev/how-you-are-saving-me-from-anhedonia/",
+    "title": "how YOU are saving me from anhedonia",
+    "author": "https://endoftheworld.bearblog.dev",
+    "toasts": 11,
+    "first_seen": "2026-06-20T12:45:51.917Z",
+    "last_updated": "2026-06-20T12:45:51.917Z",
+    "published": "2026-06-18T18:12Z"
   }
 ]
