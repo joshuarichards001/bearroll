@@ -21,9 +21,9 @@
     "url": "https://robertbirming.com/swedish-midsummer-pictures/",
     "title": "Swedish midsummer in pictures",
     "author": "https://robertbirming.com",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-06-20T11:42:13.196Z",
-    "last_updated": "2026-06-20T21:33:38.727Z",
+    "last_updated": "2026-06-20T22:31:00.336Z",
     "published": "2026-06-20T09:54Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://fornoone.bearblog.dev/i-got-a-library-card-and-got-lost/",
     "title": "I got a library card and got lost",
     "author": "https://fornoone.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-20T14:50:56.785Z",
-    "last_updated": "2026-06-20T14:50:56.785Z",
+    "last_updated": "2026-06-20T22:31:00.336Z",
     "published": "2026-06-20T05:37Z"
   },
   {
     "url": "https://forsomeone.bearblog.dev/i-guess-you-dont-need-to-wear-pants-if-you-dont-want-to/",
     "title": "I guess you don't need to wear pants if you don't want to",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-20T17:35:24.380Z",
-    "last_updated": "2026-06-20T19:35:36.036Z",
+    "last_updated": "2026-06-20T22:31:00.336Z",
     "published": "2026-06-20T14:08Z"
   },
   {
@@ -93,18 +93,18 @@
     "url": "https://skuth.us/the-rot-is-deep-at-microsoft/",
     "title": "The rot is deep at Microsoft",
     "author": "https://skuth.us",
-    "toasts": 10,
+    "toasts": 22,
     "first_seen": "2026-06-20T20:34:18.256Z",
-    "last_updated": "2026-06-20T21:33:38.727Z",
+    "last_updated": "2026-06-20T22:31:00.336Z",
     "published": "2026-06-20T18:22Z"
   },
   {
     "url": "https://aquestionmore.bearblog.dev/re-leave-your-house-or-die/",
     "title": "re: Leave your house or die",
     "author": "https://aquestionmore.bearblog.dev",
-    "toasts": 9,
+    "toasts": 24,
     "first_seen": "2026-06-20T21:33:38.727Z",
-    "last_updated": "2026-06-20T21:33:38.727Z",
+    "last_updated": "2026-06-20T22:31:00.336Z",
     "published": "2026-06-20T19:45Z"
   },
   {
@@ -115,5 +115,23 @@
     "first_seen": "2026-06-20T21:33:38.727Z",
     "last_updated": "2026-06-20T21:33:38.727Z",
     "published": "2026-06-20T17:42Z"
+  },
+  {
+    "url": "https://scattered-thoughts.bearblog.dev/done-with-comments/",
+    "title": "Done with comments",
+    "author": "https://scattered-thoughts.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-20T22:31:00.336Z",
+    "last_updated": "2026-06-20T22:31:00.336Z",
+    "published": "2026-06-20T19:41Z"
+  },
+  {
+    "url": "https://topopa.bearblog.dev/i-like-broken-technology/",
+    "title": "I like broken technology.",
+    "author": "https://topopa.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-20T22:31:00.336Z",
+    "last_updated": "2026-06-20T22:31:00.336Z",
+    "published": "2026-06-20T08:34Z"
   }
 ]
