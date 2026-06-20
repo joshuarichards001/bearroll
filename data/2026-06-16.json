@@ -12,9 +12,9 @@
     "url": "https://pego.dev/i-wanted-bear-blog-but-for-my-photos/",
     "title": "I wanted Bear Blog, but for my photos",
     "author": "https://pego.dev",
-    "toasts": 173,
+    "toasts": 174,
     "first_seen": "2026-06-16T12:39:20.394Z",
-    "last_updated": "2026-06-20T09:10:44.593Z",
+    "last_updated": "2026-06-20T14:50:56.785Z",
     "published": "2026-06-16T10:14Z"
   },
   {
@@ -196,5 +196,14 @@
     "first_seen": "2026-06-18T15:10:28.642Z",
     "last_updated": "2026-06-19T22:25:00.201Z",
     "published": "2026-06-16T22:47Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260616/",
+    "title": "咽不下的那口气，是职场的镜子",
+    "author": "https://blog.solazy.me",
+    "toasts": 10,
+    "first_seen": "2026-06-20T14:50:56.785Z",
+    "last_updated": "2026-06-20T14:50:56.785Z",
+    "published": "2026-06-16T15:00Z"
   }
 ]
