@@ -21,9 +21,9 @@
     "url": "https://robertbirming.com/swedish-midsummer-pictures/",
     "title": "Swedish midsummer in pictures",
     "author": "https://robertbirming.com",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-06-20T11:42:13.196Z",
-    "last_updated": "2026-06-20T18:37:33.907Z",
+    "last_updated": "2026-06-20T21:33:38.727Z",
     "published": "2026-06-20T09:54Z"
   },
   {
@@ -93,9 +93,27 @@
     "url": "https://skuth.us/the-rot-is-deep-at-microsoft/",
     "title": "The rot is deep at Microsoft",
     "author": "https://skuth.us",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-06-20T20:34:18.256Z",
-    "last_updated": "2026-06-20T20:34:18.256Z",
+    "last_updated": "2026-06-20T21:33:38.727Z",
     "published": "2026-06-20T18:22Z"
+  },
+  {
+    "url": "https://aquestionmore.bearblog.dev/re-leave-your-house-or-die/",
+    "title": "re: Leave your house or die",
+    "author": "https://aquestionmore.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-06-20T21:33:38.727Z",
+    "last_updated": "2026-06-20T21:33:38.727Z",
+    "published": "2026-06-20T19:45Z"
+  },
+  {
+    "url": "https://riz0me.bearblog.dev/2026/06/20/simple-adblocking-to-improve-the-internet/",
+    "title": "Simple Adblocking to Improve the Internet",
+    "author": "https://riz0me.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-20T21:33:38.727Z",
+    "last_updated": "2026-06-20T21:33:38.727Z",
+    "published": "2026-06-20T17:42Z"
   }
 ]
