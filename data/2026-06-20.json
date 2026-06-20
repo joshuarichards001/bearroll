@@ -39,9 +39,9 @@
     "url": "https://tbateotu.bearblog.dev/friction-as-a-ridiculously-useful-metric/",
     "title": "Friction as a ridiculously useful metric",
     "author": "https://tbateotu.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-06-20T12:45:51.917Z",
-    "last_updated": "2026-06-20T17:35:24.380Z",
+    "last_updated": "2026-06-20T20:34:18.256Z",
     "published": "2026-06-20T06:52Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-06-20T19:35:36.036Z",
     "last_updated": "2026-06-20T19:35:36.036Z",
     "published": "2026-06-20T03:59Z"
+  },
+  {
+    "url": "https://skuth.us/the-rot-is-deep-at-microsoft/",
+    "title": "The rot is deep at Microsoft",
+    "author": "https://skuth.us",
+    "toasts": 8,
+    "first_seen": "2026-06-20T20:34:18.256Z",
+    "last_updated": "2026-06-20T20:34:18.256Z",
+    "published": "2026-06-20T18:22Z"
   }
 ]
