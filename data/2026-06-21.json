@@ -12,9 +12,9 @@
     "url": "https://danielle.bearblog.dev/apparently-im-not-a-woman-because-i-use-linux/",
     "title": "Apparently I'm not a woman because I use Linux",
     "author": "https://danielle.bearblog.dev",
-    "toasts": 37,
+    "toasts": 42,
     "first_seen": "2026-06-21T07:48:05.017Z",
-    "last_updated": "2026-06-21T19:35:55.329Z",
+    "last_updated": "2026-06-21T20:37:48.930Z",
     "published": "2026-06-21T02:08Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://murugappan.com/to-bengaluru-and-back-01/",
     "title": "To Bengaluru and Back #01",
     "author": "https://murugappan.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-21T15:39:12.048Z",
-    "last_updated": "2026-06-21T19:35:55.329Z",
+    "last_updated": "2026-06-21T20:37:48.930Z",
     "published": "2026-06-21T09:52Z"
   },
   {
@@ -102,9 +102,18 @@
     "url": "https://robertbirming.com/my-blogger-archetype/",
     "title": "My blogger archetype",
     "author": "https://robertbirming.com",
-    "toasts": 6,
+    "toasts": 9,
     "first_seen": "2026-06-21T19:35:55.329Z",
-    "last_updated": "2026-06-21T19:35:55.329Z",
+    "last_updated": "2026-06-21T20:37:48.930Z",
     "published": "2026-06-21T16:51Z"
+  },
+  {
+    "url": "https://forkingmad.blog/too-much-friction-internet/",
+    "title": "Too much Friction on the Internet",
+    "author": "https://forkingmad.blog",
+    "toasts": 6,
+    "first_seen": "2026-06-21T20:37:48.930Z",
+    "last_updated": "2026-06-21T20:37:48.930Z",
+    "published": "2026-06-21T18:20Z"
   }
 ]
