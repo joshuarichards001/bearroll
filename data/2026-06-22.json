@@ -21,9 +21,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/you-are-going-to-be-okay/",
     "title": "You are going to be okay",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 6,
+    "toasts": 12,
     "first_seen": "2026-06-22T08:22:44.271Z",
-    "last_updated": "2026-06-22T08:22:44.271Z",
+    "last_updated": "2026-06-22T16:36:38.142Z",
     "published": "2026-06-22T03:59Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://fendogg.com/how-is-bearblog-so-fast/",
     "title": "how is bearblog so fast?",
     "author": "https://fendogg.com",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-06-22T11:02:55.274Z",
-    "last_updated": "2026-06-22T11:02:55.274Z",
+    "last_updated": "2026-06-22T16:36:38.142Z",
     "published": "2026-06-22T08:20Z"
   },
   {
     "url": "https://simianwords.bearblog.dev/you-should-use-ai-for-reviewing-code-especially-when-the-diff-is-huge/",
     "title": "You should use AI for reviewing code especially when the diff is huge",
     "author": "https://simianwords.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-22T14:01:55.177Z",
-    "last_updated": "2026-06-22T14:01:55.177Z",
+    "last_updated": "2026-06-22T16:36:38.142Z",
     "published": "2026-06-22T08:23Z"
   },
   {
@@ -61,5 +61,14 @@
     "first_seen": "2026-06-22T14:01:55.177Z",
     "last_updated": "2026-06-22T14:01:55.177Z",
     "published": "2026-06-22T02:02Z"
+  },
+  {
+    "url": "https://thepathsthatbroughtmehome.bearblog.dev/how-much-money-would-you-spend-for-emotional-freedom/",
+    "title": "how much money would you spend for emotional freedom?",
+    "author": "https://thepathsthatbroughtmehome.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-22T16:36:38.142Z",
+    "last_updated": "2026-06-22T16:36:38.142Z",
+    "published": "2026-06-22T07:02Z"
   }
 ]
