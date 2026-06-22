@@ -12,9 +12,9 @@
     "url": "https://danielle.bearblog.dev/apparently-im-not-a-woman-because-i-use-linux/",
     "title": "Apparently I'm not a woman because I use Linux",
     "author": "https://danielle.bearblog.dev",
-    "toasts": 51,
+    "toasts": 53,
     "first_seen": "2026-06-21T07:48:05.017Z",
-    "last_updated": "2026-06-21T23:34:21.018Z",
+    "last_updated": "2026-06-22T01:12:38.951Z",
     "published": "2026-06-21T02:08Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://murugappan.com/to-bengaluru-and-back-01/",
     "title": "To Bengaluru and Back #01",
     "author": "https://murugappan.com",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-06-21T15:39:12.048Z",
-    "last_updated": "2026-06-21T21:34:05.389Z",
+    "last_updated": "2026-06-22T01:12:38.951Z",
     "published": "2026-06-21T09:52Z"
   },
   {
@@ -102,36 +102,36 @@
     "url": "https://robertbirming.com/my-blogger-archetype/",
     "title": "My blogger archetype",
     "author": "https://robertbirming.com",
-    "toasts": 10,
+    "toasts": 13,
     "first_seen": "2026-06-21T19:35:55.329Z",
-    "last_updated": "2026-06-21T22:31:48.657Z",
+    "last_updated": "2026-06-22T01:12:38.951Z",
     "published": "2026-06-21T16:51Z"
   },
   {
     "url": "https://forkingmad.blog/too-much-friction-internet/",
     "title": "Too much Friction on the Internet",
     "author": "https://forkingmad.blog",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-06-21T20:37:48.930Z",
-    "last_updated": "2026-06-21T22:31:48.657Z",
+    "last_updated": "2026-06-22T01:12:38.951Z",
     "published": "2026-06-21T18:20Z"
   },
   {
     "url": "https://imperfect.bearblog.dev/prettiest-girl-today/",
     "title": "prettiest girl today",
     "author": "https://imperfect.bearblog.dev",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-06-21T21:34:05.389Z",
-    "last_updated": "2026-06-21T23:34:21.018Z",
+    "last_updated": "2026-06-22T01:12:38.951Z",
     "published": "2026-06-21T19:30Z"
   },
   {
     "url": "https://reedybear.bearblog.dev/ive-been-making-progress-for-the-first-time-in-years/",
     "title": "i've been making progress for the first time in years",
     "author": "https://reedybear.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-21T21:34:05.389Z",
-    "last_updated": "2026-06-21T23:34:21.018Z",
+    "last_updated": "2026-06-22T01:12:38.951Z",
     "published": "2026-06-21T19:27Z"
   },
   {
@@ -156,9 +156,18 @@
     "url": "https://reedybear.bearblog.dev/sometimes-i-just-wanna-write-something/",
     "title": "Sometimes I just wanna write something",
     "author": "https://reedybear.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-21T23:34:21.018Z",
-    "last_updated": "2026-06-21T23:34:21.018Z",
+    "last_updated": "2026-06-22T01:12:38.951Z",
     "published": "2026-06-21T17:49Z"
+  },
+  {
+    "url": "https://diels-daydreams.bearblog.dev/i-want-write-better-but-i-think-you-will-never-see-it/",
+    "title": "I want write better, but I think you will never see it",
+    "author": "https://diels-daydreams.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-22T01:12:38.951Z",
+    "last_updated": "2026-06-22T01:12:38.951Z",
+    "published": "2026-06-21T16:20Z"
   }
 ]
