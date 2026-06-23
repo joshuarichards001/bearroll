@@ -21,9 +21,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/you-are-going-to-be-okay/",
     "title": "You are going to be okay",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 23,
+    "toasts": 24,
     "first_seen": "2026-06-22T08:22:44.271Z",
-    "last_updated": "2026-06-23T01:47:52.509Z",
+    "last_updated": "2026-06-23T03:15:31.899Z",
     "published": "2026-06-22T03:59Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://fendogg.com/how-is-bearblog-so-fast/",
     "title": "how is bearblog so fast?",
     "author": "https://fendogg.com",
-    "toasts": 28,
+    "toasts": 33,
     "first_seen": "2026-06-22T11:02:55.274Z",
-    "last_updated": "2026-06-23T01:47:52.509Z",
+    "last_updated": "2026-06-23T03:15:31.899Z",
     "published": "2026-06-22T08:20Z"
   },
   {
@@ -84,18 +84,18 @@
     "url": "https://livingkindfully.bearblog.dev/friends-pay-full-price/",
     "title": "Friends Pay Full Price",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-06-22T18:25:39.175Z",
-    "last_updated": "2026-06-23T01:47:52.509Z",
+    "last_updated": "2026-06-23T03:15:31.899Z",
     "published": "2026-06-22T14:44Z"
   },
   {
     "url": "https://mikeshuey.com/why-do-i-care-if-google-likes-my-blog/",
     "title": "Why do I care if Google likes my blog?",
     "author": "https://mikeshuey.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-22T21:44:36.091Z",
-    "last_updated": "2026-06-22T22:38:11.837Z",
+    "last_updated": "2026-06-23T03:15:31.899Z",
     "published": "2026-06-22T16:30Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://azhdarchid.com/you-must-free-yourself-from-the-tyranny-of-meaningful-choices/",
     "title": "YOU MUST FREE YOURSELF FROM THE TYRANNY OF \"MEANINGFUL CHOICES\"",
     "author": "https://azhdarchid.com",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-06-22T21:44:36.091Z",
-    "last_updated": "2026-06-23T01:47:52.509Z",
+    "last_updated": "2026-06-23T03:15:31.899Z",
     "published": "2026-06-22T20:20Z"
   },
   {
@@ -183,9 +183,18 @@
     "url": "https://blog.curiousquail.com/camera-focus-adventures-saturdays-daymoon/",
     "title": "Camera Focus Adventures: Saturday's Daymoon",
     "author": "https://blog.curiousquail.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-23T01:47:52.509Z",
-    "last_updated": "2026-06-23T01:47:52.509Z",
+    "last_updated": "2026-06-23T03:15:31.899Z",
     "published": "2026-06-22T15:47Z"
+  },
+  {
+    "url": "https://conniesue.me/it-was-just-smoke/",
+    "title": "It Was Just Smoke",
+    "author": "https://conniesue.me",
+    "toasts": 6,
+    "first_seen": "2026-06-23T03:15:31.899Z",
+    "last_updated": "2026-06-23T03:15:31.899Z",
+    "published": "2026-06-22T23:25Z"
   }
 ]
