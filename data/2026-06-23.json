@@ -30,18 +30,36 @@
     "url": "https://suhas.org/the-age-of-faith/",
     "title": "The Age of Faith",
     "author": "https://suhas.org",
-    "toasts": 17,
+    "toasts": 29,
     "first_seen": "2026-06-23T11:08:15.753Z",
-    "last_updated": "2026-06-23T13:08:06.093Z",
+    "last_updated": "2026-06-23T15:07:06.340Z",
     "published": "2026-06-23T08:53Z"
   },
   {
     "url": "https://blogdoth.bearblog.dev/10-curiosidades-sobre-mim/",
     "title": "10 Curiosidades Sobre Mim",
     "author": "https://blogdoth.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-23T11:08:15.753Z",
-    "last_updated": "2026-06-23T11:08:15.753Z",
+    "last_updated": "2026-06-23T15:07:06.340Z",
     "published": "2026-06-23T09:05Z"
+  },
+  {
+    "url": "https://skuka.online/im-sad-that-oliver-tree-died/",
+    "title": "i'm sad that oliver tree died.",
+    "author": "https://skuka.online",
+    "toasts": 7,
+    "first_seen": "2026-06-23T15:07:06.340Z",
+    "last_updated": "2026-06-23T15:07:06.340Z",
+    "published": "2026-06-23T12:41Z"
+  },
+  {
+    "url": "https://nats.space/some-birds/",
+    "title": "Some Birds",
+    "author": "https://nats.space",
+    "toasts": 7,
+    "first_seen": "2026-06-23T15:07:06.340Z",
+    "last_updated": "2026-06-23T15:07:06.340Z",
+    "published": "2026-06-23T11:40Z"
   }
 ]
