@@ -30,9 +30,9 @@
     "url": "https://suhas.org/the-age-of-faith/",
     "title": "The Age of Faith",
     "author": "https://suhas.org",
-    "toasts": 29,
+    "toasts": 34,
     "first_seen": "2026-06-23T11:08:15.753Z",
-    "last_updated": "2026-06-23T15:07:06.340Z",
+    "last_updated": "2026-06-23T16:54:51.945Z",
     "published": "2026-06-23T08:53Z"
   },
   {
@@ -48,18 +48,54 @@
     "url": "https://skuka.online/im-sad-that-oliver-tree-died/",
     "title": "i'm sad that oliver tree died.",
     "author": "https://skuka.online",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-06-23T15:07:06.340Z",
-    "last_updated": "2026-06-23T15:07:06.340Z",
+    "last_updated": "2026-06-23T16:54:51.945Z",
     "published": "2026-06-23T12:41Z"
   },
   {
     "url": "https://nats.space/some-birds/",
     "title": "Some Birds",
     "author": "https://nats.space",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-06-23T15:07:06.340Z",
-    "last_updated": "2026-06-23T15:07:06.340Z",
+    "last_updated": "2026-06-23T16:54:51.945Z",
     "published": "2026-06-23T11:40Z"
+  },
+  {
+    "url": "https://combatdavey.net/june-22-2026/",
+    "title": "june 22 ego",
+    "author": "https://combatdavey.net",
+    "toasts": 8,
+    "first_seen": "2026-06-23T16:54:51.945Z",
+    "last_updated": "2026-06-23T16:54:51.945Z",
+    "published": "2026-06-23T03:59Z"
+  },
+  {
+    "url": "https://fornoone.bearblog.dev/am-i-going-to-half-ass-this-sudden-need-to-delete-everything/",
+    "title": "Am I going to half-ass this sudden need to delete everything?",
+    "author": "https://fornoone.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-23T16:54:51.945Z",
+    "last_updated": "2026-06-23T16:54:51.945Z",
+    "published": "2026-06-23T13:55Z"
+  },
+  {
+    "url": "https://turbiegaming.bearblog.dev/re-why-do-i-care-if-google-likes-my-blog/",
+    "title": "RE: Why do I care if Google likes my blog?",
+    "author": "https://turbiegaming.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-23T16:54:51.945Z",
+    "last_updated": "2026-06-23T16:54:51.945Z",
+    "published": "2026-06-23T09:32Z"
+  },
+  {
+    "url": "https://blog.avas.space/beetle-hunting/",
+    "title": "art, hunting for beetles & more",
+    "author": "https://blog.avas.space",
+    "toasts": 6,
+    "first_seen": "2026-06-23T16:54:51.945Z",
+    "last_updated": "2026-06-23T16:54:51.945Z",
+    "published": "2026-06-23T07:00Z"
   }
 ]
