@@ -30,9 +30,9 @@
     "url": "https://suhas.org/the-age-of-faith/",
     "title": "The Age of Faith",
     "author": "https://suhas.org",
-    "toasts": 39,
+    "toasts": 40,
     "first_seen": "2026-06-23T11:08:15.753Z",
-    "last_updated": "2026-06-23T20:49:38.849Z",
+    "last_updated": "2026-06-23T21:37:48.459Z",
     "published": "2026-06-23T08:53Z"
   },
   {
@@ -124,5 +124,23 @@
     "first_seen": "2026-06-23T20:49:38.849Z",
     "last_updated": "2026-06-23T20:49:38.849Z",
     "published": "2026-06-23T18:25Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/nothing-like-rebuilding-your-home-network-on-a-hot-day/",
+    "title": "Nothing like rebuilding your home network on a hot day",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-23T21:37:48.459Z",
+    "last_updated": "2026-06-23T21:37:48.459Z",
+    "published": "2026-06-23T12:08Z"
+  },
+  {
+    "url": "https://readflag.bearblog.dev/i-forgot-that-books-are-made-of-paper/",
+    "title": "I forgot that books are made of paper",
+    "author": "https://readflag.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-23T21:37:48.459Z",
+    "last_updated": "2026-06-23T21:37:48.459Z",
+    "published": "2026-06-23T16:56Z"
   }
 ]
