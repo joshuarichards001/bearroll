@@ -84,9 +84,9 @@
     "url": "https://livingkindfully.bearblog.dev/friends-pay-full-price/",
     "title": "Friends Pay Full Price",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 49,
+    "toasts": 50,
     "first_seen": "2026-06-22T18:25:39.175Z",
-    "last_updated": "2026-06-23T22:32:21.021Z",
+    "last_updated": "2026-06-23T23:28:31.864Z",
     "published": "2026-06-22T14:44Z"
   },
   {
@@ -223,5 +223,14 @@
     "first_seen": "2026-06-23T07:25:07.192Z",
     "last_updated": "2026-06-23T20:49:38.849Z",
     "published": "2026-06-22T21:25Z"
+  },
+  {
+    "url": "https://anubiarts.bearblog.dev/attention-span-regain-1/",
+    "title": "Regaining My Attention Span - Part 1: The Plan Starts",
+    "author": "https://anubiarts.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-23T23:28:31.864Z",
+    "last_updated": "2026-06-23T23:28:31.864Z",
+    "published": "2026-06-22T23:06Z"
   }
 ]
