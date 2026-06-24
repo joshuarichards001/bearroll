@@ -30,9 +30,9 @@
     "url": "https://suhas.org/the-age-of-faith/",
     "title": "The Age of Faith",
     "author": "https://suhas.org",
-    "toasts": 47,
+    "toasts": 49,
     "first_seen": "2026-06-23T11:08:15.753Z",
-    "last_updated": "2026-06-24T03:15:50.509Z",
+    "last_updated": "2026-06-24T05:26:23.213Z",
     "published": "2026-06-23T08:53Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://blog.avas.space/beetle-hunting/",
     "title": "art, hunting for beetles & more",
     "author": "https://blog.avas.space",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-23T16:54:51.945Z",
-    "last_updated": "2026-06-24T03:15:50.509Z",
+    "last_updated": "2026-06-24T05:26:23.213Z",
     "published": "2026-06-23T07:00Z"
   },
   {
@@ -169,5 +169,23 @@
     "first_seen": "2026-06-24T00:58:00.895Z",
     "last_updated": "2026-06-24T00:58:00.895Z",
     "published": "2026-06-23T12:00Z"
+  },
+  {
+    "url": "https://anotherdayu.com/bye-photograph/",
+    "title": "告别摄影",
+    "author": "https://anotherdayu.com",
+    "toasts": 6,
+    "first_seen": "2026-06-24T05:26:23.213Z",
+    "last_updated": "2026-06-24T05:26:23.213Z",
+    "published": "2026-06-23T17:08Z"
+  },
+  {
+    "url": "https://mgx.bearblog.dev/soumya/",
+    "title": "Soumya",
+    "author": "https://mgx.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-24T05:26:23.213Z",
+    "last_updated": "2026-06-24T05:26:23.213Z",
+    "published": "2026-06-23T15:41Z"
   }
 ]
