@@ -48,9 +48,9 @@
     "url": "https://skuka.online/im-sad-that-oliver-tree-died/",
     "title": "i'm sad that oliver tree died.",
     "author": "https://skuka.online",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-06-23T15:07:06.340Z",
-    "last_updated": "2026-06-23T23:28:31.864Z",
+    "last_updated": "2026-06-24T00:58:00.895Z",
     "published": "2026-06-23T12:41Z"
   },
   {
@@ -102,18 +102,18 @@
     "url": "https://robertbirming.com/short-pause/",
     "title": "A short pause",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-23T18:50:14.283Z",
-    "last_updated": "2026-06-23T22:32:21.021Z",
+    "last_updated": "2026-06-24T00:58:00.895Z",
     "published": "2026-06-23T16:43Z"
   },
   {
     "url": "https://idraluna-archives.bearblog.dev/d20-shitty-spaceport-bars/",
     "title": "d20 Shitty Spaceport Bars",
     "author": "https://idraluna-archives.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-23T20:49:38.849Z",
-    "last_updated": "2026-06-23T22:32:21.021Z",
+    "last_updated": "2026-06-24T00:58:00.895Z",
     "published": "2026-06-23T19:02Z"
   },
   {
@@ -160,5 +160,14 @@
     "first_seen": "2026-06-23T22:32:21.021Z",
     "last_updated": "2026-06-23T22:32:21.021Z",
     "published": "2026-06-23T14:24Z"
+  },
+  {
+    "url": "https://doodhpeda.bearblog.dev/blog/wheres-the-fun-in-that/",
+    "title": "Where's the fun in that?",
+    "author": "https://doodhpeda.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-24T00:58:00.895Z",
+    "last_updated": "2026-06-24T00:58:00.895Z",
+    "published": "2026-06-23T12:00Z"
   }
 ]
