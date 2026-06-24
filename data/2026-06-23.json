@@ -30,9 +30,9 @@
     "url": "https://suhas.org/the-age-of-faith/",
     "title": "The Age of Faith",
     "author": "https://suhas.org",
-    "toasts": 58,
+    "toasts": 63,
     "first_seen": "2026-06-23T11:08:15.753Z",
-    "last_updated": "2026-06-24T13:50:18.120Z",
+    "last_updated": "2026-06-24T15:02:06.668Z",
     "published": "2026-06-23T08:53Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://fornoone.bearblog.dev/am-i-going-to-half-ass-this-sudden-need-to-delete-everything/",
     "title": "Am I going to half-ass this sudden need to delete everything?",
     "author": "https://fornoone.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-06-23T16:54:51.945Z",
-    "last_updated": "2026-06-24T12:54:39.207Z",
+    "last_updated": "2026-06-24T15:02:06.668Z",
     "published": "2026-06-23T13:55Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://blog.avas.space/beetle-hunting/",
     "title": "art, hunting for beetles & more",
     "author": "https://blog.avas.space",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-23T16:54:51.945Z",
-    "last_updated": "2026-06-24T09:15:16.614Z",
+    "last_updated": "2026-06-24T15:02:06.668Z",
     "published": "2026-06-23T07:00Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://basic.bearblog.dev/nothing-like-rebuilding-your-home-network-on-a-hot-day/",
     "title": "Nothing like rebuilding your home network on a hot day",
     "author": "https://basic.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-23T21:37:48.459Z",
-    "last_updated": "2026-06-24T03:15:50.509Z",
+    "last_updated": "2026-06-24T15:02:06.668Z",
     "published": "2026-06-23T12:08Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://forkingmad.blog/my-neighbour-tells-me-i-am-crazy/",
     "title": "My Neighbour tells me I am Crazy!",
     "author": "https://forkingmad.blog",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-06-23T22:32:21.021Z",
-    "last_updated": "2026-06-24T12:54:39.207Z",
+    "last_updated": "2026-06-24T15:02:06.668Z",
     "published": "2026-06-23T18:22Z"
   },
   {
@@ -232,5 +232,14 @@
     "first_seen": "2026-06-24T12:54:39.207Z",
     "last_updated": "2026-06-24T12:54:39.207Z",
     "published": "2026-06-23T21:33Z"
+  },
+  {
+    "url": "https://gary.onl/a-post-about-retro-games/",
+    "title": "A post about retro games",
+    "author": "https://gary.onl",
+    "toasts": 6,
+    "first_seen": "2026-06-24T15:02:06.668Z",
+    "last_updated": "2026-06-24T15:02:06.668Z",
+    "published": "2026-06-23T22:08Z"
   }
 ]
