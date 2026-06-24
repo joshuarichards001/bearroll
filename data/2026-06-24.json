@@ -3,9 +3,9 @@
     "url": "https://scattered-thoughts.bearblog.dev/no-one-wants-your-stuff/",
     "title": "No one wants your stuff",
     "author": "https://scattered-thoughts.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-24T07:21:09.996Z",
-    "last_updated": "2026-06-24T15:02:06.668Z",
+    "last_updated": "2026-06-24T16:50:14.308Z",
     "published": "2026-06-24T00:45Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://gitzandglory.com/my-first-month-on-bearblog-obligatory-new-blogger-post/",
     "title": "My First Month on Bearblog (Obligatory New Blogger Post)",
     "author": "https://gitzandglory.com",
-    "toasts": 18,
+    "toasts": 20,
     "first_seen": "2026-06-24T12:54:39.207Z",
-    "last_updated": "2026-06-24T15:02:06.668Z",
+    "last_updated": "2026-06-24T16:50:14.308Z",
     "published": "2026-06-24T06:47Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://samwigglesworth.bearblog.dev/new-post-new-new-new-new-new-new/",
     "title": "I Have Small Boobs —  No, My Boyfriend Is Not a Pedophile.",
     "author": "https://samwigglesworth.bearblog.dev",
-    "toasts": 23,
+    "toasts": 32,
     "first_seen": "2026-06-24T12:54:39.207Z",
-    "last_updated": "2026-06-24T15:02:06.668Z",
+    "last_updated": "2026-06-24T16:50:14.308Z",
     "published": "2026-06-24T12:30Z"
   },
   {
     "url": "https://deerhoof.website/the-industry-of-hopelessness-is-not-working-anymore/",
     "title": "the industry of hopelessness is not working anymore",
     "author": "https://deerhoof.website",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-06-24T13:50:18.120Z",
-    "last_updated": "2026-06-24T15:02:06.668Z",
+    "last_updated": "2026-06-24T16:50:14.308Z",
     "published": "2026-06-24T12:30Z"
   },
   {
@@ -70,5 +70,59 @@
     "first_seen": "2026-06-24T15:02:06.668Z",
     "last_updated": "2026-06-24T15:02:06.668Z",
     "published": "2026-06-24T03:58Z"
+  },
+  {
+    "url": "https://www.natemeyvis.com/write-for-one-person/",
+    "title": "\"Write for one person\"",
+    "author": "https://www.natemeyvis.com",
+    "toasts": 7,
+    "first_seen": "2026-06-24T16:50:14.308Z",
+    "last_updated": "2026-06-24T16:50:14.308Z",
+    "published": "2026-06-24T12:15Z"
+  },
+  {
+    "url": "https://magnusps.dev/go-count-your-people/",
+    "title": "Go Count Your People",
+    "author": "https://magnusps.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-24T16:50:14.308Z",
+    "last_updated": "2026-06-24T16:50:14.308Z",
+    "published": "2026-06-24T09:21Z"
+  },
+  {
+    "url": "https://scribblypam.bearblog.dev/why-do-i-struggle-to-drink-water/",
+    "title": "Why do I struggle to drink water?",
+    "author": "https://scribblypam.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-24T16:50:14.308Z",
+    "last_updated": "2026-06-24T16:50:14.308Z",
+    "published": "2026-06-24T08:15Z"
+  },
+  {
+    "url": "https://nataliewrites.lol/i-3-little-free-libraries/",
+    "title": "I <3 Little Free Libraries",
+    "author": "https://nataliewrites.lol",
+    "toasts": 7,
+    "first_seen": "2026-06-24T16:50:14.308Z",
+    "last_updated": "2026-06-24T16:50:14.308Z",
+    "published": "2026-06-24T05:16Z"
+  },
+  {
+    "url": "https://yukonsafari.bearblog.dev/busy-living-it/",
+    "title": "Busy living it!",
+    "author": "https://yukonsafari.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-24T16:50:14.308Z",
+    "last_updated": "2026-06-24T16:50:14.308Z",
+    "published": "2026-06-24T04:14Z"
+  },
+  {
+    "url": "https://donthave2sting.bearblog.dev/shit-i-do-when-i-get-anxious/",
+    "title": "shit I do when I get anxious",
+    "author": "https://donthave2sting.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-24T16:50:14.308Z",
+    "last_updated": "2026-06-24T16:50:14.308Z",
+    "published": "2026-06-24T13:23Z"
   }
 ]
