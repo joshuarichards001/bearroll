@@ -21,9 +21,9 @@
     "url": "https://at-the-cafe.bearblog.dev/thoughts-on-the-heatwave/",
     "title": "Thoughts on the heatwave",
     "author": "https://at-the-cafe.bearblog.dev",
-    "toasts": 14,
+    "toasts": 17,
     "first_seen": "2026-06-25T16:51:56.847Z",
-    "last_updated": "2026-06-25T18:51:55.294Z",
+    "last_updated": "2026-06-25T20:44:57.278Z",
     "published": "2026-06-25T10:39Z"
   },
   {
@@ -70,5 +70,41 @@
     "first_seen": "2026-06-25T19:38:29.506Z",
     "last_updated": "2026-06-25T19:38:29.506Z",
     "published": "2026-06-25T16:22Z"
+  },
+  {
+    "url": "https://florio.dev/dont-use-llm-communication/",
+    "title": "Please don't use an LLM to communicate with other human beings.",
+    "author": "https://florio.dev",
+    "toasts": 11,
+    "first_seen": "2026-06-25T20:44:57.278Z",
+    "last_updated": "2026-06-25T20:44:57.278Z",
+    "published": "2026-06-25T20:00Z"
+  },
+  {
+    "url": "https://whateverthewindbrings.com/how-to-stand-against-high-temperatures/",
+    "title": "How to stand against high temperatures",
+    "author": "https://whateverthewindbrings.com",
+    "toasts": 8,
+    "first_seen": "2026-06-25T20:44:57.278Z",
+    "last_updated": "2026-06-25T20:44:57.278Z",
+    "published": "2026-06-25T20:04Z"
+  },
+  {
+    "url": "https://kami.bearblog.dev/i-made-an-html-quiz-maker/",
+    "title": "I made an HTML quiz maker!",
+    "author": "https://kami.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-06-25T20:44:57.278Z",
+    "last_updated": "2026-06-25T20:44:57.278Z",
+    "published": "2026-06-25T19:15Z"
+  },
+  {
+    "url": "https://techdemo.com.br/10-curiosidades-sobre-mim/",
+    "title": "10 Curiosidades sobre mim",
+    "author": "https://techdemo.com.br",
+    "toasts": 8,
+    "first_seen": "2026-06-25T20:44:57.278Z",
+    "last_updated": "2026-06-25T20:44:57.278Z",
+    "published": "2026-06-25T17:14Z"
   }
 ]
