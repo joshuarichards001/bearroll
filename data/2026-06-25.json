@@ -75,9 +75,9 @@
     "url": "https://florio.dev/dont-use-llm-communication/",
     "title": "Please don't use an LLM to communicate with other human beings.",
     "author": "https://florio.dev",
-    "toasts": 14,
+    "toasts": 17,
     "first_seen": "2026-06-25T20:44:57.278Z",
-    "last_updated": "2026-06-25T21:37:03.024Z",
+    "last_updated": "2026-06-25T22:35:28.427Z",
     "published": "2026-06-25T20:00Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-06-25T20:44:57.278Z",
     "last_updated": "2026-06-25T21:37:03.024Z",
     "published": "2026-06-25T17:14Z"
+  },
+  {
+    "url": "https://megatechbody.bearblog.dev/already-in-that-blogging-rut/",
+    "title": "already in that blogging rut",
+    "author": "https://megatechbody.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-25T22:35:28.427Z",
+    "last_updated": "2026-06-25T22:35:28.427Z",
+    "published": "2026-06-25T16:49Z"
   }
 ]
