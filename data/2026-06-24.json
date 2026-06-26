@@ -102,9 +102,9 @@
     "url": "https://nataliewrites.lol/i-3-little-free-libraries/",
     "title": "I <3 Little Free Libraries",
     "author": "https://nataliewrites.lol",
-    "toasts": 31,
+    "toasts": 32,
     "first_seen": "2026-06-24T16:50:14.308Z",
-    "last_updated": "2026-06-26T03:16:28.965Z",
+    "last_updated": "2026-06-26T05:32:36.616Z",
     "published": "2026-06-24T05:16Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://rnotte.art/we-dont-need-facebook/",
     "title": "we don't need facebook",
     "author": "https://rnotte.art",
-    "toasts": 122,
+    "toasts": 124,
     "first_seen": "2026-06-24T21:34:52.413Z",
-    "last_updated": "2026-06-26T03:16:28.965Z",
+    "last_updated": "2026-06-26T05:32:36.616Z",
     "published": "2026-06-24T19:52Z"
   },
   {
@@ -228,9 +228,9 @@
     "url": "https://anotherdayu.com/my-backpack/",
     "title": "我的背包",
     "author": "https://anotherdayu.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-25T11:02:44.294Z",
-    "last_updated": "2026-06-25T15:05:05.704Z",
+    "last_updated": "2026-06-26T05:32:36.616Z",
     "published": "2026-06-24T21:06Z"
   },
   {
@@ -259,5 +259,14 @@
     "first_seen": "2026-06-25T15:05:05.704Z",
     "last_updated": "2026-06-25T15:05:05.704Z",
     "published": "2026-06-24T15:00Z"
+  },
+  {
+    "url": "https://ardens-asides.bearblog.dev/a-small-way-in-which-birding-has-changed-my-life/",
+    "title": "a small way in which birding has changed my life",
+    "author": "https://ardens-asides.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-26T05:32:36.616Z",
+    "last_updated": "2026-06-26T05:32:36.616Z",
+    "published": "2026-06-24T18:58Z"
   }
 ]
