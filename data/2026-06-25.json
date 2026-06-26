@@ -75,18 +75,18 @@
     "url": "https://florio.dev/dont-use-llm-communication/",
     "title": "Please don't use an LLM to communicate with other human beings.",
     "author": "https://florio.dev",
-    "toasts": 70,
+    "toasts": 75,
     "first_seen": "2026-06-25T20:44:57.278Z",
-    "last_updated": "2026-06-26T17:38:20.591Z",
+    "last_updated": "2026-06-26T18:44:18.861Z",
     "published": "2026-06-25T20:00Z"
   },
   {
     "url": "https://whateverthewindbrings.com/how-to-stand-against-high-temperatures/",
     "title": "How to stand against high temperatures",
     "author": "https://whateverthewindbrings.com",
-    "toasts": 46,
+    "toasts": 48,
     "first_seen": "2026-06-25T20:44:57.278Z",
-    "last_updated": "2026-06-26T16:46:28.149Z",
+    "last_updated": "2026-06-26T18:44:18.861Z",
     "published": "2026-06-25T20:04Z"
   },
   {
@@ -151,5 +151,14 @@
     "first_seen": "2026-06-26T12:52:27.997Z",
     "last_updated": "2026-06-26T12:52:27.997Z",
     "published": "2026-06-25T14:14Z"
+  },
+  {
+    "url": "https://danmoura.com/um-pouco-sobre-metas-absurdas/",
+    "title": "Um Pouco Sobre Metas Absurdas.",
+    "author": "https://danmoura.com",
+    "toasts": 7,
+    "first_seen": "2026-06-26T18:44:18.861Z",
+    "last_updated": "2026-06-26T18:44:18.861Z",
+    "published": "2026-06-25T14:13Z"
   }
 ]
