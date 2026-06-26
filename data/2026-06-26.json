@@ -3,9 +3,9 @@
     "url": "https://marcg.net/its-getting-real-hot-real-fast/",
     "title": "It's getting real hot, real fast",
     "author": "https://marcg.net",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-06-26T09:14:35.864Z",
-    "last_updated": "2026-06-26T09:14:35.864Z",
+    "last_updated": "2026-06-26T12:52:27.997Z",
     "published": "2026-06-26T06:33Z"
   },
   {
@@ -16,5 +16,14 @@
     "first_seen": "2026-06-26T11:06:15.296Z",
     "last_updated": "2026-06-26T11:06:15.296Z",
     "published": "2026-06-26T05:13Z"
+  },
+  {
+    "url": "https://reedybear.bearblog.dev/making-myself-a-restaurant-style-meal-menu/",
+    "title": "Making myself a restaurant-style meal menu",
+    "author": "https://reedybear.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-26T12:52:27.997Z",
+    "last_updated": "2026-06-26T12:52:27.997Z",
+    "published": "2026-06-26T00:54Z"
   }
 ]
