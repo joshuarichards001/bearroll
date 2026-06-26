@@ -21,9 +21,9 @@
     "url": "https://at-the-cafe.bearblog.dev/thoughts-on-the-heatwave/",
     "title": "Thoughts on the heatwave",
     "author": "https://at-the-cafe.bearblog.dev",
-    "toasts": 46,
+    "toasts": 47,
     "first_seen": "2026-06-25T16:51:56.847Z",
-    "last_updated": "2026-06-26T17:38:20.591Z",
+    "last_updated": "2026-06-26T19:36:55.849Z",
     "published": "2026-06-25T10:39Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://blog.absurdpirate.com/what-i-learned-about-relationships-after-being-with-my-wife-for-8-years/",
     "title": "What I Learned About Relationships After Being With My Wife For 8 Years",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 46,
+    "toasts": 47,
     "first_seen": "2026-06-25T18:51:55.294Z",
-    "last_updated": "2026-06-26T17:38:20.591Z",
+    "last_updated": "2026-06-26T19:36:55.849Z",
     "published": "2026-06-25T14:25Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://florio.dev/dont-use-llm-communication/",
     "title": "Please don't use an LLM to communicate with other human beings.",
     "author": "https://florio.dev",
-    "toasts": 75,
+    "toasts": 76,
     "first_seen": "2026-06-25T20:44:57.278Z",
-    "last_updated": "2026-06-26T18:44:18.861Z",
+    "last_updated": "2026-06-26T19:36:55.849Z",
     "published": "2026-06-25T20:00Z"
   },
   {
@@ -160,5 +160,14 @@
     "first_seen": "2026-06-26T18:44:18.861Z",
     "last_updated": "2026-06-26T18:44:18.861Z",
     "published": "2026-06-25T14:13Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/other-random-pictures/",
+    "title": "Other random pictures",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 7,
+    "first_seen": "2026-06-26T19:36:55.849Z",
+    "last_updated": "2026-06-26T19:36:55.849Z",
+    "published": "2026-06-25T23:05Z"
   }
 ]
