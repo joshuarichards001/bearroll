@@ -30,18 +30,18 @@
     "url": "https://nonentity.bearblog.dev/leaving-the-hell/",
     "title": "Leaving the Hell",
     "author": "https://nonentity.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-06-27T12:36:10.039Z",
-    "last_updated": "2026-06-27T18:31:37.526Z",
+    "last_updated": "2026-06-27T21:28:03.080Z",
     "published": "2026-06-27T08:48Z"
   },
   {
     "url": "https://louplummer.lol/catch-a-break/",
     "title": "Can a Brother Catch a Break?",
     "author": "https://louplummer.lol",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-27T13:36:15.159Z",
-    "last_updated": "2026-06-27T18:31:37.526Z",
+    "last_updated": "2026-06-27T21:28:03.080Z",
     "published": "2026-06-27T09:47Z"
   },
   {
@@ -79,5 +79,14 @@
     "first_seen": "2026-06-27T19:33:35.945Z",
     "last_updated": "2026-06-27T19:33:35.945Z",
     "published": "2026-06-27T15:06Z"
+  },
+  {
+    "url": "https://blog.avas.space/germany-heat/",
+    "title": "enduring the heat wave in germany",
+    "author": "https://blog.avas.space",
+    "toasts": 6,
+    "first_seen": "2026-06-27T21:28:03.080Z",
+    "last_updated": "2026-06-27T21:28:03.080Z",
+    "published": "2026-06-27T15:46Z"
   }
 ]
