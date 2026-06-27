@@ -12,9 +12,9 @@
     "url": "https://gorgonbones.bearblog.dev/guest-post-i-was-a-lady-of-sorrow/",
     "title": "Guest Post: I was a Lady of Sorrow",
     "author": "https://gorgonbones.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-06-26T11:06:15.296Z",
-    "last_updated": "2026-06-26T21:34:20.115Z",
+    "last_updated": "2026-06-27T12:36:10.039Z",
     "published": "2026-06-26T05:13Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://fornoone.bearblog.dev/the-absolute-lottery-of-random-on-bear/",
     "title": "The absolute lottery of Random on Bear",
     "author": "https://fornoone.bearblog.dev",
-    "toasts": 23,
+    "toasts": 25,
     "first_seen": "2026-06-26T21:34:20.115Z",
-    "last_updated": "2026-06-27T11:34:23.048Z",
+    "last_updated": "2026-06-27T12:36:10.039Z",
     "published": "2026-06-26T19:46Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-06-27T07:13:42.917Z",
     "last_updated": "2026-06-27T07:13:42.917Z",
     "published": "2026-06-26T16:45Z"
+  },
+  {
+    "url": "https://naisho.bearblog.dev/morethanemail/",
+    "title": "More Than Email",
+    "author": "https://naisho.bearblog.dev",
+    "toasts": 23,
+    "first_seen": "2026-06-27T12:36:10.039Z",
+    "last_updated": "2026-06-27T12:36:10.039Z",
+    "published": "2026-06-26T16:31Z"
   }
 ]
