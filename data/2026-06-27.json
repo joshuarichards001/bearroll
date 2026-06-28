@@ -21,18 +21,18 @@
     "url": "https://www.simonjamesfrench.com/something-a-guest-wrote-worth-your-time/",
     "title": "A Well to Pour Things Into",
     "author": "https://www.simonjamesfrench.com",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-06-27T12:36:10.039Z",
-    "last_updated": "2026-06-28T13:36:30.217Z",
+    "last_updated": "2026-06-28T18:31:30.199Z",
     "published": "2026-06-27T12:21Z"
   },
   {
     "url": "https://nonentity.bearblog.dev/leaving-the-hell/",
     "title": "Leaving the Hell",
     "author": "https://nonentity.bearblog.dev",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-06-27T12:36:10.039Z",
-    "last_updated": "2026-06-28T16:31:56.670Z",
+    "last_updated": "2026-06-28T18:31:30.199Z",
     "published": "2026-06-27T08:48Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/thank-you-for-caring/",
     "title": "Thank you for caring",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 52,
+    "toasts": 56,
     "first_seen": "2026-06-27T14:37:23.573Z",
-    "last_updated": "2026-06-28T16:31:56.670Z",
+    "last_updated": "2026-06-28T18:31:30.199Z",
     "published": "2026-06-27T13:30Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://blog.avas.space/germany-heat/",
     "title": "enduring the heat wave in germany",
     "author": "https://blog.avas.space",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-06-27T21:28:03.080Z",
-    "last_updated": "2026-06-28T13:36:30.217Z",
+    "last_updated": "2026-06-28T18:31:30.199Z",
     "published": "2026-06-27T15:46Z"
   },
   {
@@ -151,5 +151,14 @@
     "first_seen": "2026-06-28T10:49:43.568Z",
     "last_updated": "2026-06-28T10:49:43.568Z",
     "published": "2026-06-27T14:31Z"
+  },
+  {
+    "url": "https://th.blog.br/bentinho-e-um-vacilao/",
+    "title": "Bentinho é um vacilão",
+    "author": "https://th.blog.br",
+    "toasts": 6,
+    "first_seen": "2026-06-28T18:31:30.199Z",
+    "last_updated": "2026-06-28T18:31:30.199Z",
+    "published": "2026-06-27T22:48Z"
   }
 ]
