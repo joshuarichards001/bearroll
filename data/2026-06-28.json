@@ -39,9 +39,9 @@
     "url": "https://elmc.at/cultures-not-games/",
     "title": "Cultures, not Games",
     "author": "https://elmc.at",
-    "toasts": 14,
+    "toasts": 17,
     "first_seen": "2026-06-28T17:30:32.068Z",
-    "last_updated": "2026-06-28T20:31:52.913Z",
+    "last_updated": "2026-06-28T21:28:17.965Z",
     "published": "2026-06-28T16:30Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-06-28T20:31:52.913Z",
     "last_updated": "2026-06-28T20:31:52.913Z",
     "published": "2026-06-28T13:22Z"
+  },
+  {
+    "url": "https://afraidofencounters.bearblog.dev/appendix-n-manifesto/",
+    "title": "Things Can Be Weirder in TTRPG: An Appendix N Manifesto",
+    "author": "https://afraidofencounters.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-28T21:28:17.965Z",
+    "last_updated": "2026-06-28T21:28:17.965Z",
+    "published": "2026-06-28T14:30Z"
   }
 ]
