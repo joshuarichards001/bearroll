@@ -3,9 +3,9 @@
     "url": "https://pego.dev/people-still-want-small-personal-corners-of-the-web/",
     "title": "People still want small, personal corners of the web",
     "author": "https://pego.dev",
-    "toasts": 37,
+    "toasts": 40,
     "first_seen": "2026-06-28T09:09:49.641Z",
-    "last_updated": "2026-06-28T19:34:30.599Z",
+    "last_updated": "2026-06-28T20:31:52.913Z",
     "published": "2026-06-28T08:22Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://elmc.at/cultures-not-games/",
     "title": "Cultures, not Games",
     "author": "https://elmc.at",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-06-28T17:30:32.068Z",
-    "last_updated": "2026-06-28T19:34:30.599Z",
+    "last_updated": "2026-06-28T20:31:52.913Z",
     "published": "2026-06-28T16:30Z"
   },
   {
@@ -66,18 +66,27 @@
     "url": "https://forkingmad.blog/tech-morality-is-hard/",
     "title": "Tech Morality is Hard",
     "author": "https://forkingmad.blog",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-28T18:31:30.199Z",
-    "last_updated": "2026-06-28T19:34:30.599Z",
+    "last_updated": "2026-06-28T20:31:52.913Z",
     "published": "2026-06-28T11:48Z"
   },
   {
     "url": "https://chilblands.bearblog.dev/fight-commercialisation-of-junk-journaling/",
     "title": "Fight the commercialisation of junk journaling",
     "author": "https://chilblands.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-28T19:34:30.599Z",
-    "last_updated": "2026-06-28T19:34:30.599Z",
+    "last_updated": "2026-06-28T20:31:52.913Z",
     "published": "2026-06-28T12:58Z"
+  },
+  {
+    "url": "https://thenikraj.bearblog.dev/hugging-the-bear/",
+    "title": "Hugging the Bear",
+    "author": "https://thenikraj.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-06-28T20:31:52.913Z",
+    "last_updated": "2026-06-28T20:31:52.913Z",
+    "published": "2026-06-28T13:22Z"
   }
 ]
