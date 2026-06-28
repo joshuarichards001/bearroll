@@ -3,9 +3,9 @@
     "url": "https://kattenstreken.sinne.cool/kattenstreken-1/",
     "title": "Kattenstreken 1",
     "author": "https://kattenstreken.sinne.cool",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-27T10:44:11.795Z",
-    "last_updated": "2026-06-28T01:05:55.953Z",
+    "last_updated": "2026-06-28T07:30:14.302Z",
     "published": "2026-06-27T07:15Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://www.simonjamesfrench.com/something-a-guest-wrote-worth-your-time/",
     "title": "A Well to Pour Things Into",
     "author": "https://www.simonjamesfrench.com",
-    "toasts": 11,
+    "toasts": 13,
     "first_seen": "2026-06-27T12:36:10.039Z",
-    "last_updated": "2026-06-28T01:05:55.953Z",
+    "last_updated": "2026-06-28T07:30:14.302Z",
     "published": "2026-06-27T12:21Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://louplummer.lol/catch-a-break/",
     "title": "Can a Brother Catch a Break?",
     "author": "https://louplummer.lol",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-27T13:36:15.159Z",
-    "last_updated": "2026-06-28T01:05:55.953Z",
+    "last_updated": "2026-06-28T07:30:14.302Z",
     "published": "2026-06-27T09:47Z"
   },
   {
     "url": "https://doodhpeda.bearblog.dev/blog/thank-you-for-caring/",
     "title": "Thank you for caring",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 32,
+    "toasts": 39,
     "first_seen": "2026-06-27T14:37:23.573Z",
-    "last_updated": "2026-06-28T03:16:51.925Z",
+    "last_updated": "2026-06-28T07:30:14.302Z",
     "published": "2026-06-27T13:30Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://robertbirming.com/your-blog-wont-explode/",
     "title": "Your blog won't explode",
     "author": "https://robertbirming.com",
-    "toasts": 14,
+    "toasts": 16,
     "first_seen": "2026-06-27T17:28:20.876Z",
-    "last_updated": "2026-06-28T01:05:55.953Z",
+    "last_updated": "2026-06-28T07:30:14.302Z",
     "published": "2026-06-27T15:47Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://blog.avas.space/germany-heat/",
     "title": "enduring the heat wave in germany",
     "author": "https://blog.avas.space",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-06-27T21:28:03.080Z",
-    "last_updated": "2026-06-28T01:05:55.953Z",
+    "last_updated": "2026-06-28T07:30:14.302Z",
     "published": "2026-06-27T15:46Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://rezanotes.bearblog.dev/evening-walks/",
     "title": "Evening walks",
     "author": "https://rezanotes.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-28T03:16:51.925Z",
-    "last_updated": "2026-06-28T05:36:52.639Z",
+    "last_updated": "2026-06-28T07:30:14.302Z",
     "published": "2026-06-27T21:30Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-06-28T05:36:52.639Z",
     "last_updated": "2026-06-28T05:36:52.639Z",
     "published": "2026-06-27T17:08Z"
+  },
+  {
+    "url": "https://rickw.bearblog.dev/now-i-can-quit-chess/",
+    "title": "Now I Can Quit Chess",
+    "author": "https://rickw.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-28T07:30:14.302Z",
+    "last_updated": "2026-06-28T07:30:14.302Z",
+    "published": "2026-06-27T19:56Z"
   }
 ]
