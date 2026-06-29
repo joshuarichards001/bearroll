@@ -3,9 +3,9 @@
     "url": "https://pego.dev/people-still-want-small-personal-corners-of-the-web/",
     "title": "People still want small, personal corners of the web",
     "author": "https://pego.dev",
-    "toasts": 41,
+    "toasts": 45,
     "first_seen": "2026-06-28T09:09:49.641Z",
-    "last_updated": "2026-06-28T22:26:51.409Z",
+    "last_updated": "2026-06-29T01:06:19.759Z",
     "published": "2026-06-28T08:22Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://elmc.at/cultures-not-games/",
     "title": "Cultures, not Games",
     "author": "https://elmc.at",
-    "toasts": 20,
+    "toasts": 27,
     "first_seen": "2026-06-28T17:30:32.068Z",
-    "last_updated": "2026-06-28T23:28:39.434Z",
+    "last_updated": "2026-06-29T01:06:19.759Z",
     "published": "2026-06-28T16:30Z"
   },
   {
@@ -115,5 +115,23 @@
     "first_seen": "2026-06-28T23:28:39.434Z",
     "last_updated": "2026-06-28T23:28:39.434Z",
     "published": "2026-06-28T07:40Z"
+  },
+  {
+    "url": "https://forsomeone.bearblog.dev/full-freedom-to-do-as-you-please/",
+    "title": "Full freedom to do as you please",
+    "author": "https://forsomeone.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-29T01:06:19.759Z",
+    "last_updated": "2026-06-29T01:06:19.759Z",
+    "published": "2026-06-28T20:31Z"
+  },
+  {
+    "url": "https://imperfect.bearblog.dev/posts-are-projects/",
+    "title": "posts are projects",
+    "author": "https://imperfect.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-29T01:06:19.759Z",
+    "last_updated": "2026-06-29T01:06:19.759Z",
+    "published": "2026-06-28T19:30Z"
   }
 ]
