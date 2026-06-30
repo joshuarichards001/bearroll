@@ -12,18 +12,18 @@
     "url": "https://megatechbody.bearblog.dev/my-neighbours-cant-hang-laundry-to-save-their-lives/",
     "title": "my neighbours cant hang laundry to save their lives",
     "author": "https://megatechbody.bearblog.dev",
-    "toasts": 31,
+    "toasts": 37,
     "first_seen": "2026-06-29T15:15:38.856Z",
-    "last_updated": "2026-06-30T07:28:08.735Z",
+    "last_updated": "2026-06-30T09:15:37.539Z",
     "published": "2026-06-29T13:39Z"
   },
   {
     "url": "https://rnotte.art/computer-customization/",
     "title": "computer customization",
     "author": "https://rnotte.art",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-06-29T20:41:40.359Z",
-    "last_updated": "2026-06-30T07:28:08.735Z",
+    "last_updated": "2026-06-30T09:15:37.539Z",
     "published": "2026-06-29T16:53Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://jollyanchorblog.bearblog.dev/took-a-mulligan/",
     "title": "took a mulligan",
     "author": "https://jollyanchorblog.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-06-30T03:15:49.338Z",
-    "last_updated": "2026-06-30T03:15:49.338Z",
+    "last_updated": "2026-06-30T09:15:37.539Z",
     "published": "2026-06-29T22:09Z"
   },
   {
@@ -115,5 +115,14 @@
     "first_seen": "2026-06-30T07:28:08.735Z",
     "last_updated": "2026-06-30T07:28:08.735Z",
     "published": "2026-06-29T23:01Z"
+  },
+  {
+    "url": "https://pablo.bearblog.dev/blog-carnivals-around-the-indie-web/",
+    "title": "Blog Carnivals around the Indie Web",
+    "author": "https://pablo.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-30T09:15:37.539Z",
+    "last_updated": "2026-06-30T09:15:37.539Z",
+    "published": "2026-06-29T20:55Z"
   }
 ]
