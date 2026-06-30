@@ -21,9 +21,9 @@
     "url": "https://rnotte.art/computer-customization/",
     "title": "computer customization",
     "author": "https://rnotte.art",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-29T20:41:40.359Z",
-    "last_updated": "2026-06-29T22:28:02.544Z",
+    "last_updated": "2026-06-30T01:02:03.405Z",
     "published": "2026-06-29T16:53Z"
   },
   {
@@ -34,5 +34,32 @@
     "first_seen": "2026-06-29T21:34:56.336Z",
     "last_updated": "2026-06-29T22:28:02.544Z",
     "published": "2026-06-29T11:22Z"
+  },
+  {
+    "url": "https://householderkarl.com/yall-qaeda/",
+    "title": "Y’all-Qaeda",
+    "author": "https://householderkarl.com",
+    "toasts": 8,
+    "first_seen": "2026-06-30T01:02:03.405Z",
+    "last_updated": "2026-06-30T01:02:03.405Z",
+    "published": "2026-06-29T17:21Z"
+  },
+  {
+    "url": "https://thedorkweb.bearblog.dev/on-mullvad-ethical-tech-and-geese/",
+    "title": "On Mullvad, Ethical Tech, Geese and Digital Commons",
+    "author": "https://thedorkweb.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-30T01:02:03.405Z",
+    "last_updated": "2026-06-30T01:02:03.405Z",
+    "published": "2026-06-29T11:17Z"
+  },
+  {
+    "url": "https://brackish-draught.bearblog.dev/a-blog-post-about-that-one-popular-show/",
+    "title": "A Blog Post About That One Popular Show",
+    "author": "https://brackish-draught.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-30T01:02:03.405Z",
+    "last_updated": "2026-06-30T01:02:03.405Z",
+    "published": "2026-06-29T10:54Z"
   }
 ]
