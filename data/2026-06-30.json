@@ -3,9 +3,9 @@
     "url": "https://livingkindfully.bearblog.dev/my-friend-just-died-of-cancer/",
     "title": "My Friend Just Died of Cancer",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-06-30T03:15:49.338Z",
-    "last_updated": "2026-06-30T17:40:25.626Z",
+    "last_updated": "2026-06-30T19:39:06.344Z",
     "published": "2026-06-30T01:08Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://abhijaykandaswamy.bearblog.dev/what-getting-banned-taught-me-about-creativity/",
     "title": "What Getting Banned Taught Me About Creativity",
     "author": "https://abhijaykandaswamy.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-30T11:07:00.241Z",
-    "last_updated": "2026-06-30T11:07:00.241Z",
+    "last_updated": "2026-06-30T19:39:06.344Z",
     "published": "2026-06-30T02:28Z"
   },
   {
@@ -48,9 +48,18 @@
     "url": "https://puppynet.work/casual-censorship-and-accessibility-issues-online/",
     "title": "Casual censorship and accessibility issues online",
     "author": "https://puppynet.work",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-06-30T17:40:25.626Z",
-    "last_updated": "2026-06-30T18:44:42.576Z",
+    "last_updated": "2026-06-30T19:39:06.344Z",
     "published": "2026-06-30T16:03Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/check-out-warp-point/",
+    "title": "Check out Warp Point",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 5,
+    "first_seen": "2026-06-30T19:39:06.344Z",
+    "last_updated": "2026-06-30T19:39:06.344Z",
+    "published": "2026-06-30T16:30Z"
   }
 ]
