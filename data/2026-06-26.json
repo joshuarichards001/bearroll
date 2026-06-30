@@ -160,5 +160,41 @@
     "first_seen": "2026-06-27T17:28:20.876Z",
     "last_updated": "2026-06-27T18:31:37.526Z",
     "published": "2026-06-26T21:51Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/cord-cutting/",
+    "title": "Cord Cutting (Spell/Ritual)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-06-30T05:30:03.001Z",
+    "last_updated": "2026-06-30T05:30:03.001Z",
+    "published": "2026-06-26T23:28Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/resources/",
+    "title": "Recommended Resources and Red Flags",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-06-30T05:30:03.001Z",
+    "last_updated": "2026-06-30T05:30:03.001Z",
+    "published": "2026-06-26T22:10Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/lets-get-our-feet-wet-with-some-background-info/",
+    "title": "Lets get our feet wet with some background info on the Runes (Blog)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-06-30T05:30:03.001Z",
+    "last_updated": "2026-06-30T05:30:03.001Z",
+    "published": "2026-06-26T15:53Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/poetry1/",
+    "title": "A Memoir (Poetry)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-06-30T05:30:03.001Z",
+    "last_updated": "2026-06-30T05:30:03.001Z",
+    "published": "2026-06-26T23:57Z"
   }
 ]
