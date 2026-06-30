@@ -3,18 +3,18 @@
     "url": "https://livingkindfully.bearblog.dev/my-friend-just-died-of-cancer/",
     "title": "My Friend Just Died of Cancer",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-06-30T03:15:49.338Z",
-    "last_updated": "2026-06-30T15:57:35.845Z",
+    "last_updated": "2026-06-30T17:40:25.626Z",
     "published": "2026-06-30T01:08Z"
   },
   {
     "url": "https://blog.curiousquail.com/ok-everyone-shut-the-fuck-up-and-please-look-at-this-incredible-awkward-teen-bird/",
     "title": "Ok everyone shut the fuck up and please look at this incredible awkward teen bird",
     "author": "https://blog.curiousquail.com",
-    "toasts": 37,
+    "toasts": 39,
     "first_seen": "2026-06-30T05:30:03.001Z",
-    "last_updated": "2026-06-30T16:50:52.577Z",
+    "last_updated": "2026-06-30T17:40:25.626Z",
     "published": "2026-06-30T01:26Z"
   },
   {
@@ -39,9 +39,18 @@
     "url": "https://blog.avas.space/rosebudthorn-june26/",
     "title": "rose ▪ bud ▪ thorn - june 2026",
     "author": "https://blog.avas.space",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-06-30T15:57:35.845Z",
-    "last_updated": "2026-06-30T15:57:35.845Z",
+    "last_updated": "2026-06-30T17:40:25.626Z",
     "published": "2026-06-30T07:30Z"
+  },
+  {
+    "url": "https://puppynet.work/casual-censorship-and-accessibility-issues-online/",
+    "title": "Casual censorship and accessibility issues online",
+    "author": "https://puppynet.work",
+    "toasts": 5,
+    "first_seen": "2026-06-30T17:40:25.626Z",
+    "last_updated": "2026-06-30T17:40:25.626Z",
+    "published": "2026-06-30T16:03Z"
   }
 ]
