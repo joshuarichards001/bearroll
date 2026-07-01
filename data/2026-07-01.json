@@ -3,9 +3,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/when-something-is-beautiful/",
     "title": "When something is beautiful",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 21,
+    "toasts": 23,
     "first_seen": "2026-07-01T05:40:01.565Z",
-    "last_updated": "2026-07-01T21:36:07.258Z",
+    "last_updated": "2026-07-01T22:34:06.367Z",
     "published": "2026-07-01T03:00Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://after.bearblog.dev/micro/reading-update-2/",
     "title": "Reading update",
     "author": "https://after.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-01T15:05:05.745Z",
-    "last_updated": "2026-07-01T15:05:05.745Z",
+    "last_updated": "2026-07-01T22:34:06.367Z",
     "published": "2026-07-01T03:55Z"
   },
   {
@@ -147,9 +147,27 @@
     "url": "https://journal.james-zhan.com/canada-day-2026/",
     "title": "Thank You, Canada",
     "author": "https://journal.james-zhan.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-01T20:39:42.788Z",
-    "last_updated": "2026-07-01T20:39:42.788Z",
+    "last_updated": "2026-07-01T22:34:06.367Z",
     "published": "2026-07-01T12:23Z"
+  },
+  {
+    "url": "https://lightlogged.blog/home-alone/",
+    "title": "Home Alone",
+    "author": "https://lightlogged.blog",
+    "toasts": 6,
+    "first_seen": "2026-07-01T22:34:06.367Z",
+    "last_updated": "2026-07-01T22:34:06.367Z",
+    "published": "2026-07-01T19:30Z"
+  },
+  {
+    "url": "https://louplummer.lol/punching-nazis/",
+    "title": "Punching Nazis for Fun and Profit",
+    "author": "https://louplummer.lol",
+    "toasts": 6,
+    "first_seen": "2026-07-01T22:34:06.367Z",
+    "last_updated": "2026-07-01T22:34:06.367Z",
+    "published": "2026-07-01T13:15Z"
   }
 ]
