@@ -3,9 +3,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/when-something-is-beautiful/",
     "title": "When something is beautiful",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 23,
+    "toasts": 25,
     "first_seen": "2026-07-01T05:40:01.565Z",
-    "last_updated": "2026-07-01T22:34:06.367Z",
+    "last_updated": "2026-07-01T23:34:07.155Z",
     "published": "2026-07-01T03:00Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://after.bearblog.dev/micro/reading-update-2/",
     "title": "Reading update",
     "author": "https://after.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-01T15:05:05.745Z",
-    "last_updated": "2026-07-01T22:34:06.367Z",
+    "last_updated": "2026-07-01T23:34:07.155Z",
     "published": "2026-07-01T03:55Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://combatdavey.net/june-30-2026/",
     "title": "june 30 (kawhi trade post)",
     "author": "https://combatdavey.net",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-01T19:36:29.914Z",
-    "last_updated": "2026-07-01T19:36:29.914Z",
+    "last_updated": "2026-07-01T23:34:07.155Z",
     "published": "2026-07-01T03:59Z"
   },
   {
@@ -147,18 +147,18 @@
     "url": "https://journal.james-zhan.com/canada-day-2026/",
     "title": "Thank You, Canada",
     "author": "https://journal.james-zhan.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-01T20:39:42.788Z",
-    "last_updated": "2026-07-01T22:34:06.367Z",
+    "last_updated": "2026-07-01T23:34:07.155Z",
     "published": "2026-07-01T12:23Z"
   },
   {
     "url": "https://lightlogged.blog/home-alone/",
     "title": "Home Alone",
     "author": "https://lightlogged.blog",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-01T22:34:06.367Z",
-    "last_updated": "2026-07-01T22:34:06.367Z",
+    "last_updated": "2026-07-01T23:34:07.155Z",
     "published": "2026-07-01T19:30Z"
   },
   {
@@ -169,5 +169,23 @@
     "first_seen": "2026-07-01T22:34:06.367Z",
     "last_updated": "2026-07-01T22:34:06.367Z",
     "published": "2026-07-01T13:15Z"
+  },
+  {
+    "url": "https://th.blog.br/chorinho/",
+    "title": "Chorinho",
+    "author": "https://th.blog.br",
+    "toasts": 6,
+    "first_seen": "2026-07-01T23:34:07.155Z",
+    "last_updated": "2026-07-01T23:34:07.155Z",
+    "published": "2026-07-01T22:33Z"
+  },
+  {
+    "url": "https://fornoone.bearblog.dev/that-time-my-mom-asked-why-am-i-so-nice-to-people/",
+    "title": "That time my mom asked \"why am I so nice to people\"",
+    "author": "https://fornoone.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-07-01T23:34:07.155Z",
+    "last_updated": "2026-07-01T23:34:07.155Z",
+    "published": "2026-07-01T14:58Z"
   }
 ]
