@@ -3,18 +3,18 @@
     "url": "https://livingkindfully.bearblog.dev/my-friend-just-died-of-cancer/",
     "title": "My Friend Just Died of Cancer",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 21,
+    "toasts": 24,
     "first_seen": "2026-06-30T03:15:49.338Z",
-    "last_updated": "2026-07-01T03:16:58.093Z",
+    "last_updated": "2026-07-01T05:40:01.565Z",
     "published": "2026-06-30T01:08Z"
   },
   {
     "url": "https://blog.curiousquail.com/ok-everyone-shut-the-fuck-up-and-please-look-at-this-incredible-awkward-teen-bird/",
     "title": "Ok everyone shut the fuck up and please look at this incredible awkward teen bird",
     "author": "https://blog.curiousquail.com",
-    "toasts": 48,
+    "toasts": 50,
     "first_seen": "2026-06-30T05:30:03.001Z",
-    "last_updated": "2026-07-01T03:16:58.093Z",
+    "last_updated": "2026-07-01T05:40:01.565Z",
     "published": "2026-06-30T01:26Z"
   },
   {
@@ -57,36 +57,45 @@
     "url": "https://blog.lauramichet.com/check-out-warp-point/",
     "title": "Check out Warp Point",
     "author": "https://blog.lauramichet.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-30T19:39:06.344Z",
-    "last_updated": "2026-07-01T01:06:32.310Z",
+    "last_updated": "2026-07-01T05:40:01.565Z",
     "published": "2026-06-30T16:30Z"
   },
   {
     "url": "https://webaligo.bearblog.dev/we-were-worried-about-the-wrong-aspect-of-ai/",
     "title": "We Were Worried About the Wrong Aspect of AI",
     "author": "https://webaligo.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-06-30T21:36:00.714Z",
-    "last_updated": "2026-07-01T03:16:58.093Z",
+    "last_updated": "2026-07-01T05:40:01.565Z",
     "published": "2026-06-30T19:35Z"
   },
   {
     "url": "https://robertbirming.com/app-fatigue/",
     "title": "App fatigue",
     "author": "https://robertbirming.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-01T01:06:32.310Z",
-    "last_updated": "2026-07-01T03:16:58.093Z",
+    "last_updated": "2026-07-01T05:40:01.565Z",
     "published": "2026-06-30T16:01Z"
   },
   {
     "url": "https://nataliewrites.lol/capitalism-is-killing-us-all-working-two-jobs-and-being-in-graduate-school/",
     "title": "Capitalism is Killing Us All: On Working Two Jobs",
     "author": "https://nataliewrites.lol",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-01T03:16:58.093Z",
-    "last_updated": "2026-07-01T03:16:58.093Z",
+    "last_updated": "2026-07-01T05:40:01.565Z",
     "published": "2026-06-30T23:40Z"
+  },
+  {
+    "url": "https://storybook.ttywitch.dev/the-loneliness-of-friendship/",
+    "title": "the loneliness of friendship",
+    "author": "https://storybook.ttywitch.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-01T05:40:01.565Z",
+    "last_updated": "2026-07-01T05:40:01.565Z",
+    "published": "2026-06-30T22:36Z"
   }
 ]

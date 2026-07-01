@@ -12,18 +12,18 @@
     "url": "https://megatechbody.bearblog.dev/my-neighbours-cant-hang-laundry-to-save-their-lives/",
     "title": "my neighbours cant hang laundry to save their lives",
     "author": "https://megatechbody.bearblog.dev",
-    "toasts": 54,
+    "toasts": 55,
     "first_seen": "2026-06-29T15:15:38.856Z",
-    "last_updated": "2026-07-01T03:16:58.093Z",
+    "last_updated": "2026-07-01T05:40:01.565Z",
     "published": "2026-06-29T13:39Z"
   },
   {
     "url": "https://rnotte.art/computer-customization/",
     "title": "computer customization",
     "author": "https://rnotte.art",
-    "toasts": 29,
+    "toasts": 34,
     "first_seen": "2026-06-29T20:41:40.359Z",
-    "last_updated": "2026-07-01T03:16:58.093Z",
+    "last_updated": "2026-07-01T05:40:01.565Z",
     "published": "2026-06-29T16:53Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://liaswyrd.bearblog.dev/about/",
     "title": "About",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-30T05:30:03.001Z",
-    "last_updated": "2026-07-01T01:06:32.310Z",
+    "last_updated": "2026-07-01T05:40:01.565Z",
     "published": "2026-06-29T16:26Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-06-30T17:40:25.626Z",
     "last_updated": "2026-07-01T03:16:58.093Z",
     "published": "2026-06-29T23:05Z"
+  },
+  {
+    "url": "https://brainjour.com/herman-on-becoming-a-day-person/",
+    "title": "Herman on becoming a day person",
+    "author": "https://brainjour.com",
+    "toasts": 6,
+    "first_seen": "2026-07-01T05:40:01.565Z",
+    "last_updated": "2026-07-01T05:40:01.565Z",
+    "published": "2026-06-29T23:55Z"
   }
 ]
