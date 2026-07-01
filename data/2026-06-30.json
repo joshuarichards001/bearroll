@@ -3,9 +3,9 @@
     "url": "https://livingkindfully.bearblog.dev/my-friend-just-died-of-cancer/",
     "title": "My Friend Just Died of Cancer",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 27,
+    "toasts": 29,
     "first_seen": "2026-06-30T03:15:49.338Z",
-    "last_updated": "2026-07-01T07:40:30.013Z",
+    "last_updated": "2026-07-01T09:16:31.465Z",
     "published": "2026-06-30T01:08Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://puppynet.work/casual-censorship-and-accessibility-issues-online/",
     "title": "Casual censorship and accessibility issues online",
     "author": "https://puppynet.work",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-06-30T17:40:25.626Z",
-    "last_updated": "2026-07-01T01:06:32.310Z",
+    "last_updated": "2026-07-01T09:16:31.465Z",
     "published": "2026-06-30T16:03Z"
   },
   {
@@ -75,27 +75,27 @@
     "url": "https://robertbirming.com/app-fatigue/",
     "title": "App fatigue",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-01T01:06:32.310Z",
-    "last_updated": "2026-07-01T05:40:01.565Z",
+    "last_updated": "2026-07-01T09:16:31.465Z",
     "published": "2026-06-30T16:01Z"
   },
   {
     "url": "https://nataliewrites.lol/capitalism-is-killing-us-all-working-two-jobs-and-being-in-graduate-school/",
     "title": "Capitalism is Killing Us All: On Working Two Jobs",
     "author": "https://nataliewrites.lol",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-01T03:16:58.093Z",
-    "last_updated": "2026-07-01T07:40:30.013Z",
+    "last_updated": "2026-07-01T09:16:31.465Z",
     "published": "2026-06-30T23:40Z"
   },
   {
     "url": "https://storybook.ttywitch.dev/the-loneliness-of-friendship/",
     "title": "the loneliness of friendship",
     "author": "https://storybook.ttywitch.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-07-01T05:40:01.565Z",
-    "last_updated": "2026-07-01T07:40:30.013Z",
+    "last_updated": "2026-07-01T09:16:31.465Z",
     "published": "2026-06-30T22:36Z"
   },
   {
@@ -115,5 +115,23 @@
     "first_seen": "2026-07-01T07:40:30.013Z",
     "last_updated": "2026-07-01T07:40:30.013Z",
     "published": "2026-06-30T12:17Z"
+  },
+  {
+    "url": "https://folkmoss.bearblog.dev/cat-trip/",
+    "title": "Cat trip",
+    "author": "https://folkmoss.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-07-01T09:16:31.465Z",
+    "last_updated": "2026-07-01T09:16:31.465Z",
+    "published": "2026-06-30T19:37Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/youtube-is-actual-garbage/",
+    "title": "YouTube is Actual Garbage",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 6,
+    "first_seen": "2026-07-01T09:16:31.465Z",
+    "last_updated": "2026-07-01T09:16:31.465Z",
+    "published": "2026-06-30T14:02Z"
   }
 ]
