@@ -3,9 +3,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/when-something-is-beautiful/",
     "title": "When something is beautiful",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 45,
+    "toasts": 47,
     "first_seen": "2026-07-01T05:40:01.565Z",
-    "last_updated": "2026-07-02T10:44:08.186Z",
+    "last_updated": "2026-07-02T12:59:48.764Z",
     "published": "2026-07-01T03:00Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://ev-fae.quest/bear-blog-carnival-an-album-that-got-you-through-a-hard-time/",
     "title": "Bear Blog Carnival: An album that got you through a hard time",
     "author": "https://ev-fae.quest",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-01T20:39:42.788Z",
-    "last_updated": "2026-07-01T20:39:42.788Z",
+    "last_updated": "2026-07-02T12:59:48.764Z",
     "published": "2026-07-01T11:10Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://louplummer.lol/punching-nazis/",
     "title": "Punching Nazis for Fun and Profit",
     "author": "https://louplummer.lol",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-07-01T22:34:06.367Z",
-    "last_updated": "2026-07-02T10:44:08.186Z",
+    "last_updated": "2026-07-02T12:59:48.764Z",
     "published": "2026-07-01T13:15Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://robertbirming.com/julyreply-2026-blog-connecting/",
     "title": "JulyReply 2026, a blog connecting month",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-02T07:35:27.324Z",
-    "last_updated": "2026-07-02T07:35:27.324Z",
+    "last_updated": "2026-07-02T12:59:48.764Z",
     "published": "2026-07-01T13:28Z"
   },
   {
@@ -214,5 +214,14 @@
     "first_seen": "2026-07-02T07:35:27.324Z",
     "last_updated": "2026-07-02T07:35:27.324Z",
     "published": "2026-07-01T15:59Z"
+  },
+  {
+    "url": "https://tbr.bearblog.dev/object-oriented-conversations/",
+    "title": "Object-Oriented Conversations",
+    "author": "https://tbr.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-02T12:59:48.764Z",
+    "last_updated": "2026-07-02T12:59:48.764Z",
+    "published": "2026-07-01T20:53Z"
   }
 ]
