@@ -12,9 +12,9 @@
     "url": "https://megatechbody.bearblog.dev/my-neighbours-cant-hang-laundry-to-save-their-lives/",
     "title": "my neighbours cant hang laundry to save their lives",
     "author": "https://megatechbody.bearblog.dev",
-    "toasts": 69,
+    "toasts": 70,
     "first_seen": "2026-06-29T15:15:38.856Z",
-    "last_updated": "2026-07-02T19:35:21.022Z",
+    "last_updated": "2026-07-02T21:11:50.409Z",
     "published": "2026-06-29T13:39Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://liaswyrd.bearblog.dev/about/",
     "title": "About",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-06-30T05:30:03.001Z",
-    "last_updated": "2026-07-02T15:25:38.796Z",
+    "last_updated": "2026-07-02T21:11:50.409Z",
     "published": "2026-06-29T16:26Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-07-01T05:40:01.565Z",
     "last_updated": "2026-07-01T05:40:01.565Z",
     "published": "2026-06-29T23:55Z"
+  },
+  {
+    "url": "https://binarydigit.net/ai/",
+    "title": "AI",
+    "author": "https://binarydigit.net",
+    "toasts": 9,
+    "first_seen": "2026-07-02T21:11:50.409Z",
+    "last_updated": "2026-07-02T21:11:50.409Z",
+    "published": "2026-06-29T17:35Z"
   }
 ]
