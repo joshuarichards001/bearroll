@@ -3,27 +3,27 @@
     "url": "https://livingkindfully.bearblog.dev/my-friend-just-died-of-cancer/",
     "title": "My Friend Just Died of Cancer",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 44,
+    "toasts": 47,
     "first_seen": "2026-06-30T03:15:49.338Z",
-    "last_updated": "2026-07-02T03:14:03.255Z",
+    "last_updated": "2026-07-02T07:35:27.324Z",
     "published": "2026-06-30T01:08Z"
   },
   {
     "url": "https://blog.curiousquail.com/ok-everyone-shut-the-fuck-up-and-please-look-at-this-incredible-awkward-teen-bird/",
     "title": "Ok everyone shut the fuck up and please look at this incredible awkward teen bird",
     "author": "https://blog.curiousquail.com",
-    "toasts": 64,
+    "toasts": 67,
     "first_seen": "2026-06-30T05:30:03.001Z",
-    "last_updated": "2026-07-02T01:02:13.942Z",
+    "last_updated": "2026-07-02T07:35:27.324Z",
     "published": "2026-06-30T01:26Z"
   },
   {
     "url": "https://abhijaykandaswamy.bearblog.dev/what-getting-banned-taught-me-about-creativity/",
     "title": "What Getting Banned Taught Me About Creativity",
     "author": "https://abhijaykandaswamy.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-06-30T11:07:00.241Z",
-    "last_updated": "2026-07-01T16:52:00.002Z",
+    "last_updated": "2026-07-02T07:35:27.324Z",
     "published": "2026-06-30T02:28Z"
   },
   {
@@ -48,27 +48,27 @@
     "url": "https://puppynet.work/casual-censorship-and-accessibility-issues-online/",
     "title": "Casual censorship and accessibility issues online",
     "author": "https://puppynet.work",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-06-30T17:40:25.626Z",
-    "last_updated": "2026-07-02T01:02:13.942Z",
+    "last_updated": "2026-07-02T07:35:27.324Z",
     "published": "2026-06-30T16:03Z"
   },
   {
     "url": "https://blog.lauramichet.com/check-out-warp-point/",
     "title": "Check out Warp Point",
     "author": "https://blog.lauramichet.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-06-30T19:39:06.344Z",
-    "last_updated": "2026-07-01T05:40:01.565Z",
+    "last_updated": "2026-07-02T07:35:27.324Z",
     "published": "2026-06-30T16:30Z"
   },
   {
     "url": "https://webaligo.bearblog.dev/we-were-worried-about-the-wrong-aspect-of-ai/",
     "title": "We Were Worried About the Wrong Aspect of AI",
     "author": "https://webaligo.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-06-30T21:36:00.714Z",
-    "last_updated": "2026-07-01T05:40:01.565Z",
+    "last_updated": "2026-07-02T07:35:27.324Z",
     "published": "2026-06-30T19:35Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://blog.absurdpirate.com/youtube-is-actual-garbage/",
     "title": "YouTube is Actual Garbage",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-07-01T09:16:31.465Z",
-    "last_updated": "2026-07-01T22:34:06.367Z",
+    "last_updated": "2026-07-02T07:35:27.324Z",
     "published": "2026-06-30T14:02Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-07-01T15:05:05.745Z",
     "last_updated": "2026-07-01T20:39:42.788Z",
     "published": "2026-06-30T19:30Z"
+  },
+  {
+    "url": "https://blog.mattglassman.net/initial-london-reactions/",
+    "title": "London",
+    "author": "https://blog.mattglassman.net",
+    "toasts": 7,
+    "first_seen": "2026-07-02T07:35:27.324Z",
+    "last_updated": "2026-07-02T07:35:27.324Z",
+    "published": "2026-06-30T17:45Z"
   }
 ]
