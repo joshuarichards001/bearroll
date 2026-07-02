@@ -57,9 +57,9 @@
     "url": "https://diels-daydreams.bearblog.dev/why-blog/",
     "title": "Why blog?",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 71,
+    "toasts": 72,
     "first_seen": "2026-06-26T20:39:32.093Z",
-    "last_updated": "2026-07-02T10:44:08.186Z",
+    "last_updated": "2026-07-02T23:11:01.917Z",
     "published": "2026-06-26T17:50Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://liaswyrd.bearblog.dev/resources/",
     "title": "Recommended Resources and Red Flags",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-06-30T05:30:03.001Z",
-    "last_updated": "2026-07-02T21:11:50.409Z",
+    "last_updated": "2026-07-02T23:11:01.917Z",
     "published": "2026-06-26T22:10Z"
   },
   {
@@ -201,9 +201,18 @@
     "url": "https://liaswyrd.bearblog.dev/services/",
     "title": "Krás Horde of Shiny's.",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-07-02T15:25:38.796Z",
-    "last_updated": "2026-07-02T21:11:50.409Z",
+    "last_updated": "2026-07-02T23:11:01.917Z",
     "published": "2026-06-26T16:09Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/my-tesseract/",
+    "title": "My Tesseract(Spell/Ritual)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 14,
+    "first_seen": "2026-07-02T23:11:01.917Z",
+    "last_updated": "2026-07-02T23:11:01.917Z",
+    "published": "2026-06-26T23:22Z"
   }
 ]
