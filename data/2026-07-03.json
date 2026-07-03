@@ -3,9 +3,9 @@
     "url": "https://blog.remainna.xyz/kagi-is-better/",
     "title": "Kagi is better",
     "author": "https://blog.remainna.xyz",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-03T07:24:15.645Z",
-    "last_updated": "2026-07-03T07:24:15.645Z",
+    "last_updated": "2026-07-03T19:27:55.041Z",
     "published": "2026-07-03T04:31Z"
   },
   {
@@ -39,9 +39,27 @@
     "url": "https://inikozen.bearblog.dev/the-big-social-media-smash/",
     "title": "The Big Social Media Smash!",
     "author": "https://inikozen.bearblog.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-07-03T15:17:12.429Z",
-    "last_updated": "2026-07-03T15:17:12.429Z",
+    "last_updated": "2026-07-03T19:27:55.041Z",
     "published": "2026-07-03T11:44Z"
+  },
+  {
+    "url": "https://householderkarl.com/neither-god-nor-master/",
+    "title": "Neither god nor master",
+    "author": "https://householderkarl.com",
+    "toasts": 11,
+    "first_seen": "2026-07-03T19:27:55.041Z",
+    "last_updated": "2026-07-03T19:27:55.041Z",
+    "published": "2026-07-03T17:24Z"
+  },
+  {
+    "url": "https://rlraymond.com/ai-isnt-the-tool-you-are-looking-for/",
+    "title": "ai isn’t the tool you are looking for",
+    "author": "https://rlraymond.com",
+    "toasts": 6,
+    "first_seen": "2026-07-03T19:27:55.041Z",
+    "last_updated": "2026-07-03T19:27:55.041Z",
+    "published": "2026-07-03T10:30Z"
   }
 ]
