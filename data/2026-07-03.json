@@ -12,9 +12,9 @@
     "url": "https://basic.bearblog.dev/social-networks-and-id-verification-is-here/",
     "title": "Social networks and ID verification is here",
     "author": "https://basic.bearblog.dev",
-    "toasts": 40,
+    "toasts": 42,
     "first_seen": "2026-07-03T10:39:41.240Z",
-    "last_updated": "2026-07-03T21:10:45.146Z",
+    "last_updated": "2026-07-03T23:07:20.353Z",
     "published": "2026-07-03T07:00Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://4s.bearblog.dev/talking-to-another-species/",
     "title": "Talking to Another Species",
     "author": "https://4s.bearblog.dev",
-    "toasts": 11,
+    "toasts": 17,
     "first_seen": "2026-07-03T15:17:12.429Z",
-    "last_updated": "2026-07-03T17:35:54.544Z",
+    "last_updated": "2026-07-03T23:07:20.353Z",
     "published": "2026-07-03T13:12Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://householderkarl.com/neither-god-nor-master/",
     "title": "Neither god nor master",
     "author": "https://householderkarl.com",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-07-03T19:27:55.041Z",
-    "last_updated": "2026-07-03T21:10:45.146Z",
+    "last_updated": "2026-07-03T23:07:20.353Z",
     "published": "2026-07-03T17:24Z"
   },
   {
@@ -88,5 +88,14 @@
     "first_seen": "2026-07-03T21:10:45.146Z",
     "last_updated": "2026-07-03T21:10:45.146Z",
     "published": "2026-07-03T01:04Z"
+  },
+  {
+    "url": "https://combatdavey.net/july-2-2026/",
+    "title": "july 2 qew",
+    "author": "https://combatdavey.net",
+    "toasts": 6,
+    "first_seen": "2026-07-03T23:07:20.353Z",
+    "last_updated": "2026-07-03T23:07:20.353Z",
+    "published": "2026-07-03T03:59Z"
   }
 ]
