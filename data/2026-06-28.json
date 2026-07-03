@@ -48,27 +48,27 @@
     "url": "https://puppynet.work/i-so-desperately-want-a-tail-its-not-even-funny/",
     "title": "I so desperately want a tail it's not even funny",
     "author": "https://puppynet.work",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-06-28T17:30:32.068Z",
-    "last_updated": "2026-07-02T17:51:57.515Z",
+    "last_updated": "2026-07-03T15:17:12.429Z",
     "published": "2026-06-28T15:44Z"
   },
   {
     "url": "https://mikeshuey.com/three-weeks-of-consistently-working-out/",
     "title": "Three weeks of consistently working out",
     "author": "https://mikeshuey.com",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-06-28T18:31:30.199Z",
-    "last_updated": "2026-07-03T07:24:15.645Z",
+    "last_updated": "2026-07-03T15:17:12.429Z",
     "published": "2026-06-28T16:55Z"
   },
   {
     "url": "https://forkingmad.blog/tech-morality-is-hard/",
     "title": "Tech Morality is Hard",
     "author": "https://forkingmad.blog",
-    "toasts": 66,
+    "toasts": 67,
     "first_seen": "2026-06-28T18:31:30.199Z",
-    "last_updated": "2026-07-02T23:11:01.917Z",
+    "last_updated": "2026-07-03T15:17:12.429Z",
     "published": "2026-06-28T11:48Z"
   },
   {
@@ -151,5 +151,23 @@
     "first_seen": "2026-06-29T07:56:37.165Z",
     "last_updated": "2026-07-02T17:51:57.515Z",
     "published": "2026-06-28T15:58Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/sigils-poetry/",
+    "title": "Sigils (Poetry)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 13,
+    "first_seen": "2026-07-03T15:17:12.429Z",
+    "last_updated": "2026-07-03T15:17:12.429Z",
+    "published": "2026-06-28T01:37Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/the-guardians-and-my-personal-creed-poetry/",
+    "title": "The Guardians and my Personal Creed (Poetry)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 13,
+    "first_seen": "2026-07-03T15:17:12.429Z",
+    "last_updated": "2026-07-03T15:17:12.429Z",
+    "published": "2026-06-28T01:35Z"
   }
 ]
