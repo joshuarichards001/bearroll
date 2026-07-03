@@ -165,9 +165,9 @@
     "url": "https://louplummer.lol/punching-nazis/",
     "title": "Punching Nazis for Fun and Profit",
     "author": "https://louplummer.lol",
-    "toasts": 25,
+    "toasts": 29,
     "first_seen": "2026-07-01T22:34:06.367Z",
-    "last_updated": "2026-07-02T23:11:01.917Z",
+    "last_updated": "2026-07-03T03:36:26.410Z",
     "published": "2026-07-01T13:15Z"
   },
   {
@@ -192,18 +192,18 @@
     "url": "https://savvynormie.com/why-your-brain-will-always-defend-complexity/",
     "title": "Why Your Brain Will Always Defend Complexity",
     "author": "https://savvynormie.com",
-    "toasts": 23,
+    "toasts": 26,
     "first_seen": "2026-07-02T01:02:13.942Z",
-    "last_updated": "2026-07-02T23:11:01.917Z",
+    "last_updated": "2026-07-03T03:36:26.410Z",
     "published": "2026-07-01T20:21Z"
   },
   {
     "url": "https://robertbirming.com/julyreply-2026-blog-connecting/",
     "title": "JulyReply 2026, a blog connecting month",
     "author": "https://robertbirming.com",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-07-02T07:35:27.324Z",
-    "last_updated": "2026-07-02T21:11:50.409Z",
+    "last_updated": "2026-07-03T03:36:26.410Z",
     "published": "2026-07-01T13:28Z"
   },
   {
@@ -219,9 +219,9 @@
     "url": "https://tbr.bearblog.dev/object-oriented-conversations/",
     "title": "Object-Oriented Conversations",
     "author": "https://tbr.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-02T12:59:48.764Z",
-    "last_updated": "2026-07-02T12:59:48.764Z",
+    "last_updated": "2026-07-03T03:36:26.410Z",
     "published": "2026-07-01T20:53Z"
   },
   {
@@ -250,5 +250,14 @@
     "first_seen": "2026-07-02T17:51:57.515Z",
     "last_updated": "2026-07-02T21:11:50.409Z",
     "published": "2026-07-01T11:47Z"
+  },
+  {
+    "url": "https://jennfrank.bearblog.dev/comphet/",
+    "title": "comphet",
+    "author": "https://jennfrank.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-07-03T03:36:26.410Z",
+    "last_updated": "2026-07-03T03:36:26.410Z",
+    "published": "2026-07-01T20:05Z"
   }
 ]
