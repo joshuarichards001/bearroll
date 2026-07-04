@@ -3,9 +3,18 @@
     "url": "https://alysterwho.blog/peep-my-salad/",
     "title": "Peep My Salad",
     "author": "https://alysterwho.blog",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-04T03:29:18.844Z",
-    "last_updated": "2026-07-04T03:29:18.844Z",
+    "last_updated": "2026-07-04T06:49:21.238Z",
     "published": "2026-07-04T00:17Z"
+  },
+  {
+    "url": "https://doodhpeda.bearblog.dev/blog/i-am-what-i-read/",
+    "title": "I am what I read",
+    "author": "https://doodhpeda.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-07-04T06:49:21.238Z",
+    "last_updated": "2026-07-04T06:49:21.238Z",
+    "published": "2026-07-04T05:50Z"
   }
 ]
