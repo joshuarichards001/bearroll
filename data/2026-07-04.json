@@ -12,9 +12,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/i-am-what-i-read/",
     "title": "I am what I read",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-07-04T06:49:21.238Z",
-    "last_updated": "2026-07-04T11:35:04.402Z",
+    "last_updated": "2026-07-04T15:08:06.431Z",
     "published": "2026-07-04T05:50Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://blog.lauramichet.com/the-most-interesting-garment-i-saw-at-a-dodgers-game/",
     "title": "The most interesting garment I saw at a Dodgers game",
     "author": "https://blog.lauramichet.com",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-07-04T11:35:04.402Z",
-    "last_updated": "2026-07-04T11:35:04.402Z",
+    "last_updated": "2026-07-04T15:08:06.431Z",
     "published": "2026-07-04T06:15Z"
   },
   {
@@ -48,9 +48,27 @@
     "url": "https://www.simonjamesfrench.com/i-hid-an-easter-egg/",
     "title": "I Hid an Easter Egg on My Bear Blog. Can You Find It?",
     "author": "https://www.simonjamesfrench.com",
-    "toasts": 11,
+    "toasts": 17,
     "first_seen": "2026-07-04T13:40:41.617Z",
-    "last_updated": "2026-07-04T13:40:41.617Z",
+    "last_updated": "2026-07-04T15:08:06.431Z",
     "published": "2026-07-04T12:00Z"
+  },
+  {
+    "url": "https://technically-good.ca/newsletter/011-2026-07-04/",
+    "title": "💌 Newsletter #011 - Failing Grades, Mass Delusions, and Hiring Back Humans",
+    "author": "https://technically-good.ca",
+    "toasts": 20,
+    "first_seen": "2026-07-04T15:08:06.431Z",
+    "last_updated": "2026-07-04T15:08:06.431Z",
+    "published": "2026-07-04T14:01Z"
+  },
+  {
+    "url": "https://householderkarl.com/250-years-the-pride-of-fools/",
+    "title": "250 Years: The Pride of Fools",
+    "author": "https://householderkarl.com",
+    "toasts": 10,
+    "first_seen": "2026-07-04T15:08:06.431Z",
+    "last_updated": "2026-07-04T15:08:06.431Z",
+    "published": "2026-07-04T14:42Z"
   }
 ]

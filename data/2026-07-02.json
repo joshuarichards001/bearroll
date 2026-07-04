@@ -3,9 +3,9 @@
     "url": "https://untangled.bearblog.dev/life-without-google/",
     "title": "Life without Google",
     "author": "https://untangled.bearblog.dev",
-    "toasts": 57,
+    "toasts": 58,
     "first_seen": "2026-07-02T07:35:27.324Z",
-    "last_updated": "2026-07-04T06:49:21.238Z",
+    "last_updated": "2026-07-04T15:08:06.431Z",
     "published": "2026-07-02T01:20Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://blog.sulimans.space/my-review-of-uruky/",
     "title": "my review of uruky",
     "author": "https://blog.sulimans.space",
-    "toasts": 58,
+    "toasts": 62,
     "first_seen": "2026-07-02T15:25:38.796Z",
-    "last_updated": "2026-07-04T09:24:56.134Z",
+    "last_updated": "2026-07-04T15:08:06.431Z",
     "published": "2026-07-02T13:43Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://blog.curiousquail.com/re-your-metablogging-is-lame/",
     "title": "Re: Your Metablogging is Lame as Hell",
     "author": "https://blog.curiousquail.com",
-    "toasts": 82,
+    "toasts": 83,
     "first_seen": "2026-07-02T23:11:01.917Z",
-    "last_updated": "2026-07-04T13:40:41.617Z",
+    "last_updated": "2026-07-04T15:08:06.431Z",
     "published": "2026-07-02T15:33Z"
   },
   {
@@ -165,9 +165,18 @@
     "url": "https://fendogg.com/getting-fucked-up-is-my-absolute-favourite-thing-to-do/",
     "title": "getting fucked up is my absolute favourite thing to do",
     "author": "https://fendogg.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-03T21:10:45.146Z",
-    "last_updated": "2026-07-04T06:49:21.238Z",
+    "last_updated": "2026-07-04T15:08:06.431Z",
     "published": "2026-07-02T18:35Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/gallery/",
+    "title": "Gallery",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-07-04T15:08:06.431Z",
+    "last_updated": "2026-07-04T15:08:06.431Z",
+    "published": "2026-07-02T19:50Z"
   }
 ]
