@@ -12,9 +12,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/i-am-what-i-read/",
     "title": "I am what I read",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 18,
+    "toasts": 20,
     "first_seen": "2026-07-04T06:49:21.238Z",
-    "last_updated": "2026-07-04T19:19:13.008Z",
+    "last_updated": "2026-07-04T21:01:21.309Z",
     "published": "2026-07-04T05:50Z"
   },
   {
@@ -30,27 +30,27 @@
     "url": "https://blog.lauramichet.com/the-most-interesting-garment-i-saw-at-a-dodgers-game/",
     "title": "The most interesting garment I saw at a Dodgers game",
     "author": "https://blog.lauramichet.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-04T11:35:04.402Z",
-    "last_updated": "2026-07-04T17:09:18.827Z",
+    "last_updated": "2026-07-04T21:01:21.309Z",
     "published": "2026-07-04T06:15Z"
   },
   {
     "url": "https://moonlightandwhiskers.com/unexpected-surprises-of-project-hail-mary/",
     "title": "Unexpected Surprises of Project Hail Mary",
     "author": "https://moonlightandwhiskers.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-04T11:35:04.402Z",
-    "last_updated": "2026-07-04T11:35:04.402Z",
+    "last_updated": "2026-07-04T21:01:21.309Z",
     "published": "2026-07-04T05:36Z"
   },
   {
     "url": "https://www.simonjamesfrench.com/i-hid-an-easter-egg/",
     "title": "I Hid an Easter Egg on My Bear Blog. Can You Find It?",
     "author": "https://www.simonjamesfrench.com",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-07-04T13:40:41.617Z",
-    "last_updated": "2026-07-04T19:19:13.008Z",
+    "last_updated": "2026-07-04T21:01:21.309Z",
     "published": "2026-07-04T12:00Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://householderkarl.com/250-years-the-pride-of-fools/",
     "title": "250 Years: The Pride of Fools",
     "author": "https://householderkarl.com",
-    "toasts": 21,
+    "toasts": 23,
     "first_seen": "2026-07-04T15:08:06.431Z",
-    "last_updated": "2026-07-04T19:19:13.008Z",
+    "last_updated": "2026-07-04T21:01:21.309Z",
     "published": "2026-07-04T14:42Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://robertbirming.com/i-feel-proud-today/",
     "title": "I feel proud today",
     "author": "https://robertbirming.com",
-    "toasts": 6,
+    "toasts": 9,
     "first_seen": "2026-07-04T19:19:13.008Z",
-    "last_updated": "2026-07-04T19:19:13.008Z",
+    "last_updated": "2026-07-04T21:01:21.309Z",
     "published": "2026-07-04T15:11Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-07-04T19:19:13.008Z",
     "last_updated": "2026-07-04T19:19:13.008Z",
     "published": "2026-07-04T12:35Z"
+  },
+  {
+    "url": "https://jerichards.me/where-did-my-creativity-go/",
+    "title": "Where did my creativity go?",
+    "author": "https://jerichards.me",
+    "toasts": 6,
+    "first_seen": "2026-07-04T21:01:21.309Z",
+    "last_updated": "2026-07-04T21:01:21.309Z",
+    "published": "2026-07-04T16:18Z"
   }
 ]
