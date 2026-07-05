@@ -48,18 +48,18 @@
     "url": "https://www.simonjamesfrench.com/i-hid-an-easter-egg/",
     "title": "I Hid an Easter Egg on My Bear Blog. Can You Find It?",
     "author": "https://www.simonjamesfrench.com",
-    "toasts": 30,
+    "toasts": 31,
     "first_seen": "2026-07-04T13:40:41.617Z",
-    "last_updated": "2026-07-05T08:09:25.416Z",
+    "last_updated": "2026-07-05T13:47:42.140Z",
     "published": "2026-07-04T12:00Z"
   },
   {
     "url": "https://technically-good.ca/newsletter/011-2026-07-04/",
     "title": "💌 Newsletter #011 - Failing Grades, Mass Delusions, and Hiring Back Humans",
     "author": "https://technically-good.ca",
-    "toasts": 49,
+    "toasts": 54,
     "first_seen": "2026-07-04T15:08:06.431Z",
-    "last_updated": "2026-07-05T11:06:28.560Z",
+    "last_updated": "2026-07-05T13:47:42.140Z",
     "published": "2026-07-04T14:01Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://jerichards.me/where-did-my-creativity-go/",
     "title": "Where did my creativity go?",
     "author": "https://jerichards.me",
-    "toasts": 10,
+    "toasts": 18,
     "first_seen": "2026-07-04T21:01:21.309Z",
-    "last_updated": "2026-07-05T11:06:28.560Z",
+    "last_updated": "2026-07-05T13:47:42.140Z",
     "published": "2026-07-04T16:18Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://anotherdayu.com/vermilion/",
     "title": "Bear Blog Theme: Vermilion",
     "author": "https://anotherdayu.com",
-    "toasts": 9,
+    "toasts": 12,
     "first_seen": "2026-07-05T04:59:30.392Z",
-    "last_updated": "2026-07-05T11:06:28.560Z",
+    "last_updated": "2026-07-05T13:47:42.140Z",
     "published": "2026-07-04T21:47Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://valerialoves.com/people-walk-too-fast/",
     "title": "People Walk Too Fast",
     "author": "https://valerialoves.com",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-07-05T04:59:30.392Z",
-    "last_updated": "2026-07-05T11:06:28.560Z",
+    "last_updated": "2026-07-05T13:47:42.140Z",
     "published": "2026-07-04T20:59Z"
   },
   {
@@ -178,5 +178,14 @@
     "first_seen": "2026-07-05T11:06:28.560Z",
     "last_updated": "2026-07-05T11:06:28.560Z",
     "published": "2026-07-04T23:20Z"
+  },
+  {
+    "url": "https://criminallyvulgar.dev/air-con-in-a-warming-climate/",
+    "title": "Air Con in a Warming Climate",
+    "author": "https://criminallyvulgar.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-05T13:47:42.140Z",
+    "last_updated": "2026-07-05T13:47:42.140Z",
+    "published": "2026-07-04T23:05Z"
   }
 ]
