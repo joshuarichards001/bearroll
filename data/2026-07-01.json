@@ -3,9 +3,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/when-something-is-beautiful/",
     "title": "When something is beautiful",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 63,
+    "toasts": 64,
     "first_seen": "2026-07-01T05:40:01.565Z",
-    "last_updated": "2026-07-05T15:15:48.320Z",
+    "last_updated": "2026-07-05T19:23:01.253Z",
     "published": "2026-07-01T03:00Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://louplummer.lol/punching-nazis/",
     "title": "Punching Nazis for Fun and Profit",
     "author": "https://louplummer.lol",
-    "toasts": 46,
+    "toasts": 47,
     "first_seen": "2026-07-01T22:34:06.367Z",
-    "last_updated": "2026-07-05T17:15:53.970Z",
+    "last_updated": "2026-07-05T19:23:01.253Z",
     "published": "2026-07-01T13:15Z"
   },
   {
@@ -259,5 +259,14 @@
     "first_seen": "2026-07-03T03:36:26.410Z",
     "last_updated": "2026-07-03T07:24:15.645Z",
     "published": "2026-07-01T20:05Z"
+  },
+  {
+    "url": "https://writeodd.bearblog.dev/combat-as-failstate/",
+    "title": "Combat as Failstate",
+    "author": "https://writeodd.bearblog.dev",
+    "toasts": 12,
+    "first_seen": "2026-07-05T19:23:01.253Z",
+    "last_updated": "2026-07-05T19:23:01.253Z",
+    "published": "2026-07-01T03:36Z"
   }
 ]
