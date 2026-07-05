@@ -39,9 +39,9 @@
     "url": "https://popcar.bearblog.dev/its-about-ownership/",
     "title": "It's not about physical vs digital games, it's about ownership",
     "author": "https://popcar.bearblog.dev",
-    "toasts": 9,
+    "toasts": 12,
     "first_seen": "2026-07-05T17:15:53.970Z",
-    "last_updated": "2026-07-05T19:23:01.253Z",
+    "last_updated": "2026-07-05T21:05:38.194Z",
     "published": "2026-07-05T14:48Z"
   },
   {
@@ -79,5 +79,23 @@
     "first_seen": "2026-07-05T19:23:01.253Z",
     "last_updated": "2026-07-05T19:23:01.253Z",
     "published": "2026-07-05T18:44Z"
+  },
+  {
+    "url": "https://householderkarl.com/perennial-cynic/",
+    "title": "Perennial Cynic",
+    "author": "https://householderkarl.com",
+    "toasts": 8,
+    "first_seen": "2026-07-05T21:05:38.194Z",
+    "last_updated": "2026-07-05T21:05:38.194Z",
+    "published": "2026-07-05T20:10Z"
+  },
+  {
+    "url": "https://boxman214.bearblog.dev/alternatives-to-google-and-microsoft-stuff/",
+    "title": "Alternatives to Google and Microsoft Stuff",
+    "author": "https://boxman214.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-05T21:05:38.194Z",
+    "last_updated": "2026-07-05T21:05:38.194Z",
+    "published": "2026-07-05T17:59Z"
   }
 ]
