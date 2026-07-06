@@ -3,18 +3,18 @@
     "url": "https://www.stuartwatkinson.com/take-those-early-years-slow/",
     "title": "Take those early years slow.",
     "author": "https://www.stuartwatkinson.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-05T11:06:28.560Z",
-    "last_updated": "2026-07-05T17:15:53.970Z",
+    "last_updated": "2026-07-06T03:54:54.120Z",
     "published": "2026-07-05T09:02Z"
   },
   {
     "url": "https://deerhoof.website/new-post-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new/",
     "title": "capitalism who?",
     "author": "https://deerhoof.website",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-05T13:47:42.140Z",
-    "last_updated": "2026-07-05T19:23:01.253Z",
+    "last_updated": "2026-07-06T03:54:54.120Z",
     "published": "2026-07-05T11:26Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://popcar.bearblog.dev/its-about-ownership/",
     "title": "It's not about physical vs digital games, it's about ownership",
     "author": "https://popcar.bearblog.dev",
-    "toasts": 14,
+    "toasts": 29,
     "first_seen": "2026-07-05T17:15:53.970Z",
-    "last_updated": "2026-07-05T23:04:23.724Z",
+    "last_updated": "2026-07-06T03:54:54.120Z",
     "published": "2026-07-05T14:48Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://householderkarl.com/perennial-cynic/",
     "title": "Perennial Cynic",
     "author": "https://householderkarl.com",
-    "toasts": 9,
+    "toasts": 12,
     "first_seen": "2026-07-05T21:05:38.194Z",
-    "last_updated": "2026-07-05T23:04:23.724Z",
+    "last_updated": "2026-07-06T03:54:54.120Z",
     "published": "2026-07-05T20:10Z"
   },
   {
@@ -111,9 +111,36 @@
     "url": "https://fornoone.bearblog.dev/re-things-i-never-want-to-run-out-of/",
     "title": "RE: Things I never want to run out of",
     "author": "https://fornoone.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-05T23:04:23.724Z",
-    "last_updated": "2026-07-05T23:04:23.724Z",
+    "last_updated": "2026-07-06T03:54:54.120Z",
     "published": "2026-07-05T16:18Z"
+  },
+  {
+    "url": "https://anotherdayu.com/plog7/",
+    "title": "Plog 7 乱序生活",
+    "author": "https://anotherdayu.com",
+    "toasts": 10,
+    "first_seen": "2026-07-06T03:54:54.120Z",
+    "last_updated": "2026-07-06T03:54:54.120Z",
+    "published": "2026-07-05T19:45Z"
+  },
+  {
+    "url": "https://techno.bearblog.dev/physical-media/",
+    "title": "physical media",
+    "author": "https://techno.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-06T03:54:54.120Z",
+    "last_updated": "2026-07-06T03:54:54.120Z",
+    "published": "2026-07-05T23:09Z"
+  },
+  {
+    "url": "https://datadrifter.bearblog.dev/new-blog-for-myself/",
+    "title": "New blog for myself",
+    "author": "https://datadrifter.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-06T03:54:54.120Z",
+    "last_updated": "2026-07-06T03:54:54.120Z",
+    "published": "2026-07-05T17:36Z"
   }
 ]
