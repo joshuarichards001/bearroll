@@ -3,9 +3,9 @@
     "url": "https://pego.dev/connected-but-not-captured/",
     "title": "Connected, but not captured",
     "author": "https://pego.dev",
-    "toasts": 41,
+    "toasts": 42,
     "first_seen": "2026-07-06T12:51:57.077Z",
-    "last_updated": "2026-07-07T04:54:57.392Z",
+    "last_updated": "2026-07-07T08:25:52.784Z",
     "published": "2026-07-06T12:01Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://chilblands.bearblog.dev/criminal-cativities-in-my-backyard/",
     "title": "Criminal cativities in my backyard",
     "author": "https://chilblands.bearblog.dev",
-    "toasts": 9,
+    "toasts": 12,
     "first_seen": "2026-07-06T12:51:57.077Z",
-    "last_updated": "2026-07-07T04:54:57.392Z",
+    "last_updated": "2026-07-07T08:25:52.784Z",
     "published": "2026-07-06T04:51Z"
   },
   {
@@ -57,36 +57,36 @@
     "url": "https://spectre.bearblog.dev/kill-the-lights/",
     "title": "kill the lights",
     "author": "https://spectre.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-07T00:11:39.269Z",
-    "last_updated": "2026-07-07T04:54:57.392Z",
+    "last_updated": "2026-07-07T08:25:52.784Z",
     "published": "2026-07-06T22:37Z"
   },
   {
     "url": "https://robertbirming.com/re-wanting-to-write-more/",
     "title": "Re: Wanting to Write More",
     "author": "https://robertbirming.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-07T00:11:39.269Z",
-    "last_updated": "2026-07-07T04:54:57.392Z",
+    "last_updated": "2026-07-07T08:25:52.784Z",
     "published": "2026-07-06T15:42Z"
   },
   {
     "url": "https://blog.curiousquail.com/it-feels-disgusting-celebrating-this-country-but-i-do-like-an-explosion-in-the-sky/",
     "title": "It feels disgusting celebrating this country but I DO like an explosion in the sky",
     "author": "https://blog.curiousquail.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-07T00:11:39.269Z",
-    "last_updated": "2026-07-07T00:11:39.269Z",
+    "last_updated": "2026-07-07T08:25:52.784Z",
     "published": "2026-07-06T14:25Z"
   },
   {
     "url": "https://suzin.bearblog.dev/blogging-for-myself/",
     "title": "blogging for myself",
     "author": "https://suzin.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-07T00:11:39.269Z",
-    "last_updated": "2026-07-07T00:11:39.269Z",
+    "last_updated": "2026-07-07T08:25:52.784Z",
     "published": "2026-07-06T17:21Z"
   },
   {
@@ -102,27 +102,27 @@
     "url": "https://sentfrom.me/july-reply-ai/",
     "title": "Re: I'm just so bored of AI",
     "author": "https://sentfrom.me",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-07-07T04:54:57.392Z",
-    "last_updated": "2026-07-07T04:54:57.392Z",
+    "last_updated": "2026-07-07T08:25:52.784Z",
     "published": "2026-07-06T22:53Z"
   },
   {
     "url": "https://stitching.bearblog.dev/introducing-my-cats/",
     "title": "introducing my cats",
     "author": "https://stitching.bearblog.dev",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-07-07T04:54:57.392Z",
-    "last_updated": "2026-07-07T04:54:57.392Z",
+    "last_updated": "2026-07-07T08:25:52.784Z",
     "published": "2026-07-06T22:45Z"
   },
   {
     "url": "https://lonelymountain.bearblog.dev/going-analog-in-the-digital-world/",
     "title": "Going analog in the digital world",
     "author": "https://lonelymountain.bearblog.dev",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-07-07T04:54:57.392Z",
-    "last_updated": "2026-07-07T04:54:57.392Z",
+    "last_updated": "2026-07-07T08:25:52.784Z",
     "published": "2026-07-06T22:00Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-07-07T04:54:57.392Z",
     "last_updated": "2026-07-07T04:54:57.392Z",
     "published": "2026-07-06T19:57Z"
+  },
+  {
+    "url": "https://apocalipsislento.bearblog.dev/los-evangelios-de-la-ia/",
+    "title": "Los evangelios de la IA",
+    "author": "https://apocalipsislento.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-07T08:25:52.784Z",
+    "last_updated": "2026-07-07T08:25:52.784Z",
+    "published": "2026-07-06T22:48Z"
   }
 ]
