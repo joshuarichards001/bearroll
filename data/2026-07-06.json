@@ -3,9 +3,9 @@
     "url": "https://pego.dev/connected-but-not-captured/",
     "title": "Connected, but not captured",
     "author": "https://pego.dev",
-    "toasts": 50,
+    "toasts": 51,
     "first_seen": "2026-07-06T12:51:57.077Z",
-    "last_updated": "2026-07-07T23:05:17.847Z",
+    "last_updated": "2026-07-08T03:13:45.257Z",
     "published": "2026-07-06T12:01Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://after.bearblog.dev/micro/if-you-want-to-stay-employed-use-ai/",
     "title": "If you want to stay employed, use ai",
     "author": "https://after.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-07-06T22:18:34.055Z",
-    "last_updated": "2026-07-07T23:05:17.847Z",
+    "last_updated": "2026-07-08T03:13:45.257Z",
     "published": "2026-07-06T08:07Z"
   },
   {
     "url": "https://spectre.bearblog.dev/kill-the-lights/",
     "title": "kill the lights",
     "author": "https://spectre.bearblog.dev",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-07-07T00:11:39.269Z",
-    "last_updated": "2026-07-07T23:05:17.847Z",
+    "last_updated": "2026-07-08T03:13:45.257Z",
     "published": "2026-07-06T22:37Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://stitching.bearblog.dev/introducing-my-cats/",
     "title": "introducing my cats",
     "author": "https://stitching.bearblog.dev",
-    "toasts": 29,
+    "toasts": 38,
     "first_seen": "2026-07-07T04:54:57.392Z",
-    "last_updated": "2026-07-07T21:37:41.317Z",
+    "last_updated": "2026-07-08T03:13:45.257Z",
     "published": "2026-07-06T22:45Z"
   },
   {
@@ -151,5 +151,14 @@
     "first_seen": "2026-07-07T17:20:08.044Z",
     "last_updated": "2026-07-07T17:20:08.044Z",
     "published": "2026-07-06T20:24Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/jogamos-nada/",
+    "title": "Jogamos nada",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-07-08T03:13:45.257Z",
+    "last_updated": "2026-07-08T03:13:45.257Z",
+    "published": "2026-07-06T12:30Z"
   }
 ]
