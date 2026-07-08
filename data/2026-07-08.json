@@ -21,9 +21,9 @@
     "url": "https://bommyknocker.bearblog.dev/high-level-play-and-scaffolding/",
     "title": "High Level Play and Scaffolding",
     "author": "https://bommyknocker.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-08T11:48:38.936Z",
-    "last_updated": "2026-07-08T16:42:20.799Z",
+    "last_updated": "2026-07-08T18:20:41.451Z",
     "published": "2026-07-08T06:56Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://harry.garden/too-many-accounts/",
     "title": "Too Many Accounts",
     "author": "https://harry.garden",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-08T16:42:20.799Z",
-    "last_updated": "2026-07-08T16:42:20.799Z",
+    "last_updated": "2026-07-08T18:20:41.451Z",
     "published": "2026-07-08T12:29Z"
   },
   {
@@ -79,5 +79,14 @@
     "first_seen": "2026-07-08T16:42:20.799Z",
     "last_updated": "2026-07-08T16:42:20.799Z",
     "published": "2026-07-08T03:59Z"
+  },
+  {
+    "url": "https://explorator.dev/eu-vou-dar-um-break-de-futebol/",
+    "title": "Eu vou dar um break de futebol",
+    "author": "https://explorator.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-08T18:20:41.451Z",
+    "last_updated": "2026-07-08T18:20:41.451Z",
+    "published": "2026-07-08T09:14Z"
   }
 ]
