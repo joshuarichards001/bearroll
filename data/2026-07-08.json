@@ -39,9 +39,9 @@
     "url": "https://harry.garden/too-many-accounts/",
     "title": "Too Many Accounts",
     "author": "https://harry.garden",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-08T16:42:20.799Z",
-    "last_updated": "2026-07-08T18:20:41.451Z",
+    "last_updated": "2026-07-08T22:10:26.622Z",
     "published": "2026-07-08T12:29Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-07-08T20:23:42.050Z",
     "last_updated": "2026-07-08T20:23:42.050Z",
     "published": "2026-07-08T15:03Z"
+  },
+  {
+    "url": "https://www.simonjamesfrench.com/burned-out-professionals-listening/",
+    "title": "I take burned-out professionals into Kyoto's gardens to listen",
+    "author": "https://www.simonjamesfrench.com",
+    "toasts": 9,
+    "first_seen": "2026-07-08T22:10:26.622Z",
+    "last_updated": "2026-07-08T22:10:26.622Z",
+    "published": "2026-07-08T12:00Z"
   }
 ]
