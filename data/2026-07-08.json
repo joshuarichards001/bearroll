@@ -21,9 +21,9 @@
     "url": "https://bommyknocker.bearblog.dev/high-level-play-and-scaffolding/",
     "title": "High Level Play and Scaffolding",
     "author": "https://bommyknocker.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-08T11:48:38.936Z",
-    "last_updated": "2026-07-08T14:22:04.648Z",
+    "last_updated": "2026-07-08T16:42:20.799Z",
     "published": "2026-07-08T06:56Z"
   },
   {
@@ -34,5 +34,50 @@
     "first_seen": "2026-07-08T11:48:38.936Z",
     "last_updated": "2026-07-08T14:22:04.648Z",
     "published": "2026-07-08T06:38Z"
+  },
+  {
+    "url": "https://harry.garden/too-many-accounts/",
+    "title": "Too Many Accounts",
+    "author": "https://harry.garden",
+    "toasts": 7,
+    "first_seen": "2026-07-08T16:42:20.799Z",
+    "last_updated": "2026-07-08T16:42:20.799Z",
+    "published": "2026-07-08T12:29Z"
+  },
+  {
+    "url": "https://skuka.online/should-i-always-respond-to-emails/",
+    "title": "should i always respond to emails?",
+    "author": "https://skuka.online",
+    "toasts": 6,
+    "first_seen": "2026-07-08T16:42:20.799Z",
+    "last_updated": "2026-07-08T16:42:20.799Z",
+    "published": "2026-07-08T12:25Z"
+  },
+  {
+    "url": "https://grippyslide.bearblog.dev/to-myself-where-did-the-magic-go/",
+    "title": "To myself : where did the magic go?",
+    "author": "https://grippyslide.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-08T16:42:20.799Z",
+    "last_updated": "2026-07-08T16:42:20.799Z",
+    "published": "2026-07-08T11:32Z"
+  },
+  {
+    "url": "https://forsomeone.bearblog.dev/im-so-fucking-tired/",
+    "title": "I'm so fucking tired",
+    "author": "https://forsomeone.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-08T16:42:20.799Z",
+    "last_updated": "2026-07-08T16:42:20.799Z",
+    "published": "2026-07-08T10:44Z"
+  },
+  {
+    "url": "https://combatdavey.net/july-7-2026/",
+    "title": "july 7 pnp",
+    "author": "https://combatdavey.net",
+    "toasts": 6,
+    "first_seen": "2026-07-08T16:42:20.799Z",
+    "last_updated": "2026-07-08T16:42:20.799Z",
+    "published": "2026-07-08T03:59Z"
   }
 ]
