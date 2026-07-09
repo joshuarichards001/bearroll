@@ -3,27 +3,27 @@
     "url": "https://ytp.me/method/",
     "title": "method",
     "author": "https://ytp.me",
-    "toasts": 27,
+    "toasts": 34,
     "first_seen": "2026-07-09T08:33:31.383Z",
-    "last_updated": "2026-07-09T18:05:33.482Z",
+    "last_updated": "2026-07-09T20:49:01.584Z",
     "published": "2026-07-09T03:10Z"
   },
   {
     "url": "https://grumpywelshman.com/the-internet-doesnt-want-readers-it-wants-livestock/",
     "title": "The Internet Doesn't Want Readers. It Wants Livestock.",
     "author": "https://grumpywelshman.com",
-    "toasts": 33,
+    "toasts": 46,
     "first_seen": "2026-07-09T15:59:33.074Z",
-    "last_updated": "2026-07-09T18:05:33.482Z",
+    "last_updated": "2026-07-09T20:49:01.584Z",
     "published": "2026-07-09T04:41Z"
   },
   {
     "url": "https://robertbirming.com/keep-blogging-dont-worry/",
     "title": "Keep blogging, don't worry",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-09T15:59:33.074Z",
-    "last_updated": "2026-07-09T18:05:33.482Z",
+    "last_updated": "2026-07-09T20:49:01.584Z",
     "published": "2026-07-09T13:59Z"
   },
   {
@@ -66,9 +66,18 @@
     "url": "https://futureperfect.bearblog.dev/status-bars-on-websites/",
     "title": "Status bars on websites",
     "author": "https://futureperfect.bearblog.dev",
-    "toasts": 7,
+    "toasts": 11,
     "first_seen": "2026-07-09T18:05:33.482Z",
-    "last_updated": "2026-07-09T18:05:33.482Z",
+    "last_updated": "2026-07-09T20:49:01.584Z",
     "published": "2026-07-09T15:25Z"
+  },
+  {
+    "url": "https://thelongplay.bearblog.dev/the-dream-is-coffee-and-a-game/",
+    "title": "💭 The dream is coffee and a game",
+    "author": "https://thelongplay.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-09T20:49:01.584Z",
+    "last_updated": "2026-07-09T20:49:01.584Z",
+    "published": "2026-07-09T08:06Z"
   }
 ]
