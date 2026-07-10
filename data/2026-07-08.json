@@ -111,18 +111,27 @@
     "url": "https://na0341.bearblog.dev/info/stop-using-recaptcha/",
     "title": "Stop using ReCaptcha ~ It's NOT A REAL CAPTCHA",
     "author": "https://na0341.bearblog.dev",
-    "toasts": 26,
+    "toasts": 27,
     "first_seen": "2026-07-09T04:56:42.666Z",
-    "last_updated": "2026-07-09T22:25:01.058Z",
+    "last_updated": "2026-07-10T00:08:22.224Z",
     "published": "2026-07-08T23:13Z"
   },
   {
     "url": "https://after.bearblog.dev/micro/five-finger-rule/",
     "title": "Five finger rule to choose what to read next",
     "author": "https://after.bearblog.dev",
-    "toasts": 19,
+    "toasts": 20,
     "first_seen": "2026-07-09T04:56:42.666Z",
-    "last_updated": "2026-07-09T22:25:01.058Z",
+    "last_updated": "2026-07-10T00:08:22.224Z",
     "published": "2026-07-08T15:48Z"
+  },
+  {
+    "url": "https://blogdoth.bearblog.dev/o-som-de-h-com-a-e-ha/",
+    "title": "O som de H com A é HA",
+    "author": "https://blogdoth.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-07-10T00:08:22.224Z",
+    "last_updated": "2026-07-10T00:08:22.224Z",
+    "published": "2026-07-08T11:00Z"
   }
 ]
