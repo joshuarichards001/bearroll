@@ -3,9 +3,9 @@
     "url": "https://ytp.me/method/",
     "title": "method",
     "author": "https://ytp.me",
-    "toasts": 45,
+    "toasts": 48,
     "first_seen": "2026-07-09T08:33:31.383Z",
-    "last_updated": "2026-07-10T11:55:03.710Z",
+    "last_updated": "2026-07-10T14:34:56.519Z",
     "published": "2026-07-09T03:10Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://robertbirming.com/keep-blogging-dont-worry/",
     "title": "Keep blogging, don't worry",
     "author": "https://robertbirming.com",
-    "toasts": 20,
+    "toasts": 24,
     "first_seen": "2026-07-09T15:59:33.074Z",
-    "last_updated": "2026-07-10T08:25:46.607Z",
+    "last_updated": "2026-07-10T14:34:56.519Z",
     "published": "2026-07-09T13:59Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://futureperfect.bearblog.dev/status-bars-on-websites/",
     "title": "Status bars on websites",
     "author": "https://futureperfect.bearblog.dev",
-    "toasts": 19,
+    "toasts": 22,
     "first_seen": "2026-07-09T18:05:33.482Z",
-    "last_updated": "2026-07-10T08:25:46.607Z",
+    "last_updated": "2026-07-10T14:34:56.519Z",
     "published": "2026-07-09T15:25Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://skaetlett.bearblog.dev/quick-easy-posters-without-ai/",
     "title": "QUICK & EASY covers/posters/etc. WITHOUT GenAI",
     "author": "https://skaetlett.bearblog.dev",
-    "toasts": 44,
+    "toasts": 61,
     "first_seen": "2026-07-10T04:54:52.037Z",
-    "last_updated": "2026-07-10T11:55:03.710Z",
+    "last_updated": "2026-07-10T14:34:56.519Z",
     "published": "2026-07-09T16:44Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://blog.basementcommunity.com/the-internet-is-increasingly-hostile-towards-vpns/",
     "title": "the internet is becoming increasingly hostile towards VPNs",
     "author": "https://blog.basementcommunity.com",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-07-10T04:54:52.037Z",
-    "last_updated": "2026-07-10T04:54:52.037Z",
+    "last_updated": "2026-07-10T14:34:56.519Z",
     "published": "2026-07-09T16:39Z"
   },
   {
@@ -129,9 +129,36 @@
     "url": "https://www.jamesleighton.com/a-whirlwind-weekend-in-london/",
     "title": "A Whirlwind Weekend in London",
     "author": "https://www.jamesleighton.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-10T08:25:46.607Z",
-    "last_updated": "2026-07-10T08:25:46.607Z",
+    "last_updated": "2026-07-10T14:34:56.519Z",
     "published": "2026-07-09T17:01Z"
+  },
+  {
+    "url": "https://blog.saiyanshinobi.com/scrolls/hello/",
+    "title": "Hello ⸜(｡˃ ᵕ ˂ )⸝♡",
+    "author": "https://blog.saiyanshinobi.com",
+    "toasts": 5,
+    "first_seen": "2026-07-10T14:34:56.519Z",
+    "last_updated": "2026-07-10T14:34:56.519Z",
+    "published": "2026-07-09T07:22Z"
+  },
+  {
+    "url": "https://sweaterpockets.bearblog.dev/introduction-post/",
+    "title": "Hi Bear! ʕ•ᴥ•ʔﾉ\"",
+    "author": "https://sweaterpockets.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-07-10T14:34:56.519Z",
+    "last_updated": "2026-07-10T14:34:56.519Z",
+    "published": "2026-07-09T15:59Z"
+  },
+  {
+    "url": "https://blog.curiousquail.com/how-a-soundtrack-that-never-materialized-resulted-in-a-personal-art-boom/",
+    "title": "How a Soundtrack That Never Materialized Resulted In a Personal Art Boom",
+    "author": "https://blog.curiousquail.com",
+    "toasts": 6,
+    "first_seen": "2026-07-10T14:34:56.519Z",
+    "last_updated": "2026-07-10T14:34:56.519Z",
+    "published": "2026-07-09T16:29Z"
   }
 ]
