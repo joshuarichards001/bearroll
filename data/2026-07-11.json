@@ -3,9 +3,9 @@
     "url": "https://binarydigit.net/the-paused-web/",
     "title": "The Paused Web",
     "author": "https://binarydigit.net",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-07-11T07:12:48.361Z",
-    "last_updated": "2026-07-11T07:12:48.361Z",
+    "last_updated": "2026-07-11T09:40:39.198Z",
     "published": "2026-07-11T04:09Z"
   },
   {
@@ -16,5 +16,14 @@
     "first_seen": "2026-07-11T07:12:48.361Z",
     "last_updated": "2026-07-11T07:12:48.361Z",
     "published": "2026-07-11T01:14Z"
+  },
+  {
+    "url": "https://blog.dante.cool/god-forgive-me-im-gonna-talk-about-platner/",
+    "title": "god forgive me i'm gonna talk about platner",
+    "author": "https://blog.dante.cool",
+    "toasts": 7,
+    "first_seen": "2026-07-11T09:40:39.198Z",
+    "last_updated": "2026-07-11T09:40:39.198Z",
+    "published": "2026-07-11T02:20Z"
   }
 ]
