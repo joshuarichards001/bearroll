@@ -30,9 +30,9 @@
     "url": "https://elmc.at/rootring-months-later/",
     "title": "rootring months later",
     "author": "https://elmc.at",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-07-11T14:57:13.797Z",
-    "last_updated": "2026-07-11T19:13:14.140Z",
+    "last_updated": "2026-07-11T22:53:46.720Z",
     "published": "2026-07-11T13:00Z"
   },
   {
@@ -115,5 +115,14 @@
     "first_seen": "2026-07-11T21:53:28.683Z",
     "last_updated": "2026-07-11T21:53:28.683Z",
     "published": "2026-07-11T10:54Z"
+  },
+  {
+    "url": "https://pinewind.bearblog.dev/some-thoughts-on-books-reading-and-writing/",
+    "title": "some thoughts on books, reading and writing",
+    "author": "https://pinewind.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-11T22:53:46.720Z",
+    "last_updated": "2026-07-11T22:53:46.720Z",
+    "published": "2026-07-11T14:55Z"
   }
 ]
