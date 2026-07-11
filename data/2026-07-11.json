@@ -3,18 +3,18 @@
     "url": "https://binarydigit.net/the-paused-web/",
     "title": "The Paused Web",
     "author": "https://binarydigit.net",
-    "toasts": 19,
+    "toasts": 21,
     "first_seen": "2026-07-11T07:12:48.361Z",
-    "last_updated": "2026-07-11T17:56:16.660Z",
+    "last_updated": "2026-07-11T20:53:55.789Z",
     "published": "2026-07-11T04:09Z"
   },
   {
     "url": "https://journal.james-zhan.com/comment-section/",
     "title": "To Comment Section or Not",
     "author": "https://journal.james-zhan.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-11T07:12:48.361Z",
-    "last_updated": "2026-07-11T07:12:48.361Z",
+    "last_updated": "2026-07-11T20:53:55.789Z",
     "published": "2026-07-11T01:14Z"
   },
   {
@@ -57,36 +57,45 @@
     "url": "https://loveisverbing.bearblog.dev/-awkward/",
     "title": "Why Bear Blogging is Awkward",
     "author": "https://loveisverbing.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-11T16:01:12.691Z",
-    "last_updated": "2026-07-11T17:56:16.660Z",
+    "last_updated": "2026-07-11T20:53:55.789Z",
     "published": "2026-07-11T10:57Z"
   },
   {
     "url": "https://sweaterpockets.bearblog.dev/neocities-intimidates-me/",
     "title": "Neocities Intimidates Me",
     "author": "https://sweaterpockets.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-11T17:56:16.660Z",
-    "last_updated": "2026-07-11T19:13:14.140Z",
+    "last_updated": "2026-07-11T20:53:55.789Z",
     "published": "2026-07-11T13:43Z"
   },
   {
     "url": "https://householderkarl.com/nothing-to-anyone/",
     "title": "Nothing to Anyone",
     "author": "https://householderkarl.com",
-    "toasts": 9,
+    "toasts": 12,
     "first_seen": "2026-07-11T17:56:16.660Z",
-    "last_updated": "2026-07-11T19:13:14.140Z",
+    "last_updated": "2026-07-11T20:53:55.789Z",
     "published": "2026-07-11T15:50Z"
   },
   {
     "url": "https://mikeshuey.com/its-a-blog-post-not-a-doctoral-thesis/",
     "title": "It's a blog post, not a doctoral thesis",
     "author": "https://mikeshuey.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-11T17:56:16.660Z",
-    "last_updated": "2026-07-11T17:56:16.660Z",
+    "last_updated": "2026-07-11T20:53:55.789Z",
     "published": "2026-07-11T15:28Z"
+  },
+  {
+    "url": "https://thecynicalnerd.bearblog.dev/ai-will-take-your-job-someday-says-company-that-did-it-on-tuesday/",
+    "title": "AI Will Take Your Job Someday, Says Company That Did It on Tuesday",
+    "author": "https://thecynicalnerd.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-11T20:53:55.789Z",
+    "last_updated": "2026-07-11T20:53:55.789Z",
+    "published": "2026-07-11T12:00Z"
   }
 ]
