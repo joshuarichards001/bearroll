@@ -3,9 +3,9 @@
     "url": "https://binarydigit.net/the-paused-web/",
     "title": "The Paused Web",
     "author": "https://binarydigit.net",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-07-11T07:12:48.361Z",
-    "last_updated": "2026-07-11T13:26:50.031Z",
+    "last_updated": "2026-07-11T14:57:13.797Z",
     "published": "2026-07-11T04:09Z"
   },
   {
@@ -25,5 +25,14 @@
     "first_seen": "2026-07-11T09:40:39.198Z",
     "last_updated": "2026-07-11T13:26:50.031Z",
     "published": "2026-07-11T02:20Z"
+  },
+  {
+    "url": "https://elmc.at/rootring-months-later/",
+    "title": "rootring months later",
+    "author": "https://elmc.at",
+    "toasts": 13,
+    "first_seen": "2026-07-11T14:57:13.797Z",
+    "last_updated": "2026-07-11T14:57:13.797Z",
+    "published": "2026-07-11T13:00Z"
   }
 ]
