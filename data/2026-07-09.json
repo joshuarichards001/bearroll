@@ -21,9 +21,9 @@
     "url": "https://robertbirming.com/keep-blogging-dont-worry/",
     "title": "Keep blogging, don't worry",
     "author": "https://robertbirming.com",
-    "toasts": 31,
+    "toasts": 32,
     "first_seen": "2026-07-09T15:59:33.074Z",
-    "last_updated": "2026-07-10T22:07:32.741Z",
+    "last_updated": "2026-07-11T00:01:41.217Z",
     "published": "2026-07-09T13:59Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://skaetlett.bearblog.dev/quick-easy-posters-without-ai/",
     "title": "QUICK & EASY covers/posters/etc. WITHOUT GenAI",
     "author": "https://skaetlett.bearblog.dev",
-    "toasts": 86,
+    "toasts": 87,
     "first_seen": "2026-07-10T04:54:52.037Z",
-    "last_updated": "2026-07-10T22:07:32.741Z",
+    "last_updated": "2026-07-11T00:01:41.217Z",
     "published": "2026-07-09T16:44Z"
   },
   {
@@ -160,5 +160,14 @@
     "first_seen": "2026-07-10T14:34:56.519Z",
     "last_updated": "2026-07-10T14:34:56.519Z",
     "published": "2026-07-09T16:29Z"
+  },
+  {
+    "url": "https://rnotte.art/to-be-the-product/",
+    "title": "to be \"the product\"",
+    "author": "https://rnotte.art",
+    "toasts": 7,
+    "first_seen": "2026-07-11T00:01:41.217Z",
+    "last_updated": "2026-07-11T00:01:41.217Z",
+    "published": "2026-07-09T19:26Z"
   }
 ]
