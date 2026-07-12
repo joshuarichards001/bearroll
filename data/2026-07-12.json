@@ -39,9 +39,9 @@
     "url": "https://jaredsinclair.bearblog.dev/the-rpg-book-gauntlet-or-how-to-quickly-decide-if-you-give-a-shit/",
     "title": "The RPG Book Gauntlet; or, How To Quickly Decide If You Give A Shit",
     "author": "https://jaredsinclair.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-12T18:01:14.981Z",
-    "last_updated": "2026-07-12T20:06:58.946Z",
+    "last_updated": "2026-07-12T22:54:20.287Z",
     "published": "2026-07-12T15:11Z"
   },
   {
@@ -79,5 +79,14 @@
     "first_seen": "2026-07-12T21:55:24.247Z",
     "last_updated": "2026-07-12T21:55:24.247Z",
     "published": "2026-07-12T17:15Z"
+  },
+  {
+    "url": "https://gem.bearblog.dev/diversity-of-thought-versus-ai-slop/",
+    "title": "Diversity of thought versus AI slop",
+    "author": "https://gem.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-12T22:54:20.287Z",
+    "last_updated": "2026-07-12T22:54:20.287Z",
+    "published": "2026-07-12T19:00Z"
   }
 ]
