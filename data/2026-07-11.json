@@ -3,9 +3,9 @@
     "url": "https://binarydigit.net/the-paused-web/",
     "title": "The Paused Web",
     "author": "https://binarydigit.net",
-    "toasts": 32,
+    "toasts": 35,
     "first_seen": "2026-07-11T07:12:48.361Z",
-    "last_updated": "2026-07-12T14:59:44.344Z",
+    "last_updated": "2026-07-12T18:01:14.981Z",
     "published": "2026-07-11T04:09Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://robertbirming.com/cats-wish-were-mine/",
     "title": "Cats I wish were mine",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-11T16:01:12.691Z",
-    "last_updated": "2026-07-11T16:01:12.691Z",
+    "last_updated": "2026-07-12T18:01:14.981Z",
     "published": "2026-07-11T11:03Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://sweaterpockets.bearblog.dev/neocities-intimidates-me/",
     "title": "Neocities Intimidates Me",
     "author": "https://sweaterpockets.bearblog.dev",
-    "toasts": 21,
+    "toasts": 23,
     "first_seen": "2026-07-11T17:56:16.660Z",
-    "last_updated": "2026-07-12T14:59:44.344Z",
+    "last_updated": "2026-07-12T18:01:14.981Z",
     "published": "2026-07-11T13:43Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-07-12T09:04:50.477Z",
     "last_updated": "2026-07-12T09:04:50.477Z",
     "published": "2026-07-11T23:21Z"
+  },
+  {
+    "url": "https://theiqrafiles.com/notes-on-fitnapunk/",
+    "title": "Notes On FitnaPunk",
+    "author": "https://theiqrafiles.com",
+    "toasts": 6,
+    "first_seen": "2026-07-12T18:01:14.981Z",
+    "last_updated": "2026-07-12T18:01:14.981Z",
+    "published": "2026-07-11T17:18Z"
   }
 ]

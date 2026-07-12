@@ -111,9 +111,9 @@
     "url": "https://rnotte.art/ashamed-of-being-offline/",
     "title": "ashamed of being offline?",
     "author": "https://rnotte.art",
-    "toasts": 53,
+    "toasts": 54,
     "first_seen": "2026-07-08T03:13:45.257Z",
-    "last_updated": "2026-07-12T13:27:37.927Z",
+    "last_updated": "2026-07-12T18:01:14.981Z",
     "published": "2026-07-07T20:38Z"
   },
   {
@@ -210,9 +210,18 @@
     "url": "https://liaswyrd.bearblog.dev/ye-olde-blog/",
     "title": "Ye Olde Blog",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-07-10T04:54:52.037Z",
-    "last_updated": "2026-07-12T03:45:39.642Z",
+    "last_updated": "2026-07-12T18:01:14.981Z",
     "published": "2026-07-07T19:22Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/spells-and-rituals/",
+    "title": "Spells and Rituals",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 12,
+    "first_seen": "2026-07-12T18:01:14.981Z",
+    "last_updated": "2026-07-12T18:01:14.981Z",
+    "published": "2026-07-07T18:57Z"
   }
 ]

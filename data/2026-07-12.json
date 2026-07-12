@@ -3,9 +3,9 @@
     "url": "https://huibenmonique.bearblog.dev/eerste-update/",
     "title": "eerste update",
     "author": "https://huibenmonique.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-12T11:13:08.706Z",
-    "last_updated": "2026-07-12T16:06:05.058Z",
+    "last_updated": "2026-07-12T18:01:14.981Z",
     "published": "2026-07-12T09:32Z"
   },
   {
@@ -30,9 +30,18 @@
     "url": "https://loveisverbing.bearblog.dev/bear-quest/",
     "title": "Bear Blogging - unanswered questions",
     "author": "https://loveisverbing.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-12T14:59:44.344Z",
-    "last_updated": "2026-07-12T16:06:05.058Z",
+    "last_updated": "2026-07-12T18:01:14.981Z",
     "published": "2026-07-12T13:49Z"
+  },
+  {
+    "url": "https://jaredsinclair.bearblog.dev/the-rpg-book-gauntlet-or-how-to-quickly-decide-if-you-give-a-shit/",
+    "title": "The RPG Book Gauntlet; or, How To Quickly Decide If You Give A Shit",
+    "author": "https://jaredsinclair.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-07-12T18:01:14.981Z",
+    "last_updated": "2026-07-12T18:01:14.981Z",
+    "published": "2026-07-12T15:11Z"
   }
 ]
