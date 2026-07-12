@@ -3,9 +3,9 @@
     "url": "https://huibenmonique.bearblog.dev/eerste-update/",
     "title": "eerste update",
     "author": "https://huibenmonique.bearblog.dev",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-07-12T11:13:08.706Z",
-    "last_updated": "2026-07-12T11:13:08.706Z",
+    "last_updated": "2026-07-12T13:27:37.927Z",
     "published": "2026-07-12T09:32Z"
   },
   {
@@ -16,5 +16,14 @@
     "first_seen": "2026-07-12T11:13:08.706Z",
     "last_updated": "2026-07-12T11:13:08.706Z",
     "published": "2026-07-12T06:52Z"
+  },
+  {
+    "url": "https://blahg.online/dont-look-at-me/",
+    "title": "don't look at me",
+    "author": "https://blahg.online",
+    "toasts": 7,
+    "first_seen": "2026-07-12T13:27:37.927Z",
+    "last_updated": "2026-07-12T13:27:37.927Z",
+    "published": "2026-07-12T10:07Z"
   }
 ]
