@@ -3,9 +3,9 @@
     "url": "https://huibenmonique.bearblog.dev/eerste-update/",
     "title": "eerste update",
     "author": "https://huibenmonique.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-12T11:13:08.706Z",
-    "last_updated": "2026-07-12T13:27:37.927Z",
+    "last_updated": "2026-07-12T14:59:44.344Z",
     "published": "2026-07-12T09:32Z"
   },
   {
@@ -25,5 +25,14 @@
     "first_seen": "2026-07-12T13:27:37.927Z",
     "last_updated": "2026-07-12T13:27:37.927Z",
     "published": "2026-07-12T10:07Z"
+  },
+  {
+    "url": "https://loveisverbing.bearblog.dev/bear-quest/",
+    "title": "Bear Blogging - unanswered questions",
+    "author": "https://loveisverbing.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-12T14:59:44.344Z",
+    "last_updated": "2026-07-12T14:59:44.344Z",
+    "published": "2026-07-12T13:49Z"
   }
 ]
