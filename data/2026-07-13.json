@@ -3,18 +3,18 @@
     "url": "https://what.bearblog.dev/i-miss-my-cat/",
     "title": "I Miss My Cat",
     "author": "https://what.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-13T03:48:15.187Z",
-    "last_updated": "2026-07-13T10:33:30.837Z",
+    "last_updated": "2026-07-13T18:45:20.167Z",
     "published": "2026-07-13T01:12Z"
   },
   {
     "url": "https://blog.lauramichet.com/the-tab-ive-had-opened-longest-in-my-browser/",
     "title": "The tab I've had opened longest in my browser",
     "author": "https://blog.lauramichet.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-13T06:57:27.222Z",
-    "last_updated": "2026-07-13T16:37:10.980Z",
+    "last_updated": "2026-07-13T18:45:20.167Z",
     "published": "2026-07-13T05:48Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://nobodysblog.bearblog.dev/a-racist-encounter/",
     "title": "A racist encounter",
     "author": "https://nobodysblog.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-07-13T10:33:30.837Z",
-    "last_updated": "2026-07-13T16:37:10.980Z",
+    "last_updated": "2026-07-13T18:45:20.167Z",
     "published": "2026-07-13T02:43Z"
   },
   {
     "url": "https://onlinegoddess.net/2026/07/re-an-infuriating-goodbye-to-photoshop/",
     "title": "Re: An Infuriating Goodbye to Photoshop",
     "author": "https://onlinegoddess.net",
-    "toasts": 13,
+    "toasts": 16,
     "first_seen": "2026-07-13T16:37:10.980Z",
-    "last_updated": "2026-07-13T16:37:10.980Z",
+    "last_updated": "2026-07-13T18:45:20.167Z",
     "published": "2026-07-13T09:55Z"
   },
   {
@@ -61,5 +61,32 @@
     "first_seen": "2026-07-13T16:37:10.980Z",
     "last_updated": "2026-07-13T16:37:10.980Z",
     "published": "2026-07-13T12:15Z"
+  },
+  {
+    "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+    "title": "I started a \"dirt notebook\"",
+    "author": "https://pinewind.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-13T18:45:20.167Z",
+    "last_updated": "2026-07-13T18:45:20.167Z",
+    "published": "2026-07-13T14:55Z"
+  },
+  {
+    "url": "https://www.jamesleighton.com/week-notes/2026/28/",
+    "title": "Week Notes - 2026-28",
+    "author": "https://www.jamesleighton.com",
+    "toasts": 5,
+    "first_seen": "2026-07-13T18:45:20.167Z",
+    "last_updated": "2026-07-13T18:45:20.167Z",
+    "published": "2026-07-13T16:00Z"
+  },
+  {
+    "url": "https://binarydigit.net/removing-date-time-from-bear-blog-posts/",
+    "title": "Removing Date & Time from Bear Blog Posts",
+    "author": "https://binarydigit.net",
+    "toasts": 5,
+    "first_seen": "2026-07-13T18:45:20.167Z",
+    "last_updated": "2026-07-13T18:45:20.167Z",
+    "published": "2026-07-13T15:03Z"
   }
 ]
