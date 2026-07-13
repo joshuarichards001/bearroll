@@ -12,9 +12,9 @@
     "url": "https://blog.lauramichet.com/the-tab-ive-had-opened-longest-in-my-browser/",
     "title": "The tab I've had opened longest in my browser",
     "author": "https://blog.lauramichet.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-13T06:57:27.222Z",
-    "last_updated": "2026-07-13T18:45:20.167Z",
+    "last_updated": "2026-07-13T21:59:46.809Z",
     "published": "2026-07-13T05:48Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://nobodysblog.bearblog.dev/a-racist-encounter/",
     "title": "A racist encounter",
     "author": "https://nobodysblog.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-13T10:33:30.837Z",
-    "last_updated": "2026-07-13T18:45:20.167Z",
+    "last_updated": "2026-07-13T21:59:46.809Z",
     "published": "2026-07-13T02:43Z"
   },
   {
     "url": "https://onlinegoddess.net/2026/07/re-an-infuriating-goodbye-to-photoshop/",
     "title": "Re: An Infuriating Goodbye to Photoshop",
     "author": "https://onlinegoddess.net",
-    "toasts": 19,
+    "toasts": 22,
     "first_seen": "2026-07-13T16:37:10.980Z",
-    "last_updated": "2026-07-13T20:18:00.043Z",
+    "last_updated": "2026-07-13T21:59:46.809Z",
     "published": "2026-07-13T09:55Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://tala.bearblog.dev/re-closing-my-loops-summer-recently/",
     "title": "RE: closing my loops & summer recently",
     "author": "https://tala.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-13T20:18:00.043Z",
-    "last_updated": "2026-07-13T20:18:00.043Z",
+    "last_updated": "2026-07-13T21:59:46.809Z",
     "published": "2026-07-13T17:32Z"
   },
   {
@@ -115,5 +115,23 @@
     "first_seen": "2026-07-13T20:18:00.043Z",
     "last_updated": "2026-07-13T20:18:00.043Z",
     "published": "2026-07-13T18:59Z"
+  },
+  {
+    "url": "https://householderkarl.com/apparatchik/",
+    "title": "Apparatchik",
+    "author": "https://householderkarl.com",
+    "toasts": 10,
+    "first_seen": "2026-07-13T21:59:46.809Z",
+    "last_updated": "2026-07-13T21:59:46.809Z",
+    "published": "2026-07-13T21:47Z"
+  },
+  {
+    "url": "https://conniesue.me/a-hotel-trial-that-didnt-work-out/",
+    "title": "A Hotel Trial That Didn’t Work Out",
+    "author": "https://conniesue.me",
+    "toasts": 5,
+    "first_seen": "2026-07-13T21:59:46.809Z",
+    "last_updated": "2026-07-13T21:59:46.809Z",
+    "published": "2026-07-13T20:00Z"
   }
 ]
