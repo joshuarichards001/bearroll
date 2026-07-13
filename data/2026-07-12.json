@@ -12,9 +12,9 @@
     "url": "https://blog.lauramichet.com/why-you-should-ride-the-train/",
     "title": "Why you should ride the train",
     "author": "https://blog.lauramichet.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-12T11:13:08.706Z",
-    "last_updated": "2026-07-12T11:13:08.706Z",
+    "last_updated": "2026-07-13T06:57:27.222Z",
     "published": "2026-07-12T06:52Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://loveisverbing.bearblog.dev/bear-quest/",
     "title": "Bear Blogging - unanswered questions",
     "author": "https://loveisverbing.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-12T14:59:44.344Z",
-    "last_updated": "2026-07-12T20:06:58.946Z",
+    "last_updated": "2026-07-13T06:57:27.222Z",
     "published": "2026-07-12T13:49Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://basic.bearblog.dev/retro-computer-advertising-memories/",
     "title": "Retro computer advertising memories",
     "author": "https://basic.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-12T20:06:58.946Z",
-    "last_updated": "2026-07-13T03:48:15.187Z",
+    "last_updated": "2026-07-13T06:57:27.222Z",
     "published": "2026-07-12T16:18Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://azhdarchid.com/writer-skills-post/",
     "title": "A Video Game Writer's Toolkit",
     "author": "https://azhdarchid.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-13T03:48:15.187Z",
-    "last_updated": "2026-07-13T03:48:15.187Z",
+    "last_updated": "2026-07-13T06:57:27.222Z",
     "published": "2026-07-12T15:25Z"
   },
   {
@@ -124,5 +124,23 @@
     "first_seen": "2026-07-13T03:48:15.187Z",
     "last_updated": "2026-07-13T03:48:15.187Z",
     "published": "2026-07-12T22:44Z"
+  },
+  {
+    "url": "https://lightlogged.blog/weekly-notes-2-for-the-emperor-and-old-ghosts/",
+    "title": "Weekly Notes #2 - For the Emperor and Old Ghosts",
+    "author": "https://lightlogged.blog",
+    "toasts": 7,
+    "first_seen": "2026-07-13T06:57:27.222Z",
+    "last_updated": "2026-07-13T06:57:27.222Z",
+    "published": "2026-07-12T21:11Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260712/",
+    "title": "反智流量背后的情绪生意",
+    "author": "https://blog.solazy.me",
+    "toasts": 6,
+    "first_seen": "2026-07-13T06:57:27.222Z",
+    "last_updated": "2026-07-13T06:57:27.222Z",
+    "published": "2026-07-12T11:00Z"
   }
 ]
