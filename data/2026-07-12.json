@@ -12,9 +12,9 @@
     "url": "https://blog.lauramichet.com/why-you-should-ride-the-train/",
     "title": "Why you should ride the train",
     "author": "https://blog.lauramichet.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-12T11:13:08.706Z",
-    "last_updated": "2026-07-13T06:57:27.222Z",
+    "last_updated": "2026-07-13T10:33:30.837Z",
     "published": "2026-07-12T06:52Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://jonah.in/simple-things-go-a-long-way/",
     "title": "Simple Things Go a Long Way",
     "author": "https://jonah.in",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-13T03:48:15.187Z",
-    "last_updated": "2026-07-13T03:48:15.187Z",
+    "last_updated": "2026-07-13T10:33:30.837Z",
     "published": "2026-07-12T22:44Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-07-13T06:57:27.222Z",
     "last_updated": "2026-07-13T06:57:27.222Z",
     "published": "2026-07-12T11:00Z"
+  },
+  {
+    "url": "https://hanki.dev/your-corner-of-the-world/",
+    "title": "your corner of the world",
+    "author": "https://hanki.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-13T10:33:30.837Z",
+    "last_updated": "2026-07-13T10:33:30.837Z",
+    "published": "2026-07-12T18:15Z"
   }
 ]
