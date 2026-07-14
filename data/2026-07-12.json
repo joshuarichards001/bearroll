@@ -21,9 +21,9 @@
     "url": "https://blahg.online/dont-look-at-me/",
     "title": "don't look at me",
     "author": "https://blahg.online",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-07-12T13:27:37.927Z",
-    "last_updated": "2026-07-13T16:37:10.980Z",
+    "last_updated": "2026-07-14T12:16:57.079Z",
     "published": "2026-07-12T10:07Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://basic.bearblog.dev/retro-computer-advertising-memories/",
     "title": "Retro computer advertising memories",
     "author": "https://basic.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-12T20:06:58.946Z",
-    "last_updated": "2026-07-13T16:37:10.980Z",
+    "last_updated": "2026-07-14T12:16:57.079Z",
     "published": "2026-07-12T16:18Z"
   },
   {
@@ -178,5 +178,14 @@
     "first_seen": "2026-07-13T16:37:10.980Z",
     "last_updated": "2026-07-13T16:37:10.980Z",
     "published": "2026-07-12T15:15Z"
+  },
+  {
+    "url": "https://thebookwizard.bearblog.dev/losing-interest-in-books/",
+    "title": "Losing interest in books",
+    "author": "https://thebookwizard.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-07-14T12:16:57.079Z",
+    "last_updated": "2026-07-14T12:16:57.079Z",
+    "published": "2026-07-12T16:05Z"
   }
 ]
