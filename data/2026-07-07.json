@@ -183,27 +183,27 @@
     "url": "https://liaswyrd.bearblog.dev/social-action/",
     "title": "Social Action",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 11,
+    "toasts": 15,
     "first_seen": "2026-07-09T04:56:42.666Z",
-    "last_updated": "2026-07-11T13:26:50.031Z",
+    "last_updated": "2026-07-14T05:34:35.326Z",
     "published": "2026-07-07T18:55Z"
   },
   {
     "url": "https://liaswyrd.bearblog.dev/just-skaldic-things/",
     "title": "Just Skaldic Things",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-07-09T04:56:42.666Z",
-    "last_updated": "2026-07-13T20:18:00.043Z",
+    "last_updated": "2026-07-14T05:34:35.326Z",
     "published": "2026-07-07T18:49Z"
   },
   {
     "url": "https://liaswyrd.bearblog.dev/rune-path/",
     "title": "Rune Path",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-07-09T04:56:42.666Z",
-    "last_updated": "2026-07-13T20:18:00.043Z",
+    "last_updated": "2026-07-14T05:34:35.326Z",
     "published": "2026-07-07T17:46Z"
   },
   {
@@ -219,9 +219,9 @@
     "url": "https://liaswyrd.bearblog.dev/spells-and-rituals/",
     "title": "Spells and Rituals",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 14,
+    "toasts": 16,
     "first_seen": "2026-07-12T18:01:14.981Z",
-    "last_updated": "2026-07-13T23:05:44.723Z",
+    "last_updated": "2026-07-14T05:34:35.326Z",
     "published": "2026-07-07T18:57Z"
   }
 ]
