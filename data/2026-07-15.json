@@ -48,9 +48,9 @@
     "url": "https://fornoone.bearblog.dev/im-thinking-about-weeknotes/",
     "title": "I'm thinking about weeknotes",
     "author": "https://fornoone.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-15T14:54:35.376Z",
-    "last_updated": "2026-07-15T14:54:35.376Z",
+    "last_updated": "2026-07-15T18:10:52.381Z",
     "published": "2026-07-15T13:07Z"
   },
   {
@@ -66,9 +66,27 @@
     "url": "https://musings101.bearblog.dev/enjoying-blogs-with-custom-content-through-rss/",
     "title": "Enjoying Blogs with custom content through RSS",
     "author": "https://musings101.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-15T16:25:29.316Z",
-    "last_updated": "2026-07-15T16:25:29.316Z",
+    "last_updated": "2026-07-15T18:10:52.381Z",
     "published": "2026-07-15T14:14Z"
+  },
+  {
+    "url": "https://robertbirming.com/blank-blogging-counts/",
+    "title": "Blank blogging counts too",
+    "author": "https://robertbirming.com",
+    "toasts": 5,
+    "first_seen": "2026-07-15T18:10:52.381Z",
+    "last_updated": "2026-07-15T18:10:52.381Z",
+    "published": "2026-07-15T16:11Z"
+  },
+  {
+    "url": "https://conniesue.me/hotel-living-microwaverly/",
+    "title": "Hotel Living - Microwaverly",
+    "author": "https://conniesue.me",
+    "toasts": 5,
+    "first_seen": "2026-07-15T18:10:52.381Z",
+    "last_updated": "2026-07-15T18:10:52.381Z",
+    "published": "2026-07-15T15:00Z"
   }
 ]
