@@ -66,9 +66,9 @@
     "url": "https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/",
     "title": "are \"no AI\" disclaimers really necessary?",
     "author": "https://blog.basementcommunity.com",
-    "toasts": 38,
+    "toasts": 41,
     "first_seen": "2026-07-14T22:00:59.058Z",
-    "last_updated": "2026-07-15T14:54:35.376Z",
+    "last_updated": "2026-07-15T16:25:29.316Z",
     "published": "2026-07-14T20:18Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://nats.space/photos-of-scotland/",
     "title": "Photos of Scotland",
     "author": "https://nats.space",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-14T22:00:59.058Z",
-    "last_updated": "2026-07-14T22:00:59.058Z",
+    "last_updated": "2026-07-15T16:25:29.316Z",
     "published": "2026-07-14T17:27Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-07-15T12:17:49.496Z",
     "last_updated": "2026-07-15T12:17:49.496Z",
     "published": "2026-07-14T03:13Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/kakashi/",
+    "title": "Kakashi Hatake é o máximo",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-15T16:25:29.316Z",
+    "last_updated": "2026-07-15T16:25:29.316Z",
+    "published": "2026-07-14T20:45Z"
   }
 ]

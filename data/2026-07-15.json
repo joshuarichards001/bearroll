@@ -3,9 +3,9 @@
     "url": "https://blog.lauramichet.com/im-allowed-a-moment-of-navelgazing-nostalgia/",
     "title": "I'm allowed a moment of navelgazing nostalgia",
     "author": "https://blog.lauramichet.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-15T08:19:35.348Z",
-    "last_updated": "2026-07-15T14:54:35.376Z",
+    "last_updated": "2026-07-15T16:25:29.316Z",
     "published": "2026-07-15T00:30Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://combatdavey.net/july-14-2026/",
     "title": "july 14 ipo",
     "author": "https://combatdavey.net",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-15T10:53:27.516Z",
-    "last_updated": "2026-07-15T10:53:27.516Z",
+    "last_updated": "2026-07-15T16:25:29.316Z",
     "published": "2026-07-15T03:59Z"
   },
   {
@@ -57,9 +57,18 @@
     "url": "https://halloumithoughts.bearblog.dev/untapped-potential-of-creating-something-out-of-feeling-down/",
     "title": "Untapped potential of creating something out of feeling down",
     "author": "https://halloumithoughts.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-15T14:54:35.376Z",
-    "last_updated": "2026-07-15T14:54:35.376Z",
+    "last_updated": "2026-07-15T16:25:29.316Z",
     "published": "2026-07-15T08:52Z"
+  },
+  {
+    "url": "https://musings101.bearblog.dev/enjoying-blogs-with-custom-content-through-rss/",
+    "title": "Enjoying Blogs with custom content through RSS",
+    "author": "https://musings101.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-15T16:25:29.316Z",
+    "last_updated": "2026-07-15T16:25:29.316Z",
+    "published": "2026-07-15T14:14Z"
   }
 ]
