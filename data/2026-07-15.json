@@ -102,18 +102,18 @@
     "url": "https://notebookery.bearblog.dev/re-dirt-notebook/",
     "title": "Re: I started a \"dirt notebook\"",
     "author": "https://notebookery.bearblog.dev",
-    "toasts": 43,
+    "toasts": 44,
     "first_seen": "2026-07-15T22:04:25.339Z",
-    "last_updated": "2026-07-17T12:11:50.006Z",
+    "last_updated": "2026-07-17T14:45:29.445Z",
     "published": "2026-07-15T20:06Z"
   },
   {
     "url": "https://onlinegoddess.net/2026/07/getting-frustrated-with-big-bang-theory/",
     "title": "Getting Frustrated with Big Bang Theory",
     "author": "https://onlinegoddess.net",
-    "toasts": 32,
+    "toasts": 35,
     "first_seen": "2026-07-15T22:04:25.339Z",
-    "last_updated": "2026-07-17T12:11:50.006Z",
+    "last_updated": "2026-07-17T14:45:29.445Z",
     "published": "2026-07-15T17:30Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://liaswyrd.bearblog.dev/join-our-table-poetry/",
     "title": "Join our Table (Poetry)",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-07-16T04:10:49.212Z",
-    "last_updated": "2026-07-17T04:09:26.440Z",
+    "last_updated": "2026-07-17T14:45:29.445Z",
     "published": "2026-07-15T17:55Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://louplummer.lol/one-third-of-our-lives/",
     "title": "One Third of Our Lives",
     "author": "https://louplummer.lol",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-16T07:23:52.258Z",
-    "last_updated": "2026-07-16T22:59:39.304Z",
+    "last_updated": "2026-07-17T14:45:29.445Z",
     "published": "2026-07-15T23:41Z"
   },
   {
@@ -219,9 +219,18 @@
     "url": "https://liaswyrd.bearblog.dev/what-is-lokabrenna/",
     "title": "What is Lokabrenna? (Blog)",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-07-17T04:09:26.440Z",
-    "last_updated": "2026-07-17T04:09:26.440Z",
+    "last_updated": "2026-07-17T14:45:29.445Z",
     "published": "2026-07-15T02:23Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/a-poem-for-the-travelers/",
+    "title": "A Poem for the Travelers (Poetry)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-07-17T14:45:29.445Z",
+    "last_updated": "2026-07-17T14:45:29.445Z",
+    "published": "2026-07-15T16:12Z"
   }
 ]
