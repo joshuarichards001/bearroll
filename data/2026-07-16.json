@@ -48,9 +48,9 @@
     "url": "https://wunderkammer.bearblog.dev/some-jellyfish-for-your-viewing-pleasure/",
     "title": "Some jellyfish for your viewing pleasure",
     "author": "https://wunderkammer.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-16T17:21:37.809Z",
-    "last_updated": "2026-07-16T22:59:39.304Z",
+    "last_updated": "2026-07-17T00:07:49.850Z",
     "published": "2026-07-16T14:49Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://notes.jeddacp.com/anticipatory-grief/",
     "title": "Anticipatory Grief",
     "author": "https://notes.jeddacp.com",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-07-16T19:16:48.193Z",
-    "last_updated": "2026-07-16T22:59:39.304Z",
+    "last_updated": "2026-07-17T00:07:49.850Z",
     "published": "2026-07-16T15:55Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://eskayvendo.bearblog.dev/queimado/",
     "title": "QUEIMADO",
     "author": "https://eskayvendo.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-16T21:03:56.774Z",
-    "last_updated": "2026-07-16T22:59:39.304Z",
+    "last_updated": "2026-07-17T00:07:49.850Z",
     "published": "2026-07-16T17:47Z"
   },
   {
@@ -129,9 +129,27 @@
     "url": "https://s0ykaf.bearblog.dev/americans-stop-saying-its-not-that-hot-challenge/",
     "title": "americans stop saying 'its not that hot' challenge",
     "author": "https://s0ykaf.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-16T22:59:39.304Z",
-    "last_updated": "2026-07-16T22:59:39.304Z",
+    "last_updated": "2026-07-17T00:07:49.850Z",
     "published": "2026-07-16T16:09Z"
+  },
+  {
+    "url": "https://thebookwizard.bearblog.dev/reading-more-than-one-book-at-a-time/",
+    "title": "Reading more than one book at a time",
+    "author": "https://thebookwizard.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-17T00:07:49.850Z",
+    "last_updated": "2026-07-17T00:07:49.850Z",
+    "published": "2026-07-16T13:19Z"
+  },
+  {
+    "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+    "title": "The Great Software Regress: How \"Move Fast and Break Things\" Broke Our Lives",
+    "author": "https://imdanielkendall.com",
+    "toasts": 5,
+    "first_seen": "2026-07-17T00:07:49.850Z",
+    "last_updated": "2026-07-17T00:07:49.850Z",
+    "published": "2026-07-16T21:59Z"
   }
 ]
