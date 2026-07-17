@@ -75,9 +75,9 @@
     "url": "https://tadaima.bearblog.dev/american-coffee/",
     "title": "The most American thing about me is the coffee",
     "author": "https://tadaima.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-17T21:56:16.376Z",
-    "last_updated": "2026-07-17T22:55:00.100Z",
+    "last_updated": "2026-07-17T23:55:24.674Z",
     "published": "2026-07-17T20:01Z"
   },
   {
@@ -97,5 +97,23 @@
     "first_seen": "2026-07-17T22:55:00.100Z",
     "last_updated": "2026-07-17T22:55:00.100Z",
     "published": "2026-07-17T22:12Z"
+  },
+  {
+    "url": "https://therabbitholehaswifi.bearblog.dev/leaving-home/",
+    "title": "Leaving Home",
+    "author": "https://therabbitholehaswifi.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-17T23:55:24.674Z",
+    "last_updated": "2026-07-17T23:55:24.674Z",
+    "published": "2026-07-17T15:02Z"
+  },
+  {
+    "url": "https://idcrisisangel.ca/curtains-are-read/",
+    "title": "curtains are read",
+    "author": "https://idcrisisangel.ca",
+    "toasts": 6,
+    "first_seen": "2026-07-17T23:55:24.674Z",
+    "last_updated": "2026-07-17T23:55:24.674Z",
+    "published": "2026-07-17T13:24Z"
   }
 ]
