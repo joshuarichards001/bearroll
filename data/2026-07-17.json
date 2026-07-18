@@ -48,9 +48,9 @@
     "url": "https://robertbirming.com/backseat-blogger/",
     "title": "The backseat blogger",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-17T16:17:33.560Z",
-    "last_updated": "2026-07-17T18:08:09.762Z",
+    "last_updated": "2026-07-18T13:22:41.494Z",
     "published": "2026-07-17T14:29Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://tadaima.bearblog.dev/american-coffee/",
     "title": "The most American thing about me is the coffee",
     "author": "https://tadaima.bearblog.dev",
-    "toasts": 19,
+    "toasts": 24,
     "first_seen": "2026-07-17T21:56:16.376Z",
-    "last_updated": "2026-07-18T11:06:25.184Z",
+    "last_updated": "2026-07-18T13:22:41.494Z",
     "published": "2026-07-17T20:01Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://blog.absurdpirate.com/online-friends-are-real-friends/",
     "title": "Online Friends Are Real Friends",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 41,
+    "toasts": 46,
     "first_seen": "2026-07-17T22:55:00.100Z",
-    "last_updated": "2026-07-18T11:06:25.184Z",
+    "last_updated": "2026-07-18T13:22:41.494Z",
     "published": "2026-07-17T22:12Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://after.bearblog.dev/micro/stubborn-readers/",
     "title": "Stubborn readers",
     "author": "https://after.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-07-18T02:47:07.813Z",
-    "last_updated": "2026-07-18T11:06:25.184Z",
+    "last_updated": "2026-07-18T13:22:41.494Z",
     "published": "2026-07-17T23:35Z"
   },
   {
@@ -160,5 +160,14 @@
     "first_seen": "2026-07-18T05:30:09.508Z",
     "last_updated": "2026-07-18T05:30:09.508Z",
     "published": "2026-07-17T01:26Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/annual-recharge-time-for-my-drawer-of-devices/",
+    "title": "Annual recharge time for my drawer of devices",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-18T13:22:41.494Z",
+    "last_updated": "2026-07-18T13:22:41.494Z",
+    "published": "2026-07-17T16:42Z"
   }
 ]
