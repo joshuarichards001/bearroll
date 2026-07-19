@@ -21,9 +21,9 @@
     "url": "https://davidmcgee.xyz/the-unread-personal-blog-as-a-vital-disability-accommodation/",
     "title": "The Unread Personal Blog as a Vital Disability Accommodation",
     "author": "https://davidmcgee.xyz",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-07-17T12:11:50.006Z",
-    "last_updated": "2026-07-19T06:32:44.514Z",
+    "last_updated": "2026-07-19T09:06:09.684Z",
     "published": "2026-07-17T04:33Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://tadaima.bearblog.dev/american-coffee/",
     "title": "The most American thing about me is the coffee",
     "author": "https://tadaima.bearblog.dev",
-    "toasts": 42,
+    "toasts": 44,
     "first_seen": "2026-07-17T21:56:16.376Z",
-    "last_updated": "2026-07-19T06:32:44.514Z",
+    "last_updated": "2026-07-19T09:06:09.684Z",
     "published": "2026-07-17T20:01Z"
   },
   {
@@ -169,5 +169,14 @@
     "first_seen": "2026-07-18T13:22:41.494Z",
     "last_updated": "2026-07-18T13:22:41.494Z",
     "published": "2026-07-17T16:42Z"
+  },
+  {
+    "url": "https://robertbirming.com/bear-blog-library/",
+    "title": "Bear Blog library",
+    "author": "https://robertbirming.com",
+    "toasts": 7,
+    "first_seen": "2026-07-19T09:06:09.684Z",
+    "last_updated": "2026-07-19T09:06:09.684Z",
+    "published": "2026-07-17T07:59Z"
   }
 ]
