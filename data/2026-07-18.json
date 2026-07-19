@@ -48,9 +48,9 @@
     "url": "https://technically-good.ca/newsletter/012-2026-07-18/",
     "title": "💌 Newsletter #012 - AI + Job Market = Cognitive Dissonance",
     "author": "https://technically-good.ca",
-    "toasts": 36,
+    "toasts": 38,
     "first_seen": "2026-07-18T16:02:35.293Z",
-    "last_updated": "2026-07-19T03:35:58.515Z",
+    "last_updated": "2026-07-19T06:32:44.514Z",
     "published": "2026-07-18T15:02Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://onlinegoddess.net/2026/07/delving-into-the-blogosphere/",
     "title": "Delving Into The Blogosphere",
     "author": "https://onlinegoddess.net",
-    "toasts": 16,
+    "toasts": 19,
     "first_seen": "2026-07-18T20:53:57.035Z",
-    "last_updated": "2026-07-19T03:35:58.515Z",
+    "last_updated": "2026-07-19T06:32:44.514Z",
     "published": "2026-07-18T17:42Z"
   },
   {
@@ -124,5 +124,14 @@
     "first_seen": "2026-07-18T21:54:22.844Z",
     "last_updated": "2026-07-18T21:54:22.844Z",
     "published": "2026-07-18T17:53Z"
+  },
+  {
+    "url": "https://annodiprova.bearblog.dev/faq/",
+    "title": "F.A.Q.",
+    "author": "https://annodiprova.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-19T06:32:44.514Z",
+    "last_updated": "2026-07-19T06:32:44.514Z",
+    "published": "2026-07-18T10:10Z"
   }
 ]
