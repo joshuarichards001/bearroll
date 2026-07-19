@@ -21,18 +21,18 @@
     "url": "https://blog.dante.cool/im-now-selfhosting-my-website/",
     "title": "i'm now selfhosting my website",
     "author": "https://blog.dante.cool",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-19T13:24:10.052Z",
-    "last_updated": "2026-07-19T13:24:10.052Z",
+    "last_updated": "2026-07-19T17:59:35.178Z",
     "published": "2026-07-19T07:17Z"
   },
   {
     "url": "https://robertbirming.com/bear-blog-list-styles/",
     "title": "Bear Blog list styles",
     "author": "https://robertbirming.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-19T13:24:10.052Z",
-    "last_updated": "2026-07-19T13:24:10.052Z",
+    "last_updated": "2026-07-19T17:59:35.178Z",
     "published": "2026-07-19T06:53Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://theiqrafiles.com/notes-on-malaysia-and-the-network-state/",
     "title": "Notes On Malaysia And The Network State",
     "author": "https://theiqrafiles.com",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-07-19T16:03:36.236Z",
-    "last_updated": "2026-07-19T16:03:36.236Z",
+    "last_updated": "2026-07-19T17:59:35.178Z",
     "published": "2026-07-19T14:28Z"
   },
   {
@@ -66,9 +66,27 @@
     "url": "https://robertbirming.com/bear-blog-upvote-button-styles/",
     "title": "Bear Blog upvote button styles",
     "author": "https://robertbirming.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-19T16:03:36.236Z",
-    "last_updated": "2026-07-19T16:03:36.236Z",
+    "last_updated": "2026-07-19T17:59:35.178Z",
     "published": "2026-07-19T10:10Z"
+  },
+  {
+    "url": "https://angrybunnyman.com/i-am-wanting-to-be-wanting-after-a-trip-to-the-er/",
+    "title": "I am wanting to be wanting after a trip to the ER",
+    "author": "https://angrybunnyman.com",
+    "toasts": 6,
+    "first_seen": "2026-07-19T17:59:35.178Z",
+    "last_updated": "2026-07-19T17:59:35.178Z",
+    "published": "2026-07-19T16:00Z"
+  },
+  {
+    "url": "https://after.bearblog.dev/micro/goodbye-micro-page/",
+    "title": "Goodbye, micro page",
+    "author": "https://after.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-19T17:59:35.178Z",
+    "last_updated": "2026-07-19T17:59:35.178Z",
+    "published": "2026-07-19T06:59Z"
   }
 ]
