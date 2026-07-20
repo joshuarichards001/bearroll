@@ -21,9 +21,9 @@
     "url": "https://rnotte.art/what-else-is-there-to-say/",
     "title": "what else is there to say?",
     "author": "https://rnotte.art",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-20T14:12:39.648Z",
-    "last_updated": "2026-07-20T14:12:39.648Z",
+    "last_updated": "2026-07-20T18:54:56.386Z",
     "published": "2026-07-20T02:10Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://fornoone.bearblog.dev/my-eyes-keep-watering-is-it-perimenopause/",
     "title": "My eyes keep watering, is it perimenopause?",
     "author": "https://fornoone.bearblog.dev",
-    "toasts": 16,
+    "toasts": 32,
     "first_seen": "2026-07-20T16:26:05.576Z",
-    "last_updated": "2026-07-20T16:26:05.576Z",
+    "last_updated": "2026-07-20T18:54:56.386Z",
     "published": "2026-07-20T13:03Z"
   },
   {
     "url": "https://folkmoss.bearblog.dev/digital-entertainment-with-zero-money/",
     "title": "Digitally entertained with zero money",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 9,
+    "toasts": 21,
     "first_seen": "2026-07-20T16:26:05.576Z",
-    "last_updated": "2026-07-20T16:26:05.576Z",
+    "last_updated": "2026-07-20T18:54:56.386Z",
     "published": "2026-07-20T15:28Z"
   },
   {
@@ -70,5 +70,32 @@
     "first_seen": "2026-07-20T16:26:05.576Z",
     "last_updated": "2026-07-20T16:26:05.576Z",
     "published": "2026-07-20T07:49Z"
+  },
+  {
+    "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+    "title": "businesses with ugly AI menu redesigns!!!",
+    "author": "https://blog.fiddery.com",
+    "toasts": 18,
+    "first_seen": "2026-07-20T18:54:56.386Z",
+    "last_updated": "2026-07-20T18:54:56.386Z",
+    "published": "2026-07-20T16:37Z"
+  },
+  {
+    "url": "https://qwertyfingers.bearblog.dev/microblogphotoblog/",
+    "title": "Microblog/photoblog",
+    "author": "https://qwertyfingers.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-20T18:54:56.386Z",
+    "last_updated": "2026-07-20T18:54:56.386Z",
+    "published": "2026-07-20T13:59Z"
+  },
+  {
+    "url": "https://lightlogged.blog/sunday-morning-stroll/",
+    "title": "Sunday morning Stroll",
+    "author": "https://lightlogged.blog",
+    "toasts": 6,
+    "first_seen": "2026-07-20T18:54:56.386Z",
+    "last_updated": "2026-07-20T18:54:56.386Z",
+    "published": "2026-07-20T09:33Z"
   }
 ]
