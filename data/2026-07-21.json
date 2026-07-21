@@ -39,9 +39,9 @@
     "url": "https://mgx.bearblog.dev/playing-with-georgia/",
     "title": "Playing with Georgia",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-21T17:24:26.313Z",
-    "last_updated": "2026-07-21T17:24:26.313Z",
+    "last_updated": "2026-07-21T19:36:06.699Z",
     "published": "2026-07-21T15:14Z"
   },
   {
@@ -57,9 +57,18 @@
     "url": "https://lightlogged.blog/write-more-postcards/",
     "title": "Write more postcards",
     "author": "https://lightlogged.blog",
-    "toasts": 5,
+    "toasts": 8,
     "first_seen": "2026-07-21T17:24:26.313Z",
-    "last_updated": "2026-07-21T17:24:26.313Z",
+    "last_updated": "2026-07-21T19:36:06.699Z",
     "published": "2026-07-21T15:48Z"
+  },
+  {
+    "url": "https://journal.james-zhan.com/no-ai-statements/",
+    "title": "“No AI” Statements Are Much More Than Mere Statements",
+    "author": "https://journal.james-zhan.com",
+    "toasts": 7,
+    "first_seen": "2026-07-21T19:36:06.699Z",
+    "last_updated": "2026-07-21T19:36:06.699Z",
+    "published": "2026-07-21T17:12Z"
   }
 ]
