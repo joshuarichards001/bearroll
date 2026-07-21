@@ -48,9 +48,9 @@
     "url": "https://wunderkammer.bearblog.dev/some-jellyfish-for-your-viewing-pleasure/",
     "title": "Some jellyfish for your viewing pleasure",
     "author": "https://wunderkammer.bearblog.dev",
-    "toasts": 40,
+    "toasts": 41,
     "first_seen": "2026-07-16T17:21:37.809Z",
-    "last_updated": "2026-07-21T03:34:38.379Z",
+    "last_updated": "2026-07-21T15:49:23.582Z",
     "published": "2026-07-16T14:49Z"
   },
   {
@@ -178,5 +178,14 @@
     "first_seen": "2026-07-18T07:56:50.075Z",
     "last_updated": "2026-07-18T07:56:50.075Z",
     "published": "2026-07-16T12:25Z"
+  },
+  {
+    "url": "https://xtoblog.bearblog.dev/new-house/",
+    "title": "new house 🏠",
+    "author": "https://xtoblog.bearblog.dev",
+    "toasts": 18,
+    "first_seen": "2026-07-21T15:49:23.582Z",
+    "last_updated": "2026-07-21T15:49:23.582Z",
+    "published": "2026-07-16T03:34Z"
   }
 ]
