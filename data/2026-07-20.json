@@ -21,9 +21,9 @@
     "url": "https://rnotte.art/what-else-is-there-to-say/",
     "title": "what else is there to say?",
     "author": "https://rnotte.art",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-07-20T14:12:39.648Z",
-    "last_updated": "2026-07-22T00:02:03.694Z",
+    "last_updated": "2026-07-22T12:27:01.862Z",
     "published": "2026-07-20T02:10Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://folkmoss.bearblog.dev/digital-entertainment-with-zero-money/",
     "title": "Digitally entertained with zero money",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 58,
+    "toasts": 61,
     "first_seen": "2026-07-20T16:26:05.576Z",
-    "last_updated": "2026-07-22T10:28:22.509Z",
+    "last_updated": "2026-07-22T12:27:01.862Z",
     "published": "2026-07-20T15:28Z"
   },
   {
@@ -232,5 +232,23 @@
     "first_seen": "2026-07-22T07:36:16.652Z",
     "last_updated": "2026-07-22T07:36:16.652Z",
     "published": "2026-07-20T06:38Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/ruiselder-third-aicme/",
+    "title": "Ruis/ Elder (Third Aicme)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-07-22T12:27:01.862Z",
+    "last_updated": "2026-07-22T12:27:01.862Z",
+    "published": "2026-07-20T21:14Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/straif-blackthorn-third-aicme/",
+    "title": "Straif/ Blackthorn (Third Aicme)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-07-22T12:27:01.862Z",
+    "last_updated": "2026-07-22T12:27:01.862Z",
+    "published": "2026-07-20T19:11Z"
   }
 ]
