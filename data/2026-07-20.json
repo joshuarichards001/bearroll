@@ -57,9 +57,9 @@
     "url": "https://folkmoss.bearblog.dev/digital-entertainment-with-zero-money/",
     "title": "Digitally entertained with zero money",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 54,
+    "toasts": 56,
     "first_seen": "2026-07-20T16:26:05.576Z",
-    "last_updated": "2026-07-22T04:19:27.021Z",
+    "last_updated": "2026-07-22T07:36:16.652Z",
     "published": "2026-07-20T15:28Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://householderkarl.com/i-miss-edinburgh/",
     "title": "I Miss Edinburgh",
     "author": "https://householderkarl.com",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-07-20T23:58:58.705Z",
-    "last_updated": "2026-07-22T04:19:27.021Z",
+    "last_updated": "2026-07-22T07:36:16.652Z",
     "published": "2026-07-20T23:11Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://after.bearblog.dev/micro/cant-get-rid-of-paper/",
     "title": "Can't get rid of paper",
     "author": "https://after.bearblog.dev",
-    "toasts": 25,
+    "toasts": 26,
     "first_seen": "2026-07-20T23:58:58.705Z",
-    "last_updated": "2026-07-22T00:02:03.694Z",
+    "last_updated": "2026-07-22T07:36:16.652Z",
     "published": "2026-07-20T16:19Z"
   },
   {
@@ -223,5 +223,14 @@
     "first_seen": "2026-07-22T04:19:27.021Z",
     "last_updated": "2026-07-22T04:19:27.021Z",
     "published": "2026-07-20T16:27Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/back-on-the-pokemon-z-a-grind/",
+    "title": "Back on the Pokemon Z-A grind",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 7,
+    "first_seen": "2026-07-22T07:36:16.652Z",
+    "last_updated": "2026-07-22T07:36:16.652Z",
+    "published": "2026-07-20T06:38Z"
   }
 ]
