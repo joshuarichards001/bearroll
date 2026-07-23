@@ -21,9 +21,9 @@
     "url": "https://briars.bearblog.dev/boundaries-are-optional-apparently/",
     "title": "boundaries are optional, apparently",
     "author": "https://briars.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-22T07:36:16.652Z",
-    "last_updated": "2026-07-22T21:12:39.410Z",
+    "last_updated": "2026-07-23T06:32:48.058Z",
     "published": "2026-07-22T01:25Z"
   },
   {
@@ -39,27 +39,27 @@
     "url": "https://anubiarts.bearblog.dev/bad-gaming-news-yeah-31/",
     "title": "bad gaming news and being double faced",
     "author": "https://anubiarts.bearblog.dev",
-    "toasts": 17,
+    "toasts": 20,
     "first_seen": "2026-07-22T17:23:52.317Z",
-    "last_updated": "2026-07-23T03:15:26.733Z",
+    "last_updated": "2026-07-23T06:32:48.058Z",
     "published": "2026-07-22T14:41Z"
   },
   {
     "url": "https://blog.absurdpirate.com/oh-my-god-stop-asking-what-i-do-for-work/",
     "title": "Oh My God, Stop Asking What I Do For Work!",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 11,
+    "toasts": 17,
     "first_seen": "2026-07-22T17:23:52.317Z",
-    "last_updated": "2026-07-22T23:08:04.677Z",
+    "last_updated": "2026-07-23T06:32:48.058Z",
     "published": "2026-07-22T14:38Z"
   },
   {
     "url": "https://oracleofsages.bearblog.dev/turning-30/",
     "title": "Turning 30",
     "author": "https://oracleofsages.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-22T17:23:52.317Z",
-    "last_updated": "2026-07-22T23:08:04.677Z",
+    "last_updated": "2026-07-23T06:32:48.058Z",
     "published": "2026-07-22T14:10Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://robertbirming.com/robeart-bear-theme/",
     "title": "Robeart - my take on Bear's default theme",
     "author": "https://robertbirming.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-22T19:25:28.595Z",
-    "last_updated": "2026-07-23T03:15:26.733Z",
+    "last_updated": "2026-07-23T06:32:48.058Z",
     "published": "2026-07-22T16:38Z"
   },
   {
@@ -115,5 +115,59 @@
     "first_seen": "2026-07-23T03:15:26.733Z",
     "last_updated": "2026-07-23T03:15:26.733Z",
     "published": "2026-07-22T21:49Z"
+  },
+  {
+    "url": "https://after.bearblog.dev/micro/that-was-the-plan/",
+    "title": "That was the plan",
+    "author": "https://after.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-23T06:32:48.058Z",
+    "last_updated": "2026-07-23T06:32:48.058Z",
+    "published": "2026-07-22T23:30Z"
+  },
+  {
+    "url": "https://nobodysblog.bearblog.dev/good-managers-will-ruin-your-life/",
+    "title": "Good managers will ruin your life",
+    "author": "https://nobodysblog.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-23T06:32:48.058Z",
+    "last_updated": "2026-07-23T06:32:48.058Z",
+    "published": "2026-07-22T16:10Z"
+  },
+  {
+    "url": "https://yak.bearblog.dev/chronic-worry/",
+    "title": "chronic worry",
+    "author": "https://yak.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-23T06:32:48.058Z",
+    "last_updated": "2026-07-23T06:32:48.058Z",
+    "published": "2026-07-22T16:09Z"
+  },
+  {
+    "url": "https://robertbirming.com/need-to-win/",
+    "title": "The need to win",
+    "author": "https://robertbirming.com",
+    "toasts": 5,
+    "first_seen": "2026-07-23T06:32:48.058Z",
+    "last_updated": "2026-07-23T06:32:48.058Z",
+    "published": "2026-07-22T14:06Z"
+  },
+  {
+    "url": "https://idcrisisangel.ca/the-commodity-of-thoughts/",
+    "title": "the commodity of thoughts",
+    "author": "https://idcrisisangel.ca",
+    "toasts": 5,
+    "first_seen": "2026-07-23T06:32:48.058Z",
+    "last_updated": "2026-07-23T06:32:48.058Z",
+    "published": "2026-07-22T13:56Z"
+  },
+  {
+    "url": "https://pretendshoppingvinted.bearblog.dev/this-cute-yellow-fjallraven-kanken/",
+    "title": "This cute yellow Fjällräven Kanken - (became real)",
+    "author": "https://pretendshoppingvinted.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-23T06:32:48.058Z",
+    "last_updated": "2026-07-23T06:32:48.058Z",
+    "published": "2026-07-22T11:37Z"
   }
 ]
