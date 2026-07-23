@@ -12,9 +12,9 @@
     "url": "https://grippyslide.bearblog.dev/is-it-better-to-be-loose-or-tight/",
     "title": "Is it better to be loose or Tight?",
     "author": "https://grippyslide.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-22T07:36:16.652Z",
-    "last_updated": "2026-07-22T23:08:04.677Z",
+    "last_updated": "2026-07-23T14:08:56.469Z",
     "published": "2026-07-22T05:13Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://robertbirming.com/robeart-bear-theme/",
     "title": "Robeart - my take on Bear's default theme",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-22T19:25:28.595Z",
-    "last_updated": "2026-07-23T06:32:48.058Z",
+    "last_updated": "2026-07-23T14:08:56.469Z",
     "published": "2026-07-22T16:38Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://nobodysblog.bearblog.dev/good-managers-will-ruin-your-life/",
     "title": "Good managers will ruin your life",
     "author": "https://nobodysblog.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-23T06:32:48.058Z",
-    "last_updated": "2026-07-23T11:52:42.425Z",
+    "last_updated": "2026-07-23T14:08:56.469Z",
     "published": "2026-07-22T16:10Z"
   },
   {
@@ -196,5 +196,23 @@
     "first_seen": "2026-07-23T11:52:42.425Z",
     "last_updated": "2026-07-23T11:52:42.425Z",
     "published": "2026-07-22T20:00Z"
+  },
+  {
+    "url": "https://blog.basementcommunity.com/i-start-chinese-school-next-month/",
+    "title": "i start chinese school next month",
+    "author": "https://blog.basementcommunity.com",
+    "toasts": 5,
+    "first_seen": "2026-07-23T14:08:56.469Z",
+    "last_updated": "2026-07-23T14:08:56.469Z",
+    "published": "2026-07-22T20:18Z"
+  },
+  {
+    "url": "https://th.blog.br/yago-oproprio-e-catedrais/",
+    "title": "yago oproprio e catedrais",
+    "author": "https://th.blog.br",
+    "toasts": 5,
+    "first_seen": "2026-07-23T14:08:56.469Z",
+    "last_updated": "2026-07-23T14:08:56.469Z",
+    "published": "2026-07-22T10:40Z"
   }
 ]
