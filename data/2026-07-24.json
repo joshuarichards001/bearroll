@@ -57,18 +57,18 @@
     "url": "https://livingkindfully.bearblog.dev/the-importance-of-self-reflection/",
     "title": "The Importance of Self-Reflection",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-24T14:58:27.251Z",
-    "last_updated": "2026-07-24T14:58:27.251Z",
+    "last_updated": "2026-07-24T20:22:22.096Z",
     "published": "2026-07-24T08:16Z"
   },
   {
     "url": "https://dtw.bearblog.dev/sink-or-stream/",
     "title": "Sink or Stream? On Podcasts and Hyper-Synchronization",
     "author": "https://dtw.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-24T14:58:27.251Z",
-    "last_updated": "2026-07-24T16:49:50.971Z",
+    "last_updated": "2026-07-24T20:22:22.096Z",
     "published": "2026-07-24T12:24Z"
   },
   {
@@ -79,5 +79,32 @@
     "first_seen": "2026-07-24T18:20:49.774Z",
     "last_updated": "2026-07-24T18:20:49.774Z",
     "published": "2026-07-24T13:23Z"
+  },
+  {
+    "url": "https://loveisverbing.bearblog.dev/bear-answers/",
+    "title": "Bear Blogging - Answered Questions!",
+    "author": "https://loveisverbing.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-24T20:22:22.096Z",
+    "last_updated": "2026-07-24T20:22:22.096Z",
+    "published": "2026-07-24T16:58Z"
+  },
+  {
+    "url": "https://robertbirming.com/bear-blog-blockquote-styles/",
+    "title": "Bear Blog blockquote styles",
+    "author": "https://robertbirming.com",
+    "toasts": 6,
+    "first_seen": "2026-07-24T20:22:22.096Z",
+    "last_updated": "2026-07-24T20:22:22.096Z",
+    "published": "2026-07-24T14:51Z"
+  },
+  {
+    "url": "https://robertbirming.com/what-do-you-think/",
+    "title": "What do you think?",
+    "author": "https://robertbirming.com",
+    "toasts": 6,
+    "first_seen": "2026-07-24T20:22:22.096Z",
+    "last_updated": "2026-07-24T20:22:22.096Z",
+    "published": "2026-07-24T13:20Z"
   }
 ]
