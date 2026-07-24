@@ -3,18 +3,18 @@
     "url": "https://householderkarl.com/third-places/",
     "title": "Third Places",
     "author": "https://householderkarl.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-24T04:17:29.402Z",
-    "last_updated": "2026-07-24T10:21:54.714Z",
+    "last_updated": "2026-07-24T14:58:27.251Z",
     "published": "2026-07-24T01:17Z"
   },
   {
     "url": "https://doodhpeda.bearblog.dev/blog/should-i-have-done-more/",
     "title": "Should I have done more?",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-07-24T07:34:05.018Z",
-    "last_updated": "2026-07-24T12:21:37.561Z",
+    "last_updated": "2026-07-24T14:58:27.251Z",
     "published": "2026-07-24T04:29Z"
   },
   {
@@ -30,9 +30,45 @@
     "url": "https://paraquemencontrar.bearblog.dev/aparentemente-tenho-um-corpo/",
     "title": "Aparentemente, tenho um corpo",
     "author": "https://paraquemencontrar.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-24T12:21:37.561Z",
-    "last_updated": "2026-07-24T12:21:37.561Z",
+    "last_updated": "2026-07-24T14:58:27.251Z",
     "published": "2026-07-24T01:35Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/i-recommend-this-article-about-game-cloning/",
+    "title": "I recommend this article about game cloning",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 7,
+    "first_seen": "2026-07-24T14:58:27.251Z",
+    "last_updated": "2026-07-24T14:58:27.251Z",
+    "published": "2026-07-24T06:31Z"
+  },
+  {
+    "url": "https://www.simonjamesfrench.com/soundcloud-time-capsule/",
+    "title": "My old SoundCloud page is a time capsule",
+    "author": "https://www.simonjamesfrench.com",
+    "toasts": 6,
+    "first_seen": "2026-07-24T14:58:27.251Z",
+    "last_updated": "2026-07-24T14:58:27.251Z",
+    "published": "2026-07-24T12:00Z"
+  },
+  {
+    "url": "https://livingkindfully.bearblog.dev/the-importance-of-self-reflection/",
+    "title": "The Importance of Self-Reflection",
+    "author": "https://livingkindfully.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-24T14:58:27.251Z",
+    "last_updated": "2026-07-24T14:58:27.251Z",
+    "published": "2026-07-24T08:16Z"
+  },
+  {
+    "url": "https://dtw.bearblog.dev/sink-or-stream/",
+    "title": "Sink or Stream? On Podcasts and Hyper-Synchronization",
+    "author": "https://dtw.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-24T14:58:27.251Z",
+    "last_updated": "2026-07-24T14:58:27.251Z",
+    "published": "2026-07-24T12:24Z"
   }
 ]
