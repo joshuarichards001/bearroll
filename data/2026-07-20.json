@@ -156,9 +156,9 @@
     "url": "https://after.bearblog.dev/micro/cant-get-rid-of-paper/",
     "title": "Can't get rid of paper",
     "author": "https://after.bearblog.dev",
-    "toasts": 47,
+    "toasts": 48,
     "first_seen": "2026-07-20T23:58:58.705Z",
-    "last_updated": "2026-07-23T22:07:23.970Z",
+    "last_updated": "2026-07-24T00:03:48.545Z",
     "published": "2026-07-20T16:19Z"
   },
   {
@@ -237,18 +237,36 @@
     "url": "https://liaswyrd.bearblog.dev/ruiselder-third-aicme/",
     "title": "Ruis/ Elder (Third Aicme)",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-22T12:27:01.862Z",
-    "last_updated": "2026-07-23T20:16:17.052Z",
+    "last_updated": "2026-07-24T00:03:48.545Z",
     "published": "2026-07-20T21:14Z"
   },
   {
     "url": "https://liaswyrd.bearblog.dev/straif-blackthorn-third-aicme/",
     "title": "Straif/ Blackthorn (Third Aicme)",
     "author": "https://liaswyrd.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-22T12:27:01.862Z",
-    "last_updated": "2026-07-23T20:16:17.052Z",
+    "last_updated": "2026-07-24T00:03:48.545Z",
     "published": "2026-07-20T19:11Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/ngetal-broom-third-aicme/",
+    "title": "Ngetal/ Broom (Third Aicme)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-07-24T00:03:48.545Z",
+    "last_updated": "2026-07-24T00:03:48.545Z",
+    "published": "2026-07-20T16:19Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/gort-gorse-third-aicme/",
+    "title": "Gort/ Gorse (Third Aicme)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-07-24T00:03:48.545Z",
+    "last_updated": "2026-07-24T00:03:48.545Z",
+    "published": "2026-07-20T15:54Z"
   }
 ]
