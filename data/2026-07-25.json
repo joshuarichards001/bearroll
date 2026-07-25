@@ -21,18 +21,18 @@
     "url": "https://toska.bearblog.dev/feeling-violated-and-maybe-its-my-fault/",
     "title": "Feeling violated, and maybe it's my fault",
     "author": "https://toska.bearblog.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-07-25T09:51:48.523Z",
-    "last_updated": "2026-07-25T17:02:04.521Z",
+    "last_updated": "2026-07-25T20:56:08.847Z",
     "published": "2026-07-25T06:50Z"
   },
   {
     "url": "https://fornoone.bearblog.dev/re-why-do-people-have-multiple-blogs/",
     "title": "RE: Why do people have multiple blogs",
     "author": "https://fornoone.bearblog.dev",
-    "toasts": 9,
+    "toasts": 13,
     "first_seen": "2026-07-25T13:41:45.306Z",
-    "last_updated": "2026-07-25T17:02:04.521Z",
+    "last_updated": "2026-07-25T20:56:08.847Z",
     "published": "2026-07-25T06:06Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://www.palmzealot.com/all-i-wanted-to-do-was-throw-away-the-broken-ice-cube-tray/",
     "title": "All I Wanted To Do Was Throw Away the Broken Ice Cube Tray",
     "author": "https://www.palmzealot.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-25T19:12:16.555Z",
-    "last_updated": "2026-07-25T19:12:16.555Z",
+    "last_updated": "2026-07-25T20:56:08.847Z",
     "published": "2026-07-25T17:43Z"
   },
   {
@@ -70,5 +70,32 @@
     "first_seen": "2026-07-25T19:12:16.555Z",
     "last_updated": "2026-07-25T19:12:16.555Z",
     "published": "2026-07-25T13:40Z"
+  },
+  {
+    "url": "https://householderkarl.com/blacktop-bob/",
+    "title": "Blacktop Bop",
+    "author": "https://householderkarl.com",
+    "toasts": 5,
+    "first_seen": "2026-07-25T20:56:08.847Z",
+    "last_updated": "2026-07-25T20:56:08.847Z",
+    "published": "2026-07-25T20:28Z"
+  },
+  {
+    "url": "https://bx.bearblog.dev/im-done-looking-for-the-one/",
+    "title": "I’m done looking for ‘The One’.",
+    "author": "https://bx.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-25T20:56:08.847Z",
+    "last_updated": "2026-07-25T20:56:08.847Z",
+    "published": "2026-07-25T18:39Z"
+  },
+  {
+    "url": "https://piimyon.bearblog.dev/i-want-you-to-miss-my-point/",
+    "title": "I want you to miss my point.",
+    "author": "https://piimyon.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-25T20:56:08.847Z",
+    "last_updated": "2026-07-25T20:56:08.847Z",
+    "published": "2026-07-25T13:57Z"
   }
 ]
