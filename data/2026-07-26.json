@@ -3,9 +3,9 @@
     "url": "https://tinkerdwarf.com/am-i-at-fault/",
     "title": "Am I at fault?",
     "author": "https://tinkerdwarf.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-26T06:39:40.429Z",
-    "last_updated": "2026-07-26T15:08:23.299Z",
+    "last_updated": "2026-07-26T17:05:32.314Z",
     "published": "2026-07-26T02:31Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://piimyon.bearblog.dev/shutting-people-out-is-not-a-good-idea/",
     "title": "Shutting people out is not a good idea.",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 6,
+    "toasts": 9,
     "first_seen": "2026-07-26T13:36:19.076Z",
-    "last_updated": "2026-07-26T15:08:23.299Z",
+    "last_updated": "2026-07-26T17:05:32.314Z",
     "published": "2026-07-26T02:53Z"
   },
   {
@@ -34,5 +34,14 @@
     "first_seen": "2026-07-26T13:36:19.076Z",
     "last_updated": "2026-07-26T13:36:19.076Z",
     "published": "2026-07-26T02:49Z"
+  },
+  {
+    "url": "https://winther.sysctl.dk/reading-books-on-your-phone/",
+    "title": "Reading books on your phone",
+    "author": "https://winther.sysctl.dk",
+    "toasts": 6,
+    "first_seen": "2026-07-26T17:05:32.314Z",
+    "last_updated": "2026-07-26T17:05:32.314Z",
+    "published": "2026-07-26T11:57Z"
   }
 ]

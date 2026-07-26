@@ -12,9 +12,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/should-i-have-done-more/",
     "title": "Should I have done more?",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 53,
+    "toasts": 54,
     "first_seen": "2026-07-24T07:34:05.018Z",
-    "last_updated": "2026-07-26T09:16:21.850Z",
+    "last_updated": "2026-07-26T17:05:32.314Z",
     "published": "2026-07-24T04:29Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://piimyon.bearblog.dev/who-would-ever-read-this/",
     "title": "Who would ever read this?",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 25,
+    "toasts": 28,
     "first_seen": "2026-07-25T07:20:34.671Z",
-    "last_updated": "2026-07-26T13:36:19.076Z",
+    "last_updated": "2026-07-26T17:05:32.314Z",
     "published": "2026-07-24T15:51Z"
   },
   {
@@ -201,9 +201,18 @@
     "url": "https://nostalgia.bearblog.dev/model-minority/",
     "title": "it truly befuddles me how dumb the model minority myth is and why it hasn't died yet",
     "author": "https://nostalgia.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-25T19:12:16.555Z",
-    "last_updated": "2026-07-25T19:12:16.555Z",
+    "last_updated": "2026-07-26T17:05:32.314Z",
     "published": "2026-07-24T21:21Z"
+  },
+  {
+    "url": "https://savvynormie.com/productive-procrastination-wont-restart-your-project-brainwashing-yourself-might/",
+    "title": "Productive Procrastination Won’t Restart Your Project. Brainwashing Yourself Might",
+    "author": "https://savvynormie.com",
+    "toasts": 7,
+    "first_seen": "2026-07-26T17:05:32.314Z",
+    "last_updated": "2026-07-26T17:05:32.314Z",
+    "published": "2026-07-24T17:51Z"
   }
 ]
