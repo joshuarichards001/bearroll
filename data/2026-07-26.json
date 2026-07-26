@@ -3,9 +3,9 @@
     "url": "https://tinkerdwarf.com/am-i-at-fault/",
     "title": "Am I at fault?",
     "author": "https://tinkerdwarf.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-26T06:39:40.429Z",
-    "last_updated": "2026-07-26T19:16:24.372Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-26T02:31Z"
   },
   {
@@ -21,27 +21,27 @@
     "url": "https://piimyon.bearblog.dev/shutting-people-out-is-not-a-good-idea/",
     "title": "Shutting people out is not a good idea.",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-26T13:36:19.076Z",
-    "last_updated": "2026-07-26T21:01:39.391Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-26T02:53Z"
   },
   {
     "url": "https://msquixotic.bearblog.dev/dd-ass-dd-session-1/",
     "title": "\"D&D-ass D&D\", session 1",
     "author": "https://msquixotic.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-26T13:36:19.076Z",
-    "last_updated": "2026-07-26T21:01:39.391Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-26T02:49Z"
   },
   {
     "url": "https://winther.sysctl.dk/reading-books-on-your-phone/",
     "title": "Reading books on your phone",
     "author": "https://winther.sysctl.dk",
-    "toasts": 10,
+    "toasts": 13,
     "first_seen": "2026-07-26T17:05:32.314Z",
-    "last_updated": "2026-07-26T21:01:39.391Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-26T11:57Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://paraquemencontrar.bearblog.dev/morte-em-vida/",
     "title": "Morte em vida",
     "author": "https://paraquemencontrar.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-26T19:16:24.372Z",
-    "last_updated": "2026-07-26T19:16:24.372Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-26T15:14Z"
   },
   {
@@ -79,5 +79,32 @@
     "first_seen": "2026-07-26T21:01:39.391Z",
     "last_updated": "2026-07-26T21:01:39.391Z",
     "published": "2026-07-26T16:02Z"
+  },
+  {
+    "url": "https://www.jordangoodman.xyz/they-are-trying-to-hack-your-consciousness/",
+    "title": "They Are Trying to Hack Your Consciousness",
+    "author": "https://www.jordangoodman.xyz",
+    "toasts": 5,
+    "first_seen": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
+    "published": "2026-07-26T21:06Z"
+  },
+  {
+    "url": "https://tiramisu.bearblog.dev/the-apartment-hunt/",
+    "title": "the apartment hunt",
+    "author": "https://tiramisu.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
+    "published": "2026-07-26T20:17Z"
+  },
+  {
+    "url": "https://eteryu.space/curated/",
+    "title": "Curated",
+    "author": "https://eteryu.space",
+    "toasts": 5,
+    "first_seen": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
+    "published": "2026-07-26T09:32Z"
   }
 ]

@@ -21,9 +21,9 @@
     "url": "https://toska.bearblog.dev/feeling-violated-and-maybe-its-my-fault/",
     "title": "Feeling violated, and maybe it's my fault",
     "author": "https://toska.bearblog.dev",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-07-25T09:51:48.523Z",
-    "last_updated": "2026-07-26T21:01:39.391Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-25T06:50Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://robertbirming.com/re-who-read-this/",
     "title": "Re: Who would ever read this?",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-25T17:02:04.521Z",
-    "last_updated": "2026-07-26T13:36:19.076Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-25T08:44Z"
   },
   {
@@ -84,36 +84,36 @@
     "url": "https://bx.bearblog.dev/im-done-looking-for-the-one/",
     "title": "I’m done looking for ‘The One’.",
     "author": "https://bx.bearblog.dev",
-    "toasts": 29,
+    "toasts": 30,
     "first_seen": "2026-07-25T20:56:08.847Z",
-    "last_updated": "2026-07-26T21:01:39.391Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-25T18:39Z"
   },
   {
     "url": "https://piimyon.bearblog.dev/i-want-you-to-miss-my-point/",
     "title": "I want you to miss my point.",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-25T20:56:08.847Z",
-    "last_updated": "2026-07-26T13:36:19.076Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-25T13:57Z"
   },
   {
     "url": "https://cherrysroom.bearblog.dev/my-presidential-platform-now-that-im-old-enough-to-run/",
     "title": "my presidential platform now that i'm old enough to run",
     "author": "https://cherrysroom.bearblog.dev",
-    "toasts": 38,
+    "toasts": 40,
     "first_seen": "2026-07-25T21:59:46.542Z",
-    "last_updated": "2026-07-26T21:01:39.391Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-25T21:14Z"
   },
   {
     "url": "https://folkmoss.bearblog.dev/the-dichotomy-of-blogging/",
     "title": "The dichotomy of blogging",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-07-25T23:04:46.266Z",
-    "last_updated": "2026-07-26T15:08:23.299Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-25T20:22Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-07-26T11:21:56.558Z",
     "last_updated": "2026-07-26T11:21:56.558Z",
     "published": "2026-07-25T12:19Z"
+  },
+  {
+    "url": "https://storybook.ttywitch.dev/the-computer-is-my-friend/",
+    "title": "the computer is my friend",
+    "author": "https://storybook.ttywitch.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-26T23:02:02.423Z",
+    "published": "2026-07-25T15:48Z"
   }
 ]
