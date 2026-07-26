@@ -21,27 +21,27 @@
     "url": "https://piimyon.bearblog.dev/shutting-people-out-is-not-a-good-idea/",
     "title": "Shutting people out is not a good idea.",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-26T13:36:19.076Z",
-    "last_updated": "2026-07-26T17:05:32.314Z",
+    "last_updated": "2026-07-26T21:01:39.391Z",
     "published": "2026-07-26T02:53Z"
   },
   {
     "url": "https://msquixotic.bearblog.dev/dd-ass-dd-session-1/",
     "title": "\"D&D-ass D&D\", session 1",
     "author": "https://msquixotic.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-26T13:36:19.076Z",
-    "last_updated": "2026-07-26T13:36:19.076Z",
+    "last_updated": "2026-07-26T21:01:39.391Z",
     "published": "2026-07-26T02:49Z"
   },
   {
     "url": "https://winther.sysctl.dk/reading-books-on-your-phone/",
     "title": "Reading books on your phone",
     "author": "https://winther.sysctl.dk",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-26T17:05:32.314Z",
-    "last_updated": "2026-07-26T19:16:24.372Z",
+    "last_updated": "2026-07-26T21:01:39.391Z",
     "published": "2026-07-26T11:57Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://robertbirming.com/birming-bulletin-5/",
     "title": "Birming bulletin #5",
     "author": "https://robertbirming.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-26T19:16:24.372Z",
-    "last_updated": "2026-07-26T19:16:24.372Z",
+    "last_updated": "2026-07-26T21:01:39.391Z",
     "published": "2026-07-26T16:08Z"
   },
   {
@@ -70,5 +70,14 @@
     "first_seen": "2026-07-26T19:16:24.372Z",
     "last_updated": "2026-07-26T19:16:24.372Z",
     "published": "2026-07-26T15:14Z"
+  },
+  {
+    "url": "https://thehourisblue.com/writing-for-readers-not-algorithms/",
+    "title": "Writing for Readers, Not Algorithms",
+    "author": "https://thehourisblue.com",
+    "toasts": 6,
+    "first_seen": "2026-07-26T21:01:39.391Z",
+    "last_updated": "2026-07-26T21:01:39.391Z",
+    "published": "2026-07-26T16:02Z"
   }
 ]
