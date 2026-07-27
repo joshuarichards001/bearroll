@@ -12,18 +12,18 @@
     "url": "https://actualspine.bearblog.dev/in-defense/",
     "title": "In Defense of \"Bad Art\"",
     "author": "https://actualspine.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-26T13:36:19.076Z",
-    "last_updated": "2026-07-27T07:36:04.805Z",
+    "last_updated": "2026-07-27T11:27:55.519Z",
     "published": "2026-07-26T04:01Z"
   },
   {
     "url": "https://piimyon.bearblog.dev/shutting-people-out-is-not-a-good-idea/",
     "title": "Shutting people out is not a good idea.",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-07-26T13:36:19.076Z",
-    "last_updated": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-27T11:27:55.519Z",
     "published": "2026-07-26T02:53Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://winther.sysctl.dk/reading-books-on-your-phone/",
     "title": "Reading books on your phone",
     "author": "https://winther.sysctl.dk",
-    "toasts": 19,
+    "toasts": 23,
     "first_seen": "2026-07-26T17:05:32.314Z",
-    "last_updated": "2026-07-27T07:36:04.805Z",
+    "last_updated": "2026-07-27T11:27:55.519Z",
     "published": "2026-07-26T11:57Z"
   },
   {
@@ -57,27 +57,27 @@
     "url": "https://robertbirming.com/birming-bulletin-5/",
     "title": "Birming bulletin #5",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-07-26T19:16:24.372Z",
-    "last_updated": "2026-07-27T03:29:48.799Z",
+    "last_updated": "2026-07-27T11:27:55.519Z",
     "published": "2026-07-26T16:08Z"
   },
   {
     "url": "https://paraquemencontrar.bearblog.dev/morte-em-vida/",
     "title": "Morte em vida",
     "author": "https://paraquemencontrar.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-07-26T19:16:24.372Z",
-    "last_updated": "2026-07-27T03:29:48.799Z",
+    "last_updated": "2026-07-27T11:27:55.519Z",
     "published": "2026-07-26T15:14Z"
   },
   {
     "url": "https://thehourisblue.com/writing-for-readers-not-algorithms/",
     "title": "Writing for Readers, Not Algorithms",
     "author": "https://thehourisblue.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-26T21:01:39.391Z",
-    "last_updated": "2026-07-26T21:01:39.391Z",
+    "last_updated": "2026-07-27T11:27:55.519Z",
     "published": "2026-07-26T16:02Z"
   },
   {
@@ -111,9 +111,18 @@
     "url": "https://scholarch.bearblog.dev/reconsidering-bearblog-or-on-the-value-of-words-new/",
     "title": "Reconsidering Bearblog; or, On the Value of Words",
     "author": "https://scholarch.bearblog.dev",
-    "toasts": 13,
+    "toasts": 24,
     "first_seen": "2026-07-27T03:29:48.799Z",
-    "last_updated": "2026-07-27T07:36:04.805Z",
+    "last_updated": "2026-07-27T11:27:55.519Z",
     "published": "2026-07-26T23:41Z"
+  },
+  {
+    "url": "https://ln001.bearblog.dev/my-thoughts-on-the-ai-madness/",
+    "title": "My Thoughts on the AI Madness",
+    "author": "https://ln001.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-27T11:27:55.519Z",
+    "last_updated": "2026-07-27T11:27:55.519Z",
+    "published": "2026-07-26T19:51Z"
   }
 ]
