@@ -12,9 +12,9 @@
     "url": "https://actualspine.bearblog.dev/in-defense/",
     "title": "In Defense of \"Bad Art\"",
     "author": "https://actualspine.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-26T13:36:19.076Z",
-    "last_updated": "2026-07-26T15:08:23.299Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-26T04:01Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://winther.sysctl.dk/reading-books-on-your-phone/",
     "title": "Reading books on your phone",
     "author": "https://winther.sysctl.dk",
-    "toasts": 13,
+    "toasts": 15,
     "first_seen": "2026-07-26T17:05:32.314Z",
-    "last_updated": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-26T11:57Z"
   },
   {
@@ -57,18 +57,18 @@
     "url": "https://robertbirming.com/birming-bulletin-5/",
     "title": "Birming bulletin #5",
     "author": "https://robertbirming.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-26T19:16:24.372Z",
-    "last_updated": "2026-07-26T21:01:39.391Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-26T16:08Z"
   },
   {
     "url": "https://paraquemencontrar.bearblog.dev/morte-em-vida/",
     "title": "Morte em vida",
     "author": "https://paraquemencontrar.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-26T19:16:24.372Z",
-    "last_updated": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-26T15:14Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://tiramisu.bearblog.dev/the-apartment-hunt/",
     "title": "the apartment hunt",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-07-26T23:02:02.423Z",
-    "last_updated": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-26T20:17Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-07-26T23:02:02.423Z",
     "last_updated": "2026-07-26T23:02:02.423Z",
     "published": "2026-07-26T09:32Z"
+  },
+  {
+    "url": "https://scholarch.bearblog.dev/reconsidering-bearblog-or-on-the-value-of-words-new/",
+    "title": "Reconsidering Bearblog; or, On the Value of Words",
+    "author": "https://scholarch.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-07-27T03:29:48.799Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
+    "published": "2026-07-26T23:41Z"
   }
 ]

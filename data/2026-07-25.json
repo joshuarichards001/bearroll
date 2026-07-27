@@ -12,27 +12,27 @@
     "url": "https://piimyon.bearblog.dev/i-have-a-confession-to-make-i-check-the-upvote-number-every-now-and-then/",
     "title": "I have a confession to make. I check the \"upvote\" number every now and then.",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-07-25T07:20:34.671Z",
-    "last_updated": "2026-07-26T19:16:24.372Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-25T03:17Z"
   },
   {
     "url": "https://toska.bearblog.dev/feeling-violated-and-maybe-its-my-fault/",
     "title": "Feeling violated, and maybe it's my fault",
     "author": "https://toska.bearblog.dev",
-    "toasts": 25,
+    "toasts": 27,
     "first_seen": "2026-07-25T09:51:48.523Z",
-    "last_updated": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-25T06:50Z"
   },
   {
     "url": "https://fornoone.bearblog.dev/re-why-do-people-have-multiple-blogs/",
     "title": "RE: Why do people have multiple blogs",
     "author": "https://fornoone.bearblog.dev",
-    "toasts": 28,
+    "toasts": 29,
     "first_seen": "2026-07-25T13:41:45.306Z",
-    "last_updated": "2026-07-26T15:08:23.299Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-25T06:06Z"
   },
   {
@@ -84,27 +84,27 @@
     "url": "https://bx.bearblog.dev/im-done-looking-for-the-one/",
     "title": "I’m done looking for ‘The One’.",
     "author": "https://bx.bearblog.dev",
-    "toasts": 30,
+    "toasts": 33,
     "first_seen": "2026-07-25T20:56:08.847Z",
-    "last_updated": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-25T18:39Z"
   },
   {
     "url": "https://piimyon.bearblog.dev/i-want-you-to-miss-my-point/",
     "title": "I want you to miss my point.",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-25T20:56:08.847Z",
-    "last_updated": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-25T13:57Z"
   },
   {
     "url": "https://cherrysroom.bearblog.dev/my-presidential-platform-now-that-im-old-enough-to-run/",
     "title": "my presidential platform now that i'm old enough to run",
     "author": "https://cherrysroom.bearblog.dev",
-    "toasts": 40,
+    "toasts": 43,
     "first_seen": "2026-07-25T21:59:46.542Z",
-    "last_updated": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-25T21:14Z"
   },
   {
@@ -147,9 +147,18 @@
     "url": "https://storybook.ttywitch.dev/the-computer-is-my-friend/",
     "title": "the computer is my friend",
     "author": "https://storybook.ttywitch.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-26T23:02:02.423Z",
-    "last_updated": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
     "published": "2026-07-25T15:48Z"
+  },
+  {
+    "url": "https://robertbirming.com/bear-blog-body-text-styles/",
+    "title": "Bear Blog body text styles",
+    "author": "https://robertbirming.com",
+    "toasts": 6,
+    "first_seen": "2026-07-27T03:29:48.799Z",
+    "last_updated": "2026-07-27T03:29:48.799Z",
+    "published": "2026-07-25T10:43Z"
   }
 ]
