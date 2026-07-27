@@ -111,9 +111,9 @@
     "url": "https://bx.bearblog.dev/reintroducing-myself/",
     "title": "Reintroducing myself.",
     "author": "https://bx.bearblog.dev",
-    "toasts": 34,
+    "toasts": 35,
     "first_seen": "2026-07-20T20:23:31.384Z",
-    "last_updated": "2026-07-27T03:29:48.799Z",
+    "last_updated": "2026-07-27T07:36:04.805Z",
     "published": "2026-07-20T18:42Z"
   },
   {
@@ -268,5 +268,14 @@
     "first_seen": "2026-07-24T00:03:48.545Z",
     "last_updated": "2026-07-24T00:03:48.545Z",
     "published": "2026-07-20T15:54Z"
+  },
+  {
+    "url": "https://azhdarchid.bearblog.dev/the-game-narrative-reader-zeroth-edition/",
+    "title": "The Game Narrative Reader, Zeroth Edition",
+    "author": "https://azhdarchid.bearblog.dev",
+    "toasts": 15,
+    "first_seen": "2026-07-27T07:36:04.805Z",
+    "last_updated": "2026-07-27T07:36:04.805Z",
+    "published": "2026-07-20T17:35Z"
   }
 ]
