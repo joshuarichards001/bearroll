@@ -39,9 +39,9 @@
     "url": "https://winther.sysctl.dk/reading-books-on-your-phone/",
     "title": "Reading books on your phone",
     "author": "https://winther.sysctl.dk",
-    "toasts": 32,
+    "toasts": 34,
     "first_seen": "2026-07-26T17:05:32.314Z",
-    "last_updated": "2026-07-28T02:46:27.114Z",
+    "last_updated": "2026-07-28T05:49:40.259Z",
     "published": "2026-07-26T11:57Z"
   },
   {
@@ -102,18 +102,18 @@
     "url": "https://eteryu.space/curated/",
     "title": "Curated",
     "author": "https://eteryu.space",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-26T23:02:02.423Z",
-    "last_updated": "2026-07-27T19:38:49.971Z",
+    "last_updated": "2026-07-28T05:49:40.259Z",
     "published": "2026-07-26T09:32Z"
   },
   {
     "url": "https://scholarch.bearblog.dev/reconsidering-bearblog-or-on-the-value-of-words-new/",
     "title": "Reconsidering Bearblog; or, On the Value of Words",
     "author": "https://scholarch.bearblog.dev",
-    "toasts": 125,
+    "toasts": 131,
     "first_seen": "2026-07-27T03:29:48.799Z",
-    "last_updated": "2026-07-28T02:46:27.114Z",
+    "last_updated": "2026-07-28T05:49:40.259Z",
     "published": "2026-07-26T23:41Z"
   },
   {
@@ -124,5 +124,14 @@
     "first_seen": "2026-07-27T11:27:55.519Z",
     "last_updated": "2026-07-27T11:27:55.519Z",
     "published": "2026-07-26T19:51Z"
+  },
+  {
+    "url": "https://blog.yaros.ae/cookiesarebadforyou/",
+    "title": "Pretend I wrote a pun about cookies in the title",
+    "author": "https://blog.yaros.ae",
+    "toasts": 6,
+    "first_seen": "2026-07-28T05:49:40.259Z",
+    "last_updated": "2026-07-28T05:49:40.259Z",
+    "published": "2026-07-26T22:29Z"
   }
 ]
