@@ -39,9 +39,9 @@
     "url": "https://winther.sysctl.dk/reading-books-on-your-phone/",
     "title": "Reading books on your phone",
     "author": "https://winther.sysctl.dk",
-    "toasts": 40,
+    "toasts": 41,
     "first_seen": "2026-07-26T17:05:32.314Z",
-    "last_updated": "2026-07-28T16:42:23.588Z",
+    "last_updated": "2026-07-28T18:16:43.649Z",
     "published": "2026-07-26T11:57Z"
   },
   {
@@ -84,18 +84,18 @@
     "url": "https://www.jordangoodman.xyz/they-are-trying-to-hack-your-consciousness/",
     "title": "They Are Trying to Hack Your Consciousness",
     "author": "https://www.jordangoodman.xyz",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-07-26T23:02:02.423Z",
-    "last_updated": "2026-07-26T23:02:02.423Z",
+    "last_updated": "2026-07-28T18:16:43.649Z",
     "published": "2026-07-26T21:06Z"
   },
   {
     "url": "https://tiramisu.bearblog.dev/the-apartment-hunt/",
     "title": "the apartment hunt",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-07-26T23:02:02.423Z",
-    "last_updated": "2026-07-28T16:42:23.588Z",
+    "last_updated": "2026-07-28T18:16:43.649Z",
     "published": "2026-07-26T20:17Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://scholarch.bearblog.dev/reconsidering-bearblog-or-on-the-value-of-words-new/",
     "title": "Reconsidering Bearblog; or, On the Value of Words",
     "author": "https://scholarch.bearblog.dev",
-    "toasts": 162,
+    "toasts": 167,
     "first_seen": "2026-07-27T03:29:48.799Z",
-    "last_updated": "2026-07-28T16:42:23.588Z",
+    "last_updated": "2026-07-28T18:16:43.649Z",
     "published": "2026-07-26T23:41Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-07-28T05:49:40.259Z",
     "last_updated": "2026-07-28T05:49:40.259Z",
     "published": "2026-07-26T22:29Z"
+  },
+  {
+    "url": "https://eskayvendo.bearblog.dev/re-ia-de-verdade/",
+    "title": "re: IA de verdade // humanos que odeiam a humanidade",
+    "author": "https://eskayvendo.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-07-28T18:16:43.649Z",
+    "last_updated": "2026-07-28T18:16:43.649Z",
+    "published": "2026-07-26T18:00Z"
   }
 ]
