@@ -39,9 +39,9 @@
     "url": "https://nate.spot/re-reconsidering-bearblog/",
     "title": "Re: Reconsidering Bearblog",
     "author": "https://nate.spot",
-    "toasts": 119,
+    "toasts": 124,
     "first_seen": "2026-07-28T16:42:23.588Z",
-    "last_updated": "2026-07-29T09:39:55.242Z",
+    "last_updated": "2026-07-29T12:03:16.187Z",
     "published": "2026-07-28T15:35Z"
   },
   {
@@ -66,27 +66,27 @@
     "url": "https://th.blog.br/adulto-pt2/",
     "title": "Adulto pt2",
     "author": "https://th.blog.br",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-28T16:42:23.588Z",
-    "last_updated": "2026-07-29T09:39:55.242Z",
+    "last_updated": "2026-07-29T12:03:16.187Z",
     "published": "2026-07-28T13:42Z"
   },
   {
     "url": "https://robertbirming.com/guess-im-trash/",
     "title": "I guess I’m trash",
     "author": "https://robertbirming.com",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-07-28T16:42:23.588Z",
-    "last_updated": "2026-07-29T09:39:55.242Z",
+    "last_updated": "2026-07-29T12:03:16.187Z",
     "published": "2026-07-28T14:21Z"
   },
   {
     "url": "https://valerialoves.com/why-didnt-silent-titans-change-the-world/",
     "title": "Why Didn't Silent Titans Change the World?",
     "author": "https://valerialoves.com",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-07-28T18:16:43.649Z",
-    "last_updated": "2026-07-29T09:39:55.242Z",
+    "last_updated": "2026-07-29T12:03:16.187Z",
     "published": "2026-07-28T14:42Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://tala.bearblog.dev/youll-pay-an-emotional-price-for-your-inaction/",
     "title": "you'll pay an emotional price for your inaction",
     "author": "https://tala.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-07-28T20:17:12.420Z",
-    "last_updated": "2026-07-29T06:34:05.633Z",
+    "last_updated": "2026-07-29T12:03:16.187Z",
     "published": "2026-07-28T18:32Z"
   },
   {
@@ -165,27 +165,27 @@
     "url": "https://catsandbirdsandstuff.com/why-i-left-wordpress-for-bearblog/",
     "title": "Why I Left WordPress for BearBlog",
     "author": "https://catsandbirdsandstuff.com",
-    "toasts": 39,
+    "toasts": 41,
     "first_seen": "2026-07-28T23:59:57.716Z",
-    "last_updated": "2026-07-29T09:39:55.242Z",
+    "last_updated": "2026-07-29T12:03:16.187Z",
     "published": "2026-07-28T21:00Z"
   },
   {
     "url": "https://noahmickel.com/notes-on-overconsumption-and-instead-of-a-self-help-book/",
     "title": "notes on overconsumption and instead of a self help book",
     "author": "https://noahmickel.com",
-    "toasts": 48,
+    "toasts": 60,
     "first_seen": "2026-07-28T23:59:57.716Z",
-    "last_updated": "2026-07-29T09:39:55.242Z",
+    "last_updated": "2026-07-29T12:03:16.187Z",
     "published": "2026-07-28T20:29Z"
   },
   {
     "url": "https://departure.blog/toast-button-post-tags/",
     "title": "Hiding toast button based on post tags",
     "author": "https://departure.blog",
-    "toasts": 20,
+    "toasts": 24,
     "first_seen": "2026-07-28T23:59:57.716Z",
-    "last_updated": "2026-07-29T09:39:55.242Z",
+    "last_updated": "2026-07-29T12:03:16.187Z",
     "published": "2026-07-28T22:18Z"
   },
   {
@@ -223,5 +223,14 @@
     "first_seen": "2026-07-29T09:39:55.242Z",
     "last_updated": "2026-07-29T09:39:55.242Z",
     "published": "2026-07-28T23:40Z"
+  },
+  {
+    "url": "https://robertbirming.com/bear-blog-text-shorthands/",
+    "title": "Bear Blog text shorthands",
+    "author": "https://robertbirming.com",
+    "toasts": 6,
+    "first_seen": "2026-07-29T12:03:16.187Z",
+    "last_updated": "2026-07-29T12:03:16.187Z",
+    "published": "2026-07-28T19:30Z"
   }
 ]
