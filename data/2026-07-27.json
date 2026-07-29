@@ -21,9 +21,9 @@
     "url": "https://actualspine.bearblog.dev/bearblog-is-not-social-media/",
     "title": "bearblog is not a social media",
     "author": "https://actualspine.bearblog.dev",
-    "toasts": 88,
+    "toasts": 90,
     "first_seen": "2026-07-27T11:27:55.519Z",
-    "last_updated": "2026-07-29T06:34:05.633Z",
+    "last_updated": "2026-07-29T09:39:55.242Z",
     "published": "2026-07-27T06:45Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://trueblue.bearblog.dev/oh-i-can-turn-my-brain-off/",
     "title": "oh, i can turn my brain off",
     "author": "https://trueblue.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-27T17:00:35.702Z",
-    "last_updated": "2026-07-28T14:14:58.943Z",
+    "last_updated": "2026-07-29T09:39:55.242Z",
     "published": "2026-07-27T13:45Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://livingkindfully.bearblog.dev/your-hell-is-someones-heaven/",
     "title": "Your Hell is Someone's Heaven",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 40,
+    "toasts": 43,
     "first_seen": "2026-07-27T21:14:06.995Z",
-    "last_updated": "2026-07-29T06:34:05.633Z",
+    "last_updated": "2026-07-29T09:39:55.242Z",
     "published": "2026-07-27T16:13Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://4s.bearblog.dev/bye-bye-bear-blog/",
     "title": "Bye, bye, Bear Blog!",
     "author": "https://4s.bearblog.dev",
-    "toasts": 74,
+    "toasts": 78,
     "first_seen": "2026-07-27T23:05:11.397Z",
-    "last_updated": "2026-07-29T06:34:05.633Z",
+    "last_updated": "2026-07-29T09:39:55.242Z",
     "published": "2026-07-27T22:00Z"
   },
   {
@@ -223,5 +223,14 @@
     "first_seen": "2026-07-28T11:20:39.743Z",
     "last_updated": "2026-07-28T11:20:39.743Z",
     "published": "2026-07-27T17:45Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260727/",
+    "title": "Why me？",
+    "author": "https://blog.solazy.me",
+    "toasts": 7,
+    "first_seen": "2026-07-29T09:39:55.242Z",
+    "last_updated": "2026-07-29T09:39:55.242Z",
+    "published": "2026-07-27T15:00Z"
   }
 ]
