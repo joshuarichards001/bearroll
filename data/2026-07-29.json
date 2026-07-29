@@ -3,18 +3,18 @@
     "url": "https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/",
     "title": "I want to leave the internet",
     "author": "https://chupacabra.bearblog.dev",
-    "toasts": 58,
+    "toasts": 105,
     "first_seen": "2026-07-29T06:34:05.633Z",
-    "last_updated": "2026-07-29T15:31:26.918Z",
+    "last_updated": "2026-07-29T17:17:54.987Z",
     "published": "2026-07-29T03:17Z"
   },
   {
     "url": "https://oracleofsages.bearblog.dev/when-does-censorship-become-necessary/",
     "title": "When Does Censorship Become Necessary?",
     "author": "https://oracleofsages.bearblog.dev",
-    "toasts": 22,
+    "toasts": 110,
     "first_seen": "2026-07-29T15:31:26.918Z",
-    "last_updated": "2026-07-29T15:31:26.918Z",
+    "last_updated": "2026-07-29T17:17:54.987Z",
     "published": "2026-07-29T13:10Z"
   },
   {
@@ -39,9 +39,54 @@
     "url": "https://raflerat.bearblog.dev/please-dont-tell-me-how-to-feel/",
     "title": "Please don't tell me how to feel.",
     "author": "https://raflerat.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-07-29T15:31:26.918Z",
-    "last_updated": "2026-07-29T15:31:26.918Z",
+    "last_updated": "2026-07-29T17:17:54.987Z",
     "published": "2026-07-29T12:27Z"
+  },
+  {
+    "url": "https://notes.jeddacp.com/cocoa-rainbowbridge/",
+    "title": "Cocoa has crossed the rainbow bridge",
+    "author": "https://notes.jeddacp.com",
+    "toasts": 14,
+    "first_seen": "2026-07-29T17:17:54.987Z",
+    "last_updated": "2026-07-29T17:17:54.987Z",
+    "published": "2026-07-29T15:19Z"
+  },
+  {
+    "url": "https://pourthecoffee.bearblog.dev/ugh-its-in-the-air-and-i-am-heartened-to-know-that-im-not-the-only-one/",
+    "title": "Ugh: It's in the air and I am heartened to know that I'm not the only one",
+    "author": "https://pourthecoffee.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-07-29T17:17:54.987Z",
+    "last_updated": "2026-07-29T17:17:54.987Z",
+    "published": "2026-07-29T16:03Z"
+  },
+  {
+    "url": "https://peteswitzerland.bearblog.dev/reintroduction/",
+    "title": "(Re)introducing myself...",
+    "author": "https://peteswitzerland.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-07-29T17:17:54.987Z",
+    "last_updated": "2026-07-29T17:17:54.987Z",
+    "published": "2026-07-29T08:08Z"
+  },
+  {
+    "url": "https://tinkerdwarf.com/board-games-are-fun/",
+    "title": "Board games are fun",
+    "author": "https://tinkerdwarf.com",
+    "toasts": 3,
+    "first_seen": "2026-07-29T17:17:54.987Z",
+    "last_updated": "2026-07-29T17:17:54.987Z",
+    "published": "2026-07-29T15:08Z"
+  },
+  {
+    "url": "https://gameboat.org/a-tale-of-micromobility/",
+    "title": "a tale of micromobility",
+    "author": "https://gameboat.org",
+    "toasts": 5,
+    "first_seen": "2026-07-29T17:17:54.987Z",
+    "last_updated": "2026-07-29T17:17:54.987Z",
+    "published": "2026-07-29T15:19Z"
   }
 ]
