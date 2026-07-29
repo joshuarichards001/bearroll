@@ -3,18 +3,18 @@
     "url": "https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/",
     "title": "I want to leave the internet",
     "author": "https://chupacabra.bearblog.dev",
-    "toasts": 136,
+    "toasts": 151,
     "first_seen": "2026-07-29T06:34:05.633Z",
-    "last_updated": "2026-07-29T19:21:13.527Z",
+    "last_updated": "2026-07-29T20:59:29.549Z",
     "published": "2026-07-29T03:17Z"
   },
   {
     "url": "https://oracleofsages.bearblog.dev/when-does-censorship-become-necessary/",
     "title": "When Does Censorship Become Necessary?",
     "author": "https://oracleofsages.bearblog.dev",
-    "toasts": 160,
+    "toasts": 175,
     "first_seen": "2026-07-29T15:31:26.918Z",
-    "last_updated": "2026-07-29T19:21:13.527Z",
+    "last_updated": "2026-07-29T20:59:29.549Z",
     "published": "2026-07-29T13:10Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://notes.jeddacp.com/cocoa-rainbowbridge/",
     "title": "Cocoa has crossed the rainbow bridge",
     "author": "https://notes.jeddacp.com",
-    "toasts": 18,
+    "toasts": 21,
     "first_seen": "2026-07-29T17:17:54.987Z",
-    "last_updated": "2026-07-29T19:21:13.527Z",
+    "last_updated": "2026-07-29T20:59:29.549Z",
     "published": "2026-07-29T15:19Z"
   },
   {
     "url": "https://pourthecoffee.bearblog.dev/ugh-its-in-the-air-and-i-am-heartened-to-know-that-im-not-the-only-one/",
     "title": "Ugh: It's in the air and I am heartened to know that I'm not the only one",
     "author": "https://pourthecoffee.bearblog.dev",
-    "toasts": 17,
+    "toasts": 21,
     "first_seen": "2026-07-29T17:17:54.987Z",
-    "last_updated": "2026-07-29T19:21:13.527Z",
+    "last_updated": "2026-07-29T20:59:29.549Z",
     "published": "2026-07-29T16:03Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://tinkerdwarf.com/board-games-are-fun/",
     "title": "Board games are fun",
     "author": "https://tinkerdwarf.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-07-29T17:17:54.987Z",
-    "last_updated": "2026-07-29T19:21:13.527Z",
+    "last_updated": "2026-07-29T20:59:29.549Z",
     "published": "2026-07-29T15:08Z"
   },
   {
@@ -93,27 +93,45 @@
     "url": "https://onlinegoddess.net/2026/07/re-why-i-left-wordpress-for-bearblog/",
     "title": "Re: Why I Left Wordpress for BearBlog",
     "author": "https://onlinegoddess.net",
-    "toasts": 29,
+    "toasts": 34,
     "first_seen": "2026-07-29T19:21:13.527Z",
-    "last_updated": "2026-07-29T19:21:13.527Z",
+    "last_updated": "2026-07-29T20:59:29.549Z",
     "published": "2026-07-29T17:05Z"
   },
   {
     "url": "https://bearlyadiary.bearblog.dev/re-notes-on-overconsumption-and-instead-of-a-self-help-book/",
     "title": "re: notes on overconsumption and instead of a self help book",
     "author": "https://bearlyadiary.bearblog.dev",
-    "toasts": 13,
+    "toasts": 17,
     "first_seen": "2026-07-29T19:21:13.527Z",
-    "last_updated": "2026-07-29T19:21:13.527Z",
+    "last_updated": "2026-07-29T20:59:29.549Z",
     "published": "2026-07-29T17:25Z"
   },
   {
     "url": "https://megatechbody.bearblog.dev/how-to-filter-the-discover-page-using-ublock-to-hide-posts-with-specific-words/",
     "title": "how to filter the discover page using ublock to hide posts with specific words",
     "author": "https://megatechbody.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-29T19:21:13.527Z",
-    "last_updated": "2026-07-29T19:21:13.527Z",
+    "last_updated": "2026-07-29T20:59:29.549Z",
     "published": "2026-07-29T11:47Z"
+  },
+  {
+    "url": "https://scholarch.bearblog.dev/healthy-discourse/",
+    "title": "Healthy Discourse",
+    "author": "https://scholarch.bearblog.dev",
+    "toasts": 39,
+    "first_seen": "2026-07-29T20:59:29.549Z",
+    "last_updated": "2026-07-29T20:59:29.549Z",
+    "published": "2026-07-29T19:46Z"
+  },
+  {
+    "url": "https://jetgirl.art/i-play-skyrim-the-same-way-each-time/",
+    "title": "I play Skyrim the same way each time.",
+    "author": "https://jetgirl.art",
+    "toasts": 6,
+    "first_seen": "2026-07-29T20:59:29.549Z",
+    "last_updated": "2026-07-29T20:59:29.549Z",
+    "published": "2026-07-29T18:55Z"
   }
 ]
