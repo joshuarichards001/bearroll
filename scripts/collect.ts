@@ -9,6 +9,7 @@ const BASE_URL = "https://bearblog.dev/discover/";
 const USER_AGENT = "BearRoll/1.0 (+https://bearroll.dev)";
 const PAGE_COUNT = 5;
 const DELAY_MS = 1000;
+const OPTED_OUT_DOMAINS = ["departure.blog"];
 
 interface Post {
   url: string;
@@ -34,6 +35,19 @@ function sleep(ms: number): Promise<void> {
 
 function dateKey(isoString: string): string {
   return isoString.slice(0, 10);
+}
+
+/** True if a URL belongs to an opted-out domain or one of its subdomains. */
+function isOptedOut(url: string): boolean {
+  let hostname: string;
+  try {
+    hostname = new URL(url).hostname;
+  } catch {
+    return false;
+  }
+  return OPTED_OUT_DOMAINS.some(
+    (domain) => hostname === domain || hostname.endsWith(`.${domain}`),
+  );
 }
 
 async function fetchPage(page: number): Promise<string> {
@@ -79,6 +93,8 @@ function parsePosts(html: string): Post[] {
       );
       return;
     }
+
+    if (isOptedOut(url)) return;
 
     posts.push({ url, title, author: author || "", toasts, published });
   });

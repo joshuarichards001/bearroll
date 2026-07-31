@@ -107,6 +107,11 @@ with pre-rendered HTML fragment endpoints for infinite scroll.
   `<small>` element (ISO 8601), NOT from the relative time text.
 - **Scraping etiquette:** 1s delay between page requests, custom User-Agent
   header, max 5 pages per run.
+- **Opt-out:** `OPTED_OUT_DOMAINS` in `scripts/collect.ts` lists domains that
+  asked to be excluded; matching posts are dropped while parsing, so they never
+  reach `data/`. Filtering happens at collection time only — the frontend has no
+  opt-out logic — so when a domain is added, its already collected posts must be
+  deleted from `data/` by hand.
 - **Fail-loud on page 0:** If zero posts are found on page 0, the script exits
   non-zero (HTML structure may have changed). Later pages with fewer/zero posts
   are tolerated.
