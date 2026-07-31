@@ -3,7 +3,6 @@ import Layout from "../../layouts/Layout.astro";
 import PageHeader from "../../components/PageHeader.astro";
 import StatsView from "../../components/StatsView.astro";
 import { computeStats, getAvailableMonths } from "../../lib/stats";
-import { formatDate } from "../../lib/format";
 
 export function getStaticPaths() {
   return getAvailableMonths().map((m) => ({
@@ -14,25 +13,15 @@ export function getStaticPaths() {
 
 const { monthInfo } = Astro.props;
 const stats = computeStats(monthInfo.key);
-
-// An in-progress month only holds data up to the last day collected.
-const lastDay = stats.dailyToasts.at(-1)?.date;
-const period = monthInfo.inProgress
-  ? `${monthInfo.label} so far`
-  : monthInfo.label;
-const blurb =
-  monthInfo.inProgress && lastDay
-    ? `Stats for ${period}, through ${formatDate(lastDay)}.`
-    : `Stats for ${period}.`;
 ---
 
 <Layout
   title={`Stats for ${monthInfo.label} - Bear Roll`}
-  description={`Bear Roll stats for ${period}: most toasted posts, most featured blogs, and totals.`}
+  description={`Bear Roll stats for ${monthInfo.label}: most toasted posts, most featured blogs, and totals.`}
 >
   <PageHeader slot="header" title={`Stats - ${monthInfo.label}`} />
   <main class="flex flex-col gap-8">
-    <p class="text-xs text-muted">{blurb}</p>
+    <p class="text-xs text-muted">Stats for {monthInfo.label}.</p>
     <StatsView stats={stats} activeSlug={monthInfo.slug} />
   </main>
 </Layout>

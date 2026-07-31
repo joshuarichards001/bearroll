@@ -29,8 +29,6 @@ export interface MonthInfo {
   slug: string;
   /** Display label, e.g. "April 2026" */
   label: string;
-  /** True while the month is still being collected, so its stats are partial */
-  inProgress: boolean;
 }
 
 const MONTH_NAMES = [
@@ -48,19 +46,6 @@ const MONTH_NAMES = [
   "december",
 ];
 
-/** Build a month descriptor from any YYYY-MM-DD date within that month. */
-function toMonthInfo(date: string, currentKey: string): MonthInfo {
-  const [year, month] = date.split("-").map(Number);
-  const name = MONTH_NAMES[month - 1];
-  const key = `${year}-${String(month).padStart(2, "0")}`;
-  return {
-    key,
-    slug: `${name}-${year}`,
-    label: `${name.charAt(0).toUpperCase() + name.slice(1)} ${year}`,
-    inProgress: key === currentKey,
-  };
-}
-
 /**
  * Returns months with collected data, in reverse chronological order.
  *
@@ -73,10 +58,17 @@ function toMonthInfo(date: string, currentKey: string): MonthInfo {
  * month collection started in).
  */
 export function getAvailableMonths(): MonthInfo[] {
-  const currentKey = new Date().toISOString().slice(0, 7);
   return getAllDayDates()
     .filter((date) => date.endsWith("-01"))
-    .map((date) => toMonthInfo(date, currentKey));
+    .map((date) => {
+      const [year, month] = date.split("-").map(Number);
+      const name = MONTH_NAMES[month - 1];
+      return {
+        key: `${year}-${String(month).padStart(2, "0")}`,
+        slug: `${name}-${year}`,
+        label: `${name.charAt(0).toUpperCase() + name.slice(1)} ${year}`,
+      };
+    });
 }
 
 /** Compute stats across all data, or restricted to a YYYY-MM month key. */
