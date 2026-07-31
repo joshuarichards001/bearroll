@@ -3,9 +3,9 @@
     "url": "https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/",
     "title": "I want to leave the internet",
     "author": "https://chupacabra.bearblog.dev",
-    "toasts": 240,
+    "toasts": 244,
     "first_seen": "2026-07-29T06:34:05.633Z",
-    "last_updated": "2026-07-31T09:47:25.328Z",
+    "last_updated": "2026-07-31T15:21:45.595Z",
     "published": "2026-07-29T03:17Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://notes.jeddacp.com/cocoa-rainbowbridge/",
     "title": "Cocoa has crossed the rainbow bridge",
     "author": "https://notes.jeddacp.com",
-    "toasts": 39,
+    "toasts": 42,
     "first_seen": "2026-07-29T17:17:54.987Z",
-    "last_updated": "2026-07-31T09:47:25.328Z",
+    "last_updated": "2026-07-31T15:21:45.595Z",
     "published": "2026-07-29T15:19Z"
   },
   {
@@ -120,27 +120,27 @@
     "url": "https://scholarch.bearblog.dev/healthy-discourse/",
     "title": "Healthy Discourse",
     "author": "https://scholarch.bearblog.dev",
-    "toasts": 140,
+    "toasts": 142,
     "first_seen": "2026-07-29T20:59:29.549Z",
-    "last_updated": "2026-07-31T12:02:37.433Z",
+    "last_updated": "2026-07-31T15:21:45.595Z",
     "published": "2026-07-29T19:46Z"
   },
   {
     "url": "https://jetgirl.art/i-play-skyrim-the-same-way-each-time/",
     "title": "I play Skyrim the same way each time.",
     "author": "https://jetgirl.art",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-07-29T20:59:29.549Z",
-    "last_updated": "2026-07-31T12:02:37.433Z",
+    "last_updated": "2026-07-31T15:21:45.595Z",
     "published": "2026-07-29T18:55Z"
   },
   {
     "url": "https://angrybunnyman.com/some-advice-dont-get-your-elbow-tattooed-or-reading-things-that-bother-you/",
     "title": "Some advice: don't get your elbow tattooed or read things that bother you",
     "author": "https://angrybunnyman.com",
-    "toasts": 52,
+    "toasts": 53,
     "first_seen": "2026-07-29T22:07:42.692Z",
-    "last_updated": "2026-07-31T12:02:37.433Z",
+    "last_updated": "2026-07-31T15:21:45.595Z",
     "published": "2026-07-29T21:17Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
     "title": "Re: Online Friends Are Real Friends",
     "author": "https://toska.bearblog.dev",
-    "toasts": 23,
+    "toasts": 24,
     "first_seen": "2026-07-30T04:08:05.282Z",
-    "last_updated": "2026-07-31T09:47:25.328Z",
+    "last_updated": "2026-07-31T15:21:45.595Z",
     "published": "2026-07-29T23:40Z"
   },
   {
@@ -232,5 +232,14 @@
     "first_seen": "2026-07-31T03:19:36.937Z",
     "last_updated": "2026-07-31T03:19:36.937Z",
     "published": "2026-07-29T19:07Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260729/",
+    "title": "承认吧，你其实根本不爱看书",
+    "author": "https://blog.solazy.me",
+    "toasts": 9,
+    "first_seen": "2026-07-31T15:21:45.595Z",
+    "last_updated": "2026-07-31T15:21:45.595Z",
+    "published": "2026-07-29T15:00Z"
   }
 ]
