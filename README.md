@@ -15,6 +15,10 @@ Live at [bearroll.dev](https://bearroll.dev).
 of Bear Blog's discover feed using Cheerio and writes `data/YYYY-MM-DD.json`
 files. A GitHub Actions cron job runs this hourly.
 
+**Opt out** — `scripts/opt-out.ts` holds a list of domains to skip. Posts from
+those domains (and their subdomains) are never collected. To opt out, add your
+domain to that list and open a pull request, or open an issue and I'll add it.
+
 **Frontend** — A static [Astro](https://astro.build) site reads those JSON files
 at build time. The first 6 days are server-rendered; older days load on scroll
 via pre-built HTML fragment endpoints. Posts are ranked by toast count with top

@@ -3,6 +3,7 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { isOptedOut } from "./opt-out.ts";
 
 const DATA_DIR = join(fileURLToPath(import.meta.url), "..", "..", "data");
 const BASE_URL = "https://bearblog.dev/discover/";
@@ -79,6 +80,8 @@ function parsePosts(html: string): Post[] {
       );
       return;
     }
+
+    if (isOptedOut(url) || isOptedOut(author || "")) return;
 
     posts.push({ url, title, author: author || "", toasts, published });
   });

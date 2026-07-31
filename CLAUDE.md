@@ -35,6 +35,9 @@ Two independent subsystems share the `data/` directory:
 - `scripts/collect.ts` — TypeScript script that fetches discover pages 0-4,
   parses HTML with Cheerio, and merges results into `data/YYYY-MM-DD.json`
   files.
+- `scripts/opt-out.ts` — List of domains that have asked to be excluded, plus
+  `isOptedOut(url)`. The collector drops matching posts while parsing, so they
+  never reach `data/`.
 - `.github/workflows/collect.yml` — Runs the collector hourly via cron, commits
   changed data files.
 
@@ -107,6 +110,9 @@ with pre-rendered HTML fragment endpoints for infinite scroll.
   `<small>` element (ISO 8601), NOT from the relative time text.
 - **Scraping etiquette:** 1s delay between page requests, custom User-Agent
   header, max 5 pages per run.
+- **Opt-out:** Filtering happens at collection time only — the frontend has no
+  opt-out logic. When a domain is added to `OPTED_OUT_DOMAINS`, its already
+  collected posts must be deleted from `data/` by hand.
 - **Fail-loud on page 0:** If zero posts are found on page 0, the script exits
   non-zero (HTML structure may have changed). Later pages with fewer/zero posts
   are tolerated.
