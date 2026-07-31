@@ -45,16 +45,21 @@ Two independent subsystems share the `data/` directory:
   SSG), `getRemainingDayDates()` (for client-side lazy loading),
   `getAllDayDates()`, `loadDay()`, and `processDay()`.
 - `src/lib/format.ts` — Date formatting (`formatDate`).
-- `src/lib/stats.ts` — Computes aggregate statistics across all collected data.
-  Deduplicates posts by URL, ranks top posts by toasts, and tallies per-blog
-  appearance counts. Key export: `computeStats()`.
+- `src/lib/stats.ts` — Computes aggregate statistics across all collected data,
+  or across a single month. Deduplicates posts by URL, ranks top posts by
+  toasts, and tallies per-blog appearance counts. Key exports:
+  `computeStats(monthKey?)` and `getAvailableMonths()`.
 - `src/pages/index.astro` — Main page. Server-renders the first 4 days, then
   uses a scroll event listener to lazy-load older days via the HTML API when the
   user nears the bottom of the page. Client-side filter logic and scroll loading
   live in an inline `<script>` block.
-- `src/pages/stats.astro` — Aggregate statistics page showing total posts
-  tracked, unique blogs, days collected, most toasted posts, and most featured
+- `src/pages/stats/index.astro` — All-time statistics page showing total posts
+  tracked, unique blogs, toasts collected, most toasted posts, and most featured
   blogs.
+- `src/pages/stats/[month].astro` — Per-month statistics page, statically
+  generated for every month returned by `getAvailableMonths()` — including the
+  current, in-progress month, whose page covers the days collected so far and is
+  rebuilt on every build until the month ends.
 - `src/pages/about.astro` — Static about page explaining the project's purpose
   and technical implementation.
 - `src/pages/archive/index.astro` — Lists all collected dates as links to
