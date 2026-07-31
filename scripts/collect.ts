@@ -9,8 +9,6 @@ const BASE_URL = "https://bearblog.dev/discover/";
 const USER_AGENT = "BearRoll/1.0 (+https://bearroll.dev)";
 const PAGE_COUNT = 5;
 const DELAY_MS = 1000;
-
-/** Domains that have asked to be left out of Bear Roll. */
 const OPTED_OUT_DOMAINS = ["departure.blog"];
 
 interface Post {
