@@ -3,13 +3,15 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
-import { isOptedOut } from "./opt-out.ts";
 
 const DATA_DIR = join(fileURLToPath(import.meta.url), "..", "..", "data");
 const BASE_URL = "https://bearblog.dev/discover/";
 const USER_AGENT = "BearRoll/1.0 (+https://bearroll.dev)";
 const PAGE_COUNT = 5;
 const DELAY_MS = 1000;
+
+/** Domains that have asked to be left out of Bear Roll. */
+const OPTED_OUT_DOMAINS = ["departure.blog"];
 
 interface Post {
   url: string;
@@ -35,6 +37,19 @@ function sleep(ms: number): Promise<void> {
 
 function dateKey(isoString: string): string {
   return isoString.slice(0, 10);
+}
+
+/** True if a URL belongs to an opted-out domain or one of its subdomains. */
+function isOptedOut(url: string): boolean {
+  let hostname: string;
+  try {
+    hostname = new URL(url).hostname;
+  } catch {
+    return false;
+  }
+  return OPTED_OUT_DOMAINS.some(
+    (domain) => hostname === domain || hostname.endsWith(`.${domain}`),
+  );
 }
 
 async function fetchPage(page: number): Promise<string> {
@@ -81,7 +96,7 @@ function parsePosts(html: string): Post[] {
       return;
     }
 
-    if (isOptedOut(url) || isOptedOut(author || "")) return;
+    if (isOptedOut(url)) return;
 
     posts.push({ url, title, author: author || "", toasts, published });
   });
