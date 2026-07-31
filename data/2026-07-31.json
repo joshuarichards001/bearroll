@@ -12,9 +12,9 @@
     "url": "https://mothertehresa.bearblog.dev/maybe-i-should-talk-to-someone/",
     "title": "Maybe I Should Talk to Someone",
     "author": "https://mothertehresa.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-31T09:47:25.328Z",
-    "last_updated": "2026-07-31T17:41:50.424Z",
+    "last_updated": "2026-07-31T19:38:39.727Z",
     "published": "2026-07-31T03:27Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://xtoblog.bearblog.dev/i-wish-i-was-more-affectionate-with-my-children/",
     "title": "I wish I was more affectionate with my children",
     "author": "https://xtoblog.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-31T12:02:37.433Z",
-    "last_updated": "2026-07-31T15:21:45.595Z",
+    "last_updated": "2026-07-31T19:38:39.727Z",
     "published": "2026-07-31T01:50Z"
   },
   {
@@ -102,9 +102,18 @@
     "url": "https://robertbirming.com/bear-blog-reply-via-email/",
     "title": "Bear Blog reply via email",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-31T17:41:50.424Z",
-    "last_updated": "2026-07-31T17:41:50.424Z",
+    "last_updated": "2026-07-31T19:38:39.727Z",
     "published": "2026-07-31T13:52Z"
+  },
+  {
+    "url": "https://danielducharme.net/a-propos-de-lintelligence-artificielle/",
+    "title": "À propos de l'intelligence artificielle",
+    "author": "https://danielducharme.net",
+    "toasts": 6,
+    "first_seen": "2026-07-31T19:38:39.727Z",
+    "last_updated": "2026-07-31T19:38:39.727Z",
+    "published": "2026-07-31T10:00Z"
   }
 ]
