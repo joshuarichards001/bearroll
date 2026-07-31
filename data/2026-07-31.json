@@ -12,18 +12,18 @@
     "url": "https://mothertehresa.bearblog.dev/maybe-i-should-talk-to-someone/",
     "title": "Maybe I Should Talk to Someone",
     "author": "https://mothertehresa.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-31T09:47:25.328Z",
-    "last_updated": "2026-07-31T12:02:37.433Z",
+    "last_updated": "2026-07-31T17:41:50.424Z",
     "published": "2026-07-31T03:27Z"
   },
   {
     "url": "https://blog.lauramichet.com/look-at-this-gigantic-bug/",
     "title": "Look at this gigantic bug",
     "author": "https://blog.lauramichet.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-07-31T09:47:25.328Z",
-    "last_updated": "2026-07-31T09:47:25.328Z",
+    "last_updated": "2026-07-31T17:41:50.424Z",
     "published": "2026-07-31T06:50Z"
   },
   {
@@ -57,27 +57,27 @@
     "url": "https://robertbirming.com/bear-blog-post-reading-time/",
     "title": "Bear Blog post reading time",
     "author": "https://robertbirming.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-31T15:21:45.595Z",
-    "last_updated": "2026-07-31T15:21:45.595Z",
+    "last_updated": "2026-07-31T17:41:50.424Z",
     "published": "2026-07-31T09:08Z"
   },
   {
     "url": "https://blog.avas.space/rosebudthorn-july26/",
     "title": "rose ▪ bud ▪ thorn - july 2026",
     "author": "https://blog.avas.space",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-31T15:21:45.595Z",
-    "last_updated": "2026-07-31T15:21:45.595Z",
+    "last_updated": "2026-07-31T17:41:50.424Z",
     "published": "2026-07-31T07:30Z"
   },
   {
     "url": "https://writeodd.bearblog.dev/a-game-about-words-combat-as-failstate-and-a-deck-of-cards/",
     "title": "A game about Words, Combat as Failstate, and a Deck of Cards",
     "author": "https://writeodd.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-31T15:21:45.595Z",
-    "last_updated": "2026-07-31T15:21:45.595Z",
+    "last_updated": "2026-07-31T17:41:50.424Z",
     "published": "2026-07-31T02:02Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-07-31T15:21:45.595Z",
     "last_updated": "2026-07-31T15:21:45.595Z",
     "published": "2026-07-31T00:35Z"
+  },
+  {
+    "url": "https://robertbirming.com/bear-blog-reply-via-email/",
+    "title": "Bear Blog reply via email",
+    "author": "https://robertbirming.com",
+    "toasts": 7,
+    "first_seen": "2026-07-31T17:41:50.424Z",
+    "last_updated": "2026-07-31T17:41:50.424Z",
+    "published": "2026-07-31T13:52Z"
   }
 ]
