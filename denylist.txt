@@ -1,0 +1,11 @@
+# Blogs that have asked to be excluded from BearRoll.
+#
+# One hostname per line, e.g.:
+#   someone.bearblog.dev
+#   example.com
+#
+# Matched case-insensitively against each post's blog and post URL; a leading
+# "www." is ignored. Denylisting is forward-only: the collector stops adding or
+# updating posts from these blogs, but already-collected posts are left in place.
+#
+# To opt out, email hello@bearroll.dev.

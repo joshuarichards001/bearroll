@@ -4,7 +4,9 @@ import { existsSync } from "node:fs";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 
-const DATA_DIR = join(fileURLToPath(import.meta.url), "..", "..", "data");
+const ROOT_DIR = join(fileURLToPath(import.meta.url), "..", "..");
+const DATA_DIR = join(ROOT_DIR, "data");
+const DENYLIST_PATH = join(ROOT_DIR, "denylist.txt");
 const BASE_URL = "https://bearblog.dev/discover/";
 const USER_AGENT = "BearRoll/1.0 (+https://bearroll.dev)";
 const PAGE_COUNT = 5;
@@ -34,6 +36,36 @@ function sleep(ms: number): Promise<void> {
 
 function dateKey(isoString: string): string {
   return isoString.slice(0, 10);
+}
+
+/** Lowercase hostname of a URL with any leading "www." stripped. */
+function normalizeHost(url: string): string {
+  try {
+    return new URL(url).hostname.toLowerCase().replace(/^www\./, "");
+  } catch {
+    return url.toLowerCase().replace(/^www\./, "");
+  }
+}
+
+/** Load blog hostnames that have opted out of collection. Missing file → none. */
+async function loadDenylist(): Promise<Set<string>> {
+  if (!existsSync(DENYLIST_PATH)) return new Set();
+  const raw = await readFile(DENYLIST_PATH, "utf-8");
+  const hosts = raw
+    .split("\n")
+    .map((line) => line.trim())
+    .filter((line) => line.length > 0 && !line.startsWith("#"))
+    .map((line) => normalizeHost(line));
+  return new Set(hosts);
+}
+
+/** True if the post's blog or post URL belongs to a denylisted host. */
+function isDenied(post: Post, denySet: Set<string>): boolean {
+  if (denySet.size === 0) return false;
+  return (
+    (post.author !== "" && denySet.has(normalizeHost(post.author))) ||
+    denySet.has(normalizeHost(post.url))
+  );
 }
 
 async function fetchPage(page: number): Promise<string> {
@@ -123,6 +155,23 @@ async function main(): Promise<void> {
     `Total scraped: ${allPosts.length} posts across ${PAGE_COUNT} pages`,
   );
 
+  // Drop posts from blogs that have opted out (forward-only: already-stored
+  // posts are left untouched).
+  const denySet = await loadDenylist();
+  const keptPosts: Post[] = [];
+  const deniedHosts = new Set<string>();
+  for (const post of allPosts) {
+    if (isDenied(post, denySet)) {
+      deniedHosts.add(normalizeHost(post.author || post.url));
+      continue;
+    }
+    keptPosts.push(post);
+  }
+  const skippedCount = allPosts.length - keptPosts.length;
+  console.log(
+    `Skipped ${skippedCount} posts from ${deniedHosts.size} denylisted blogs`,
+  );
+
   // Ensure data directory exists
   await mkdir(DATA_DIR, { recursive: true });
 
@@ -144,7 +193,7 @@ async function main(): Promise<void> {
   let newCount = 0;
   let updatedCount = 0;
 
-  for (const post of allPosts) {
+  for (const post of keptPosts) {
     const key = dateKey(post.published);
     const dayFile = await getDayFile(key);
     const postIndex = dayFile.data.findIndex((p) => p.url === post.url);

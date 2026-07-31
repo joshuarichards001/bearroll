@@ -37,6 +37,9 @@ Two independent subsystems share the `data/` directory:
   files.
 - `.github/workflows/collect.yml` — Runs the collector hourly via cron, commits
   changed data files.
+- `denylist.txt` — Blog hostnames (one per line, `#` comments) that have opted
+  out of collection. The collector skips scraped posts whose blog or post URL
+  matches. Matching is case-insensitive and ignores a leading `www.`.
 
 ### Astro Frontend (static site)
 
@@ -107,6 +110,9 @@ with pre-rendered HTML fragment endpoints for infinite scroll.
   `<small>` element (ISO 8601), NOT from the relative time text.
 - **Scraping etiquette:** 1s delay between page requests, custom User-Agent
   header, max 5 pages per run.
+- **Blog opt-out:** Authors can email `hello@bearroll.dev` to be added to
+  `denylist.txt`. Opt-out is manual and forward-only — the collector stops
+  adding/updating their posts, but already-collected posts are not purged.
 - **Fail-loud on page 0:** If zero posts are found on page 0, the script exits
   non-zero (HTML structure may have changed). Later pages with fewer/zero posts
   are tolerated.
