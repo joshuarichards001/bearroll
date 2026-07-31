@@ -1,5 +1,9 @@
 import fs from "node:fs";
 import path from "node:path";
+import { isOptedOut, loadOptOutList } from "./optout";
+
+/** Read once per build: the domains of blogs that asked to be left out. */
+const optedOut = loadOptOutList();
 
 export interface Post {
   url: string;
@@ -65,9 +69,16 @@ export function loadDay(date: string): DayGroup | null {
   } catch {
     return null;
   }
-  if (!Array.isArray(posts) || posts.length === 0) return null;
+  if (!Array.isArray(posts)) return null;
 
-  return { date, posts: processDay(posts) };
+  // The collector prunes opted-out blogs on its next run; filtering here too
+  // means a new opt-out takes effect on the very next build.
+  const visible = posts.filter(
+    (post) => !isOptedOut(optedOut, post.author, post.url),
+  );
+  if (visible.length === 0) return null;
+
+  return { date, posts: processDay(visible) };
 }
 
 const INITIAL_DAYS = 4;

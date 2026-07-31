@@ -20,6 +20,13 @@ at build time. The first 6 days are server-rendered; older days load on scroll
 via pre-built HTML fragment endpoints. Posts are ranked by toast count with top
 10/20/all filter options. Styled with Tailwind v4, light and dark mode.
 
+## Opting out
+
+`opt-out.txt` lists the domains of blogs that asked to be left out, one per
+line. The collector skips their posts when scraping and removes any it has
+already collected; the site filters them out at build time as well. To opt out,
+add your domain and open a pull request, or email hello@bearroll.dev.
+
 ## Development
 
 ```sh

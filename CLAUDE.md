@@ -37,6 +37,8 @@ Two independent subsystems share the `data/` directory:
   files.
 - `.github/workflows/collect.yml` — Runs the collector hourly via cron, commits
   changed data files.
+- `opt-out.txt` — Repo-root list of domains that asked to be left out, one per
+  line, `#` for comments. Read by `src/lib/optout.ts`.
 
 ### Astro Frontend (static site)
 
@@ -45,6 +47,9 @@ Two independent subsystems share the `data/` directory:
   SSG), `getRemainingDayDates()` (for client-side lazy loading),
   `getAllDayDates()`, `loadDay()`, and `processDay()`.
 - `src/lib/format.ts` — Date formatting (`formatDate`).
+- `src/lib/optout.ts` — Reads `opt-out.txt` and matches posts against it. Shared
+  by the collector and the frontend. Key exports: `loadOptOutList()`,
+  `isOptedOut()`, `normalizeDomain()`, `parseOptOutList()`.
 - `src/lib/stats.ts` — Computes aggregate statistics across all collected data,
   or across a single month. Deduplicates posts by URL, ranks top posts by
   toasts, and tallies per-blog appearance counts. Key exports:
@@ -107,6 +112,12 @@ with pre-rendered HTML fragment endpoints for infinite scroll.
   `<small>` element (ISO 8601), NOT from the relative time text.
 - **Scraping etiquette:** 1s delay between page requests, custom User-Agent
   header, max 5 pages per run.
+- **Opt-out matching:** Exact hostname match after lowercasing and stripping any
+  scheme, path and leading `www.`, so a subdomain opts out only itself. A post
+  matches on either its author URL or its own URL. The collector filters
+  incoming posts _and_ prunes every existing day file on each run, so adding a
+  domain clears that blog's back catalogue; `loadDay()` filters as well so an
+  opt-out also takes effect on the next site build.
 - **Fail-loud on page 0:** If zero posts are found on page 0, the script exits
   non-zero (HTML structure may have changed). Later pages with fewer/zero posts
   are tolerated.

@@ -1,10 +1,12 @@
 import { load } from "cheerio";
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readFile, readdir, writeFile, mkdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { isOptedOut, loadOptOutList } from "../src/lib/optout";
 
-const DATA_DIR = join(fileURLToPath(import.meta.url), "..", "..", "data");
+const ROOT_DIR = join(fileURLToPath(import.meta.url), "..", "..");
+const DATA_DIR = join(ROOT_DIR, "data");
 const BASE_URL = "https://bearblog.dev/discover/";
 const USER_AGENT = "BearRoll/1.0 (+https://bearroll.dev)";
 const PAGE_COUNT = 5;
@@ -123,6 +125,17 @@ async function main(): Promise<void> {
     `Total scraped: ${allPosts.length} posts across ${PAGE_COUNT} pages`,
   );
 
+  // Drop posts from blogs that opted out, matching on either the blog's URL or
+  // the post's own URL (custom domains can differ from the bearblog.dev one).
+  const optedOut = loadOptOutList(ROOT_DIR);
+  const posts = allPosts.filter(
+    (post) => !isOptedOut(optedOut, post.author, post.url),
+  );
+  const skippedCount = allPosts.length - posts.length;
+  if (skippedCount > 0) {
+    console.log(`Skipped ${skippedCount} posts from opted-out blogs`);
+  }
+
   // Ensure data directory exists
   await mkdir(DATA_DIR, { recursive: true });
 
@@ -144,7 +157,7 @@ async function main(): Promise<void> {
   let newCount = 0;
   let updatedCount = 0;
 
-  for (const post of allPosts) {
+  for (const post of posts) {
     const key = dateKey(post.published);
     const dayFile = await getDayFile(key);
     const postIndex = dayFile.data.findIndex((p) => p.url === post.url);
@@ -185,6 +198,31 @@ async function main(): Promise<void> {
     }
   }
 
+  // Drop anything already collected from blogs that have since opted out. Every
+  // day file is checked, not just the ones this run touched, so adding a domain
+  // to the list clears that blog's whole back catalogue on the next run.
+  let prunedCount = 0;
+  if (optedOut.size > 0) {
+    const dayFileNames = (await readdir(DATA_DIR)).filter((f) =>
+      f.endsWith(".json"),
+    );
+    for (const name of dayFileNames) {
+      const entry = await getDayFile(name.replace(".json", ""));
+      const kept = entry.data.filter(
+        (post) => !isOptedOut(optedOut, post.author, post.url),
+      );
+      if (kept.length === entry.data.length) continue;
+      prunedCount += entry.data.length - kept.length;
+      entry.data = kept;
+      entry.modified = true;
+    }
+    if (prunedCount > 0) {
+      console.log(
+        `Removed ${prunedCount} previously collected opted-out posts`,
+      );
+    }
+  }
+
   // Write modified day files
   let filesWritten = 0;
   for (const [key, entry] of dayFiles) {
@@ -196,7 +234,8 @@ async function main(): Promise<void> {
 
   console.log(
     `Scraped ${allPosts.length} posts across ${PAGE_COUNT} pages, ` +
-      `${newCount} new, ${updatedCount} updated, wrote ${filesWritten} day files`,
+      `${newCount} new, ${updatedCount} updated, ` +
+      `${skippedCount + prunedCount} opted out, wrote ${filesWritten} day files`,
   );
 }
 

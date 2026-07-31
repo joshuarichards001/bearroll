@@ -1,0 +1,16 @@
+# Bear Roll opt-out list
+#
+# Blogs listed here are left out of Bear Roll. The collector skips their posts
+# when it scrapes the discover page, and drops any of their posts it has
+# already collected the next time it runs.
+#
+# To opt out, add your blog's domain on a line of its own and open a pull
+# request, or email hello@bearroll.dev and I'll add it for you.
+#
+# One domain per line. A scheme and a leading "www." are ignored, so
+# example.com, www.example.com and https://example.com/ all mean the same
+# blog. Subdomains match exactly: example.bearblog.dev opts out that blog
+# only, not every blog on bearblog.dev — so if your blog has moved to a
+# custom domain, list the old bearblog.dev subdomain as well.
+#
+# Lines starting with # are comments.
