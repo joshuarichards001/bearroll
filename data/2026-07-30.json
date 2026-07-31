@@ -57,9 +57,9 @@
     "url": "https://blog.aracine.net/goodbye/",
     "title": "Goodbye Tech",
     "author": "https://blog.aracine.net",
-    "toasts": 58,
+    "toasts": 60,
     "first_seen": "2026-07-30T17:38:03.088Z",
-    "last_updated": "2026-07-31T19:38:39.727Z",
+    "last_updated": "2026-07-31T21:08:50.058Z",
     "published": "2026-07-30T14:22Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://sebastianmalloy.bearblog.dev/online-friends-vs-summoning-goats-in-your-basement/",
     "title": "Online Friends vs Summoning Goats In Your Basement",
     "author": "https://sebastianmalloy.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-07-30T21:14:08.451Z",
-    "last_updated": "2026-07-31T15:21:45.595Z",
+    "last_updated": "2026-07-31T21:08:50.058Z",
     "published": "2026-07-30T16:01Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://bluemountain.bearblog.dev/online-gaming-best-practices/",
     "title": "Online Gaming Best Practices",
     "author": "https://bluemountain.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-07-30T23:10:47.028Z",
-    "last_updated": "2026-07-31T15:21:45.595Z",
+    "last_updated": "2026-07-31T21:08:50.058Z",
     "published": "2026-07-30T20:02Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://justinkerby.com/linkedin-wants-you-to-report-ai-slop-now/",
     "title": "LinkedIn wants you to report AI slop now",
     "author": "https://justinkerby.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-07-30T23:10:47.028Z",
-    "last_updated": "2026-07-31T19:38:39.727Z",
+    "last_updated": "2026-07-31T21:08:50.058Z",
     "published": "2026-07-30T21:28Z"
   },
   {
@@ -187,5 +187,14 @@
     "first_seen": "2026-07-31T09:47:25.328Z",
     "last_updated": "2026-07-31T19:38:39.727Z",
     "published": "2026-07-30T22:43Z"
+  },
+  {
+    "url": "https://travessia.bearblog.dev/sobre-a-flor-bela/",
+    "title": "Sobre a flor bela",
+    "author": "https://travessia.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-07-31T21:08:50.058Z",
+    "last_updated": "2026-07-31T21:08:50.058Z",
+    "published": "2026-07-30T17:44Z"
   }
 ]
