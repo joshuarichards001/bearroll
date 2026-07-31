@@ -48,29 +48,27 @@ const MONTH_NAMES = [
 
 /**
  * Returns months with collected data, in reverse chronological order.
- * Excludes:
- *  - months without data for the 1st (incomplete dataset, e.g. the month
- *    collection started in)
- *  - months that haven't reached the 2nd of the following month (UTC), so
- *    the page isn't generated while the month is still in progress
+ *
+ * The current month is included and covers the days collected so far, so its
+ * page is rebuilt with fresh numbers on every build. Nothing special happens
+ * when the month ends: no new day files land in it, so the same build turns
+ * the page into a finished, unchanging month.
+ *
+ * Months without data for the 1st are excluded (incomplete dataset, e.g. the
+ * month collection started in).
  */
 export function getAvailableMonths(): MonthInfo[] {
-  const now = Date.now();
-  return getAllDayDates().flatMap((date) => {
-    if (!date.endsWith("-01")) return [];
-    const [year, month] = date.split("-").map(Number);
-    // Date.UTC takes a 0-indexed month; passing 1-indexed month gives the 2nd
-    // of the month *after* ours.
-    if (now < Date.UTC(year, month, 2)) return [];
-    const name = MONTH_NAMES[month - 1];
-    return [
-      {
+  return getAllDayDates()
+    .filter((date) => date.endsWith("-01"))
+    .map((date) => {
+      const [year, month] = date.split("-").map(Number);
+      const name = MONTH_NAMES[month - 1];
+      return {
         key: `${year}-${String(month).padStart(2, "0")}`,
         slug: `${name}-${year}`,
         label: `${name.charAt(0).toUpperCase() + name.slice(1)} ${year}`,
-      },
-    ];
-  });
+      };
+    });
 }
 
 /** Compute stats across all data, or restricted to a YYYY-MM month key. */
