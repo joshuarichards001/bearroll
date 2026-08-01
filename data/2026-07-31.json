@@ -21,9 +21,9 @@
     "url": "https://blog.lauramichet.com/look-at-this-gigantic-bug/",
     "title": "Look at this gigantic bug",
     "author": "https://blog.lauramichet.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-31T09:47:25.328Z",
-    "last_updated": "2026-07-31T17:41:50.424Z",
+    "last_updated": "2026-08-01T03:18:04.525Z",
     "published": "2026-07-31T06:50Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://blog.avas.space/rosebudthorn-july26/",
     "title": "rose ▪ bud ▪ thorn - july 2026",
     "author": "https://blog.avas.space",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-31T15:21:45.595Z",
-    "last_updated": "2026-07-31T21:08:50.058Z",
+    "last_updated": "2026-08-01T03:18:04.525Z",
     "published": "2026-07-31T07:30Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://shaker.bearblog.dev/mainstream/",
     "title": "The Fandom Goes Mainstream",
     "author": "https://shaker.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-07-31T15:21:45.595Z",
-    "last_updated": "2026-07-31T23:04:21.944Z",
+    "last_updated": "2026-08-01T03:18:04.525Z",
     "published": "2026-07-31T06:15Z"
   },
   {
@@ -120,18 +120,36 @@
     "url": "https://robertbirming.com/every-day-story/",
     "title": "Every day has a story",
     "author": "https://robertbirming.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-31T21:08:50.058Z",
-    "last_updated": "2026-07-31T23:04:21.944Z",
+    "last_updated": "2026-08-01T03:18:04.525Z",
     "published": "2026-07-31T16:40Z"
   },
   {
     "url": "https://bearlyadiary.bearblog.dev/re-things-look-bleak-online/",
     "title": "re: Things look bleak online",
     "author": "https://bearlyadiary.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-07-31T21:08:50.058Z",
-    "last_updated": "2026-07-31T23:04:21.944Z",
+    "last_updated": "2026-08-01T03:18:04.525Z",
     "published": "2026-07-31T15:34Z"
+  },
+  {
+    "url": "https://zeina.bearblog.dev/what-if-a-day-was-a-month/",
+    "title": "What if a day was a month?",
+    "author": "https://zeina.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-01T03:18:04.525Z",
+    "last_updated": "2026-08-01T03:18:04.525Z",
+    "published": "2026-07-31T22:11Z"
+  },
+  {
+    "url": "https://notebookery.bearblog.dev/lt1917-comparison/",
+    "title": "Comparison: All Leuchtturm1917 notebook form factors",
+    "author": "https://notebookery.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-01T03:18:04.525Z",
+    "last_updated": "2026-08-01T03:18:04.525Z",
+    "published": "2026-07-31T15:44Z"
   }
 ]
