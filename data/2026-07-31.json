@@ -3,9 +3,9 @@
     "url": "https://jdtorian.com/you-cannot-buy-your-way-into-cool/",
     "title": "You Cannot Buy Your Way into Cool",
     "author": "https://jdtorian.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-07-31T09:47:25.328Z",
-    "last_updated": "2026-07-31T09:47:25.328Z",
+    "last_updated": "2026-08-01T09:07:52.049Z",
     "published": "2026-07-31T05:00Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://blog.lauramichet.com/look-at-this-gigantic-bug/",
     "title": "Look at this gigantic bug",
     "author": "https://blog.lauramichet.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-07-31T09:47:25.328Z",
-    "last_updated": "2026-08-01T06:32:09.780Z",
+    "last_updated": "2026-08-01T09:07:52.049Z",
     "published": "2026-07-31T06:50Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://robertbirming.com/every-day-story/",
     "title": "Every day has a story",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-07-31T21:08:50.058Z",
-    "last_updated": "2026-08-01T03:18:04.525Z",
+    "last_updated": "2026-08-01T09:07:52.049Z",
     "published": "2026-07-31T16:40Z"
   },
   {
@@ -151,5 +151,14 @@
     "first_seen": "2026-08-01T03:18:04.525Z",
     "last_updated": "2026-08-01T03:18:04.525Z",
     "published": "2026-07-31T15:44Z"
+  },
+  {
+    "url": "https://deidmann.bearblog.dev/im-back-baby/",
+    "title": "I'm back baby!!!",
+    "author": "https://deidmann.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-01T09:07:52.049Z",
+    "last_updated": "2026-08-01T09:07:52.049Z",
+    "published": "2026-07-31T17:06Z"
   }
 ]
