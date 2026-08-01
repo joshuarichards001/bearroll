@@ -30,9 +30,9 @@
     "url": "https://technically-good.ca/newsletter/013-2026-08-01/",
     "title": "💌 Newsletter #013 - On the Genie 🧞, its Biases, and Going Rogue",
     "author": "https://technically-good.ca",
-    "toasts": 6,
+    "toasts": 11,
     "first_seen": "2026-08-01T15:02:48.297Z",
-    "last_updated": "2026-08-01T15:02:48.297Z",
+    "last_updated": "2026-08-01T17:03:05.069Z",
     "published": "2026-08-01T14:35Z"
   },
   {
@@ -52,5 +52,32 @@
     "first_seen": "2026-08-01T15:02:48.297Z",
     "last_updated": "2026-08-01T15:02:48.297Z",
     "published": "2026-08-01T09:28Z"
+  },
+  {
+    "url": "https://notes.jeddacp.com/blaugust-2026-year-3/",
+    "title": "Blaugust 2026, Year 3",
+    "author": "https://notes.jeddacp.com",
+    "toasts": 7,
+    "first_seen": "2026-08-01T17:03:05.069Z",
+    "last_updated": "2026-08-01T17:03:05.069Z",
+    "published": "2026-08-01T15:21Z"
+  },
+  {
+    "url": "https://robertbirming.com/augustory-story-blog/",
+    "title": "AuguStory, the story of your blog",
+    "author": "https://robertbirming.com",
+    "toasts": 7,
+    "first_seen": "2026-08-01T17:03:05.069Z",
+    "last_updated": "2026-08-01T17:03:05.069Z",
+    "published": "2026-08-01T14:18Z"
+  },
+  {
+    "url": "https://alysterwho.blog/getting-into-the-audiophile-hobby-without-money/",
+    "title": "Getting into the \"Audiophile\" hobby without money.",
+    "author": "https://alysterwho.blog",
+    "toasts": 6,
+    "first_seen": "2026-08-01T17:03:05.069Z",
+    "last_updated": "2026-08-01T17:03:05.069Z",
+    "published": "2026-08-01T05:36Z"
   }
 ]
