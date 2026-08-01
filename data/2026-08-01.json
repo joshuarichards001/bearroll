@@ -30,9 +30,9 @@
     "url": "https://technically-good.ca/newsletter/013-2026-08-01/",
     "title": "💌 Newsletter #013 - On the Genie 🧞, its Biases, and Going Rogue",
     "author": "https://technically-good.ca",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-08-01T15:02:48.297Z",
-    "last_updated": "2026-08-01T20:57:04.567Z",
+    "last_updated": "2026-08-01T22:02:08.377Z",
     "published": "2026-08-01T14:35Z"
   },
   {
@@ -66,18 +66,18 @@
     "url": "https://robertbirming.com/augustory-story-blog/",
     "title": "AuguStory, the story of your blog",
     "author": "https://robertbirming.com",
-    "toasts": 9,
+    "toasts": 12,
     "first_seen": "2026-08-01T17:03:05.069Z",
-    "last_updated": "2026-08-01T20:57:04.567Z",
+    "last_updated": "2026-08-01T22:02:08.377Z",
     "published": "2026-08-01T14:18Z"
   },
   {
     "url": "https://alysterwho.blog/getting-into-the-audiophile-hobby-without-money/",
     "title": "Getting into the \"Audiophile\" hobby without money.",
     "author": "https://alysterwho.blog",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-01T17:03:05.069Z",
-    "last_updated": "2026-08-01T17:03:05.069Z",
+    "last_updated": "2026-08-01T22:02:08.377Z",
     "published": "2026-08-01T05:36Z"
   },
   {
@@ -93,9 +93,27 @@
     "url": "https://blog.avas.space/shame-smart-glasses/",
     "title": "we don't shame smart glasses wearers enough",
     "author": "https://blog.avas.space",
-    "toasts": 26,
+    "toasts": 28,
     "first_seen": "2026-08-01T20:57:04.567Z",
-    "last_updated": "2026-08-01T20:57:04.567Z",
+    "last_updated": "2026-08-01T22:02:08.377Z",
     "published": "2026-08-01T17:39Z"
+  },
+  {
+    "url": "https://onlinegoddess.net/2026/08/creating-a-cosy-office-nook/",
+    "title": "Creating a Cosy Office Nook",
+    "author": "https://onlinegoddess.net",
+    "toasts": 8,
+    "first_seen": "2026-08-01T22:02:08.377Z",
+    "last_updated": "2026-08-01T22:02:08.377Z",
+    "published": "2026-08-01T20:35Z"
+  },
+  {
+    "url": "https://blog.curiousquail.com/21-years-of-high-fives/",
+    "title": "21 Years Of High Fives",
+    "author": "https://blog.curiousquail.com",
+    "toasts": 6,
+    "first_seen": "2026-08-01T22:02:08.377Z",
+    "last_updated": "2026-08-01T22:02:08.377Z",
+    "published": "2026-08-01T13:03Z"
   }
 ]
