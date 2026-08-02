@@ -3,18 +3,18 @@
     "url": "https://sebastianmalloy.bearblog.dev/ten-reasons-why-i-will-fail-at-blaugust/",
     "title": "Ten Reasons Why I Will Fail at Blaugust",
     "author": "https://sebastianmalloy.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-02T09:10:52.539Z",
-    "last_updated": "2026-08-02T17:03:19.302Z",
+    "last_updated": "2026-08-02T22:03:09.388Z",
     "published": "2026-08-02T01:33Z"
   },
   {
     "url": "https://bonkposting.online/my-city-is-on-fire/",
     "title": "My city is on fire and the sky is choked with smoke",
     "author": "https://bonkposting.online",
-    "toasts": 13,
+    "toasts": 16,
     "first_seen": "2026-08-02T13:35:01.821Z",
-    "last_updated": "2026-08-02T19:15:15.793Z",
+    "last_updated": "2026-08-02T22:03:09.388Z",
     "published": "2026-08-02T06:45Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://blog.curiousquail.com/holy-shit-we-have-a-berry-bush/",
     "title": "Holy Shit We Have A Berry Bush",
     "author": "https://blog.curiousquail.com",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-08-02T17:03:19.302Z",
-    "last_updated": "2026-08-02T19:15:15.793Z",
+    "last_updated": "2026-08-02T22:03:09.388Z",
     "published": "2026-08-02T15:19Z"
   },
   {
@@ -57,18 +57,27 @@
     "url": "https://bearlyadiary.bearblog.dev/augustory-the-story-of-my-blog/",
     "title": "AuguStory, the story of my blog",
     "author": "https://bearlyadiary.bearblog.dev",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-08-02T19:15:15.793Z",
-    "last_updated": "2026-08-02T19:15:15.793Z",
+    "last_updated": "2026-08-02T22:03:09.388Z",
     "published": "2026-08-02T17:27Z"
   },
   {
     "url": "https://robertbirming.com/bear-photo-gallery-add-ons/",
     "title": "3 new Bear photo gallery add-ons",
     "author": "https://robertbirming.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-02T19:15:15.793Z",
-    "last_updated": "2026-08-02T20:59:01.642Z",
+    "last_updated": "2026-08-02T22:03:09.388Z",
     "published": "2026-08-02T16:28Z"
+  },
+  {
+    "url": "https://stitching.bearblog.dev/augustory-the-story-of-my-blog/",
+    "title": "augustory & the story of my blog",
+    "author": "https://stitching.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-08-02T22:03:09.388Z",
+    "last_updated": "2026-08-02T22:03:09.388Z",
+    "published": "2026-08-02T19:10Z"
   }
 ]
