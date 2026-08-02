@@ -3,9 +3,9 @@
     "url": "https://sebastianmalloy.bearblog.dev/ten-reasons-why-i-will-fail-at-blaugust/",
     "title": "Ten Reasons Why I Will Fail at Blaugust",
     "author": "https://sebastianmalloy.bearblog.dev",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-08-02T09:10:52.539Z",
-    "last_updated": "2026-08-02T13:35:01.821Z",
+    "last_updated": "2026-08-02T17:03:19.302Z",
     "published": "2026-08-02T01:33Z"
   },
   {
@@ -21,9 +21,27 @@
     "url": "https://mattiverse.online/make-what-you-want-to-see/",
     "title": "make what you want to see?",
     "author": "https://mattiverse.online",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-08-02T15:04:52.695Z",
-    "last_updated": "2026-08-02T15:04:52.695Z",
+    "last_updated": "2026-08-02T17:03:19.302Z",
     "published": "2026-08-02T12:08Z"
+  },
+  {
+    "url": "https://blog.curiousquail.com/holy-shit-we-have-a-berry-bush/",
+    "title": "Holy Shit We Have A Berry Bush",
+    "author": "https://blog.curiousquail.com",
+    "toasts": 6,
+    "first_seen": "2026-08-02T17:03:19.302Z",
+    "last_updated": "2026-08-02T17:03:19.302Z",
+    "published": "2026-08-02T15:19Z"
+  },
+  {
+    "url": "https://householderkarl.com/viva-los-cabos/",
+    "title": "Viva Los Cabos",
+    "author": "https://householderkarl.com",
+    "toasts": 6,
+    "first_seen": "2026-08-02T17:03:19.302Z",
+    "last_updated": "2026-08-02T17:03:19.302Z",
+    "published": "2026-08-02T01:16Z"
   }
 ]
