@@ -12,9 +12,9 @@
     "url": "https://bonkposting.online/my-city-is-on-fire/",
     "title": "My city is on fire and the sky is choked with smoke",
     "author": "https://bonkposting.online",
-    "toasts": 23,
+    "toasts": 25,
     "first_seen": "2026-08-02T13:35:01.821Z",
-    "last_updated": "2026-08-03T15:44:50.583Z",
+    "last_updated": "2026-08-03T17:53:50.311Z",
     "published": "2026-08-02T06:45Z"
   },
   {
@@ -75,18 +75,18 @@
     "url": "https://stitching.bearblog.dev/augustory-the-story-of-my-blog/",
     "title": "augustory & the story of my blog",
     "author": "https://stitching.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-02T22:03:09.388Z",
-    "last_updated": "2026-08-03T12:27:41.623Z",
+    "last_updated": "2026-08-03T17:53:50.311Z",
     "published": "2026-08-02T19:10Z"
   },
   {
     "url": "https://taterinx.bearblog.dev/260802/",
     "title": "Wanting to be known but not by who knows you",
     "author": "https://taterinx.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-08-03T00:00:42.611Z",
-    "last_updated": "2026-08-03T15:44:50.583Z",
+    "last_updated": "2026-08-03T17:53:50.311Z",
     "published": "2026-08-02T21:46Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://onlinegoddess.net/2026/08/naked-pigeons/",
     "title": "Naked Pigeons",
     "author": "https://onlinegoddess.net",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-03T12:27:41.623Z",
-    "last_updated": "2026-08-03T15:44:50.583Z",
+    "last_updated": "2026-08-03T17:53:50.311Z",
     "published": "2026-08-02T17:52Z"
   },
   {
@@ -178,5 +178,14 @@
     "first_seen": "2026-08-03T15:44:50.583Z",
     "last_updated": "2026-08-03T15:44:50.583Z",
     "published": "2026-08-02T18:18Z"
+  },
+  {
+    "url": "https://doghappylife.bearblog.dev/3055/",
+    "title": "上班的狗",
+    "author": "https://doghappylife.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-08-03T17:53:50.311Z",
+    "last_updated": "2026-08-03T17:53:50.311Z",
+    "published": "2026-08-02T07:43Z"
   }
 ]

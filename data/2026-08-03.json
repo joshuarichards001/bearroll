@@ -30,9 +30,9 @@
     "url": "https://blog.avas.space/name-things-right/",
     "title": "show respect - name things correctly",
     "author": "https://blog.avas.space",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-08-03T15:44:50.583Z",
-    "last_updated": "2026-08-03T15:44:50.583Z",
+    "last_updated": "2026-08-03T17:53:50.311Z",
     "published": "2026-08-03T08:22Z"
   },
   {
@@ -43,5 +43,41 @@
     "first_seen": "2026-08-03T15:44:50.583Z",
     "last_updated": "2026-08-03T15:44:50.583Z",
     "published": "2026-08-03T08:17Z"
+  },
+  {
+    "url": "https://robertbirming.com/tool-trap/",
+    "title": "The tool trap",
+    "author": "https://robertbirming.com",
+    "toasts": 26,
+    "first_seen": "2026-08-03T17:53:50.311Z",
+    "last_updated": "2026-08-03T17:53:50.311Z",
+    "published": "2026-08-03T14:14Z"
+  },
+  {
+    "url": "https://blog.curiousquail.com/i-dont-think-bearblog-is-a-social-media-platform-and-thats-ok/",
+    "title": "I Don't think Bearblog is a social media platform and that's ok",
+    "author": "https://blog.curiousquail.com",
+    "toasts": 14,
+    "first_seen": "2026-08-03T17:53:50.311Z",
+    "last_updated": "2026-08-03T17:53:50.311Z",
+    "published": "2026-08-03T14:05Z"
+  },
+  {
+    "url": "https://juni-mp4.bearblog.dev/91-i-miss-being-human/",
+    "title": "(91) i miss being human",
+    "author": "https://juni-mp4.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-08-03T17:53:50.311Z",
+    "last_updated": "2026-08-03T17:53:50.311Z",
+    "published": "2026-08-03T15:03Z"
+  },
+  {
+    "url": "https://th.blog.br/o-que-eu-faco-pra-nao-ficar-maluco/",
+    "title": "o que eu faço pra não ficar maluco",
+    "author": "https://th.blog.br",
+    "toasts": 6,
+    "first_seen": "2026-08-03T17:53:50.311Z",
+    "last_updated": "2026-08-03T17:53:50.311Z",
+    "published": "2026-08-03T13:43Z"
   }
 ]
