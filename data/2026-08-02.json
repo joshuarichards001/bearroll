@@ -12,9 +12,9 @@
     "url": "https://bonkposting.online/my-city-is-on-fire/",
     "title": "My city is on fire and the sky is choked with smoke",
     "author": "https://bonkposting.online",
-    "toasts": 18,
+    "toasts": 21,
     "first_seen": "2026-08-02T13:35:01.821Z",
-    "last_updated": "2026-08-03T04:32:15.861Z",
+    "last_updated": "2026-08-03T08:31:53.459Z",
     "published": "2026-08-02T06:45Z"
   },
   {
@@ -84,18 +84,18 @@
     "url": "https://taterinx.bearblog.dev/260802/",
     "title": "Wanting to be known but not by who knows you",
     "author": "https://taterinx.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-03T00:00:42.611Z",
-    "last_updated": "2026-08-03T00:00:42.611Z",
+    "last_updated": "2026-08-03T08:31:53.459Z",
     "published": "2026-08-02T21:46Z"
   },
   {
     "url": "https://notes.jeddacp.com/more-time-in-nature/",
     "title": "More Time in Nature",
     "author": "https://notes.jeddacp.com",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-08-03T04:32:15.861Z",
-    "last_updated": "2026-08-03T04:32:15.861Z",
+    "last_updated": "2026-08-03T08:31:53.459Z",
     "published": "2026-08-02T20:19Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-08-03T04:32:15.861Z",
     "last_updated": "2026-08-03T04:32:15.861Z",
     "published": "2026-08-02T16:27Z"
+  },
+  {
+    "url": "https://tiramisu.bearblog.dev/the-jersey-shore/",
+    "title": "the jersey shore",
+    "author": "https://tiramisu.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-08-03T08:31:53.459Z",
+    "last_updated": "2026-08-03T08:31:53.459Z",
+    "published": "2026-08-02T14:52Z"
   }
 ]
