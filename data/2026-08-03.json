@@ -3,9 +3,9 @@
     "url": "https://blog.lauramichet.com/i-have-now-been-in-a-second-tunnel/",
     "title": "I have now been in a second tunnel",
     "author": "https://blog.lauramichet.com",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-08-03T15:44:50.583Z",
-    "last_updated": "2026-08-03T15:44:50.583Z",
+    "last_updated": "2026-08-03T19:41:31.886Z",
     "published": "2026-08-03T06:53Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://blog.avas.space/name-things-right/",
     "title": "show respect - name things correctly",
     "author": "https://blog.avas.space",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-08-03T15:44:50.583Z",
-    "last_updated": "2026-08-03T17:53:50.311Z",
+    "last_updated": "2026-08-03T19:41:31.886Z",
     "published": "2026-08-03T08:22Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://robertbirming.com/tool-trap/",
     "title": "The tool trap",
     "author": "https://robertbirming.com",
-    "toasts": 26,
+    "toasts": 28,
     "first_seen": "2026-08-03T17:53:50.311Z",
-    "last_updated": "2026-08-03T17:53:50.311Z",
+    "last_updated": "2026-08-03T19:41:31.886Z",
     "published": "2026-08-03T14:14Z"
   },
   {
     "url": "https://blog.curiousquail.com/i-dont-think-bearblog-is-a-social-media-platform-and-thats-ok/",
     "title": "I Don't think Bearblog is a social media platform and that's ok",
     "author": "https://blog.curiousquail.com",
-    "toasts": 14,
+    "toasts": 33,
     "first_seen": "2026-08-03T17:53:50.311Z",
-    "last_updated": "2026-08-03T17:53:50.311Z",
+    "last_updated": "2026-08-03T19:41:31.886Z",
     "published": "2026-08-03T14:05Z"
   },
   {
@@ -79,5 +79,23 @@
     "first_seen": "2026-08-03T17:53:50.311Z",
     "last_updated": "2026-08-03T17:53:50.311Z",
     "published": "2026-08-03T13:43Z"
+  },
+  {
+    "url": "https://siobhan.bearblog.dev/2-years-later-and-im-still-confused/",
+    "title": "2 years later and I'm still confused.",
+    "author": "https://siobhan.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-08-03T19:41:31.886Z",
+    "last_updated": "2026-08-03T19:41:31.886Z",
+    "published": "2026-08-03T18:30Z"
+  },
+  {
+    "url": "https://combatdavey.net/flock-police-surveillance/",
+    "title": "surveillance state stalking 1/?",
+    "author": "https://combatdavey.net",
+    "toasts": 7,
+    "first_seen": "2026-08-03T19:41:31.886Z",
+    "last_updated": "2026-08-03T19:41:31.886Z",
+    "published": "2026-08-03T18:02Z"
   }
 ]
