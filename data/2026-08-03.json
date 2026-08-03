@@ -30,9 +30,9 @@
     "url": "https://blog.avas.space/name-things-right/",
     "title": "show respect - name things correctly",
     "author": "https://blog.avas.space",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-08-03T15:44:50.583Z",
-    "last_updated": "2026-08-03T19:41:31.886Z",
+    "last_updated": "2026-08-03T21:06:36.619Z",
     "published": "2026-08-03T08:22Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://robertbirming.com/tool-trap/",
     "title": "The tool trap",
     "author": "https://robertbirming.com",
-    "toasts": 28,
+    "toasts": 29,
     "first_seen": "2026-08-03T17:53:50.311Z",
-    "last_updated": "2026-08-03T19:41:31.886Z",
+    "last_updated": "2026-08-03T21:06:36.619Z",
     "published": "2026-08-03T14:14Z"
   },
   {
     "url": "https://blog.curiousquail.com/i-dont-think-bearblog-is-a-social-media-platform-and-thats-ok/",
     "title": "I Don't think Bearblog is a social media platform and that's ok",
     "author": "https://blog.curiousquail.com",
-    "toasts": 33,
+    "toasts": 48,
     "first_seen": "2026-08-03T17:53:50.311Z",
-    "last_updated": "2026-08-03T19:41:31.886Z",
+    "last_updated": "2026-08-03T21:06:36.619Z",
     "published": "2026-08-03T14:05Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://siobhan.bearblog.dev/2-years-later-and-im-still-confused/",
     "title": "2 years later and I'm still confused.",
     "author": "https://siobhan.bearblog.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-08-03T19:41:31.886Z",
-    "last_updated": "2026-08-03T19:41:31.886Z",
+    "last_updated": "2026-08-03T21:06:36.619Z",
     "published": "2026-08-03T18:30Z"
   },
   {
@@ -97,5 +97,23 @@
     "first_seen": "2026-08-03T19:41:31.886Z",
     "last_updated": "2026-08-03T19:41:31.886Z",
     "published": "2026-08-03T18:02Z"
+  },
+  {
+    "url": "https://notes.jeddacp.com/returning-to-familiar-places/",
+    "title": "Returning to Familiar Places",
+    "author": "https://notes.jeddacp.com",
+    "toasts": 9,
+    "first_seen": "2026-08-03T21:06:36.619Z",
+    "last_updated": "2026-08-03T21:06:36.619Z",
+    "published": "2026-08-03T19:03Z"
+  },
+  {
+    "url": "https://piimyon.bearblog.dev/an-open-letter-to-humans/",
+    "title": "An open letter to humans.",
+    "author": "https://piimyon.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-08-03T21:06:36.619Z",
+    "last_updated": "2026-08-03T21:06:36.619Z",
+    "published": "2026-08-03T17:03Z"
   }
 ]
