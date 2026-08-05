@@ -57,9 +57,9 @@
     "url": "https://piimyon.bearblog.dev/there-are-people-around-me-but-i-feel-lonely/",
     "title": "There are people around me, but I feel lonely.",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-08-04T20:26:54.989Z",
-    "last_updated": "2026-08-05T04:12:53.687Z",
+    "last_updated": "2026-08-05T12:55:55.205Z",
     "published": "2026-08-04T18:12Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://rachonaut.com/on-whimsy/",
     "title": "on whimsy",
     "author": "https://rachonaut.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-04T22:15:24.491Z",
-    "last_updated": "2026-08-05T10:39:08.025Z",
+    "last_updated": "2026-08-05T12:55:55.205Z",
     "published": "2026-08-04T20:13Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://mattiverse.online/pick-a-lane/",
     "title": "pick a lane",
     "author": "https://mattiverse.online",
-    "toasts": 11,
+    "toasts": 13,
     "first_seen": "2026-08-05T04:12:53.687Z",
-    "last_updated": "2026-08-05T10:39:08.025Z",
+    "last_updated": "2026-08-05T12:55:55.205Z",
     "published": "2026-08-04T19:58Z"
   },
   {
@@ -183,27 +183,27 @@
     "url": "https://folkmoss.bearblog.dev/its-my-birthday/",
     "title": "It's my birthday! Here's my wishlist",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 15,
+    "toasts": 23,
     "first_seen": "2026-08-05T04:12:53.687Z",
-    "last_updated": "2026-08-05T10:39:08.025Z",
+    "last_updated": "2026-08-05T12:55:55.205Z",
     "published": "2026-08-04T23:42Z"
   },
   {
     "url": "https://www.jordangoodman.xyz/llm-overload/",
     "title": "LLM Overload",
     "author": "https://www.jordangoodman.xyz",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-05T04:12:53.687Z",
-    "last_updated": "2026-08-05T04:12:53.687Z",
+    "last_updated": "2026-08-05T12:55:55.205Z",
     "published": "2026-08-04T18:49Z"
   },
   {
     "url": "https://pourthecoffee.bearblog.dev/i-dont-want-to-be-the-product-returning-to-the-tiny-internet/",
     "title": "I Don’t Want to Be the Product: Returning to the Tiny Internet",
     "author": "https://pourthecoffee.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-05T07:41:55.869Z",
-    "last_updated": "2026-08-05T10:39:08.025Z",
+    "last_updated": "2026-08-05T12:55:55.205Z",
     "published": "2026-08-04T20:29Z"
   }
 ]
