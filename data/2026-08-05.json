@@ -3,18 +3,18 @@
     "url": "https://moodywarlock.net/do-you-feel-like-unplugging/",
     "title": "Do you feel like unplugging?",
     "author": "https://moodywarlock.net",
-    "toasts": 29,
+    "toasts": 31,
     "first_seen": "2026-08-05T04:12:53.687Z",
-    "last_updated": "2026-08-05T17:42:27.483Z",
+    "last_updated": "2026-08-05T19:39:43.738Z",
     "published": "2026-08-05T01:49Z"
   },
   {
     "url": "https://herman.bearblog.dev/creativity/",
     "title": "Committing to creativity",
     "author": "https://herman.bearblog.dev",
-    "toasts": 51,
+    "toasts": 56,
     "first_seen": "2026-08-05T12:55:55.205Z",
-    "last_updated": "2026-08-05T17:42:27.483Z",
+    "last_updated": "2026-08-05T19:39:43.738Z",
     "published": "2026-08-05T12:04Z"
   },
   {
@@ -57,18 +57,18 @@
     "url": "https://puppynet.work/i-got-stalked-online-and-it-was-actually-fun/",
     "title": "I got stalked online, and it was actually fun",
     "author": "https://puppynet.work",
-    "toasts": 6,
+    "toasts": 10,
     "first_seen": "2026-08-05T17:42:27.483Z",
-    "last_updated": "2026-08-05T17:42:27.483Z",
+    "last_updated": "2026-08-05T19:39:43.738Z",
     "published": "2026-08-05T16:26Z"
   },
   {
     "url": "https://folkmoss.bearblog.dev/my-baby-nephew-and-ai/",
     "title": "My baby nephew and AI",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 6,
+    "toasts": 11,
     "first_seen": "2026-08-05T17:42:27.483Z",
-    "last_updated": "2026-08-05T17:42:27.483Z",
+    "last_updated": "2026-08-05T19:39:43.738Z",
     "published": "2026-08-05T16:25Z"
   },
   {
@@ -79,5 +79,23 @@
     "first_seen": "2026-08-05T17:42:27.483Z",
     "last_updated": "2026-08-05T17:42:27.483Z",
     "published": "2026-08-05T14:01Z"
+  },
+  {
+    "url": "https://blog.curiousquail.com/heard-you-was-blaugust26/",
+    "title": "heard you was...",
+    "author": "https://blog.curiousquail.com",
+    "toasts": 7,
+    "first_seen": "2026-08-05T19:39:43.738Z",
+    "last_updated": "2026-08-05T19:39:43.738Z",
+    "published": "2026-08-05T14:56Z"
+  },
+  {
+    "url": "https://secretsofmeowgic.bearblog.dev/a-witchs-guide-to-being-safe-on-the-internet-pt-2/",
+    "title": "A Witch's Guide to Being Safe on the Internet - pt. 2",
+    "author": "https://secretsofmeowgic.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-05T19:39:43.738Z",
+    "last_updated": "2026-08-05T19:39:43.738Z",
+    "published": "2026-08-05T14:35Z"
   }
 ]
