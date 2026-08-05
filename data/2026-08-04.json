@@ -3,9 +3,9 @@
     "url": "https://sebastianmalloy.bearblog.dev/a-rainy-reminder/",
     "title": "A Rainy Reminder",
     "author": "https://sebastianmalloy.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-04T05:50:53.750Z",
-    "last_updated": "2026-08-04T22:15:24.491Z",
+    "last_updated": "2026-08-05T07:41:55.869Z",
     "published": "2026-08-04T00:19Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://rachonaut.com/on-whimsy/",
     "title": "on whimsy",
     "author": "https://rachonaut.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-04T22:15:24.491Z",
-    "last_updated": "2026-08-04T22:15:24.491Z",
+    "last_updated": "2026-08-05T07:41:55.869Z",
     "published": "2026-08-04T20:13Z"
   },
   {
@@ -183,9 +183,9 @@
     "url": "https://folkmoss.bearblog.dev/its-my-birthday/",
     "title": "It's my birthday! Here's my wishlist",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 6,
+    "toasts": 12,
     "first_seen": "2026-08-05T04:12:53.687Z",
-    "last_updated": "2026-08-05T04:12:53.687Z",
+    "last_updated": "2026-08-05T07:41:55.869Z",
     "published": "2026-08-04T23:42Z"
   },
   {
@@ -196,5 +196,14 @@
     "first_seen": "2026-08-05T04:12:53.687Z",
     "last_updated": "2026-08-05T04:12:53.687Z",
     "published": "2026-08-04T18:49Z"
+  },
+  {
+    "url": "https://pourthecoffee.bearblog.dev/i-dont-want-to-be-the-product-returning-to-the-tiny-internet/",
+    "title": "I Don’t Want to Be the Product: Returning to the Tiny Internet",
+    "author": "https://pourthecoffee.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-05T07:41:55.869Z",
+    "last_updated": "2026-08-05T07:41:55.869Z",
+    "published": "2026-08-04T20:29Z"
   }
 ]
