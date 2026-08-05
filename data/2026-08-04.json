@@ -30,9 +30,9 @@
     "url": "https://blog.curiousquail.com/snowapple-says-good-morning-broom/",
     "title": "Snowapple Says Good Morning",
     "author": "https://blog.curiousquail.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-04T18:40:09.326Z",
-    "last_updated": "2026-08-04T22:15:24.491Z",
+    "last_updated": "2026-08-05T04:12:53.687Z",
     "published": "2026-08-04T14:28Z"
   },
   {
@@ -57,18 +57,18 @@
     "url": "https://piimyon.bearblog.dev/there-are-people-around-me-but-i-feel-lonely/",
     "title": "There are people around me, but I feel lonely.",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-08-04T20:26:54.989Z",
-    "last_updated": "2026-08-05T00:06:32.834Z",
+    "last_updated": "2026-08-05T04:12:53.687Z",
     "published": "2026-08-04T18:12Z"
   },
   {
     "url": "https://sebastianmalloy.bearblog.dev/sometimes/",
     "title": "Sometimes…",
     "author": "https://sebastianmalloy.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-04T20:26:54.989Z",
-    "last_updated": "2026-08-05T00:06:32.834Z",
+    "last_updated": "2026-08-05T04:12:53.687Z",
     "published": "2026-08-04T17:37Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://nate.spot/hometown-breakfast-diner/",
     "title": "An ode to my hometown breakfast diner",
     "author": "https://nate.spot",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-04T20:26:54.989Z",
-    "last_updated": "2026-08-04T20:26:54.989Z",
+    "last_updated": "2026-08-05T04:12:53.687Z",
     "published": "2026-08-04T15:44Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://blahg.online/on-hating-and-respecting-your-truth/",
     "title": "on hating and respecting your truth",
     "author": "https://blahg.online",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-04T22:15:24.491Z",
-    "last_updated": "2026-08-04T22:15:24.491Z",
+    "last_updated": "2026-08-05T04:12:53.687Z",
     "published": "2026-08-04T17:58Z"
   },
   {
@@ -151,5 +151,50 @@
     "first_seen": "2026-08-05T00:06:32.834Z",
     "last_updated": "2026-08-05T00:06:32.834Z",
     "published": "2026-08-04T21:43Z"
+  },
+  {
+    "url": "https://mattiverse.online/pick-a-lane/",
+    "title": "pick a lane",
+    "author": "https://mattiverse.online",
+    "toasts": 9,
+    "first_seen": "2026-08-05T04:12:53.687Z",
+    "last_updated": "2026-08-05T04:12:53.687Z",
+    "published": "2026-08-04T19:58Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/are-there-fewer-posts-on-all-platforms/",
+    "title": "Are there fewer posts on all platforms?",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-08-05T04:12:53.687Z",
+    "last_updated": "2026-08-05T04:12:53.687Z",
+    "published": "2026-08-04T21:37Z"
+  },
+  {
+    "url": "https://futureperfect.bearblog.dev/simpsons-did-it/",
+    "title": "Simpsons did it!",
+    "author": "https://futureperfect.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-08-05T04:12:53.687Z",
+    "last_updated": "2026-08-05T04:12:53.687Z",
+    "published": "2026-08-04T20:23Z"
+  },
+  {
+    "url": "https://folkmoss.bearblog.dev/its-my-birthday/",
+    "title": "It's my birthday! Here's my wishlist",
+    "author": "https://folkmoss.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-05T04:12:53.687Z",
+    "last_updated": "2026-08-05T04:12:53.687Z",
+    "published": "2026-08-04T23:42Z"
+  },
+  {
+    "url": "https://www.jordangoodman.xyz/llm-overload/",
+    "title": "LLM Overload",
+    "author": "https://www.jordangoodman.xyz",
+    "toasts": 6,
+    "first_seen": "2026-08-05T04:12:53.687Z",
+    "last_updated": "2026-08-05T04:12:53.687Z",
+    "published": "2026-08-04T18:49Z"
   }
 ]
