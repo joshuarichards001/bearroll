@@ -21,9 +21,9 @@
     "url": "https://blog.lauramichet.com/youtube-keeps-recommending-me-videos-of-backyard-fish-farms/",
     "title": "Youtube keeps recommending me videos of backyard fish farms",
     "author": "https://blog.lauramichet.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-04T18:40:09.326Z",
-    "last_updated": "2026-08-05T00:06:32.834Z",
+    "last_updated": "2026-08-05T15:18:39.043Z",
     "published": "2026-08-04T16:06Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://blahg.online/on-hating-and-respecting-your-truth/",
     "title": "on hating and respecting your truth",
     "author": "https://blahg.online",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-04T22:15:24.491Z",
-    "last_updated": "2026-08-05T04:12:53.687Z",
+    "last_updated": "2026-08-05T15:18:39.043Z",
     "published": "2026-08-04T17:58Z"
   },
   {
@@ -174,18 +174,18 @@
     "url": "https://futureperfect.bearblog.dev/simpsons-did-it/",
     "title": "Simpsons did it!",
     "author": "https://futureperfect.bearblog.dev",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-08-05T04:12:53.687Z",
-    "last_updated": "2026-08-05T10:39:08.025Z",
+    "last_updated": "2026-08-05T15:18:39.043Z",
     "published": "2026-08-04T20:23Z"
   },
   {
     "url": "https://folkmoss.bearblog.dev/its-my-birthday/",
     "title": "It's my birthday! Here's my wishlist",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 23,
+    "toasts": 28,
     "first_seen": "2026-08-05T04:12:53.687Z",
-    "last_updated": "2026-08-05T12:55:55.205Z",
+    "last_updated": "2026-08-05T15:18:39.043Z",
     "published": "2026-08-04T23:42Z"
   },
   {
@@ -205,5 +205,14 @@
     "first_seen": "2026-08-05T07:41:55.869Z",
     "last_updated": "2026-08-05T12:55:55.205Z",
     "published": "2026-08-04T20:29Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260804/",
+    "title": "又是一年，祝自己生日快乐",
+    "author": "https://blog.solazy.me",
+    "toasts": 7,
+    "first_seen": "2026-08-05T15:18:39.043Z",
+    "last_updated": "2026-08-05T15:18:39.043Z",
+    "published": "2026-08-04T13:00Z"
   }
 ]
