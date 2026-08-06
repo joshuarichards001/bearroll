@@ -3,18 +3,18 @@
     "url": "https://moodywarlock.net/do-you-feel-like-unplugging/",
     "title": "Do you feel like unplugging?",
     "author": "https://moodywarlock.net",
-    "toasts": 40,
+    "toasts": 41,
     "first_seen": "2026-08-05T04:12:53.687Z",
-    "last_updated": "2026-08-06T05:52:16.752Z",
+    "last_updated": "2026-08-06T08:41:48.820Z",
     "published": "2026-08-05T01:49Z"
   },
   {
     "url": "https://herman.bearblog.dev/creativity/",
     "title": "Committing to creativity",
     "author": "https://herman.bearblog.dev",
-    "toasts": 82,
+    "toasts": 86,
     "first_seen": "2026-08-05T12:55:55.205Z",
-    "last_updated": "2026-08-06T05:52:16.752Z",
+    "last_updated": "2026-08-06T08:41:48.820Z",
     "published": "2026-08-05T12:04Z"
   },
   {
@@ -57,18 +57,18 @@
     "url": "https://puppynet.work/i-got-stalked-online-and-it-was-actually-fun/",
     "title": "I got stalked online, and it was actually fun",
     "author": "https://puppynet.work",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-05T17:42:27.483Z",
-    "last_updated": "2026-08-05T19:39:43.738Z",
+    "last_updated": "2026-08-06T08:41:48.820Z",
     "published": "2026-08-05T16:26Z"
   },
   {
     "url": "https://folkmoss.bearblog.dev/my-baby-nephew-and-ai/",
     "title": "My baby nephew and AI",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 30,
+    "toasts": 32,
     "first_seen": "2026-08-05T17:42:27.483Z",
-    "last_updated": "2026-08-06T02:49:35.702Z",
+    "last_updated": "2026-08-06T08:41:48.820Z",
     "published": "2026-08-05T16:25Z"
   },
   {
@@ -124,5 +124,14 @@
     "first_seen": "2026-08-06T02:49:35.702Z",
     "last_updated": "2026-08-06T02:49:35.702Z",
     "published": "2026-08-05T17:19Z"
+  },
+  {
+    "url": "https://fornoone.bearblog.dev/okay-i-think-i-missed-the-point/",
+    "title": "Okay, I think I missed the point",
+    "author": "https://fornoone.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-08-06T08:41:48.820Z",
+    "last_updated": "2026-08-06T08:41:48.820Z",
+    "published": "2026-08-05T22:27Z"
   }
 ]
