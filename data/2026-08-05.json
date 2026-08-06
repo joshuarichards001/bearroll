@@ -3,27 +3,27 @@
     "url": "https://moodywarlock.net/do-you-feel-like-unplugging/",
     "title": "Do you feel like unplugging?",
     "author": "https://moodywarlock.net",
-    "toasts": 35,
+    "toasts": 38,
     "first_seen": "2026-08-05T04:12:53.687Z",
-    "last_updated": "2026-08-05T21:13:57.299Z",
+    "last_updated": "2026-08-06T02:49:35.702Z",
     "published": "2026-08-05T01:49Z"
   },
   {
     "url": "https://herman.bearblog.dev/creativity/",
     "title": "Committing to creativity",
     "author": "https://herman.bearblog.dev",
-    "toasts": 69,
+    "toasts": 78,
     "first_seen": "2026-08-05T12:55:55.205Z",
-    "last_updated": "2026-08-05T23:02:52.994Z",
+    "last_updated": "2026-08-06T02:49:35.702Z",
     "published": "2026-08-05T12:04Z"
   },
   {
     "url": "https://jetgirl.art/magic-the-gathering-should-sell-white-border-set-cubes/",
     "title": "Magic the Gathering Should Sell White Border Set Cubes",
     "author": "https://jetgirl.art",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-05T12:55:55.205Z",
-    "last_updated": "2026-08-05T12:55:55.205Z",
+    "last_updated": "2026-08-06T02:49:35.702Z",
     "published": "2026-08-05T01:59Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://folkmoss.bearblog.dev/my-baby-nephew-and-ai/",
     "title": "My baby nephew and AI",
     "author": "https://folkmoss.bearblog.dev",
-    "toasts": 20,
+    "toasts": 30,
     "first_seen": "2026-08-05T17:42:27.483Z",
-    "last_updated": "2026-08-05T23:02:52.994Z",
+    "last_updated": "2026-08-06T02:49:35.702Z",
     "published": "2026-08-05T16:25Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://blog.curiousquail.com/heard-you-was-blaugust26/",
     "title": "heard you was...",
     "author": "https://blog.curiousquail.com",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-08-05T19:39:43.738Z",
-    "last_updated": "2026-08-05T21:13:57.299Z",
+    "last_updated": "2026-08-06T02:49:35.702Z",
     "published": "2026-08-05T14:56Z"
   },
   {
@@ -111,9 +111,18 @@
     "url": "https://combatdavey.net/august-4-2026/",
     "title": "august 4 wcs",
     "author": "https://combatdavey.net",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-05T23:02:52.994Z",
-    "last_updated": "2026-08-05T23:02:52.994Z",
+    "last_updated": "2026-08-06T02:49:35.702Z",
     "published": "2026-08-05T03:58Z"
+  },
+  {
+    "url": "https://anarchaeopteryx.bearblog.dev/2026-08-05-a-year-of-bearblog-analytics/",
+    "title": "A Year of Bearblog Analytics",
+    "author": "https://anarchaeopteryx.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-06T02:49:35.702Z",
+    "last_updated": "2026-08-06T02:49:35.702Z",
+    "published": "2026-08-05T17:19Z"
   }
 ]
