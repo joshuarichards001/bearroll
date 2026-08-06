@@ -3,9 +3,9 @@
     "url": "https://jdtorian.com/youre-so-bored-youre-even-reading-this/",
     "title": "You’re So Bored You’re Even Reading This",
     "author": "https://jdtorian.com",
-    "toasts": 91,
+    "toasts": 92,
     "first_seen": "2026-08-06T05:52:16.752Z",
-    "last_updated": "2026-08-06T08:41:48.820Z",
+    "last_updated": "2026-08-06T11:25:47.946Z",
     "published": "2026-08-06T05:00Z"
   },
   {
@@ -30,18 +30,18 @@
     "url": "https://bard.bearblog.dev/do-it-by-hand/",
     "title": "I'll do it by hand.",
     "author": "https://bard.bearblog.dev",
-    "toasts": 43,
+    "toasts": 44,
     "first_seen": "2026-08-06T05:52:16.752Z",
-    "last_updated": "2026-08-06T08:41:48.820Z",
+    "last_updated": "2026-08-06T11:25:47.946Z",
     "published": "2026-08-06T00:01Z"
   },
   {
     "url": "https://blog.lauramichet.com/abandoned-map-project/",
     "title": "Abandoned map project",
     "author": "https://blog.lauramichet.com",
-    "toasts": 35,
+    "toasts": 37,
     "first_seen": "2026-08-06T08:41:48.820Z",
-    "last_updated": "2026-08-06T08:41:48.820Z",
+    "last_updated": "2026-08-06T11:25:47.946Z",
     "published": "2026-08-06T06:08Z"
   },
   {
@@ -52,5 +52,23 @@
     "first_seen": "2026-08-06T08:41:48.820Z",
     "last_updated": "2026-08-06T08:41:48.820Z",
     "published": "2026-08-06T00:32Z"
+  },
+  {
+    "url": "https://blog.avas.space/behind-the-piece/",
+    "title": "seeing the person behind the piece",
+    "author": "https://blog.avas.space",
+    "toasts": 6,
+    "first_seen": "2026-08-06T11:25:47.946Z",
+    "last_updated": "2026-08-06T11:25:47.946Z",
+    "published": "2026-08-06T08:15Z"
+  },
+  {
+    "url": "https://combatdavey.net/august-5-2026/",
+    "title": "august 5 bro",
+    "author": "https://combatdavey.net",
+    "toasts": 6,
+    "first_seen": "2026-08-06T11:25:47.946Z",
+    "last_updated": "2026-08-06T11:25:47.946Z",
+    "published": "2026-08-06T03:58Z"
   }
 ]
