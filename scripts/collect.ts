@@ -6,7 +6,7 @@ import { fileURLToPath } from "node:url";
 
 const DATA_DIR = join(fileURLToPath(import.meta.url), "..", "..", "data");
 const BASE_URL = "https://bearblog.dev/discover/";
-const USER_AGENT = "BearRoll/1.0 (+https://bearroll.dev)";
+const USER_AGENT = "BearrollBot/1.0 (+https://bearroll.dev)";
 const PAGE_COUNT = 5;
 const DELAY_MS = 1000;
 const OPTED_OUT_DOMAINS = ["departure.blog"];
