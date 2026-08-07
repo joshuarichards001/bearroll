@@ -89,7 +89,7 @@ export function getRemainingDayDates(): string[] {
 }
 
 const WEEK_DAYS = 7;
-const TOP_PER_WEEK = 30;
+const TOP_PER_WEEK = 20;
 const MAX_WEEKS = 12;
 
 /** The Sun–Sat date strings for the week starting at the given Sunday. */

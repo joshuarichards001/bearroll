@@ -18,7 +18,7 @@ export function GET(context: APIContext) {
 
     return [
       {
-        title: `Bearroll Weekly Top 30 - ${formatDate(sunday)} to ${formatDate(saturday.toISOString().slice(0, 10))}`,
+        title: `Bearroll Weekly Top 20 - ${formatDate(sunday)} to ${formatDate(saturday.toISOString().slice(0, 10))}`,
         link: `${context.site!}`,
         pubDate,
         content: postsToListHtml(posts),
@@ -31,8 +31,8 @@ export function GET(context: APIContext) {
   }
 
   return rss({
-    title: "Bearroll Weekly Top 30",
-    description: "Weekly top 30 posts from Bear Blog's discover page",
+    title: "Bearroll Weekly Top 20",
+    description: "Weekly top 20 posts from Bear Blog's discover page",
     site: context.site!,
     items,
   });
