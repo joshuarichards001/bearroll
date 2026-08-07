@@ -3,9 +3,9 @@
     "url": "https://vivian.bearblog.dev/do-i-need-a-course-on-friendship/",
     "title": "Do I need a course on friendship?",
     "author": "https://vivian.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-08-07T10:55:26.803Z",
-    "last_updated": "2026-08-07T13:10:50.702Z",
+    "last_updated": "2026-08-07T20:44:24.650Z",
     "published": "2026-08-07T00:08Z"
   },
   {
@@ -30,18 +30,45 @@
     "url": "https://combatdavey.net/august-6-2026/",
     "title": "august 6 guh",
     "author": "https://combatdavey.net",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-07T17:01:51.646Z",
-    "last_updated": "2026-08-07T17:01:51.646Z",
+    "last_updated": "2026-08-07T20:44:24.650Z",
     "published": "2026-08-07T03:58Z"
   },
   {
     "url": "https://blog.avas.space/parody-post/",
     "title": "letting an LLM write an indie web parody post",
     "author": "https://blog.avas.space",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-08-07T19:01:21.560Z",
-    "last_updated": "2026-08-07T19:01:21.560Z",
+    "last_updated": "2026-08-07T20:44:24.650Z",
     "published": "2026-08-07T16:43Z"
+  },
+  {
+    "url": "https://zoeloukia.bearblog.dev/impressions-of-nineteen/",
+    "title": "impressions of nineteen",
+    "author": "https://zoeloukia.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-08-07T20:44:24.650Z",
+    "last_updated": "2026-08-07T20:44:24.650Z",
+    "published": "2026-08-07T16:38Z"
+  },
+  {
+    "url": "https://bruja.bearblog.dev/alemaquem/",
+    "title": "Além/aquém",
+    "author": "https://bruja.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-07T20:44:24.650Z",
+    "last_updated": "2026-08-07T20:44:24.650Z",
+    "published": "2026-08-07T16:00Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/taking-a-break-from-the-internet/",
+    "title": "Taking a break from the internet",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-07T20:44:24.650Z",
+    "last_updated": "2026-08-07T20:44:24.650Z",
+    "published": "2026-08-07T13:19Z"
   }
 ]
