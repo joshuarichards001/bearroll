@@ -3,9 +3,9 @@
     "url": "https://jdtorian.com/youre-so-bored-youre-even-reading-this/",
     "title": "You’re So Bored You’re Even Reading This",
     "author": "https://jdtorian.com",
-    "toasts": 95,
+    "toasts": 96,
     "first_seen": "2026-08-06T05:52:16.752Z",
-    "last_updated": "2026-08-06T14:19:52.468Z",
+    "last_updated": "2026-08-07T13:10:50.702Z",
     "published": "2026-08-06T05:00Z"
   },
   {
@@ -120,18 +120,18 @@
     "url": "https://blog.lauramichet.com/i-finally-went-to-the-getty-villa/",
     "title": "I finally went to the Getty Villa",
     "author": "https://blog.lauramichet.com",
-    "toasts": 13,
+    "toasts": 15,
     "first_seen": "2026-08-07T08:58:48.737Z",
-    "last_updated": "2026-08-07T08:58:48.737Z",
+    "last_updated": "2026-08-07T13:10:50.702Z",
     "published": "2026-08-06T19:34Z"
   },
   {
     "url": "https://tofukat.bearblog.dev/writing-so-bad-it-never-gets-flagged-as-ai/",
     "title": "Writing so bad it never gets flagged as AI",
     "author": "https://tofukat.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-07T08:58:48.737Z",
-    "last_updated": "2026-08-07T08:58:48.737Z",
+    "last_updated": "2026-08-07T13:10:50.702Z",
     "published": "2026-08-06T18:40Z"
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://yunzi.co.uk/is-bookcrossing-still-a-thing-yes-apparently/",
     "title": "Is bookcrossing still a thing?  (yes apparently)",
     "author": "https://yunzi.co.uk",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-07T08:58:48.737Z",
-    "last_updated": "2026-08-07T09:46:39.981Z",
+    "last_updated": "2026-08-07T13:10:50.702Z",
     "published": "2026-08-06T16:03Z"
   },
   {
@@ -237,9 +237,9 @@
     "url": "https://jetgirl.art/i-got-a-new-bike-for-my-birthday/",
     "title": "I got a new bike for my birthday.",
     "author": "https://jetgirl.art",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-08-07T08:58:48.737Z",
-    "last_updated": "2026-08-07T10:55:26.803Z",
+    "last_updated": "2026-08-07T13:10:50.702Z",
     "published": "2026-08-06T19:19Z"
   },
   {
@@ -250,5 +250,14 @@
     "first_seen": "2026-08-07T08:58:48.737Z",
     "last_updated": "2026-08-07T08:58:48.737Z",
     "published": "2026-08-06T17:39Z"
+  },
+  {
+    "url": "https://weaponizer.bearblog.dev/creating-a-website-for-sharing-knowledge/",
+    "title": "Creating a website for sharing knowledge",
+    "author": "https://weaponizer.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-07T13:10:50.702Z",
+    "last_updated": "2026-08-07T13:10:50.702Z",
+    "published": "2026-08-06T18:52Z"
   }
 ]
