@@ -21,9 +21,9 @@
     "url": "https://th.blog.br/post-relax-5/",
     "title": "Post Relax #5 edição BEDA",
     "author": "https://th.blog.br",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-07T14:55:35.327Z",
-    "last_updated": "2026-08-07T14:55:35.327Z",
+    "last_updated": "2026-08-08T11:31:14.380Z",
     "published": "2026-08-07T10:39Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://blog.avas.space/parody-post/",
     "title": "letting an LLM write an indie web parody post",
     "author": "https://blog.avas.space",
-    "toasts": 56,
+    "toasts": 57,
     "first_seen": "2026-08-07T19:01:21.560Z",
-    "last_updated": "2026-08-08T09:40:49.431Z",
+    "last_updated": "2026-08-08T11:31:14.380Z",
     "published": "2026-08-07T16:43Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://householderkarl.com/if-buying-isnt-owning/",
     "title": "If Buying Isn't Owning",
     "author": "https://householderkarl.com",
-    "toasts": 79,
+    "toasts": 80,
     "first_seen": "2026-08-07T23:36:09.283Z",
-    "last_updated": "2026-08-08T10:36:52.451Z",
+    "last_updated": "2026-08-08T11:31:14.380Z",
     "published": "2026-08-07T22:06Z"
   },
   {
@@ -159,6 +159,15 @@
     "toasts": 8,
     "first_seen": "2026-08-08T06:58:17.483Z",
     "last_updated": "2026-08-08T09:40:49.431Z",
+    "published": "2026-08-07T21:16Z"
+  },
+  {
+    "url": "https://paraquemencontrar.bearblog.dev/la-vamos-nos-de-novo/",
+    "title": "Lá vamos nós de novo",
+    "author": "https://paraquemencontrar.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-08T11:31:14.380Z",
+    "last_updated": "2026-08-08T11:31:14.380Z",
     "published": "2026-08-07T21:16Z"
   }
 ]
