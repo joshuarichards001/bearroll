@@ -75,9 +75,9 @@
     "url": "https://householderkarl.com/if-buying-isnt-owning/",
     "title": "If Buying Isn't Owning",
     "author": "https://householderkarl.com",
-    "toasts": 64,
+    "toasts": 65,
     "first_seen": "2026-08-07T23:36:09.283Z",
-    "last_updated": "2026-08-08T05:51:24.309Z",
+    "last_updated": "2026-08-08T06:58:17.483Z",
     "published": "2026-08-07T22:06Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://mgx.bearblog.dev/why-i-made-a-degoogle-directory/",
     "title": "Why I made a DeGoogle directory",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 41,
+    "toasts": 43,
     "first_seen": "2026-08-08T01:51:02.019Z",
-    "last_updated": "2026-08-08T05:51:24.309Z",
+    "last_updated": "2026-08-08T06:58:17.483Z",
     "published": "2026-08-07T17:59Z"
   },
   {
@@ -151,5 +151,14 @@
     "first_seen": "2026-08-08T05:00:07.912Z",
     "last_updated": "2026-08-08T05:00:07.912Z",
     "published": "2026-08-07T18:49Z"
+  },
+  {
+    "url": "https://eteryu.space/zudzenie-prywatnosci-z-pudeka-dlaczego-podejscie-set-and-forget-to-puapka/",
+    "title": "Złudzenie prywatności z pudełka: Dlaczego podejście „set and forget” to pułapka",
+    "author": "https://eteryu.space",
+    "toasts": 6,
+    "first_seen": "2026-08-08T06:58:17.483Z",
+    "last_updated": "2026-08-08T06:58:17.483Z",
+    "published": "2026-08-07T21:16Z"
   }
 ]
