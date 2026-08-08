@@ -21,9 +21,9 @@
     "url": "https://th.blog.br/post-relax-5/",
     "title": "Post Relax #5 edição BEDA",
     "author": "https://th.blog.br",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-07T14:55:35.327Z",
-    "last_updated": "2026-08-08T11:31:14.380Z",
+    "last_updated": "2026-08-08T19:32:43.041Z",
     "published": "2026-08-07T10:39Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://blog.avas.space/parody-post/",
     "title": "letting an LLM write an indie web parody post",
     "author": "https://blog.avas.space",
-    "toasts": 64,
+    "toasts": 66,
     "first_seen": "2026-08-07T19:01:21.560Z",
-    "last_updated": "2026-08-08T18:41:24.429Z",
+    "last_updated": "2026-08-08T19:32:43.041Z",
     "published": "2026-08-07T16:43Z"
   },
   {
@@ -66,18 +66,18 @@
     "url": "https://basic.bearblog.dev/taking-a-break-from-the-internet/",
     "title": "Taking a break from the internet",
     "author": "https://basic.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-08-07T20:44:24.650Z",
-    "last_updated": "2026-08-08T14:34:13.534Z",
+    "last_updated": "2026-08-08T19:32:43.041Z",
     "published": "2026-08-07T13:19Z"
   },
   {
     "url": "https://householderkarl.com/if-buying-isnt-owning/",
     "title": "If Buying Isn't Owning",
     "author": "https://householderkarl.com",
-    "toasts": 94,
+    "toasts": 95,
     "first_seen": "2026-08-07T23:36:09.283Z",
-    "last_updated": "2026-08-08T18:41:24.429Z",
+    "last_updated": "2026-08-08T19:32:43.041Z",
     "published": "2026-08-07T22:06Z"
   },
   {
@@ -93,27 +93,27 @@
     "url": "https://itsme.bearblog.dev/laugh-3-times-at-ai/",
     "title": "Laugh 3 times at AI",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 65,
+    "toasts": 66,
     "first_seen": "2026-08-08T01:51:02.019Z",
-    "last_updated": "2026-08-08T18:41:24.429Z",
+    "last_updated": "2026-08-08T19:32:43.041Z",
     "published": "2026-08-07T18:33Z"
   },
   {
     "url": "https://awespren.bearblog.dev/on-ai/",
     "title": "On \"AI\"",
     "author": "https://awespren.bearblog.dev",
-    "toasts": 81,
+    "toasts": 82,
     "first_seen": "2026-08-08T01:51:02.019Z",
-    "last_updated": "2026-08-08T18:41:24.429Z",
+    "last_updated": "2026-08-08T19:32:43.041Z",
     "published": "2026-08-07T18:29Z"
   },
   {
     "url": "https://mgx.bearblog.dev/why-i-made-a-degoogle-directory/",
     "title": "Why I made a DeGoogle directory",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 64,
+    "toasts": 65,
     "first_seen": "2026-08-08T01:51:02.019Z",
-    "last_updated": "2026-08-08T17:33:34.446Z",
+    "last_updated": "2026-08-08T19:32:43.041Z",
     "published": "2026-08-07T17:59Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://rawrjair.bearblog.dev/yall-i-love-dashcon-2/",
     "title": "Y'all, I Love DashCon 2…",
     "author": "https://rawrjair.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-08T01:51:02.019Z",
-    "last_updated": "2026-08-08T09:40:49.431Z",
+    "last_updated": "2026-08-08T19:32:43.041Z",
     "published": "2026-08-07T21:54Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://syls.blog/i-love-this-blog/",
     "title": "I Love This Blog",
     "author": "https://syls.blog",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-08T16:36:55.001Z",
-    "last_updated": "2026-08-08T16:36:55.001Z",
+    "last_updated": "2026-08-08T19:32:43.041Z",
     "published": "2026-08-07T11:00Z"
   }
 ]
