@@ -39,9 +39,9 @@
     "url": "https://blog.avas.space/parody-post/",
     "title": "letting an LLM write an indie web parody post",
     "author": "https://blog.avas.space",
-    "toasts": 45,
+    "toasts": 52,
     "first_seen": "2026-08-07T19:01:21.560Z",
-    "last_updated": "2026-08-08T03:35:59.075Z",
+    "last_updated": "2026-08-08T05:00:07.912Z",
     "published": "2026-08-07T16:43Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://householderkarl.com/if-buying-isnt-owning/",
     "title": "If Buying Isn't Owning",
     "author": "https://householderkarl.com",
-    "toasts": 57,
+    "toasts": 58,
     "first_seen": "2026-08-07T23:36:09.283Z",
-    "last_updated": "2026-08-08T03:35:59.075Z",
+    "last_updated": "2026-08-08T05:00:07.912Z",
     "published": "2026-08-07T22:06Z"
   },
   {
@@ -93,18 +93,18 @@
     "url": "https://itsme.bearblog.dev/laugh-3-times-at-ai/",
     "title": "Laugh 3 times at AI",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 32,
+    "toasts": 33,
     "first_seen": "2026-08-08T01:51:02.019Z",
-    "last_updated": "2026-08-08T01:51:02.019Z",
+    "last_updated": "2026-08-08T05:00:07.912Z",
     "published": "2026-08-07T18:33Z"
   },
   {
     "url": "https://awespren.bearblog.dev/on-ai/",
     "title": "On \"AI\"",
     "author": "https://awespren.bearblog.dev",
-    "toasts": 43,
+    "toasts": 44,
     "first_seen": "2026-08-08T01:51:02.019Z",
-    "last_updated": "2026-08-08T03:35:59.075Z",
+    "last_updated": "2026-08-08T05:00:07.912Z",
     "published": "2026-08-07T18:29Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-08-08T01:51:02.019Z",
     "last_updated": "2026-08-08T03:35:59.075Z",
     "published": "2026-08-07T21:54Z"
+  },
+  {
+    "url": "https://zhongvie.bearblog.dev/2026-08-07/",
+    "title": "Tumblr Archive Project",
+    "author": "https://zhongvie.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-08T05:00:07.912Z",
+    "last_updated": "2026-08-08T05:00:07.912Z",
+    "published": "2026-08-07T18:49Z"
   }
 ]
