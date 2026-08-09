@@ -30,9 +30,9 @@
     "url": "https://thebirdhouse.bearblog.dev/where-have-i-been/",
     "title": "where have I been?",
     "author": "https://thebirdhouse.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-09T14:37:24.374Z",
-    "last_updated": "2026-08-09T19:35:40.191Z",
+    "last_updated": "2026-08-09T20:36:03.647Z",
     "published": "2026-08-09T03:06Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://onlinegoddess.net/2026/08/heatwave-no/",
     "title": "Heatwave No. ???",
     "author": "https://onlinegoddess.net",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-08-09T18:45:35.549Z",
-    "last_updated": "2026-08-09T19:35:40.191Z",
+    "last_updated": "2026-08-09T20:36:03.647Z",
     "published": "2026-08-09T16:27Z"
   },
   {
@@ -79,5 +79,23 @@
     "first_seen": "2026-08-09T19:35:40.191Z",
     "last_updated": "2026-08-09T19:35:40.191Z",
     "published": "2026-08-09T16:27Z"
+  },
+  {
+    "url": "https://blahg.online/my-cute-cat/",
+    "title": "📸 my cute cat",
+    "author": "https://blahg.online",
+    "toasts": 7,
+    "first_seen": "2026-08-09T20:36:03.647Z",
+    "last_updated": "2026-08-09T20:36:03.647Z",
+    "published": "2026-08-09T16:57Z"
+  },
+  {
+    "url": "https://heurista.net/my-blogging-augustory/",
+    "title": "My Blogging AuguStory",
+    "author": "https://heurista.net",
+    "toasts": 6,
+    "first_seen": "2026-08-09T20:36:03.647Z",
+    "last_updated": "2026-08-09T20:36:03.647Z",
+    "published": "2026-08-09T15:46Z"
   }
 ]
