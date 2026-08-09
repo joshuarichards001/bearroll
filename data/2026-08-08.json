@@ -30,27 +30,27 @@
     "url": "https://cherrysroom.bearblog.dev/i-also-hate-fictional-ais-now/",
     "title": "i also hate fictional AIs now",
     "author": "https://cherrysroom.bearblog.dev",
-    "toasts": 48,
+    "toasts": 49,
     "first_seen": "2026-08-08T09:40:49.431Z",
-    "last_updated": "2026-08-09T08:47:13.659Z",
+    "last_updated": "2026-08-09T12:57:11.922Z",
     "published": "2026-08-08T05:57Z"
   },
   {
     "url": "https://itsme.bearblog.dev/are-search-engines-obtuse-on-purpose/",
     "title": "Are search engines obtuse on purpose?",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 41,
+    "toasts": 44,
     "first_seen": "2026-08-08T09:40:49.431Z",
-    "last_updated": "2026-08-09T11:32:14.988Z",
+    "last_updated": "2026-08-09T12:57:11.922Z",
     "published": "2026-08-08T02:03Z"
   },
   {
     "url": "https://forsomeone.bearblog.dev/dear-dad-thank-you-im-sorry-and-i-love-you/",
     "title": "Dear Dad, thank you, i'm sorry, and I love you",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 27,
+    "toasts": 29,
     "first_seen": "2026-08-08T09:40:49.431Z",
-    "last_updated": "2026-08-09T10:37:32.375Z",
+    "last_updated": "2026-08-09T12:57:11.922Z",
     "published": "2026-08-08T05:34Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://blog.clairebot.world/im-making-a-website/",
     "title": "i'm making a website!",
     "author": "https://blog.clairebot.world",
-    "toasts": 16,
+    "toasts": 21,
     "first_seen": "2026-08-08T11:31:14.380Z",
-    "last_updated": "2026-08-09T10:37:32.375Z",
+    "last_updated": "2026-08-09T12:57:11.922Z",
     "published": "2026-08-08T08:48Z"
   },
   {
@@ -196,5 +196,14 @@
     "first_seen": "2026-08-09T11:32:14.988Z",
     "last_updated": "2026-08-09T11:32:14.988Z",
     "published": "2026-08-08T20:52Z"
+  },
+  {
+    "url": "https://huibenmonique.bearblog.dev/dont-let-the-sun-go-down-on-me/",
+    "title": "♫ Don't let the sun go down on me ♫",
+    "author": "https://huibenmonique.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-09T12:57:11.922Z",
+    "last_updated": "2026-08-09T12:57:11.922Z",
+    "published": "2026-08-08T16:18Z"
   }
 ]
