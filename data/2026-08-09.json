@@ -21,9 +21,9 @@
     "url": "https://siobhan.bearblog.dev/tinkering-with-bearcode/",
     "title": "Tinkering with ʕ•ᴥ•ʔ BearCode",
     "author": "https://siobhan.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-09T13:53:29.926Z",
-    "last_updated": "2026-08-09T16:38:38.932Z",
+    "last_updated": "2026-08-09T17:33:49.550Z",
     "published": "2026-08-09T10:56Z"
   },
   {
@@ -34,5 +34,23 @@
     "first_seen": "2026-08-09T14:37:24.374Z",
     "last_updated": "2026-08-09T14:37:24.374Z",
     "published": "2026-08-09T03:06Z"
+  },
+  {
+    "url": "https://binarydigit.net/enjoying-multiple-blog-platforms/",
+    "title": "Enjoying Multiple Blog Platforms",
+    "author": "https://binarydigit.net",
+    "toasts": 7,
+    "first_seen": "2026-08-09T17:33:49.550Z",
+    "last_updated": "2026-08-09T17:33:49.550Z",
+    "published": "2026-08-09T15:30Z"
+  },
+  {
+    "url": "https://robertbirming.com/birming-bulletin-6/",
+    "title": "Birming bulletin #6",
+    "author": "https://robertbirming.com",
+    "toasts": 6,
+    "first_seen": "2026-08-09T17:33:49.550Z",
+    "last_updated": "2026-08-09T17:33:49.550Z",
+    "published": "2026-08-09T13:25Z"
   }
 ]
