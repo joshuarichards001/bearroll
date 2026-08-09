@@ -21,9 +21,9 @@
     "url": "https://notes.jeddacp.com/we-the-people-matter/",
     "title": "We The People Matter",
     "author": "https://notes.jeddacp.com",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-08-08T03:35:59.075Z",
-    "last_updated": "2026-08-08T22:32:26.823Z",
+    "last_updated": "2026-08-09T10:37:32.375Z",
     "published": "2026-08-08T01:38Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://itsme.bearblog.dev/are-search-engines-obtuse-on-purpose/",
     "title": "Are search engines obtuse on purpose?",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 37,
+    "toasts": 40,
     "first_seen": "2026-08-08T09:40:49.431Z",
-    "last_updated": "2026-08-09T08:47:13.659Z",
+    "last_updated": "2026-08-09T10:37:32.375Z",
     "published": "2026-08-08T02:03Z"
   },
   {
     "url": "https://forsomeone.bearblog.dev/dear-dad-thank-you-im-sorry-and-i-love-you/",
     "title": "Dear Dad, thank you, i'm sorry, and I love you",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 26,
+    "toasts": 27,
     "first_seen": "2026-08-08T09:40:49.431Z",
-    "last_updated": "2026-08-09T08:47:13.659Z",
+    "last_updated": "2026-08-09T10:37:32.375Z",
     "published": "2026-08-08T05:34Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://blog.clairebot.world/im-making-a-website/",
     "title": "i'm making a website!",
     "author": "https://blog.clairebot.world",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-08-08T11:31:14.380Z",
-    "last_updated": "2026-08-09T03:49:15.443Z",
+    "last_updated": "2026-08-09T10:37:32.375Z",
     "published": "2026-08-08T08:48Z"
   },
   {
@@ -169,5 +169,14 @@
     "first_seen": "2026-08-09T07:00:53.826Z",
     "last_updated": "2026-08-09T07:00:53.826Z",
     "published": "2026-08-08T17:15Z"
+  },
+  {
+    "url": "https://folkmoss.bearblog.dev/games-ive-played-so-far-on-the-3ds/",
+    "title": "Games I've played so far on the 3DS",
+    "author": "https://folkmoss.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-09T10:37:32.375Z",
+    "last_updated": "2026-08-09T10:37:32.375Z",
+    "published": "2026-08-08T15:26Z"
   }
 ]
