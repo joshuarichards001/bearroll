@@ -30,9 +30,9 @@
     "url": "https://cherrysroom.bearblog.dev/i-also-hate-fictional-ais-now/",
     "title": "i also hate fictional AIs now",
     "author": "https://cherrysroom.bearblog.dev",
-    "toasts": 45,
+    "toasts": 47,
     "first_seen": "2026-08-08T09:40:49.431Z",
-    "last_updated": "2026-08-09T03:49:15.443Z",
+    "last_updated": "2026-08-09T07:00:53.826Z",
     "published": "2026-08-08T05:57Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://forsomeone.bearblog.dev/dear-dad-thank-you-im-sorry-and-i-love-you/",
     "title": "Dear Dad, thank you, i'm sorry, and I love you",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 22,
+    "toasts": 24,
     "first_seen": "2026-08-08T09:40:49.431Z",
-    "last_updated": "2026-08-09T05:08:44.428Z",
+    "last_updated": "2026-08-09T07:00:53.826Z",
     "published": "2026-08-08T05:34Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://annoflo.net/beginnings-and-minimal-tech/",
     "title": "Beginnings and Minimal Tech",
     "author": "https://annoflo.net",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-08T15:32:30.166Z",
-    "last_updated": "2026-08-09T01:58:08.065Z",
+    "last_updated": "2026-08-09T07:00:53.826Z",
     "published": "2026-08-08T13:50Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://lance.bearblog.dev/programmers-use-this-one-trick-to-make-themselves-unemployable/",
     "title": "Programmers use this one trick to make themselves unemployable",
     "author": "https://lance.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-08T20:33:33.322Z",
-    "last_updated": "2026-08-08T20:33:33.322Z",
+    "last_updated": "2026-08-09T07:00:53.826Z",
     "published": "2026-08-08T15:30Z"
   },
   {
@@ -151,5 +151,23 @@
     "first_seen": "2026-08-09T05:08:44.428Z",
     "last_updated": "2026-08-09T05:08:44.428Z",
     "published": "2026-08-08T19:47Z"
+  },
+  {
+    "url": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
+    "title": "using an old android phone as a music player",
+    "author": "https://monocyte.blog",
+    "toasts": 6,
+    "first_seen": "2026-08-09T07:00:53.826Z",
+    "last_updated": "2026-08-09T07:00:53.826Z",
+    "published": "2026-08-08T20:20Z"
+  },
+  {
+    "url": "https://notebookery.bearblog.dev/full-circle/",
+    "title": "Coming Full Circle",
+    "author": "https://notebookery.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-09T07:00:53.826Z",
+    "last_updated": "2026-08-09T07:00:53.826Z",
+    "published": "2026-08-08T17:15Z"
   }
 ]
