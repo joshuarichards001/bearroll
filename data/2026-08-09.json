@@ -30,9 +30,9 @@
     "url": "https://thebirdhouse.bearblog.dev/where-have-i-been/",
     "title": "where have I been?",
     "author": "https://thebirdhouse.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-09T14:37:24.374Z",
-    "last_updated": "2026-08-09T14:37:24.374Z",
+    "last_updated": "2026-08-09T19:35:40.191Z",
     "published": "2026-08-09T03:06Z"
   },
   {
@@ -57,9 +57,27 @@
     "url": "https://onlinegoddess.net/2026/08/heatwave-no/",
     "title": "Heatwave No. ???",
     "author": "https://onlinegoddess.net",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-08-09T18:45:35.549Z",
-    "last_updated": "2026-08-09T18:45:35.549Z",
+    "last_updated": "2026-08-09T19:35:40.191Z",
+    "published": "2026-08-09T16:27Z"
+  },
+  {
+    "url": "https://householderkarl.com/on-mortality/",
+    "title": "On Mortality",
+    "author": "https://householderkarl.com",
+    "toasts": 6,
+    "first_seen": "2026-08-09T19:35:40.191Z",
+    "last_updated": "2026-08-09T19:35:40.191Z",
+    "published": "2026-08-09T17:21Z"
+  },
+  {
+    "url": "https://guinevak.bearblog.dev/i-didnt-get-a-cookie-for-being-autistic/",
+    "title": "I didn't get a cookie for being autistic",
+    "author": "https://guinevak.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-09T19:35:40.191Z",
+    "last_updated": "2026-08-09T19:35:40.191Z",
     "published": "2026-08-09T16:27Z"
   }
 ]
