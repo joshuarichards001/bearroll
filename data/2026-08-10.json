@@ -21,9 +21,9 @@
     "url": "https://forsomeone.bearblog.dev/are-you-a-dragonfly-now/",
     "title": "Are you a dragonfly now?",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 26,
+    "toasts": 31,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-10T15:01:03.301Z",
+    "last_updated": "2026-08-10T17:54:01.604Z",
     "published": "2026-08-10T04:36Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://blog.lauramichet.com/big-walk-is-really-good/",
     "title": "Big Walk is really good",
     "author": "https://blog.lauramichet.com",
-    "toasts": 11,
+    "toasts": 23,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-10T13:15:15.799Z",
+    "last_updated": "2026-08-10T17:54:01.604Z",
     "published": "2026-08-10T04:40Z"
   },
   {
     "url": "https://woolgathering.bearblog.dev/thoughts-in-orbit/",
     "title": "thoughts in orbit",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-10T15:01:03.301Z",
+    "last_updated": "2026-08-10T17:54:01.604Z",
     "published": "2026-08-10T06:37Z"
   },
   {
@@ -102,9 +102,18 @@
     "url": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
     "title": "Defending my own brain against enshittification",
     "author": "https://mrmarket.lol",
-    "toasts": 82,
+    "toasts": 91,
     "first_seen": "2026-08-10T15:01:03.301Z",
-    "last_updated": "2026-08-10T16:56:11.516Z",
+    "last_updated": "2026-08-10T17:54:01.604Z",
     "published": "2026-08-10T11:40Z"
+  },
+  {
+    "url": "https://myrkvi.no/ai-the-devil-on-my-shoulder/",
+    "title": "AI: The Devil on My Shoulder",
+    "author": "https://myrkvi.no",
+    "toasts": 10,
+    "first_seen": "2026-08-10T17:54:01.604Z",
+    "last_updated": "2026-08-10T17:54:01.604Z",
+    "published": "2026-08-10T17:23Z"
   }
 ]
