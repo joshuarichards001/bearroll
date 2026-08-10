@@ -12,18 +12,18 @@
     "url": "https://magmacranes.bearblog.dev/one-of-the-least-interesting-things-about-me/",
     "title": "One of the least interesting things about me",
     "author": "https://magmacranes.bearblog.dev",
-    "toasts": 21,
+    "toasts": 24,
     "first_seen": "2026-08-10T04:40:12.874Z",
-    "last_updated": "2026-08-10T10:19:14.452Z",
+    "last_updated": "2026-08-10T15:01:03.301Z",
     "published": "2026-08-10T02:56Z"
   },
   {
     "url": "https://forsomeone.bearblog.dev/are-you-a-dragonfly-now/",
     "title": "Are you a dragonfly now?",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 25,
+    "toasts": 26,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-10T13:15:15.799Z",
+    "last_updated": "2026-08-10T15:01:03.301Z",
     "published": "2026-08-10T04:36Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://woolgathering.bearblog.dev/thoughts-in-orbit/",
     "title": "thoughts in orbit",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-10T13:15:15.799Z",
+    "last_updated": "2026-08-10T15:01:03.301Z",
     "published": "2026-08-10T06:37Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://xno.rip/diary/6/",
     "title": "jazz on the radio (diary #6)",
     "author": "https://xno.rip",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-10T08:41:00.819Z",
+    "last_updated": "2026-08-10T15:01:03.301Z",
     "published": "2026-08-10T01:26Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://onlinegoddess.net/2026/08/dont-lock-user-data-behind-paywalls/",
     "title": "Don’t Lock User Data Behind Paywalls",
     "author": "https://onlinegoddess.net",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-08-10T13:15:15.799Z",
-    "last_updated": "2026-08-10T13:15:15.799Z",
+    "last_updated": "2026-08-10T15:01:03.301Z",
     "published": "2026-08-10T10:54Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-08-10T13:15:15.799Z",
     "last_updated": "2026-08-10T13:15:15.799Z",
     "published": "2026-08-10T02:57Z"
+  },
+  {
+    "url": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
+    "title": "Defending my own brain against enshittification",
+    "author": "https://mrmarket.lol",
+    "toasts": 44,
+    "first_seen": "2026-08-10T15:01:03.301Z",
+    "last_updated": "2026-08-10T15:01:03.301Z",
+    "published": "2026-08-10T11:40Z"
   }
 ]
