@@ -12,18 +12,18 @@
     "url": "https://magmacranes.bearblog.dev/one-of-the-least-interesting-things-about-me/",
     "title": "One of the least interesting things about me",
     "author": "https://magmacranes.bearblog.dev",
-    "toasts": 28,
+    "toasts": 29,
     "first_seen": "2026-08-10T04:40:12.874Z",
-    "last_updated": "2026-08-10T20:45:59.333Z",
+    "last_updated": "2026-08-10T21:44:14.799Z",
     "published": "2026-08-10T02:56Z"
   },
   {
     "url": "https://forsomeone.bearblog.dev/are-you-a-dragonfly-now/",
     "title": "Are you a dragonfly now?",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 32,
+    "toasts": 33,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-10T20:45:59.333Z",
+    "last_updated": "2026-08-10T21:44:14.799Z",
     "published": "2026-08-10T04:36Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://blog.lauramichet.com/big-walk-is-really-good/",
     "title": "Big Walk is really good",
     "author": "https://blog.lauramichet.com",
-    "toasts": 26,
+    "toasts": 27,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-10T20:45:59.333Z",
+    "last_updated": "2026-08-10T21:44:14.799Z",
     "published": "2026-08-10T04:40Z"
   },
   {
     "url": "https://woolgathering.bearblog.dev/thoughts-in-orbit/",
     "title": "thoughts in orbit",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-10T17:54:01.604Z",
+    "last_updated": "2026-08-10T21:44:14.799Z",
     "published": "2026-08-10T06:37Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://verityvoron.bearblog.dev/goodbye-to-the-dearest-grandparents/",
     "title": "Goodbye to the dearest grandparents",
     "author": "https://verityvoron.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-10T13:15:15.799Z",
-    "last_updated": "2026-08-10T13:15:15.799Z",
+    "last_updated": "2026-08-10T21:44:14.799Z",
     "published": "2026-08-10T11:03Z"
   },
   {
@@ -133,5 +133,23 @@
     "first_seen": "2026-08-10T19:00:55.166Z",
     "last_updated": "2026-08-10T19:00:55.166Z",
     "published": "2026-08-10T08:37Z"
+  },
+  {
+    "url": "https://phunky.cafe/my-homelab-got-hacked/",
+    "title": "My Homelab Got Hacked - A Postmortem",
+    "author": "https://phunky.cafe",
+    "toasts": 7,
+    "first_seen": "2026-08-10T21:44:14.799Z",
+    "last_updated": "2026-08-10T21:44:14.799Z",
+    "published": "2026-08-10T17:54Z"
+  },
+  {
+    "url": "https://householderkarl.com/sweet-leaf/",
+    "title": "Sweet Leaf",
+    "author": "https://householderkarl.com",
+    "toasts": 6,
+    "first_seen": "2026-08-10T21:44:14.799Z",
+    "last_updated": "2026-08-10T21:44:14.799Z",
+    "published": "2026-08-10T19:44Z"
   }
 ]
