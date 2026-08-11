@@ -12,18 +12,18 @@
     "url": "https://magmacranes.bearblog.dev/one-of-the-least-interesting-things-about-me/",
     "title": "One of the least interesting things about me",
     "author": "https://magmacranes.bearblog.dev",
-    "toasts": 34,
+    "toasts": 35,
     "first_seen": "2026-08-10T04:40:12.874Z",
-    "last_updated": "2026-08-11T03:50:54.362Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
     "published": "2026-08-10T02:56Z"
   },
   {
     "url": "https://forsomeone.bearblog.dev/are-you-a-dragonfly-now/",
     "title": "Are you a dragonfly now?",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 47,
+    "toasts": 48,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-11T09:01:08.408Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
     "published": "2026-08-10T04:36Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://onlinegoddess.net/2026/08/dont-lock-user-data-behind-paywalls/",
     "title": "Don’t Lock User Data Behind Paywalls",
     "author": "https://onlinegoddess.net",
-    "toasts": 38,
+    "toasts": 40,
     "first_seen": "2026-08-10T13:15:15.799Z",
-    "last_updated": "2026-08-11T09:01:08.408Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
     "published": "2026-08-10T10:54Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
     "title": "Defending my own brain against enshittification",
     "author": "https://mrmarket.lol",
-    "toasts": 140,
+    "toasts": 146,
     "first_seen": "2026-08-10T15:01:03.301Z",
-    "last_updated": "2026-08-11T09:01:08.408Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
     "published": "2026-08-10T11:40Z"
   },
   {
@@ -138,18 +138,18 @@
     "url": "https://phunky.cafe/my-homelab-got-hacked/",
     "title": "My Homelab Got Hacked - A Postmortem",
     "author": "https://phunky.cafe",
-    "toasts": 29,
+    "toasts": 30,
     "first_seen": "2026-08-10T21:44:14.799Z",
-    "last_updated": "2026-08-11T09:01:08.408Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
     "published": "2026-08-10T17:54Z"
   },
   {
     "url": "https://householderkarl.com/sweet-leaf/",
     "title": "Sweet Leaf",
     "author": "https://householderkarl.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-10T21:44:14.799Z",
-    "last_updated": "2026-08-11T01:57:49.200Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
     "published": "2026-08-10T19:44Z"
   },
   {
@@ -201,27 +201,36 @@
     "url": "https://idcrisisangel.ca/suicide-enthusiast/",
     "title": "suicide enthusiast",
     "author": "https://idcrisisangel.ca",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-11T05:12:21.168Z",
-    "last_updated": "2026-08-11T05:12:21.168Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
     "published": "2026-08-10T22:05Z"
   },
   {
     "url": "https://swtlo.com/re-mental-snacking/",
     "title": "re: Mental Snacking",
     "author": "https://swtlo.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-11T09:01:08.408Z",
-    "last_updated": "2026-08-11T09:01:08.408Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
     "published": "2026-08-10T23:26Z"
   },
   {
     "url": "https://thinklog.bearblog.dev/mental-snacking/",
     "title": "Mental Snacking",
     "author": "https://thinklog.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-11T09:01:08.408Z",
-    "last_updated": "2026-08-11T09:01:08.408Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
     "published": "2026-08-10T19:43Z"
+  },
+  {
+    "url": "https://kami.bearblog.dev/why-i-dont-do-that-many-blogging-challenges/",
+    "title": "Why I don't do that many blogging challenges",
+    "author": "https://kami.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-08-11T10:51:57.892Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
+    "published": "2026-08-10T20:46Z"
   }
 ]

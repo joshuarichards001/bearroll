@@ -84,9 +84,9 @@
     "url": "https://blahg.online/my-cute-cat/",
     "title": "📸 my cute cat",
     "author": "https://blahg.online",
-    "toasts": 51,
+    "toasts": 52,
     "first_seen": "2026-08-09T20:36:03.647Z",
-    "last_updated": "2026-08-11T09:01:08.408Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
     "published": "2026-08-09T16:57Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://blog.clairebot.world/cancer-changes-everything/",
     "title": "cancer changes everything",
     "author": "https://blog.clairebot.world",
-    "toasts": 31,
+    "toasts": 32,
     "first_seen": "2026-08-10T02:02:35.558Z",
-    "last_updated": "2026-08-11T07:12:23.133Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
     "published": "2026-08-09T20:12Z"
   },
   {
@@ -214,5 +214,14 @@
     "first_seen": "2026-08-10T08:41:00.819Z",
     "last_updated": "2026-08-10T13:15:15.799Z",
     "published": "2026-08-09T12:15Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260809/",
+    "title": "周末流水账 0809",
+    "author": "https://blog.solazy.me",
+    "toasts": 8,
+    "first_seen": "2026-08-11T10:51:57.892Z",
+    "last_updated": "2026-08-11T10:51:57.892Z",
+    "published": "2026-08-09T15:00Z"
   }
 ]
