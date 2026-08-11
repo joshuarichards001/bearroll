@@ -48,9 +48,9 @@
     "url": "https://forsomeone.bearblog.dev/dear-dad-thank-you-im-sorry-and-i-love-you/",
     "title": "Dear Dad, thank you, i'm sorry, and I love you",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 68,
+    "toasts": 69,
     "first_seen": "2026-08-08T09:40:49.431Z",
-    "last_updated": "2026-08-11T03:50:54.362Z",
+    "last_updated": "2026-08-11T15:00:58.900Z",
     "published": "2026-08-08T05:34Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://blog.clairebot.world/im-making-a-website/",
     "title": "i'm making a website!",
     "author": "https://blog.clairebot.world",
-    "toasts": 67,
+    "toasts": 68,
     "first_seen": "2026-08-08T11:31:14.380Z",
-    "last_updated": "2026-08-11T11:46:05.770Z",
+    "last_updated": "2026-08-11T15:00:58.900Z",
     "published": "2026-08-08T08:48Z"
   },
   {
@@ -214,5 +214,14 @@
     "first_seen": "2026-08-10T04:40:12.874Z",
     "last_updated": "2026-08-10T15:01:03.301Z",
     "published": "2026-08-08T20:39Z"
+  },
+  {
+    "url": "https://yctsai.fyi/about/",
+    "title": "關於我",
+    "author": "https://yctsai.fyi",
+    "toasts": 10,
+    "first_seen": "2026-08-11T15:00:58.900Z",
+    "last_updated": "2026-08-11T15:00:58.900Z",
+    "published": "2026-08-08T14:01Z"
   }
 ]
