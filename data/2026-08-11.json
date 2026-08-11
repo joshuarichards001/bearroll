@@ -12,9 +12,9 @@
     "url": "https://blog.absurdpirate.com/happy-international-pirate-month/",
     "title": "Happy International Pirate Month!",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 15,
+    "toasts": 18,
     "first_seen": "2026-08-11T07:12:23.133Z",
-    "last_updated": "2026-08-11T16:59:26.311Z",
+    "last_updated": "2026-08-11T20:00:25.766Z",
     "published": "2026-08-11T01:56Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://blog.lauramichet.com/rewatched-the-story-of-yangawas-canals/",
     "title": "Rewatched The Story of Yangawa's Canals",
     "author": "https://blog.lauramichet.com",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-08-11T09:01:08.408Z",
-    "last_updated": "2026-08-11T16:59:26.311Z",
+    "last_updated": "2026-08-11T20:00:25.766Z",
     "published": "2026-08-11T06:48Z"
   },
   {
@@ -66,27 +66,36 @@
     "url": "https://peelingtheonion.bearblog.dev/im-discoverable-now/",
     "title": "i'm discoverable now!",
     "author": "https://peelingtheonion.bearblog.dev",
-    "toasts": 8,
+    "toasts": 13,
     "first_seen": "2026-08-11T18:01:17.133Z",
-    "last_updated": "2026-08-11T18:01:17.133Z",
+    "last_updated": "2026-08-11T20:00:25.766Z",
     "published": "2026-08-11T15:44Z"
   },
   {
     "url": "https://futureperfect.bearblog.dev/tabbed-content-for-your-blog/",
     "title": "Tabbed content for your blog",
     "author": "https://futureperfect.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-11T18:01:17.133Z",
-    "last_updated": "2026-08-11T18:01:17.133Z",
+    "last_updated": "2026-08-11T20:00:25.766Z",
     "published": "2026-08-11T14:41Z"
   },
   {
     "url": "https://writeodd.bearblog.dev/appxnjam/",
     "title": "The Appx N Jam, Community, my Top10 entries",
     "author": "https://writeodd.bearblog.dev",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-08-11T18:01:17.133Z",
-    "last_updated": "2026-08-11T18:01:17.133Z",
+    "last_updated": "2026-08-11T20:00:25.766Z",
     "published": "2026-08-11T13:44Z"
+  },
+  {
+    "url": "https://againstthecultofthecommodity.bearblog.dev/odd-ocean-dd-surface-reflections/",
+    "title": "OD&D [Ocean D&D] - Surface Reflections",
+    "author": "https://againstthecultofthecommodity.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-08-11T20:00:25.766Z",
+    "last_updated": "2026-08-11T20:00:25.766Z",
+    "published": "2026-08-11T19:10Z"
   }
 ]
