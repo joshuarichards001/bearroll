@@ -3,9 +3,9 @@
     "url": "https://blahg.online/be-a-body/",
     "title": "be a body",
     "author": "https://blahg.online",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-08-11T07:12:23.133Z",
-    "last_updated": "2026-08-11T13:12:25.151Z",
+    "last_updated": "2026-08-11T21:51:55.318Z",
     "published": "2026-08-11T03:05Z"
   },
   {
@@ -66,27 +66,27 @@
     "url": "https://peelingtheonion.bearblog.dev/im-discoverable-now/",
     "title": "i'm discoverable now!",
     "author": "https://peelingtheonion.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-08-11T18:01:17.133Z",
-    "last_updated": "2026-08-11T20:00:25.766Z",
+    "last_updated": "2026-08-11T21:51:55.318Z",
     "published": "2026-08-11T15:44Z"
   },
   {
     "url": "https://futureperfect.bearblog.dev/tabbed-content-for-your-blog/",
     "title": "Tabbed content for your blog",
     "author": "https://futureperfect.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-08-11T18:01:17.133Z",
-    "last_updated": "2026-08-11T20:00:25.766Z",
+    "last_updated": "2026-08-11T21:51:55.318Z",
     "published": "2026-08-11T14:41Z"
   },
   {
     "url": "https://writeodd.bearblog.dev/appxnjam/",
     "title": "The Appx N Jam, Community, my Top10 entries",
     "author": "https://writeodd.bearblog.dev",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-08-11T18:01:17.133Z",
-    "last_updated": "2026-08-11T20:00:25.766Z",
+    "last_updated": "2026-08-11T21:51:55.318Z",
     "published": "2026-08-11T13:44Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-08-11T20:00:25.766Z",
     "last_updated": "2026-08-11T20:00:25.766Z",
     "published": "2026-08-11T19:10Z"
+  },
+  {
+    "url": "https://householderkarl.com/vaporwave-is-dead-long-live-vaporwave/",
+    "title": "Vaporwave is Dead, Long Live Vaporwave",
+    "author": "https://householderkarl.com",
+    "toasts": 17,
+    "first_seen": "2026-08-11T21:51:55.318Z",
+    "last_updated": "2026-08-11T21:51:55.318Z",
+    "published": "2026-08-11T20:23Z"
   }
 ]
