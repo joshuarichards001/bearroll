@@ -21,9 +21,9 @@
     "url": "https://forsomeone.bearblog.dev/are-you-a-dragonfly-now/",
     "title": "Are you a dragonfly now?",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 41,
+    "toasts": 42,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-11T03:50:54.362Z",
+    "last_updated": "2026-08-11T05:12:21.168Z",
     "published": "2026-08-10T04:36Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://onlinegoddess.net/2026/08/dont-lock-user-data-behind-paywalls/",
     "title": "Don’t Lock User Data Behind Paywalls",
     "author": "https://onlinegoddess.net",
-    "toasts": 32,
+    "toasts": 34,
     "first_seen": "2026-08-10T13:15:15.799Z",
-    "last_updated": "2026-08-11T03:50:54.362Z",
+    "last_updated": "2026-08-11T05:12:21.168Z",
     "published": "2026-08-10T10:54Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://phunky.cafe/my-homelab-got-hacked/",
     "title": "My Homelab Got Hacked - A Postmortem",
     "author": "https://phunky.cafe",
-    "toasts": 23,
+    "toasts": 25,
     "first_seen": "2026-08-10T21:44:14.799Z",
-    "last_updated": "2026-08-11T03:50:54.362Z",
+    "last_updated": "2026-08-11T05:12:21.168Z",
     "published": "2026-08-10T17:54Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://notes.jeddacp.com/if-you-see-a-dragonfly/",
     "title": "If You See a Dragonfly",
     "author": "https://notes.jeddacp.com",
-    "toasts": 19,
+    "toasts": 20,
     "first_seen": "2026-08-10T23:37:44.265Z",
-    "last_updated": "2026-08-11T03:50:54.362Z",
+    "last_updated": "2026-08-11T05:12:21.168Z",
     "published": "2026-08-10T22:00Z"
   },
   {
@@ -196,5 +196,14 @@
     "first_seen": "2026-08-11T01:57:49.200Z",
     "last_updated": "2026-08-11T01:57:49.200Z",
     "published": "2026-08-10T17:16Z"
+  },
+  {
+    "url": "https://idcrisisangel.ca/suicide-enthusiast/",
+    "title": "suicide enthusiast",
+    "author": "https://idcrisisangel.ca",
+    "toasts": 6,
+    "first_seen": "2026-08-11T05:12:21.168Z",
+    "last_updated": "2026-08-11T05:12:21.168Z",
+    "published": "2026-08-10T22:05Z"
   }
 ]
