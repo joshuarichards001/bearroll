@@ -39,18 +39,18 @@
     "url": "https://blog.lauramichet.com/big-walk-is-really-good/",
     "title": "Big Walk is really good",
     "author": "https://blog.lauramichet.com",
-    "toasts": 41,
+    "toasts": 42,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-12T08:20:14.220Z",
+    "last_updated": "2026-08-12T14:59:57.426Z",
     "published": "2026-08-10T04:40Z"
   },
   {
     "url": "https://woolgathering.bearblog.dev/thoughts-in-orbit/",
     "title": "thoughts in orbit",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 19,
+    "toasts": 20,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-12T10:09:30.843Z",
+    "last_updated": "2026-08-12T14:59:57.426Z",
     "published": "2026-08-10T06:37Z"
   },
   {
@@ -102,18 +102,18 @@
     "url": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
     "title": "Defending my own brain against enshittification",
     "author": "https://mrmarket.lol",
-    "toasts": 176,
+    "toasts": 178,
     "first_seen": "2026-08-10T15:01:03.301Z",
-    "last_updated": "2026-08-12T13:16:12.549Z",
+    "last_updated": "2026-08-12T14:59:57.426Z",
     "published": "2026-08-10T11:40Z"
   },
   {
     "url": "https://myrkvi.no/ai-the-devil-on-my-shoulder/",
     "title": "AI: The Devil on My Shoulder",
     "author": "https://myrkvi.no",
-    "toasts": 113,
+    "toasts": 114,
     "first_seen": "2026-08-10T17:54:01.604Z",
-    "last_updated": "2026-08-12T13:16:12.549Z",
+    "last_updated": "2026-08-12T14:59:57.426Z",
     "published": "2026-08-10T17:23Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://phunky.cafe/my-homelab-got-hacked/",
     "title": "My Homelab Got Hacked - A Postmortem",
     "author": "https://phunky.cafe",
-    "toasts": 54,
+    "toasts": 57,
     "first_seen": "2026-08-10T21:44:14.799Z",
-    "last_updated": "2026-08-12T13:16:12.549Z",
+    "last_updated": "2026-08-12T14:59:57.426Z",
     "published": "2026-08-10T17:54Z"
   },
   {
@@ -246,9 +246,9 @@
     "url": "https://brettcodes.com/im-done-using-ai/",
     "title": "I'm done using AI",
     "author": "https://brettcodes.com",
-    "toasts": 117,
+    "toasts": 148,
     "first_seen": "2026-08-12T04:49:25.236Z",
-    "last_updated": "2026-08-12T13:16:12.549Z",
+    "last_updated": "2026-08-12T14:59:57.426Z",
     "published": "2026-08-10T12:33Z"
   }
 ]
