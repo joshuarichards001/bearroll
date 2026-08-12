@@ -57,9 +57,9 @@
     "url": "https://tiramisu.bearblog.dev/julieta-venegas/",
     "title": "julieta venegas en vivo",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-10T13:15:15.799Z",
+    "last_updated": "2026-08-12T16:05:15.840Z",
     "published": "2026-08-10T04:00Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://phunky.cafe/my-homelab-got-hacked/",
     "title": "My Homelab Got Hacked - A Postmortem",
     "author": "https://phunky.cafe",
-    "toasts": 57,
+    "toasts": 58,
     "first_seen": "2026-08-10T21:44:14.799Z",
-    "last_updated": "2026-08-12T14:59:57.426Z",
+    "last_updated": "2026-08-12T16:05:15.840Z",
     "published": "2026-08-10T17:54Z"
   },
   {
@@ -246,9 +246,9 @@
     "url": "https://brettcodes.com/im-done-using-ai/",
     "title": "I'm done using AI",
     "author": "https://brettcodes.com",
-    "toasts": 148,
+    "toasts": 164,
     "first_seen": "2026-08-12T04:49:25.236Z",
-    "last_updated": "2026-08-12T14:59:57.426Z",
+    "last_updated": "2026-08-12T16:05:15.840Z",
     "published": "2026-08-10T12:33Z"
   }
 ]
