@@ -48,36 +48,36 @@
     "url": "https://explorator.dev/death-taxes-and-enshittification/",
     "title": "Death, Taxes and Enshittification",
     "author": "https://explorator.dev",
-    "toasts": 32,
+    "toasts": 33,
     "first_seen": "2026-08-11T15:00:58.900Z",
-    "last_updated": "2026-08-13T19:14:44.972Z",
+    "last_updated": "2026-08-13T20:47:51.574Z",
     "published": "2026-08-11T11:42Z"
   },
   {
     "url": "https://thecynicalnerd.bearblog.dev/please-consider-using-bartholmew-to-defend-your-systems/",
     "title": "Please consider using Bartholomew to defend your systems.",
     "author": "https://thecynicalnerd.bearblog.dev",
-    "toasts": 40,
+    "toasts": 41,
     "first_seen": "2026-08-11T16:59:26.311Z",
-    "last_updated": "2026-08-13T17:59:08.890Z",
+    "last_updated": "2026-08-13T20:47:51.574Z",
     "published": "2026-08-11T13:33Z"
   },
   {
     "url": "https://peelingtheonion.bearblog.dev/im-discoverable-now/",
     "title": "i'm discoverable now!",
     "author": "https://peelingtheonion.bearblog.dev",
-    "toasts": 64,
+    "toasts": 65,
     "first_seen": "2026-08-11T18:01:17.133Z",
-    "last_updated": "2026-08-13T19:14:44.972Z",
+    "last_updated": "2026-08-13T20:47:51.574Z",
     "published": "2026-08-11T15:44Z"
   },
   {
     "url": "https://futureperfect.bearblog.dev/tabbed-content-for-your-blog/",
     "title": "Tabbed content for your blog",
     "author": "https://futureperfect.bearblog.dev",
-    "toasts": 44,
+    "toasts": 45,
     "first_seen": "2026-08-11T18:01:17.133Z",
-    "last_updated": "2026-08-13T16:05:33.722Z",
+    "last_updated": "2026-08-13T20:47:51.574Z",
     "published": "2026-08-11T14:41Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-08-13T17:59:08.890Z",
     "last_updated": "2026-08-13T17:59:08.890Z",
     "published": "2026-08-11T23:19Z"
+  },
+  {
+    "url": "https://blogdoth.bearblog.dev/otario/",
+    "title": "Otário",
+    "author": "https://blogdoth.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-08-13T20:47:51.574Z",
+    "last_updated": "2026-08-13T20:47:51.574Z",
+    "published": "2026-08-11T15:01Z"
   }
 ]

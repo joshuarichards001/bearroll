@@ -138,9 +138,9 @@
     "url": "https://phunky.cafe/my-homelab-got-hacked/",
     "title": "My Homelab Got Hacked - A Postmortem",
     "author": "https://phunky.cafe",
-    "toasts": 80,
+    "toasts": 81,
     "first_seen": "2026-08-10T21:44:14.799Z",
-    "last_updated": "2026-08-13T17:59:08.890Z",
+    "last_updated": "2026-08-13T20:47:51.574Z",
     "published": "2026-08-10T17:54Z"
   },
   {
@@ -183,9 +183,9 @@
     "url": "https://itsme.bearblog.dev/when-free-is-not-free/",
     "title": "When \"free\" is not free",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 45,
+    "toasts": 46,
     "first_seen": "2026-08-11T01:57:49.200Z",
-    "last_updated": "2026-08-13T08:23:05.072Z",
+    "last_updated": "2026-08-13T20:47:51.574Z",
     "published": "2026-08-10T20:42Z"
   },
   {
@@ -246,9 +246,9 @@
     "url": "https://brettcodes.com/im-done-using-ai/",
     "title": "I'm done using AI",
     "author": "https://brettcodes.com",
-    "toasts": 526,
+    "toasts": 545,
     "first_seen": "2026-08-12T04:49:25.236Z",
-    "last_updated": "2026-08-13T19:14:44.972Z",
+    "last_updated": "2026-08-13T20:47:51.574Z",
     "published": "2026-08-10T12:33Z"
   }
 ]
