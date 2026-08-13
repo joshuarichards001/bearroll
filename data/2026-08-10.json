@@ -48,9 +48,9 @@
     "url": "https://woolgathering.bearblog.dev/thoughts-in-orbit/",
     "title": "thoughts in orbit",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-08-10T08:41:00.819Z",
-    "last_updated": "2026-08-13T02:12:47.919Z",
+    "last_updated": "2026-08-13T21:49:53.279Z",
     "published": "2026-08-10T06:37Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://phunky.cafe/my-homelab-got-hacked/",
     "title": "My Homelab Got Hacked - A Postmortem",
     "author": "https://phunky.cafe",
-    "toasts": 81,
+    "toasts": 82,
     "first_seen": "2026-08-10T21:44:14.799Z",
-    "last_updated": "2026-08-13T20:47:51.574Z",
+    "last_updated": "2026-08-13T21:49:53.279Z",
     "published": "2026-08-10T17:54Z"
   },
   {
@@ -246,9 +246,9 @@
     "url": "https://brettcodes.com/im-done-using-ai/",
     "title": "I'm done using AI",
     "author": "https://brettcodes.com",
-    "toasts": 545,
+    "toasts": 552,
     "first_seen": "2026-08-12T04:49:25.236Z",
-    "last_updated": "2026-08-13T20:47:51.574Z",
+    "last_updated": "2026-08-13T21:49:53.279Z",
     "published": "2026-08-10T12:33Z"
   }
 ]
