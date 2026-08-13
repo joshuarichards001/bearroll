@@ -3,9 +3,9 @@
     "url": "https://blahg.online/be-a-body/",
     "title": "be a body",
     "author": "https://blahg.online",
-    "toasts": 40,
+    "toasts": 41,
     "first_seen": "2026-08-11T07:12:23.133Z",
-    "last_updated": "2026-08-13T15:00:13.438Z",
+    "last_updated": "2026-08-13T17:59:08.890Z",
     "published": "2026-08-11T03:05Z"
   },
   {
@@ -21,18 +21,18 @@
     "url": "https://lost-number.bearblog.dev/aus-breaches-not-beaches/",
     "title": "Australia: Famous for its breaches not beaches",
     "author": "https://lost-number.bearblog.dev",
-    "toasts": 32,
+    "toasts": 33,
     "first_seen": "2026-08-11T09:01:08.408Z",
-    "last_updated": "2026-08-13T15:00:13.438Z",
+    "last_updated": "2026-08-13T17:59:08.890Z",
     "published": "2026-08-11T06:04Z"
   },
   {
     "url": "https://blog.lauramichet.com/rewatched-the-story-of-yangawas-canals/",
     "title": "Rewatched The Story of Yangawa's Canals",
     "author": "https://blog.lauramichet.com",
-    "toasts": 37,
+    "toasts": 38,
     "first_seen": "2026-08-11T09:01:08.408Z",
-    "last_updated": "2026-08-13T16:05:33.722Z",
+    "last_updated": "2026-08-13T17:59:08.890Z",
     "published": "2026-08-11T06:48Z"
   },
   {
@@ -57,18 +57,18 @@
     "url": "https://thecynicalnerd.bearblog.dev/please-consider-using-bartholmew-to-defend-your-systems/",
     "title": "Please consider using Bartholomew to defend your systems.",
     "author": "https://thecynicalnerd.bearblog.dev",
-    "toasts": 39,
+    "toasts": 40,
     "first_seen": "2026-08-11T16:59:26.311Z",
-    "last_updated": "2026-08-13T15:00:13.438Z",
+    "last_updated": "2026-08-13T17:59:08.890Z",
     "published": "2026-08-11T13:33Z"
   },
   {
     "url": "https://peelingtheonion.bearblog.dev/im-discoverable-now/",
     "title": "i'm discoverable now!",
     "author": "https://peelingtheonion.bearblog.dev",
-    "toasts": 58,
+    "toasts": 62,
     "first_seen": "2026-08-11T18:01:17.133Z",
-    "last_updated": "2026-08-13T16:05:33.722Z",
+    "last_updated": "2026-08-13T17:59:08.890Z",
     "published": "2026-08-11T15:44Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://householderkarl.com/vaporwave-is-dead-long-live-vaporwave/",
     "title": "Vaporwave is Dead, Long Live Vaporwave",
     "author": "https://householderkarl.com",
-    "toasts": 65,
+    "toasts": 67,
     "first_seen": "2026-08-11T21:51:55.318Z",
-    "last_updated": "2026-08-13T15:00:13.438Z",
+    "last_updated": "2026-08-13T17:59:08.890Z",
     "published": "2026-08-11T20:23Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-08-13T15:00:13.438Z",
     "last_updated": "2026-08-13T15:00:13.438Z",
     "published": "2026-08-11T19:50Z"
+  },
+  {
+    "url": "https://annahamilton.art/the-death-of-reciprocity-in-the-pleasure-of-your-hands/",
+    "title": "the death of reciprocity in the pleasure of your hands",
+    "author": "https://annahamilton.art",
+    "toasts": 9,
+    "first_seen": "2026-08-13T17:59:08.890Z",
+    "last_updated": "2026-08-13T17:59:08.890Z",
+    "published": "2026-08-11T23:19Z"
   }
 ]
