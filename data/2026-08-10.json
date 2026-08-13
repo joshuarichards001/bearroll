@@ -138,9 +138,9 @@
     "url": "https://phunky.cafe/my-homelab-got-hacked/",
     "title": "My Homelab Got Hacked - A Postmortem",
     "author": "https://phunky.cafe",
-    "toasts": 62,
+    "toasts": 65,
     "first_seen": "2026-08-10T21:44:14.799Z",
-    "last_updated": "2026-08-13T02:12:47.919Z",
+    "last_updated": "2026-08-13T06:18:38.731Z",
     "published": "2026-08-10T17:54Z"
   },
   {
@@ -246,9 +246,9 @@
     "url": "https://brettcodes.com/im-done-using-ai/",
     "title": "I'm done using AI",
     "author": "https://brettcodes.com",
-    "toasts": 345,
+    "toasts": 368,
     "first_seen": "2026-08-12T04:49:25.236Z",
-    "last_updated": "2026-08-13T04:53:07.794Z",
+    "last_updated": "2026-08-13T06:18:38.731Z",
     "published": "2026-08-10T12:33Z"
   }
 ]
