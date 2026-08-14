@@ -30,9 +30,9 @@
     "url": "https://gorgonbones.bearblog.dev/animal-reincarnation-table/",
     "title": "Animal Reincarnation Table",
     "author": "https://gorgonbones.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-08-14T08:18:09.182Z",
-    "last_updated": "2026-08-14T14:54:17.840Z",
+    "last_updated": "2026-08-14T19:02:40.033Z",
     "published": "2026-08-14T05:43Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/",
     "title": "The Phone Features I Can't Believe We Don't Have",
     "author": "https://curvise.net",
-    "toasts": 27,
+    "toasts": 28,
     "first_seen": "2026-08-14T10:05:38.447Z",
-    "last_updated": "2026-08-14T17:56:36.639Z",
+    "last_updated": "2026-08-14T19:02:40.033Z",
     "published": "2026-08-14T03:36Z"
   },
   {
@@ -75,9 +75,18 @@
     "url": "https://combatdavey.net/august-13-2026/",
     "title": "august 13 vhs",
     "author": "https://combatdavey.net",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-14T17:56:36.639Z",
-    "last_updated": "2026-08-14T17:56:36.639Z",
+    "last_updated": "2026-08-14T19:02:40.033Z",
     "published": "2026-08-14T03:58Z"
+  },
+  {
+    "url": "https://shoujo.gay/mixtape-a-postmortem/",
+    "title": "MixTape: A Postmortem",
+    "author": "https://shoujo.gay",
+    "toasts": 8,
+    "first_seen": "2026-08-14T19:02:40.033Z",
+    "last_updated": "2026-08-14T19:02:40.033Z",
+    "published": "2026-08-14T17:14Z"
   }
 ]
