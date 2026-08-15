@@ -48,9 +48,9 @@
     "url": "https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/",
     "title": "The Phone Features I Can't Believe We Don't Have",
     "author": "https://curvise.net",
-    "toasts": 39,
+    "toasts": 40,
     "first_seen": "2026-08-14T10:05:38.447Z",
-    "last_updated": "2026-08-15T16:27:52.355Z",
+    "last_updated": "2026-08-15T17:22:55.974Z",
     "published": "2026-08-14T03:36Z"
   },
   {
@@ -84,18 +84,18 @@
     "url": "https://shoujo.gay/mixtape-a-postmortem/",
     "title": "MixTape: A Postmortem",
     "author": "https://shoujo.gay",
-    "toasts": 30,
+    "toasts": 31,
     "first_seen": "2026-08-14T19:02:40.033Z",
-    "last_updated": "2026-08-15T14:25:35.318Z",
+    "last_updated": "2026-08-15T17:22:55.974Z",
     "published": "2026-08-14T17:14Z"
   },
   {
     "url": "https://blog.curiousquail.com/where-do-you-draw-the-ai-line/",
     "title": "Where do YOU draw the AI line?",
     "author": "https://blog.curiousquail.com",
-    "toasts": 89,
+    "toasts": 90,
     "first_seen": "2026-08-14T20:34:06.114Z",
-    "last_updated": "2026-08-15T14:25:35.318Z",
+    "last_updated": "2026-08-15T17:22:55.974Z",
     "published": "2026-08-14T14:42Z"
   },
   {
@@ -120,18 +120,18 @@
     "url": "https://sweaterpockets.bearblog.dev/enough-ai-scrapping/",
     "title": "Enough AI Scrapping!",
     "author": "https://sweaterpockets.bearblog.dev",
-    "toasts": 64,
+    "toasts": 67,
     "first_seen": "2026-08-14T22:26:18.682Z",
-    "last_updated": "2026-08-15T14:25:35.318Z",
+    "last_updated": "2026-08-15T17:22:55.974Z",
     "published": "2026-08-14T21:27Z"
   },
   {
     "url": "https://metanomad.blog/social-mirroring/",
     "title": "Social Media is Mirroring Itself Out",
     "author": "https://metanomad.blog",
-    "toasts": 54,
+    "toasts": 55,
     "first_seen": "2026-08-14T23:24:44.211Z",
-    "last_updated": "2026-08-15T15:23:48.501Z",
+    "last_updated": "2026-08-15T17:22:55.974Z",
     "published": "2026-08-14T18:37Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://peelingtheonion.bearblog.dev/remember-me-kindly/",
     "title": "remember me kindly",
     "author": "https://peelingtheonion.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-08-15T03:41:29.023Z",
-    "last_updated": "2026-08-15T04:34:22.654Z",
+    "last_updated": "2026-08-15T17:22:55.974Z",
     "published": "2026-08-14T15:48Z"
   },
   {
@@ -214,5 +214,14 @@
     "first_seen": "2026-08-15T10:25:40.514Z",
     "last_updated": "2026-08-15T10:25:40.514Z",
     "published": "2026-08-14T22:37Z"
+  },
+  {
+    "url": "https://tadaima.bearblog.dev/its-a-wrap/",
+    "title": "It's a wrap",
+    "author": "https://tadaima.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-08-15T17:22:55.974Z",
+    "last_updated": "2026-08-15T17:22:55.974Z",
+    "published": "2026-08-14T21:32Z"
   }
 ]
