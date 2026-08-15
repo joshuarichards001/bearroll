@@ -12,18 +12,18 @@
     "url": "https://defjuan.bearblog.dev/ai-halted-a-budding-friendship/",
     "title": "AI halted a budding friendship.",
     "author": "https://defjuan.bearblog.dev",
-    "toasts": 62,
+    "toasts": 76,
     "first_seen": "2026-08-14T08:18:09.182Z",
-    "last_updated": "2026-08-14T23:24:44.211Z",
+    "last_updated": "2026-08-15T01:23:35.342Z",
     "published": "2026-08-14T07:03Z"
   },
   {
     "url": "https://notes.jeddacp.com/stop-its-art/",
     "title": "Stop, It's Art!",
     "author": "https://notes.jeddacp.com",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-08-14T08:18:09.182Z",
-    "last_updated": "2026-08-14T22:26:18.682Z",
+    "last_updated": "2026-08-15T01:23:35.342Z",
     "published": "2026-08-14T03:40Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://icyti.me/i-feel-like-the-last-sane-person-left/",
     "title": "i feel like the last sane person left",
     "author": "https://icyti.me",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-08-14T08:18:09.182Z",
-    "last_updated": "2026-08-14T22:26:18.682Z",
+    "last_updated": "2026-08-15T01:23:35.342Z",
     "published": "2026-08-14T03:54Z"
   },
   {
@@ -75,63 +75,72 @@
     "url": "https://combatdavey.net/august-13-2026/",
     "title": "august 13 vhs",
     "author": "https://combatdavey.net",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-08-14T17:56:36.639Z",
-    "last_updated": "2026-08-14T20:34:06.114Z",
+    "last_updated": "2026-08-15T01:23:35.342Z",
     "published": "2026-08-14T03:58Z"
   },
   {
     "url": "https://shoujo.gay/mixtape-a-postmortem/",
     "title": "MixTape: A Postmortem",
     "author": "https://shoujo.gay",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-14T19:02:40.033Z",
-    "last_updated": "2026-08-14T21:27:53.290Z",
+    "last_updated": "2026-08-15T01:23:35.342Z",
     "published": "2026-08-14T17:14Z"
   },
   {
     "url": "https://blog.curiousquail.com/where-do-you-draw-the-ai-line/",
     "title": "Where do YOU draw the AI line?",
     "author": "https://blog.curiousquail.com",
-    "toasts": 42,
+    "toasts": 61,
     "first_seen": "2026-08-14T20:34:06.114Z",
-    "last_updated": "2026-08-14T23:24:44.211Z",
+    "last_updated": "2026-08-15T01:23:35.342Z",
     "published": "2026-08-14T14:42Z"
   },
   {
     "url": "https://rnotte.art/alright-we-get-it-llms-suck/",
     "title": "alright, we get it, LLMs suck",
     "author": "https://rnotte.art",
-    "toasts": 23,
+    "toasts": 27,
     "first_seen": "2026-08-14T20:34:06.114Z",
-    "last_updated": "2026-08-14T23:24:44.211Z",
+    "last_updated": "2026-08-15T01:23:35.342Z",
     "published": "2026-08-14T16:45Z"
   },
   {
     "url": "https://robertbirming.com/hedgehog-week/",
     "title": "Hedgehog Week",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-14T20:34:06.114Z",
-    "last_updated": "2026-08-14T20:34:06.114Z",
+    "last_updated": "2026-08-15T01:23:35.342Z",
     "published": "2026-08-14T16:03Z"
   },
   {
     "url": "https://sweaterpockets.bearblog.dev/enough-ai-scrapping/",
     "title": "Enough AI Scrapping!",
     "author": "https://sweaterpockets.bearblog.dev",
-    "toasts": 13,
+    "toasts": 35,
     "first_seen": "2026-08-14T22:26:18.682Z",
-    "last_updated": "2026-08-14T23:24:44.211Z",
+    "last_updated": "2026-08-15T01:23:35.342Z",
     "published": "2026-08-14T21:27Z"
   },
   {
     "url": "https://metanomad.blog/social-mirroring/",
     "title": "Social Media is Mirroring Itself Out",
     "author": "https://metanomad.blog",
-    "toasts": 7,
+    "toasts": 23,
     "first_seen": "2026-08-14T23:24:44.211Z",
-    "last_updated": "2026-08-14T23:24:44.211Z",
+    "last_updated": "2026-08-15T01:23:35.342Z",
     "published": "2026-08-14T18:37Z"
+  },
+  {
+    "url": "https://notes.jeddacp.com/cocoa/",
+    "title": "Cocoa",
+    "author": "https://notes.jeddacp.com",
+    "toasts": 7,
+    "first_seen": "2026-08-15T01:23:35.342Z",
+    "last_updated": "2026-08-15T01:23:35.342Z",
+    "published": "2026-08-14T22:42Z"
   }
 ]
