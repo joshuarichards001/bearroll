@@ -84,9 +84,9 @@
     "url": "https://shoujo.gay/mixtape-a-postmortem/",
     "title": "MixTape: A Postmortem",
     "author": "https://shoujo.gay",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-08-14T19:02:40.033Z",
-    "last_updated": "2026-08-15T06:42:07.619Z",
+    "last_updated": "2026-08-15T07:33:15.630Z",
     "published": "2026-08-14T17:14Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://robertbirming.com/hedgehog-week/",
     "title": "Hedgehog Week",
     "author": "https://robertbirming.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-14T20:34:06.114Z",
-    "last_updated": "2026-08-15T01:23:35.342Z",
+    "last_updated": "2026-08-15T07:33:15.630Z",
     "published": "2026-08-14T16:03Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://metanomad.blog/social-mirroring/",
     "title": "Social Media is Mirroring Itself Out",
     "author": "https://metanomad.blog",
-    "toasts": 29,
+    "toasts": 31,
     "first_seen": "2026-08-14T23:24:44.211Z",
-    "last_updated": "2026-08-15T06:42:07.619Z",
+    "last_updated": "2026-08-15T07:33:15.630Z",
     "published": "2026-08-14T18:37Z"
   },
   {
@@ -187,5 +187,14 @@
     "first_seen": "2026-08-15T06:42:07.619Z",
     "last_updated": "2026-08-15T06:42:07.619Z",
     "published": "2026-08-14T21:24Z"
+  },
+  {
+    "url": "https://annoflo.net/ingress/",
+    "title": "Ingress: Pokémon Go's weirder, older sibling",
+    "author": "https://annoflo.net",
+    "toasts": 8,
+    "first_seen": "2026-08-15T07:33:15.630Z",
+    "last_updated": "2026-08-15T07:33:15.630Z",
+    "published": "2026-08-14T19:11Z"
   }
 ]
