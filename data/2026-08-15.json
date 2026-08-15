@@ -48,9 +48,9 @@
     "url": "https://atta-thing.bearblog.dev/who-is-art-for/",
     "title": "Who is Art for?",
     "author": "https://atta-thing.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-15T18:33:28.840Z",
-    "last_updated": "2026-08-15T18:33:28.840Z",
+    "last_updated": "2026-08-15T20:25:21.090Z",
     "published": "2026-08-15T17:33Z"
   },
   {
@@ -70,5 +70,14 @@
     "first_seen": "2026-08-15T18:33:28.840Z",
     "last_updated": "2026-08-15T18:33:28.840Z",
     "published": "2026-08-15T09:03Z"
+  },
+  {
+    "url": "https://householderkarl.com/everything-is-suffering/",
+    "title": "Everything Is Suffering",
+    "author": "https://householderkarl.com",
+    "toasts": 7,
+    "first_seen": "2026-08-15T20:25:21.090Z",
+    "last_updated": "2026-08-15T20:25:21.090Z",
+    "published": "2026-08-15T15:32Z"
   }
 ]
