@@ -48,18 +48,18 @@
     "url": "https://atta-thing.bearblog.dev/who-is-art-for/",
     "title": "Who is Art for?",
     "author": "https://atta-thing.bearblog.dev",
-    "toasts": 43,
+    "toasts": 46,
     "first_seen": "2026-08-15T18:33:28.840Z",
-    "last_updated": "2026-08-16T06:43:32.818Z",
+    "last_updated": "2026-08-16T07:33:16.189Z",
     "published": "2026-08-15T17:33Z"
   },
   {
     "url": "https://blog.sulimans.space/i-went-to-germany/",
     "title": "i went to germany!",
     "author": "https://blog.sulimans.space",
-    "toasts": 14,
+    "toasts": 21,
     "first_seen": "2026-08-15T18:33:28.840Z",
-    "last_updated": "2026-08-16T06:43:32.818Z",
+    "last_updated": "2026-08-16T07:33:16.189Z",
     "published": "2026-08-15T15:58Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://householderkarl.com/everything-is-suffering/",
     "title": "Everything Is Suffering",
     "author": "https://householderkarl.com",
-    "toasts": 14,
+    "toasts": 18,
     "first_seen": "2026-08-15T20:25:21.090Z",
-    "last_updated": "2026-08-16T06:43:32.818Z",
+    "last_updated": "2026-08-16T07:33:16.189Z",
     "published": "2026-08-15T15:32Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-08-16T05:31:09.396Z",
     "last_updated": "2026-08-16T05:31:09.396Z",
     "published": "2026-08-15T23:46Z"
+  },
+  {
+    "url": "https://yunzi.co.uk/the-joy-of-a-good-old-device/",
+    "title": "The joy of a good old device",
+    "author": "https://yunzi.co.uk",
+    "toasts": 7,
+    "first_seen": "2026-08-16T07:33:16.189Z",
+    "last_updated": "2026-08-16T07:33:16.189Z",
+    "published": "2026-08-15T20:23Z"
   }
 ]
