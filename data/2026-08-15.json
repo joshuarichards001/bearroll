@@ -3,9 +3,9 @@
     "url": "https://fornoone.bearblog.dev/things-to-do-after-your-dad-dies/",
     "title": "Things to do after your dad dies",
     "author": "https://fornoone.bearblog.dev",
-    "toasts": 33,
+    "toasts": 34,
     "first_seen": "2026-08-15T06:42:07.619Z",
-    "last_updated": "2026-08-15T23:22:38.419Z",
+    "last_updated": "2026-08-16T01:34:40.072Z",
     "published": "2026-08-15T05:12Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://atta-thing.bearblog.dev/who-is-art-for/",
     "title": "Who is Art for?",
     "author": "https://atta-thing.bearblog.dev",
-    "toasts": 21,
+    "toasts": 26,
     "first_seen": "2026-08-15T18:33:28.840Z",
-    "last_updated": "2026-08-15T22:25:11.911Z",
+    "last_updated": "2026-08-16T01:34:40.072Z",
     "published": "2026-08-15T17:33Z"
   },
   {
@@ -97,5 +97,32 @@
     "first_seen": "2026-08-15T23:22:38.419Z",
     "last_updated": "2026-08-15T23:22:38.419Z",
     "published": "2026-08-15T16:49Z"
+  },
+  {
+    "url": "https://rickw.bearblog.dev/sold/",
+    "title": "SOLD",
+    "author": "https://rickw.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-08-16T01:34:40.072Z",
+    "last_updated": "2026-08-16T01:34:40.072Z",
+    "published": "2026-08-15T21:51Z"
+  },
+  {
+    "url": "https://virtualdream.bearblog.dev/no-lo-llames-journaling-llamalo-diario/",
+    "title": "es el año de empezar a escribir",
+    "author": "https://virtualdream.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-08-16T01:34:40.072Z",
+    "last_updated": "2026-08-16T01:34:40.072Z",
+    "published": "2026-08-15T19:41Z"
+  },
+  {
+    "url": "https://robertbirming.com/whats-stopping-you/",
+    "title": "What's stopping you?",
+    "author": "https://robertbirming.com",
+    "toasts": 7,
+    "first_seen": "2026-08-16T01:34:40.072Z",
+    "last_updated": "2026-08-16T01:34:40.072Z",
+    "published": "2026-08-15T17:20Z"
   }
 ]
