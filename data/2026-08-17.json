@@ -48,18 +48,18 @@
     "url": "https://chakkie.bearblog.dev/the-elephant/",
     "title": "The Elephant In The Room",
     "author": "https://chakkie.bearblog.dev",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-08-17T14:30:38.045Z",
-    "last_updated": "2026-08-17T21:28:18.557Z",
+    "last_updated": "2026-08-17T22:27:23.988Z",
     "published": "2026-08-17T13:17Z"
   },
   {
     "url": "https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/",
     "title": "GitHub Has an Availability Problem. Is It Time to Look Elsewhere?",
     "author": "https://dhruv2038.bearblog.dev",
-    "toasts": 59,
+    "toasts": 61,
     "first_seen": "2026-08-17T17:28:55.071Z",
-    "last_updated": "2026-08-17T21:28:18.557Z",
+    "last_updated": "2026-08-17T22:27:23.988Z",
     "published": "2026-08-17T16:25Z"
   },
   {
@@ -84,9 +84,18 @@
     "url": "https://exomonstruo.net/i-dont-want-to-add-the-badge/",
     "title": "I don't want to add the badge",
     "author": "https://exomonstruo.net",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-17T21:28:18.557Z",
-    "last_updated": "2026-08-17T21:28:18.557Z",
+    "last_updated": "2026-08-17T22:27:23.988Z",
     "published": "2026-08-17T18:02Z"
+  },
+  {
+    "url": "https://toska.bearblog.dev/when-does-a-good-idea-become-a-bad-one/",
+    "title": "When does a good idea become a bad one?",
+    "author": "https://toska.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-08-17T22:27:23.988Z",
+    "last_updated": "2026-08-17T22:27:23.988Z",
+    "published": "2026-08-17T06:33Z"
   }
 ]
