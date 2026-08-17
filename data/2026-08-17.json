@@ -48,36 +48,45 @@
     "url": "https://chakkie.bearblog.dev/the-elephant/",
     "title": "The Elephant In The Room",
     "author": "https://chakkie.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-08-17T14:30:38.045Z",
-    "last_updated": "2026-08-17T19:30:15.689Z",
+    "last_updated": "2026-08-17T21:28:18.557Z",
     "published": "2026-08-17T13:17Z"
   },
   {
     "url": "https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/",
     "title": "GitHub Has an Availability Problem. Is It Time to Look Elsewhere?",
     "author": "https://dhruv2038.bearblog.dev",
-    "toasts": 56,
+    "toasts": 59,
     "first_seen": "2026-08-17T17:28:55.071Z",
-    "last_updated": "2026-08-17T20:29:54.582Z",
+    "last_updated": "2026-08-17T21:28:18.557Z",
     "published": "2026-08-17T16:25Z"
   },
   {
     "url": "https://blog.absurdpirate.com/rethings-to-do-after-your-dad-dies/",
     "title": "re:Things to do after your dad dies",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 19,
+    "toasts": 23,
     "first_seen": "2026-08-17T18:42:59.743Z",
-    "last_updated": "2026-08-17T20:29:54.582Z",
+    "last_updated": "2026-08-17T21:28:18.557Z",
     "published": "2026-08-17T15:27Z"
   },
   {
     "url": "https://robertbirming.com/look-how-far-youve-come/",
     "title": "Look how far you’ve come",
     "author": "https://robertbirming.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-17T19:30:15.689Z",
-    "last_updated": "2026-08-17T19:30:15.689Z",
+    "last_updated": "2026-08-17T21:28:18.557Z",
     "published": "2026-08-17T16:30Z"
+  },
+  {
+    "url": "https://exomonstruo.net/i-dont-want-to-add-the-badge/",
+    "title": "I don't want to add the badge",
+    "author": "https://exomonstruo.net",
+    "toasts": 7,
+    "first_seen": "2026-08-17T21:28:18.557Z",
+    "last_updated": "2026-08-17T21:28:18.557Z",
+    "published": "2026-08-17T18:02Z"
   }
 ]
