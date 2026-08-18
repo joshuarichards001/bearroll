@@ -12,9 +12,9 @@
     "url": "https://blog.avas.space/friendships/",
     "title": "thinking about friendships",
     "author": "https://blog.avas.space",
-    "toasts": 20,
+    "toasts": 22,
     "first_seen": "2026-08-18T12:52:02.754Z",
-    "last_updated": "2026-08-18T19:29:35.554Z",
+    "last_updated": "2026-08-18T21:27:10.872Z",
     "published": "2026-08-18T08:29Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://rickw.bearblog.dev/man-do-i-love-bearblog/",
     "title": "Man, Do I Love BearBlog",
     "author": "https://rickw.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-08-18T18:41:31.144Z",
-    "last_updated": "2026-08-18T18:41:31.144Z",
+    "last_updated": "2026-08-18T21:27:10.872Z",
     "published": "2026-08-18T15:39Z"
   },
   {
@@ -43,5 +43,14 @@
     "first_seen": "2026-08-18T20:27:15.065Z",
     "last_updated": "2026-08-18T20:27:15.065Z",
     "published": "2026-08-18T15:47Z"
+  },
+  {
+    "url": "https://robertbirming.com/pour-your-words-out/",
+    "title": "Pour your words out",
+    "author": "https://robertbirming.com",
+    "toasts": 6,
+    "first_seen": "2026-08-18T21:27:10.872Z",
+    "last_updated": "2026-08-18T21:27:10.872Z",
+    "published": "2026-08-18T15:59Z"
   }
 ]
