@@ -21,9 +21,9 @@
     "url": "https://thecynicalnerd.bearblog.dev/the-transparency-report-was-an-airtag/",
     "title": "The Transparency Report Was an AirTag",
     "author": "https://thecynicalnerd.bearblog.dev",
-    "toasts": 30,
+    "toasts": 33,
     "first_seen": "2026-08-18T15:34:43.195Z",
-    "last_updated": "2026-08-18T19:29:35.554Z",
+    "last_updated": "2026-08-18T20:27:15.065Z",
     "published": "2026-08-18T13:43Z"
   },
   {
@@ -34,5 +34,14 @@
     "first_seen": "2026-08-18T18:41:31.144Z",
     "last_updated": "2026-08-18T18:41:31.144Z",
     "published": "2026-08-18T15:39Z"
+  },
+  {
+    "url": "https://nate.spot/short-story-in-five-sentences/",
+    "title": "How to write a short story in five sentences",
+    "author": "https://nate.spot",
+    "toasts": 6,
+    "first_seen": "2026-08-18T20:27:15.065Z",
+    "last_updated": "2026-08-18T20:27:15.065Z",
+    "published": "2026-08-18T15:47Z"
   }
 ]
