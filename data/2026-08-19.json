@@ -57,9 +57,9 @@
     "url": "https://rocketcapsule.bearblog.dev/where-did-my-friends-go/",
     "title": "Where did my friends go?",
     "author": "https://rocketcapsule.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-19T13:47:05.807Z",
-    "last_updated": "2026-08-19T13:47:05.807Z",
+    "last_updated": "2026-08-20T01:23:29.777Z",
     "published": "2026-08-19T03:59Z"
   },
   {
@@ -75,18 +75,27 @@
     "url": "https://theliminalmargin.bearblog.dev/make-your-own-damn-story/",
     "title": "Make your own damn story and take a glorious nap",
     "author": "https://theliminalmargin.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-19T17:29:15.265Z",
-    "last_updated": "2026-08-19T17:29:15.265Z",
+    "last_updated": "2026-08-20T01:23:29.777Z",
     "published": "2026-08-19T08:23Z"
   },
   {
     "url": "https://notes.jeddacp.com/showing-post-titles-in-previous-and-next-links/",
     "title": "Showing Post Titles in Previous and Next Links",
     "author": "https://notes.jeddacp.com",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-08-19T18:39:02.088Z",
-    "last_updated": "2026-08-19T23:25:15.937Z",
+    "last_updated": "2026-08-20T01:23:29.777Z",
     "published": "2026-08-19T16:44Z"
+  },
+  {
+    "url": "https://householderkarl.com/my-japanese-comfort-shows/",
+    "title": "My Japanese Comfort Shows",
+    "author": "https://householderkarl.com",
+    "toasts": 8,
+    "first_seen": "2026-08-20T01:23:29.777Z",
+    "last_updated": "2026-08-20T01:23:29.777Z",
+    "published": "2026-08-19T22:00Z"
   }
 ]
