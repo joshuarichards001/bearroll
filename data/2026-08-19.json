@@ -48,9 +48,9 @@
     "url": "https://beingalmost.com/i-did-not-know-i-was-allowed-to-miss-myself/",
     "title": "i did not know i was allowed to miss myself",
     "author": "https://beingalmost.com",
-    "toasts": 25,
+    "toasts": 26,
     "first_seen": "2026-08-19T07:40:38.245Z",
-    "last_updated": "2026-08-20T08:41:23.254Z",
+    "last_updated": "2026-08-20T09:37:23.002Z",
     "published": "2026-08-19T04:05Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://notes.jeddacp.com/showing-post-titles-in-previous-and-next-links/",
     "title": "Showing Post Titles in Previous and Next Links",
     "author": "https://notes.jeddacp.com",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-08-19T18:39:02.088Z",
-    "last_updated": "2026-08-20T08:41:23.254Z",
+    "last_updated": "2026-08-20T09:37:23.002Z",
     "published": "2026-08-19T16:44Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-08-20T01:23:29.777Z",
     "last_updated": "2026-08-20T08:41:23.254Z",
     "published": "2026-08-19T22:00Z"
+  },
+  {
+    "url": "https://paraquemencontrar.bearblog.dev/como-publicar-microposts-no-bear/",
+    "title": "Como publicar microposts no Bear",
+    "author": "https://paraquemencontrar.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-08-20T09:37:23.002Z",
+    "last_updated": "2026-08-20T09:37:23.002Z",
+    "published": "2026-08-19T01:24Z"
   }
 ]
