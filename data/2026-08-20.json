@@ -30,9 +30,9 @@
     "url": "https://forsomeone.bearblog.dev/all-the-things-i-didnt-say-yesterday/",
     "title": "All the things I didn't say yesterday",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 34,
+    "toasts": 39,
     "first_seen": "2026-08-20T11:29:13.082Z",
-    "last_updated": "2026-08-20T15:36:05.539Z",
+    "last_updated": "2026-08-20T16:38:09.340Z",
     "published": "2026-08-20T06:43Z"
   },
   {
@@ -282,9 +282,9 @@
     "url": "https://spindlecrow.bearblog.dev/the-internet-doesnt-feel-safe-anymore/",
     "title": "the internet doesn't feel safe anymore",
     "author": "https://spindlecrow.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-20T12:54:32.610Z",
-    "last_updated": "2026-08-20T12:54:32.610Z",
+    "last_updated": "2026-08-20T16:38:09.340Z",
     "published": "2026-08-20T09:34Z"
   },
   {
@@ -426,9 +426,9 @@
     "url": "https://indieindiesummer.bearblog.dev/fishing-resort-might-be-the-greatest-game-of-all-time/",
     "title": "fishing resort might be the greatest game of all time",
     "author": "https://indieindiesummer.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-20T15:36:05.539Z",
-    "last_updated": "2026-08-20T15:36:05.539Z",
+    "last_updated": "2026-08-20T16:38:09.340Z",
     "published": "2026-08-20T14:54Z"
   },
   {
@@ -484,5 +484,41 @@
     "first_seen": "2026-08-20T15:36:05.539Z",
     "last_updated": "2026-08-20T15:36:05.539Z",
     "published": "2026-08-20T08:32Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/how-to-explain-to-your-readers/",
+    "title": "How to Explain to Your Readers",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-20T16:38:09.340Z",
+    "last_updated": "2026-08-20T16:38:09.340Z",
+    "published": "2026-08-20T16:08Z"
+  },
+  {
+    "url": "https://robertbirming.com/emptiness/",
+    "title": "Emptiness",
+    "author": "https://robertbirming.com",
+    "toasts": 3,
+    "first_seen": "2026-08-20T16:38:09.340Z",
+    "last_updated": "2026-08-20T16:38:09.340Z",
+    "published": "2026-08-20T15:14Z"
+  },
+  {
+    "url": "https://cesence.bearblog.dev/i-bought-a-hyperbaric-chamber-now-im-trying-to-work-out-what-its-actually-doing/",
+    "title": "I Bought a Hyperbaric Chamber. Now I'm Trying to Work Out What It's Actually Doing.",
+    "author": "https://cesence.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-20T16:38:09.340Z",
+    "last_updated": "2026-08-20T16:38:09.340Z",
+    "published": "2026-08-20T13:55Z"
+  },
+  {
+    "url": "https://heyhowdy.blog/process-psychosis/",
+    "title": "Process psychosis",
+    "author": "https://heyhowdy.blog",
+    "toasts": 2,
+    "first_seen": "2026-08-20T16:38:09.340Z",
+    "last_updated": "2026-08-20T16:38:09.340Z",
+    "published": "2026-08-20T14:54Z"
   }
 ]
