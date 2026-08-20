@@ -12,9 +12,9 @@
     "url": "https://reedwrite.org/fitness-boot-camp-at-54/",
     "title": "Fitness Boot Camp at 54",
     "author": "https://reedwrite.org",
-    "toasts": 23,
+    "toasts": 24,
     "first_seen": "2026-08-19T03:00:03.474Z",
-    "last_updated": "2026-08-20T08:41:23.254Z",
+    "last_updated": "2026-08-20T12:54:32.610Z",
     "published": "2026-08-19T01:05Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://beingalmost.com/i-did-not-know-i-was-allowed-to-miss-myself/",
     "title": "i did not know i was allowed to miss myself",
     "author": "https://beingalmost.com",
-    "toasts": 27,
+    "toasts": 29,
     "first_seen": "2026-08-19T07:40:38.245Z",
-    "last_updated": "2026-08-20T10:33:37.566Z",
+    "last_updated": "2026-08-20T12:54:32.610Z",
     "published": "2026-08-19T04:05Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://theliminalmargin.bearblog.dev/make-your-own-damn-story/",
     "title": "Make your own damn story and take a glorious nap",
     "author": "https://theliminalmargin.bearblog.dev",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-08-19T17:29:15.265Z",
-    "last_updated": "2026-08-20T01:23:29.777Z",
+    "last_updated": "2026-08-20T12:54:32.610Z",
     "published": "2026-08-19T08:23Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
     "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
     "author": "https://savvynormie.com",
-    "toasts": 6,
+    "toasts": 9,
     "first_seen": "2026-08-20T11:29:13.082Z",
-    "last_updated": "2026-08-20T11:29:13.082Z",
+    "last_updated": "2026-08-20T12:54:32.610Z",
     "published": "2026-08-19T18:48Z"
   },
   {
@@ -340,5 +340,23 @@
     "first_seen": "2026-08-20T11:29:13.082Z",
     "last_updated": "2026-08-20T11:29:13.082Z",
     "published": "2026-08-19T03:09Z"
+  },
+  {
+    "url": "https://scribblypam.bearblog.dev/i-just-learned-about-geocaching/",
+    "title": "I just learned about geocaching",
+    "author": "https://scribblypam.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-08-20T12:54:32.610Z",
+    "last_updated": "2026-08-20T12:54:32.610Z",
+    "published": "2026-08-19T10:11Z"
+  },
+  {
+    "url": "https://th.blog.br/o-bom-filho-a-casa-torna/",
+    "title": "o bom filho a casa torna",
+    "author": "https://th.blog.br",
+    "toasts": 3,
+    "first_seen": "2026-08-20T12:54:32.610Z",
+    "last_updated": "2026-08-20T12:54:32.610Z",
+    "published": "2026-08-19T18:32Z"
   }
 ]
