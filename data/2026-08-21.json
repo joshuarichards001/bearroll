@@ -30,9 +30,9 @@
     "url": "https://exoduz.bearblog.dev/catatan-kecil-sebelum-meninggalkan-sebuah-tempat/",
     "title": "Catatan Kecil Sebelum Meninggalkan Sebuah Tempat",
     "author": "https://exoduz.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-21T05:35:14.507Z",
-    "last_updated": "2026-08-21T06:51:59.933Z",
+    "last_updated": "2026-08-21T07:45:35.962Z",
     "published": "2026-08-21T04:14Z"
   },
   {
@@ -57,27 +57,27 @@
     "url": "https://blog.lauramichet.com/i-now-play-big-walk-every-thursday/",
     "title": "I now play Big Walk every Thursday",
     "author": "https://blog.lauramichet.com",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-08-21T06:51:59.933Z",
-    "last_updated": "2026-08-21T06:51:59.933Z",
+    "last_updated": "2026-08-21T07:45:35.962Z",
     "published": "2026-08-21T06:14Z"
   },
   {
     "url": "https://jdtorian.com/its-not-a-race-nerd/",
     "title": "It's not a Race, Nerd!",
     "author": "https://jdtorian.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-21T06:51:59.933Z",
-    "last_updated": "2026-08-21T06:51:59.933Z",
+    "last_updated": "2026-08-21T07:45:35.962Z",
     "published": "2026-08-21T05:00Z"
   },
   {
     "url": "https://deadboarder.bearblog.dev/right-person-wrong-time/",
     "title": "right person, wrong time",
     "author": "https://deadboarder.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-21T06:51:59.933Z",
-    "last_updated": "2026-08-21T06:51:59.933Z",
+    "last_updated": "2026-08-21T07:45:35.962Z",
     "published": "2026-08-21T04:38Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://robynbirdblog.bearblog.dev/what-does-my-bearblog-mean-a-reflection/",
     "title": "What does my Bearblog Mean - A reflection",
     "author": "https://robynbirdblog.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-21T06:51:59.933Z",
-    "last_updated": "2026-08-21T06:51:59.933Z",
+    "last_updated": "2026-08-21T07:45:35.962Z",
     "published": "2026-08-21T04:14Z"
   },
   {
@@ -115,5 +115,14 @@
     "first_seen": "2026-08-21T06:51:59.933Z",
     "last_updated": "2026-08-21T06:51:59.933Z",
     "published": "2026-08-21T03:35Z"
+  },
+  {
+    "url": "https://topopa.bearblog.dev/the-public-service-in-france-is-broken/",
+    "title": "The public service in France is broken",
+    "author": "https://topopa.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-21T07:45:35.962Z",
+    "last_updated": "2026-08-21T07:45:35.962Z",
+    "published": "2026-08-21T06:47Z"
   }
 ]
