@@ -12,9 +12,9 @@
     "url": "https://blog.typewritermechanic.com/perfectly-good-typewriter-dead-on-arrival/",
     "title": "five things that make a perfectly good typewriter seem dead on arrival",
     "author": "https://blog.typewritermechanic.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-08-21T03:05:36.465Z",
-    "last_updated": "2026-08-21T06:51:59.933Z",
+    "last_updated": "2026-08-21T09:39:34.980Z",
     "published": "2026-08-21T01:05Z"
   },
   {
@@ -142,5 +142,23 @@
     "first_seen": "2026-08-21T08:43:52.735Z",
     "last_updated": "2026-08-21T08:43:52.735Z",
     "published": "2026-08-21T07:07Z"
+  },
+  {
+    "url": "https://yordi.me/one-perfect-pour/",
+    "title": "One Perfect Pour",
+    "author": "https://yordi.me",
+    "toasts": 2,
+    "first_seen": "2026-08-21T09:39:34.980Z",
+    "last_updated": "2026-08-21T09:39:34.980Z",
+    "published": "2026-08-21T08:46Z"
+  },
+  {
+    "url": "https://liisu-crafts.bearblog.dev/bed-knitting-minimalist-cardigan/",
+    "title": "Bed Knitting: Minimalist Cardigan by Lana Gatto",
+    "author": "https://liisu-crafts.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-21T09:39:34.980Z",
+    "last_updated": "2026-08-21T09:39:34.980Z",
+    "published": "2026-08-21T08:25Z"
   }
 ]

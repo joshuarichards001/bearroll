@@ -30,9 +30,9 @@
     "url": "https://forsomeone.bearblog.dev/all-the-things-i-didnt-say-yesterday/",
     "title": "All the things I didn't say yesterday",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 73,
+    "toasts": 74,
     "first_seen": "2026-08-20T11:29:13.082Z",
-    "last_updated": "2026-08-21T08:43:52.735Z",
+    "last_updated": "2026-08-21T09:39:34.980Z",
     "published": "2026-08-20T06:43Z"
   },
   {
@@ -345,9 +345,9 @@
     "url": "https://liisu-crafts.bearblog.dev/about-me/",
     "title": "About me",
     "author": "https://liisu-crafts.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-20T13:49:48.443Z",
-    "last_updated": "2026-08-21T03:05:36.465Z",
+    "last_updated": "2026-08-21T09:39:34.980Z",
     "published": "2026-08-20T11:59Z"
   },
   {
@@ -651,9 +651,9 @@
     "url": "https://blog.curiousquail.com/freeing-the-studios/",
     "title": "Freeing The Studios",
     "author": "https://blog.curiousquail.com",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-08-20T19:34:07.407Z",
-    "last_updated": "2026-08-21T08:43:52.735Z",
+    "last_updated": "2026-08-21T09:39:34.980Z",
     "published": "2026-08-20T17:29Z"
   },
   {
@@ -862,5 +862,14 @@
     "first_seen": "2026-08-21T04:41:10.852Z",
     "last_updated": "2026-08-21T06:51:59.933Z",
     "published": "2026-08-20T22:58Z"
+  },
+  {
+    "url": "https://puppie.bearblog.dev/048/",
+    "title": "048 - beautiful people",
+    "author": "https://puppie.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-21T09:39:34.980Z",
+    "last_updated": "2026-08-21T09:39:34.980Z",
+    "published": "2026-08-20T18:09Z"
   }
 ]
