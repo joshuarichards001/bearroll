@@ -3,9 +3,9 @@
     "url": "https://sususol.bearblog.dev/things-that-i-think-are-objectively-cool/",
     "title": "things that I think are objectively cool",
     "author": "https://sususol.bearblog.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-08-21T03:05:36.465Z",
-    "last_updated": "2026-08-21T06:51:59.933Z",
+    "last_updated": "2026-08-21T08:43:52.735Z",
     "published": "2026-08-21T00:25Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://blog.8ball.space/what-we-lost-when-search/",
     "title": "What We Lost When Search Stopped Making Us Think",
     "author": "https://blog.8ball.space",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-21T06:51:59.933Z",
-    "last_updated": "2026-08-21T06:51:59.933Z",
+    "last_updated": "2026-08-21T08:43:52.735Z",
     "published": "2026-08-21T02:04Z"
   },
   {
@@ -124,5 +124,23 @@
     "first_seen": "2026-08-21T07:45:35.962Z",
     "last_updated": "2026-08-21T07:45:35.962Z",
     "published": "2026-08-21T06:47Z"
+  },
+  {
+    "url": "https://marcg.net/im-being-radicalised-and-thats-a-good-thing/",
+    "title": "I'm being radicalised and that's a good thing",
+    "author": "https://marcg.net",
+    "toasts": 2,
+    "first_seen": "2026-08-21T08:43:52.735Z",
+    "last_updated": "2026-08-21T08:43:52.735Z",
+    "published": "2026-08-21T07:39Z"
+  },
+  {
+    "url": "https://yelling.bearblog.dev/energy-shifts/",
+    "title": "energy shifts",
+    "author": "https://yelling.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-21T08:43:52.735Z",
+    "last_updated": "2026-08-21T08:43:52.735Z",
+    "published": "2026-08-21T07:07Z"
   }
 ]
