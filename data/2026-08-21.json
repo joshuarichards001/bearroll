@@ -48,18 +48,18 @@
     "url": "https://blog.8ball.space/what-we-lost-when-search/",
     "title": "What We Lost When Search Stopped Making Us Think",
     "author": "https://blog.8ball.space",
-    "toasts": 13,
+    "toasts": 16,
     "first_seen": "2026-08-21T06:51:59.933Z",
-    "last_updated": "2026-08-21T13:48:30.229Z",
+    "last_updated": "2026-08-21T14:38:05.791Z",
     "published": "2026-08-21T02:04Z"
   },
   {
     "url": "https://blog.lauramichet.com/i-now-play-big-walk-every-thursday/",
     "title": "I now play Big Walk every Thursday",
     "author": "https://blog.lauramichet.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-21T06:51:59.933Z",
-    "last_updated": "2026-08-21T07:45:35.962Z",
+    "last_updated": "2026-08-21T14:38:05.791Z",
     "published": "2026-08-21T06:14Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://deadboarder.bearblog.dev/right-person-wrong-time/",
     "title": "right person, wrong time",
     "author": "https://deadboarder.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-21T06:51:59.933Z",
-    "last_updated": "2026-08-21T07:45:35.962Z",
+    "last_updated": "2026-08-21T14:38:05.791Z",
     "published": "2026-08-21T04:38Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://rickw.bearblog.dev/fat/",
     "title": "Fat",
     "author": "https://rickw.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-21T11:29:12.017Z",
-    "last_updated": "2026-08-21T13:48:30.229Z",
+    "last_updated": "2026-08-21T14:38:05.791Z",
     "published": "2026-08-21T09:35Z"
   },
   {
@@ -246,9 +246,9 @@
     "url": "https://sweaterpockets.bearblog.dev/blogging-as-a-private-person/",
     "title": "Blogging As A Private Person",
     "author": "https://sweaterpockets.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-21T13:48:30.229Z",
-    "last_updated": "2026-08-21T13:48:30.229Z",
+    "last_updated": "2026-08-21T14:38:05.791Z",
     "published": "2026-08-21T13:25Z"
   },
   {
@@ -264,9 +264,9 @@
     "url": "https://rocketcapsule.bearblog.dev/is-this-the-way-of-the-world-now-or-can-i-exit/",
     "title": "Is this the way of the world now or can I exit?",
     "author": "https://rocketcapsule.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-08-21T13:48:30.229Z",
-    "last_updated": "2026-08-21T13:48:30.229Z",
+    "last_updated": "2026-08-21T14:38:05.791Z",
     "published": "2026-08-21T11:52Z"
   },
   {
@@ -286,5 +286,23 @@
     "first_seen": "2026-08-21T13:48:30.229Z",
     "last_updated": "2026-08-21T13:48:30.229Z",
     "published": "2026-08-21T10:00Z"
+  },
+  {
+    "url": "https://kalosbonasia.bearblog.dev/calogero-bonasia-il-citofono-dei-narcisisti/",
+    "title": "il citofono dei narcisisti",
+    "author": "https://kalosbonasia.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-21T14:38:05.791Z",
+    "last_updated": "2026-08-21T14:38:05.791Z",
+    "published": "2026-08-21T06:15Z"
+  },
+  {
+    "url": "https://vinceblog.net/2026-08-21/",
+    "title": "Friday",
+    "author": "https://vinceblog.net",
+    "toasts": 2,
+    "first_seen": "2026-08-21T14:38:05.791Z",
+    "last_updated": "2026-08-21T14:38:05.791Z",
+    "published": "2026-08-21T14:31Z"
   }
 ]
