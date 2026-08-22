@@ -30,27 +30,27 @@
     "url": "https://icyti.me/job-hunting-sux/",
     "title": "job hunting sux",
     "author": "https://icyti.me",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-22T03:47:46.223Z",
-    "last_updated": "2026-08-22T03:47:46.223Z",
+    "last_updated": "2026-08-22T10:26:49.742Z",
     "published": "2026-08-22T03:00Z"
   },
   {
     "url": "https://davidmcgee.xyz/i-started-to-fall-for-a-trans-girl/",
     "title": "I Started to Fall for a Trans Girl",
     "author": "https://davidmcgee.xyz",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-08-22T05:30:07.398Z",
-    "last_updated": "2026-08-22T08:33:29.846Z",
+    "last_updated": "2026-08-22T10:26:49.742Z",
     "published": "2026-08-22T04:17Z"
   },
   {
     "url": "https://s0ykaf.bearblog.dev/re-re-things-to-do-after-your-dad-dies/",
     "title": "re: re: things to do after your dad dies",
     "author": "https://s0ykaf.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-22T05:30:07.398Z",
-    "last_updated": "2026-08-22T08:33:29.846Z",
+    "last_updated": "2026-08-22T10:26:49.742Z",
     "published": "2026-08-22T04:00Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://yttervia.bearblog.dev/oh-twitter-what-did-they-do-to-you/",
     "title": "oh twitter, what did they do to you",
     "author": "https://yttervia.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-08-22T06:44:07.694Z",
-    "last_updated": "2026-08-22T09:29:25.581Z",
+    "last_updated": "2026-08-22T10:26:49.742Z",
     "published": "2026-08-22T06:30Z"
   },
   {
@@ -120,9 +120,36 @@
     "url": "https://blog.lauramichet.com/weird-madness-chaos/",
     "title": "Weird, Madness, Chaos",
     "author": "https://blog.lauramichet.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-08-22T08:33:29.846Z",
-    "last_updated": "2026-08-22T08:33:29.846Z",
+    "last_updated": "2026-08-22T10:26:49.742Z",
     "published": "2026-08-22T06:48Z"
+  },
+  {
+    "url": "https://minabelle.bearblog.dev/about/",
+    "title": "who is she?",
+    "author": "https://minabelle.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-22T10:26:49.742Z",
+    "last_updated": "2026-08-22T10:26:49.742Z",
+    "published": "2026-08-22T09:59Z"
+  },
+  {
+    "url": "https://sela.bearblog.dev/hobi-dan-preferensi/",
+    "title": "Hobi dan Preferensi",
+    "author": "https://sela.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-22T10:26:49.742Z",
+    "last_updated": "2026-08-22T10:26:49.742Z",
+    "published": "2026-08-22T09:00Z"
+  },
+  {
+    "url": "https://tallywinkle.bearblog.dev/heretic-ii/",
+    "title": "Heretic II",
+    "author": "https://tallywinkle.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-22T10:26:49.742Z",
+    "last_updated": "2026-08-22T10:26:49.742Z",
+    "published": "2026-08-22T05:53Z"
   }
 ]
