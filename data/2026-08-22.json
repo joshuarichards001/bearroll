@@ -30,9 +30,9 @@
     "url": "https://icyti.me/job-hunting-sux/",
     "title": "job hunting sux",
     "author": "https://icyti.me",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-22T03:47:46.223Z",
-    "last_updated": "2026-08-22T10:26:49.742Z",
+    "last_updated": "2026-08-22T23:23:11.388Z",
     "published": "2026-08-22T03:00Z"
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://robertbirming.com/your-voice-is-here/",
     "title": "Your voice is here",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-22T13:33:45.595Z",
-    "last_updated": "2026-08-22T22:25:06.471Z",
+    "last_updated": "2026-08-22T23:23:11.388Z",
     "published": "2026-08-22T11:04Z"
   },
   {
@@ -309,9 +309,9 @@
     "url": "https://journal.james-zhan.com/ai-writing/",
     "title": "Stop Trying to Distinguish AI-Generated Writing From Human Writing Because You Can’t",
     "author": "https://journal.james-zhan.com",
-    "toasts": 19,
+    "toasts": 20,
     "first_seen": "2026-08-22T16:28:01.673Z",
-    "last_updated": "2026-08-22T22:25:06.471Z",
+    "last_updated": "2026-08-22T23:23:11.388Z",
     "published": "2026-08-22T14:41Z"
   },
   {
@@ -498,9 +498,9 @@
     "url": "https://leeyuhsolve.bearblog.dev/being-an-artist-doesnt-mean-drawing/",
     "title": "being an artist doesn't mean drawing",
     "author": "https://leeyuhsolve.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-22T20:25:55.272Z",
-    "last_updated": "2026-08-22T20:25:55.272Z",
+    "last_updated": "2026-08-22T23:23:11.388Z",
     "published": "2026-08-22T19:24Z"
   },
   {
@@ -534,18 +534,27 @@
     "url": "https://householderkarl.com/through-a-glass-darkly/",
     "title": "Through a Glass, Darkly",
     "author": "https://householderkarl.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-08-22T22:25:06.471Z",
-    "last_updated": "2026-08-22T22:25:06.471Z",
+    "last_updated": "2026-08-22T23:23:11.388Z",
     "published": "2026-08-22T21:16Z"
   },
   {
     "url": "https://blog.agnes.love/speak-to-me-like-a-human-please-mental-illness-sucks-re-sacrificing-accessibility/",
     "title": "Speak To Me Like A Human Please / Mental Illness Sucks / RE: Sacrificing accessibility...",
     "author": "https://blog.agnes.love",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-08-22T22:25:06.471Z",
-    "last_updated": "2026-08-22T22:25:06.471Z",
+    "last_updated": "2026-08-22T23:23:11.388Z",
     "published": "2026-08-22T21:22Z"
+  },
+  {
+    "url": "https://hilanderrpgs.bearblog.dev/zlda/",
+    "title": "ZLDA",
+    "author": "https://hilanderrpgs.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-22T23:23:11.388Z",
+    "last_updated": "2026-08-22T23:23:11.388Z",
+    "published": "2026-08-22T19:28Z"
   }
 ]
