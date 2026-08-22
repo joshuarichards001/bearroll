@@ -75,9 +75,9 @@
     "url": "https://yttervia.bearblog.dev/oh-twitter-what-did-they-do-to-you/",
     "title": "oh twitter, what did they do to you",
     "author": "https://yttervia.bearblog.dev",
-    "toasts": 29,
+    "toasts": 30,
     "first_seen": "2026-08-22T06:44:07.694Z",
-    "last_updated": "2026-08-22T19:24:35.069Z",
+    "last_updated": "2026-08-22T20:25:55.272Z",
     "published": "2026-08-22T06:30Z"
   },
   {
@@ -345,9 +345,9 @@
     "url": "https://blog.gshelter.me/the-internet-makes-us-lonely/",
     "title": "The internet makes us lonely",
     "author": "https://blog.gshelter.me",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-08-22T16:28:01.673Z",
-    "last_updated": "2026-08-22T19:24:35.069Z",
+    "last_updated": "2026-08-22T20:25:55.272Z",
     "published": "2026-08-22T15:27Z"
   },
   {
@@ -381,9 +381,9 @@
     "url": "https://prasatt.me/black-kites-are-everywhere/",
     "title": "Black kites are everywhere!",
     "author": "https://prasatt.me",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-22T17:23:38.001Z",
-    "last_updated": "2026-08-22T18:34:24.042Z",
+    "last_updated": "2026-08-22T20:25:55.272Z",
     "published": "2026-08-22T17:07Z"
   },
   {
@@ -475,5 +475,50 @@
     "first_seen": "2026-08-22T19:24:35.069Z",
     "last_updated": "2026-08-22T19:24:35.069Z",
     "published": "2026-08-22T18:22Z"
+  },
+  {
+    "url": "https://rocketcapsule.bearblog.dev/i-will-never-support-america/",
+    "title": "I will never support America",
+    "author": "https://rocketcapsule.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-08-22T20:25:55.272Z",
+    "last_updated": "2026-08-22T20:25:55.272Z",
+    "published": "2026-08-22T19:12Z"
+  },
+  {
+    "url": "https://piimyon.bearblog.dev/slow-journalling/",
+    "title": "Slow journalling",
+    "author": "https://piimyon.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-22T20:25:55.272Z",
+    "last_updated": "2026-08-22T20:25:55.272Z",
+    "published": "2026-08-22T19:25Z"
+  },
+  {
+    "url": "https://leeyuhsolve.bearblog.dev/being-an-artist-doesnt-mean-drawing/",
+    "title": "being an artist doesn't mean drawing",
+    "author": "https://leeyuhsolve.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-22T20:25:55.272Z",
+    "last_updated": "2026-08-22T20:25:55.272Z",
+    "published": "2026-08-22T19:24Z"
+  },
+  {
+    "url": "https://imperfect.bearblog.dev/sent-100-emails/",
+    "title": "sent 100 emails",
+    "author": "https://imperfect.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-22T20:25:55.272Z",
+    "last_updated": "2026-08-22T20:25:55.272Z",
+    "published": "2026-08-22T19:30Z"
+  },
+  {
+    "url": "https://jollyanchorblog.bearblog.dev/wah/",
+    "title": "wah?",
+    "author": "https://jollyanchorblog.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-22T20:25:55.272Z",
+    "last_updated": "2026-08-22T20:25:55.272Z",
+    "published": "2026-08-22T19:29Z"
   }
 ]
