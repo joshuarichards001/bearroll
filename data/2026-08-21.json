@@ -12,9 +12,9 @@
     "url": "https://blog.typewritermechanic.com/perfectly-good-typewriter-dead-on-arrival/",
     "title": "five things that make a perfectly good typewriter seem dead on arrival",
     "author": "https://blog.typewritermechanic.com",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-08-21T03:05:36.465Z",
-    "last_updated": "2026-08-22T01:22:44.962Z",
+    "last_updated": "2026-08-22T03:47:46.223Z",
     "published": "2026-08-21T01:05Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://blog.lauramichet.com/i-now-play-big-walk-every-thursday/",
     "title": "I now play Big Walk every Thursday",
     "author": "https://blog.lauramichet.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-21T06:51:59.933Z",
-    "last_updated": "2026-08-21T19:27:41.043Z",
+    "last_updated": "2026-08-22T03:47:46.223Z",
     "published": "2026-08-21T06:14Z"
   },
   {
@@ -264,9 +264,9 @@
     "url": "https://rocketcapsule.bearblog.dev/is-this-the-way-of-the-world-now-or-can-i-exit/",
     "title": "Is this the way of the world now or can I exit?",
     "author": "https://rocketcapsule.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-08-21T13:48:30.229Z",
-    "last_updated": "2026-08-22T01:22:44.962Z",
+    "last_updated": "2026-08-22T03:47:46.223Z",
     "published": "2026-08-21T11:52Z"
   },
   {
@@ -480,9 +480,9 @@
     "url": "https://householderkarl.com/2q26/",
     "title": "2Q26",
     "author": "https://householderkarl.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-21T20:28:50.406Z",
-    "last_updated": "2026-08-22T02:56:39.723Z",
+    "last_updated": "2026-08-22T03:47:46.223Z",
     "published": "2026-08-21T19:41Z"
   },
   {
@@ -673,5 +673,14 @@
     "first_seen": "2026-08-22T02:56:39.723Z",
     "last_updated": "2026-08-22T02:56:39.723Z",
     "published": "2026-08-21T21:57Z"
+  },
+  {
+    "url": "https://peelingtheonion.bearblog.dev/missing-you-horribly/",
+    "title": "missing you horribly",
+    "author": "https://peelingtheonion.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-22T03:47:46.223Z",
+    "last_updated": "2026-08-22T03:47:46.223Z",
+    "published": "2026-08-21T22:20Z"
   }
 ]
