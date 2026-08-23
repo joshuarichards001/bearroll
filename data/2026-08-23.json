@@ -12,9 +12,9 @@
     "url": "https://cherrysroom.bearblog.dev/some-cherry-flavored-drinks-rated/",
     "title": "some cherry flavored drinks, rated",
     "author": "https://cherrysroom.bearblog.dev",
-    "toasts": 28,
+    "toasts": 29,
     "first_seen": "2026-08-23T01:36:11.968Z",
-    "last_updated": "2026-08-23T18:33:25.051Z",
+    "last_updated": "2026-08-23T19:24:01.360Z",
     "published": "2026-08-23T00:59Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://elmc.at/death-of-a-hobby/",
     "title": "Death of a Hobby",
     "author": "https://elmc.at",
-    "toasts": 53,
+    "toasts": 55,
     "first_seen": "2026-08-23T13:34:07.115Z",
-    "last_updated": "2026-08-23T18:33:25.051Z",
+    "last_updated": "2026-08-23T19:24:01.360Z",
     "published": "2026-08-23T12:50Z"
   },
   {
@@ -354,9 +354,9 @@
     "url": "https://djcamjr.bearblog.dev/what-vietnam-taught-me-about-meditation/",
     "title": "The Lover",
     "author": "https://djcamjr.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-08-23T16:29:33.034Z",
-    "last_updated": "2026-08-23T18:33:25.051Z",
+    "last_updated": "2026-08-23T19:24:01.360Z",
     "published": "2026-08-23T06:58Z"
   },
   {
@@ -390,9 +390,9 @@
     "url": "https://tala.bearblog.dev/i-think-we-all-need-to-get-over-ourselves/",
     "title": "I think we all need to get over ourselves",
     "author": "https://tala.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-23T17:22:57.156Z",
-    "last_updated": "2026-08-23T18:33:25.051Z",
+    "last_updated": "2026-08-23T19:24:01.360Z",
     "published": "2026-08-23T16:28Z"
   },
   {
@@ -408,18 +408,18 @@
     "url": "https://curiosapiens.bearblog.dev/new-post/",
     "title": "Music and soul",
     "author": "https://curiosapiens.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-23T17:22:57.156Z",
-    "last_updated": "2026-08-23T17:22:57.156Z",
+    "last_updated": "2026-08-23T19:24:01.360Z",
     "published": "2026-08-23T17:01Z"
   },
   {
     "url": "https://efmorell.bearblog.dev/documentales-musicales/",
     "title": "Documentales musicales",
     "author": "https://efmorell.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-23T17:22:57.156Z",
-    "last_updated": "2026-08-23T17:22:57.156Z",
+    "last_updated": "2026-08-23T19:24:01.360Z",
     "published": "2026-08-23T14:46Z"
   },
   {
@@ -489,9 +489,45 @@
     "url": "https://byzxor.xyz/week-notes-34-2026/",
     "title": "Week Notes 34, 2026",
     "author": "https://byzxor.xyz",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-23T18:33:25.051Z",
-    "last_updated": "2026-08-23T18:33:25.051Z",
+    "last_updated": "2026-08-23T19:24:01.360Z",
     "published": "2026-08-23T17:22Z"
+  },
+  {
+    "url": "https://leeyuhsolve.bearblog.dev/making-new-words/",
+    "title": "I'M MAKING NEW WORDS (you can maybe use them)",
+    "author": "https://leeyuhsolve.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-23T19:24:01.360Z",
+    "last_updated": "2026-08-23T19:24:01.360Z",
+    "published": "2026-08-23T18:15Z"
+  },
+  {
+    "url": "https://th.blog.br/receita-de-geleia-de-morango-daboa/",
+    "title": "receita de geleia de morango daboa",
+    "author": "https://th.blog.br",
+    "toasts": 2,
+    "first_seen": "2026-08-23T19:24:01.360Z",
+    "last_updated": "2026-08-23T19:24:01.360Z",
+    "published": "2026-08-23T18:30Z"
+  },
+  {
+    "url": "https://jeddacp.me/east2westpottery/",
+    "title": "East2WestPottery",
+    "author": "https://jeddacp.me",
+    "toasts": 2,
+    "first_seen": "2026-08-23T19:24:01.360Z",
+    "last_updated": "2026-08-23T19:24:01.360Z",
+    "published": "2026-08-23T17:03Z"
+  },
+  {
+    "url": "https://thelonebard.com/tome-of-the-pyromancer-part-6/",
+    "title": "Tome of the Pyromancer: Darkflame’s Grace Part 6",
+    "author": "https://thelonebard.com",
+    "toasts": 2,
+    "first_seen": "2026-08-23T19:24:01.360Z",
+    "last_updated": "2026-08-23T19:24:01.360Z",
+    "published": "2026-08-23T14:35Z"
   }
 ]
