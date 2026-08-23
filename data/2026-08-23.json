@@ -345,9 +345,9 @@
     "url": "https://pinewind.bearblog.dev/more-revisiting-of-old-tv-show-favourites/",
     "title": "more revisiting of old TV show favourites",
     "author": "https://pinewind.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-23T15:26:04.331Z",
-    "last_updated": "2026-08-23T18:33:25.051Z",
+    "last_updated": "2026-08-23T23:23:40.124Z",
     "published": "2026-08-23T14:50Z"
   },
   {
@@ -534,9 +534,9 @@
     "url": "https://blog.absurdpirate.com/tea-as-a-cure-for-brainrot/",
     "title": "Tea as a Cure For Brainrot",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-23T20:26:34.921Z",
-    "last_updated": "2026-08-23T21:24:24.380Z",
+    "last_updated": "2026-08-23T23:23:40.124Z",
     "published": "2026-08-23T19:14Z"
   },
   {
@@ -610,5 +610,14 @@
     "first_seen": "2026-08-23T22:25:10.878Z",
     "last_updated": "2026-08-23T22:25:10.878Z",
     "published": "2026-08-23T20:10Z"
+  },
+  {
+    "url": "https://zwieblein.bearblog.dev/contending-with-the-creeps/",
+    "title": "Contending with the Creeps",
+    "author": "https://zwieblein.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-23T23:23:40.124Z",
+    "last_updated": "2026-08-23T23:23:40.124Z",
+    "published": "2026-08-23T22:35Z"
   }
 ]
