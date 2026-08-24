@@ -201,9 +201,9 @@
     "url": "https://carlosacollazo.com/random-differences-we-noticed-in-portugal/",
     "title": "Random Differences We Noticed In Portugal",
     "author": "https://carlosacollazo.com",
-    "toasts": 31,
+    "toasts": 32,
     "first_seen": "2026-08-23T12:45:25.020Z",
-    "last_updated": "2026-08-24T15:41:18.581Z",
+    "last_updated": "2026-08-24T20:33:21.563Z",
     "published": "2026-08-23T12:08Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://elmc.at/death-of-a-hobby/",
     "title": "Death of a Hobby",
     "author": "https://elmc.at",
-    "toasts": 100,
+    "toasts": 102,
     "first_seen": "2026-08-23T13:34:07.115Z",
-    "last_updated": "2026-08-24T19:31:52.529Z",
+    "last_updated": "2026-08-24T20:33:21.563Z",
     "published": "2026-08-23T12:50Z"
   },
   {
@@ -345,9 +345,9 @@
     "url": "https://pinewind.bearblog.dev/more-revisiting-of-old-tv-show-favourites/",
     "title": "more revisiting of old TV show favourites",
     "author": "https://pinewind.bearblog.dev",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-08-23T15:26:04.331Z",
-    "last_updated": "2026-08-24T17:33:06.399Z",
+    "last_updated": "2026-08-24T20:33:21.563Z",
     "published": "2026-08-23T14:50Z"
   },
   {
@@ -390,18 +390,18 @@
     "url": "https://tala.bearblog.dev/i-think-we-all-need-to-get-over-ourselves/",
     "title": "I think we all need to get over ourselves",
     "author": "https://tala.bearblog.dev",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-08-23T17:22:57.156Z",
-    "last_updated": "2026-08-24T15:41:18.581Z",
+    "last_updated": "2026-08-24T20:33:21.563Z",
     "published": "2026-08-23T16:28Z"
   },
   {
     "url": "https://livingkindfully.bearblog.dev/use-ai-to-think-with-you-not-think-for-you/",
     "title": "Use AI to Think with You, Not Think for You",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-23T17:22:57.156Z",
-    "last_updated": "2026-08-23T21:24:24.380Z",
+    "last_updated": "2026-08-24T20:33:21.563Z",
     "published": "2026-08-23T16:05Z"
   },
   {
@@ -444,9 +444,9 @@
     "url": "https://conniesue.me/either-way-murphy-wins/",
     "title": "Either Way, Murphy Wins",
     "author": "https://conniesue.me",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-23T18:33:25.051Z",
-    "last_updated": "2026-08-24T08:51:34.496Z",
+    "last_updated": "2026-08-24T20:33:21.563Z",
     "published": "2026-08-23T16:50Z"
   },
   {
@@ -534,9 +534,9 @@
     "url": "https://blog.absurdpirate.com/tea-as-a-cure-for-brainrot/",
     "title": "Tea as a Cure For Brainrot",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 53,
+    "toasts": 54,
     "first_seen": "2026-08-23T20:26:34.921Z",
-    "last_updated": "2026-08-24T18:43:59.247Z",
+    "last_updated": "2026-08-24T20:33:21.563Z",
     "published": "2026-08-23T19:14Z"
   },
   {
@@ -570,9 +570,9 @@
     "url": "https://stometaxi.bearblog.dev/escribir-en-espanol-en-un-mundo-en-ingles/",
     "title": "Escribir en español en un mundo en inglés",
     "author": "https://stometaxi.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-23T20:26:34.921Z",
-    "last_updated": "2026-08-24T19:31:52.529Z",
+    "last_updated": "2026-08-24T20:33:21.563Z",
     "published": "2026-08-23T19:08Z"
   },
   {
@@ -673,5 +673,14 @@
     "first_seen": "2026-08-24T03:06:09.537Z",
     "last_updated": "2026-08-24T03:06:09.537Z",
     "published": "2026-08-23T23:19Z"
+  },
+  {
+    "url": "https://writer-point.com/to-kagi-readers/",
+    "title": "To Kagi readers!",
+    "author": "https://writer-point.com",
+    "toasts": 4,
+    "first_seen": "2026-08-24T20:33:21.563Z",
+    "last_updated": "2026-08-24T20:33:21.563Z",
+    "published": "2026-08-23T21:59Z"
   }
 ]
