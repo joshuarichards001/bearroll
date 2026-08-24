@@ -21,9 +21,9 @@
     "url": "https://blog.lauramichet.com/the-bike-wasnt-as-fucked-as-i-thought-it-would-be/",
     "title": "The bike wasn't as fucked as I Thought it would be",
     "author": "https://blog.lauramichet.com",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-08-24T01:34:28.482Z",
-    "last_updated": "2026-08-24T18:43:59.247Z",
+    "last_updated": "2026-08-24T19:31:52.529Z",
     "published": "2026-08-24T00:57Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://annoflo.net/why-i-write/",
     "title": "Why I Write",
     "author": "https://annoflo.net",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-24T04:49:10.814Z",
-    "last_updated": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T19:31:52.529Z",
     "published": "2026-08-24T03:15Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://leeyuhsolve.bearblog.dev/neologisms/",
     "title": "a bearblogger taught me this word...",
     "author": "https://leeyuhsolve.bearblog.dev",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-08-24T07:03:45.977Z",
-    "last_updated": "2026-08-24T18:43:59.247Z",
+    "last_updated": "2026-08-24T19:31:52.529Z",
     "published": "2026-08-24T06:14Z"
   },
   {
@@ -471,9 +471,9 @@
     "url": "https://idraluna-archives.bearblog.dev/four-video-game-adaptations/",
     "title": "Four Video Game Adaptations",
     "author": "https://idraluna-archives.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-24T18:43:59.247Z",
-    "last_updated": "2026-08-24T18:43:59.247Z",
+    "last_updated": "2026-08-24T19:31:52.529Z",
     "published": "2026-08-24T18:06Z"
   },
   {
@@ -520,5 +520,32 @@
     "first_seen": "2026-08-24T18:43:59.247Z",
     "last_updated": "2026-08-24T18:43:59.247Z",
     "published": "2026-08-24T15:58Z"
+  },
+  {
+    "url": "https://minouchka.bearblog.dev/hello-indie-web/",
+    "title": "Hello Indie Web!",
+    "author": "https://minouchka.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-08-24T19:31:52.529Z",
+    "last_updated": "2026-08-24T19:31:52.529Z",
+    "published": "2026-08-24T19:03Z"
+  },
+  {
+    "url": "https://blog.curiousquail.com/its-time-for-the-blaugust-rabbit-report/",
+    "title": "It's Time For The Blaugust Rabbit Report™",
+    "author": "https://blog.curiousquail.com",
+    "toasts": 2,
+    "first_seen": "2026-08-24T19:31:52.529Z",
+    "last_updated": "2026-08-24T19:31:52.529Z",
+    "published": "2026-08-24T18:30Z"
+  },
+  {
+    "url": "https://iainsinclair.net/driving-the-north-coast-of-scotland-in-a-caterham-270-sv/",
+    "title": "Driving the North Coast of Scotland in a Caterham 270 SV",
+    "author": "https://iainsinclair.net",
+    "toasts": 2,
+    "first_seen": "2026-08-24T19:31:52.529Z",
+    "last_updated": "2026-08-24T19:31:52.529Z",
+    "published": "2026-08-24T18:18Z"
   }
 ]
