@@ -21,9 +21,9 @@
     "url": "https://blog.lauramichet.com/the-bike-wasnt-as-fucked-as-i-thought-it-would-be/",
     "title": "The bike wasn't as fucked as I Thought it would be",
     "author": "https://blog.lauramichet.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-24T01:34:28.482Z",
-    "last_updated": "2026-08-24T03:06:09.537Z",
+    "last_updated": "2026-08-24T04:49:10.814Z",
     "published": "2026-08-24T00:57Z"
   },
   {
@@ -61,5 +61,50 @@
     "first_seen": "2026-08-24T03:06:09.537Z",
     "last_updated": "2026-08-24T03:06:09.537Z",
     "published": "2026-08-24T01:25Z"
+  },
+  {
+    "url": "https://icyti.me/experience-being-bald/",
+    "title": "experience being bald",
+    "author": "https://icyti.me",
+    "toasts": 3,
+    "first_seen": "2026-08-24T04:49:10.814Z",
+    "last_updated": "2026-08-24T04:49:10.814Z",
+    "published": "2026-08-24T03:59Z"
+  },
+  {
+    "url": "https://notes.jeddacp.com/silent-sunday-matcha/",
+    "title": "Silent Sunday (matcha)",
+    "author": "https://notes.jeddacp.com",
+    "toasts": 3,
+    "first_seen": "2026-08-24T04:49:10.814Z",
+    "last_updated": "2026-08-24T04:49:10.814Z",
+    "published": "2026-08-24T02:17Z"
+  },
+  {
+    "url": "https://cryingwound.bearblog.dev/torn-tomorrow/",
+    "title": "Torn Tomorrow",
+    "author": "https://cryingwound.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-24T04:49:10.814Z",
+    "last_updated": "2026-08-24T04:49:10.814Z",
+    "published": "2026-08-24T03:53Z"
+  },
+  {
+    "url": "https://annoflo.net/why-i-write/",
+    "title": "Why I Write",
+    "author": "https://annoflo.net",
+    "toasts": 2,
+    "first_seen": "2026-08-24T04:49:10.814Z",
+    "last_updated": "2026-08-24T04:49:10.814Z",
+    "published": "2026-08-24T03:15Z"
+  },
+  {
+    "url": "https://in-the-moment.info/chillin-at-sunset/",
+    "title": "chillin at sunset",
+    "author": "https://in-the-moment.info",
+    "toasts": 2,
+    "first_seen": "2026-08-24T04:49:10.814Z",
+    "last_updated": "2026-08-24T04:49:10.814Z",
+    "published": "2026-08-24T02:48Z"
   }
 ]
