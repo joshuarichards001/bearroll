@@ -57,9 +57,9 @@
     "url": "https://deerhoof.website/if-us-politics-were-relationship-advice/",
     "title": "IF U.S. POLITICS WERE RELATIONSHIP ADVICE",
     "author": "https://deerhoof.website",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-24T03:06:09.537Z",
-    "last_updated": "2026-08-24T03:06:09.537Z",
+    "last_updated": "2026-08-24T15:41:18.581Z",
     "published": "2026-08-24T01:25Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://dungeonbison.bearblog.dev/small-loyal-mighty/",
     "title": "small, loyal, mighty",
     "author": "https://dungeonbison.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-24T08:51:34.496Z",
-    "last_updated": "2026-08-24T12:55:47.935Z",
+    "last_updated": "2026-08-24T15:41:18.581Z",
     "published": "2026-08-24T07:23Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://reedybear.bearblog.dev/paramount-buying-warner-brothers-and-cnn/",
     "title": "Paramount buying Warner Brothers and CNN",
     "author": "https://reedybear.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-24T08:51:34.496Z",
-    "last_updated": "2026-08-24T08:51:34.496Z",
+    "last_updated": "2026-08-24T15:41:18.581Z",
     "published": "2026-08-24T07:23Z"
   },
   {
@@ -246,36 +246,36 @@
     "url": "https://whatwasithinking.bearblog.dev/cotton-candy-sunset/",
     "title": "Cotton Candy Sunset",
     "author": "https://whatwasithinking.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-24T13:54:19.182Z",
-    "last_updated": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T15:41:18.581Z",
     "published": "2026-08-24T12:41Z"
   },
   {
     "url": "https://emersonwick.page/re-ai-writing-is-trash-but-ai-writers-will-never-notice/",
     "title": "re: AI Writing Is Trash, But AI “Writers” Will Never Notice",
     "author": "https://emersonwick.page",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-08-24T14:45:18.091Z",
-    "last_updated": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T15:41:18.581Z",
     "published": "2026-08-24T14:02Z"
   },
   {
     "url": "https://sweaterpockets.bearblog.dev/cara-needs-support-from-us/",
     "title": "Cara Needs Support From Us!",
     "author": "https://sweaterpockets.bearblog.dev",
-    "toasts": 5,
+    "toasts": 10,
     "first_seen": "2026-08-24T14:45:18.091Z",
-    "last_updated": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T15:41:18.581Z",
     "published": "2026-08-24T12:13Z"
   },
   {
     "url": "https://orkish-odyssey.bearblog.dev/myth-magic-and-the-logic-of-dreams/",
     "title": "Myth, Magic, and the Logic of Dreams",
     "author": "https://orkish-odyssey.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-24T14:45:18.091Z",
-    "last_updated": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T15:41:18.581Z",
     "published": "2026-08-24T14:34Z"
   },
   {
@@ -313,5 +313,41 @@
     "first_seen": "2026-08-24T14:45:18.091Z",
     "last_updated": "2026-08-24T14:45:18.091Z",
     "published": "2026-08-24T10:03Z"
+  },
+  {
+    "url": "https://tala.bearblog.dev/develop-self-compassion-because-youll-mess-up-again-again-again/",
+    "title": "develop self-compassion because you'll mess up again, again, again",
+    "author": "https://tala.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-24T15:41:18.581Z",
+    "last_updated": "2026-08-24T15:41:18.581Z",
+    "published": "2026-08-24T15:03Z"
+  },
+  {
+    "url": "https://minabelle.bearblog.dev/three/",
+    "title": "three",
+    "author": "https://minabelle.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-24T15:41:18.581Z",
+    "last_updated": "2026-08-24T15:41:18.581Z",
+    "published": "2026-08-24T14:42Z"
+  },
+  {
+    "url": "https://heurista.net/a-kind-hearted-swashbuckler/",
+    "title": "A Kind-Hearted Swashbuckler",
+    "author": "https://heurista.net",
+    "toasts": 2,
+    "first_seen": "2026-08-24T15:41:18.581Z",
+    "last_updated": "2026-08-24T15:41:18.581Z",
+    "published": "2026-08-24T14:24Z"
+  },
+  {
+    "url": "https://hacktivate.bearblog.dev/the-burnout-curve-of-a-career-in-technology/",
+    "title": "The Burnout Curve of a Career in Technology",
+    "author": "https://hacktivate.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-24T15:41:18.581Z",
+    "last_updated": "2026-08-24T15:41:18.581Z",
+    "published": "2026-08-24T12:20Z"
   }
 ]
