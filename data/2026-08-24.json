@@ -66,9 +66,9 @@
     "url": "https://icyti.me/experience-being-bald/",
     "title": "experience being bald",
     "author": "https://icyti.me",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-08-24T04:49:10.814Z",
-    "last_updated": "2026-08-24T13:54:19.182Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
     "published": "2026-08-24T03:59Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://annoflo.net/why-i-write/",
     "title": "Why I Write",
     "author": "https://annoflo.net",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-24T04:49:10.814Z",
-    "last_updated": "2026-08-24T13:54:19.182Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
     "published": "2026-08-24T03:15Z"
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://e10.bearblog.dev/what-makes-me/",
     "title": "What makes me",
     "author": "https://e10.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-24T09:51:01.590Z",
-    "last_updated": "2026-08-24T09:51:01.590Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
     "published": "2026-08-24T09:12Z"
   },
   {
@@ -237,18 +237,81 @@
     "url": "https://semdominio.bearblog.dev/ter-um-blog/",
     "title": "Ter um blog",
     "author": "https://semdominio.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-24T13:54:19.182Z",
-    "last_updated": "2026-08-24T13:54:19.182Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
     "published": "2026-08-24T12:54Z"
   },
   {
     "url": "https://whatwasithinking.bearblog.dev/cotton-candy-sunset/",
     "title": "Cotton Candy Sunset",
     "author": "https://whatwasithinking.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-24T13:54:19.182Z",
-    "last_updated": "2026-08-24T13:54:19.182Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
     "published": "2026-08-24T12:41Z"
+  },
+  {
+    "url": "https://emersonwick.page/re-ai-writing-is-trash-but-ai-writers-will-never-notice/",
+    "title": "re: AI Writing Is Trash, But AI “Writers” Will Never Notice",
+    "author": "https://emersonwick.page",
+    "toasts": 5,
+    "first_seen": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
+    "published": "2026-08-24T14:02Z"
+  },
+  {
+    "url": "https://sweaterpockets.bearblog.dev/cara-needs-support-from-us/",
+    "title": "Cara Needs Support From Us!",
+    "author": "https://sweaterpockets.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
+    "published": "2026-08-24T12:13Z"
+  },
+  {
+    "url": "https://orkish-odyssey.bearblog.dev/myth-magic-and-the-logic-of-dreams/",
+    "title": "Myth, Magic, and the Logic of Dreams",
+    "author": "https://orkish-odyssey.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
+    "published": "2026-08-24T14:34Z"
+  },
+  {
+    "url": "https://sync.bearblog.dev/31100/",
+    "title": "31/100",
+    "author": "https://sync.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
+    "published": "2026-08-24T13:59Z"
+  },
+  {
+    "url": "https://th.blog.br/check-in-1/",
+    "title": "check-in",
+    "author": "https://th.blog.br",
+    "toasts": 2,
+    "first_seen": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
+    "published": "2026-08-24T13:03Z"
+  },
+  {
+    "url": "https://asteroidhopkins.bearblog.dev/236-2026/",
+    "title": "there must be a proper washroom out there",
+    "author": "https://asteroidhopkins.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
+    "published": "2026-08-24T12:30Z"
+  },
+  {
+    "url": "https://adityasspace.bearblog.dev/what-do-you-even-remember/",
+    "title": "What do you even remember?",
+    "author": "https://adityasspace.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-24T14:45:18.091Z",
+    "last_updated": "2026-08-24T14:45:18.091Z",
+    "published": "2026-08-24T10:03Z"
   }
 ]
