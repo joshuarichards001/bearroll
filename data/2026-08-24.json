@@ -75,9 +75,9 @@
     "url": "https://notes.jeddacp.com/silent-sunday-matcha/",
     "title": "Silent Sunday (matcha)",
     "author": "https://notes.jeddacp.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-24T04:49:10.814Z",
-    "last_updated": "2026-08-24T07:03:45.977Z",
+    "last_updated": "2026-08-24T12:55:47.935Z",
     "published": "2026-08-24T02:17Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://annoflo.net/why-i-write/",
     "title": "Why I Write",
     "author": "https://annoflo.net",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-08-24T04:49:10.814Z",
-    "last_updated": "2026-08-24T11:31:11.059Z",
+    "last_updated": "2026-08-24T12:55:47.935Z",
     "published": "2026-08-24T03:15Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://dungeonbison.bearblog.dev/small-loyal-mighty/",
     "title": "small, loyal, mighty",
     "author": "https://dungeonbison.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-24T08:51:34.496Z",
-    "last_updated": "2026-08-24T08:51:34.496Z",
+    "last_updated": "2026-08-24T12:55:47.935Z",
     "published": "2026-08-24T07:23Z"
   },
   {
@@ -201,18 +201,36 @@
     "url": "https://73pctgeek.com/967/",
     "title": "967",
     "author": "https://73pctgeek.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-24T11:31:11.059Z",
-    "last_updated": "2026-08-24T11:31:11.059Z",
+    "last_updated": "2026-08-24T12:55:47.935Z",
     "published": "2026-08-24T10:46Z"
   },
   {
     "url": "https://therabbitholehaswifi.bearblog.dev/stupid-pink-knife/",
     "title": "Stupid Pink Knife",
     "author": "https://therabbitholehaswifi.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-24T11:31:11.059Z",
-    "last_updated": "2026-08-24T11:31:11.059Z",
+    "last_updated": "2026-08-24T12:55:47.935Z",
     "published": "2026-08-24T10:02Z"
+  },
+  {
+    "url": "https://annonimax.bearblog.dev/film-cameras/",
+    "title": "Blaugust 2026 #2: Film Cameras",
+    "author": "https://annonimax.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-24T12:55:47.935Z",
+    "last_updated": "2026-08-24T12:55:47.935Z",
+    "published": "2026-08-24T11:04Z"
+  },
+  {
+    "url": "https://danieln.uk/some-more-distant-storms/",
+    "title": "Some more distant storms",
+    "author": "https://danieln.uk",
+    "toasts": 2,
+    "first_seen": "2026-08-24T12:55:47.935Z",
+    "last_updated": "2026-08-24T12:55:47.935Z",
+    "published": "2026-08-24T10:19Z"
   }
 ]
