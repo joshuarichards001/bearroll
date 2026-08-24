@@ -21,9 +21,9 @@
     "url": "https://blog.lauramichet.com/the-bike-wasnt-as-fucked-as-i-thought-it-would-be/",
     "title": "The bike wasn't as fucked as I Thought it would be",
     "author": "https://blog.lauramichet.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-24T01:34:28.482Z",
-    "last_updated": "2026-08-24T11:31:11.059Z",
+    "last_updated": "2026-08-24T13:54:19.182Z",
     "published": "2026-08-24T00:57Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://icyti.me/experience-being-bald/",
     "title": "experience being bald",
     "author": "https://icyti.me",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-08-24T04:49:10.814Z",
-    "last_updated": "2026-08-24T11:31:11.059Z",
+    "last_updated": "2026-08-24T13:54:19.182Z",
     "published": "2026-08-24T03:59Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://annoflo.net/why-i-write/",
     "title": "Why I Write",
     "author": "https://annoflo.net",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-24T04:49:10.814Z",
-    "last_updated": "2026-08-24T12:55:47.935Z",
+    "last_updated": "2026-08-24T13:54:19.182Z",
     "published": "2026-08-24T03:15Z"
   },
   {
@@ -232,5 +232,23 @@
     "first_seen": "2026-08-24T12:55:47.935Z",
     "last_updated": "2026-08-24T12:55:47.935Z",
     "published": "2026-08-24T10:19Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/ter-um-blog/",
+    "title": "Ter um blog",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-24T13:54:19.182Z",
+    "last_updated": "2026-08-24T13:54:19.182Z",
+    "published": "2026-08-24T12:54Z"
+  },
+  {
+    "url": "https://whatwasithinking.bearblog.dev/cotton-candy-sunset/",
+    "title": "Cotton Candy Sunset",
+    "author": "https://whatwasithinking.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-24T13:54:19.182Z",
+    "last_updated": "2026-08-24T13:54:19.182Z",
+    "published": "2026-08-24T12:41Z"
   }
 ]
