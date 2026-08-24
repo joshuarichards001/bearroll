@@ -93,9 +93,9 @@
     "url": "https://annoflo.net/why-i-write/",
     "title": "Why I Write",
     "author": "https://annoflo.net",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-24T04:49:10.814Z",
-    "last_updated": "2026-08-24T04:49:10.814Z",
+    "last_updated": "2026-08-24T05:40:08.245Z",
     "published": "2026-08-24T03:15Z"
   },
   {
@@ -106,5 +106,23 @@
     "first_seen": "2026-08-24T04:49:10.814Z",
     "last_updated": "2026-08-24T04:49:10.814Z",
     "published": "2026-08-24T02:48Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/our-choices-evolve-and-so-does-our-identity/",
+    "title": "“Our Choices Evolve, and So Does Our Identity.”",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-24T05:40:08.245Z",
+    "last_updated": "2026-08-24T05:40:08.245Z",
+    "published": "2026-08-24T04:55Z"
+  },
+  {
+    "url": "https://wrongseasons.bearblog.dev/now-playing-of-the-devil/",
+    "title": "Now playing: of the Devil (cyberpunk noir mystery/thriller)",
+    "author": "https://wrongseasons.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-24T05:40:08.245Z",
+    "last_updated": "2026-08-24T05:40:08.245Z",
+    "published": "2026-08-24T01:22Z"
   }
 ]
