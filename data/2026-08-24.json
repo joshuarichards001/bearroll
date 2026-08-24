@@ -66,9 +66,9 @@
     "url": "https://icyti.me/experience-being-bald/",
     "title": "experience being bald",
     "author": "https://icyti.me",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-08-24T04:49:10.814Z",
-    "last_updated": "2026-08-24T08:51:34.496Z",
+    "last_updated": "2026-08-24T09:51:01.590Z",
     "published": "2026-08-24T03:59Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://annoflo.net/why-i-write/",
     "title": "Why I Write",
     "author": "https://annoflo.net",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-24T04:49:10.814Z",
-    "last_updated": "2026-08-24T05:40:08.245Z",
+    "last_updated": "2026-08-24T09:51:01.590Z",
     "published": "2026-08-24T03:15Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://explorenz.bearblog.dev/north-cape/",
     "title": "North cape",
     "author": "https://explorenz.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-24T08:51:34.496Z",
-    "last_updated": "2026-08-24T08:51:34.496Z",
+    "last_updated": "2026-08-24T09:51:01.590Z",
     "published": "2026-08-24T06:34Z"
   },
   {
@@ -187,5 +187,14 @@
     "first_seen": "2026-08-24T08:51:34.496Z",
     "last_updated": "2026-08-24T08:51:34.496Z",
     "published": "2026-08-24T04:58Z"
+  },
+  {
+    "url": "https://e10.bearblog.dev/what-makes-me/",
+    "title": "What makes me",
+    "author": "https://e10.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-24T09:51:01.590Z",
+    "last_updated": "2026-08-24T09:51:01.590Z",
+    "published": "2026-08-24T09:12Z"
   }
 ]
