@@ -84,9 +84,9 @@
     "url": "https://zeina.bearblog.dev/questions-to-ask-during-a-meet-cute/",
     "title": "Questions to ask during a meet-cute",
     "author": "https://zeina.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-25T03:01:23.295Z",
-    "last_updated": "2026-08-25T13:52:38.766Z",
+    "last_updated": "2026-08-25T14:49:20.656Z",
     "published": "2026-08-25T01:24Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://psychidion.bearblog.dev/youll-understand-when-youre-older/",
     "title": "you'll understand when you're older",
     "author": "https://psychidion.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-25T04:41:23.246Z",
-    "last_updated": "2026-08-25T04:41:23.246Z",
+    "last_updated": "2026-08-25T14:49:20.656Z",
     "published": "2026-08-25T02:05Z"
   },
   {
@@ -318,9 +318,9 @@
     "url": "https://icyti.me/finding-joy-in-cringe-or-saying-no-to-my-republican-shoulder-devil/",
     "title": "finding joy in cringe (or, saying NO to my reactionary shoulder devil)",
     "author": "https://icyti.me",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-25T11:30:52.132Z",
-    "last_updated": "2026-08-25T11:30:52.132Z",
+    "last_updated": "2026-08-25T14:49:20.656Z",
     "published": "2026-08-25T00:25Z"
   },
   {
@@ -336,9 +336,9 @@
     "url": "https://herman.bearblog.dev/extending-life-perception/",
     "title": "Extending life perception",
     "author": "https://herman.bearblog.dev",
-    "toasts": 14,
+    "toasts": 22,
     "first_seen": "2026-08-25T12:52:23.614Z",
-    "last_updated": "2026-08-25T13:52:38.766Z",
+    "last_updated": "2026-08-25T14:49:20.656Z",
     "published": "2026-08-25T11:59Z"
   },
   {
@@ -354,9 +354,9 @@
     "url": "https://itsme.bearblog.dev/wix-is-a-mess/",
     "title": "WIX is a mess!",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-08-25T12:52:23.614Z",
-    "last_updated": "2026-08-25T13:52:38.766Z",
+    "last_updated": "2026-08-25T14:49:20.656Z",
     "published": "2026-08-25T12:41Z"
   },
   {
@@ -372,9 +372,9 @@
     "url": "https://davidmcgee.xyz/bitterness-about-my-religious-upbringing/",
     "title": "Bitterness about my Religious Upbringing",
     "author": "https://davidmcgee.xyz",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-25T12:52:23.614Z",
-    "last_updated": "2026-08-25T12:52:23.614Z",
+    "last_updated": "2026-08-25T14:49:20.656Z",
     "published": "2026-08-25T11:30Z"
   },
   {
@@ -408,9 +408,9 @@
     "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
     "title": "Merchants of Insecurity",
     "author": "https://blog.happyfellow.dev",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-08-25T13:52:38.766Z",
-    "last_updated": "2026-08-25T13:52:38.766Z",
+    "last_updated": "2026-08-25T14:49:20.656Z",
     "published": "2026-08-25T12:31Z"
   },
   {
@@ -421,5 +421,41 @@
     "first_seen": "2026-08-25T13:52:38.766Z",
     "last_updated": "2026-08-25T13:52:38.766Z",
     "published": "2026-08-25T12:57Z"
+  },
+  {
+    "url": "https://fornoone.bearblog.dev/to-do-list/",
+    "title": "To do list",
+    "author": "https://fornoone.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-25T14:49:20.656Z",
+    "last_updated": "2026-08-25T14:49:20.656Z",
+    "published": "2026-08-25T14:17Z"
+  },
+  {
+    "url": "https://robertbirming.com/dont-make-my-blogging-mistake/",
+    "title": "Don’t make my blogging mistake",
+    "author": "https://robertbirming.com",
+    "toasts": 2,
+    "first_seen": "2026-08-25T14:49:20.656Z",
+    "last_updated": "2026-08-25T14:49:20.656Z",
+    "published": "2026-08-25T14:14Z"
+  },
+  {
+    "url": "https://www.strangevoyages.quest/3-facts-to-know-me/",
+    "title": "3 Facts to Know Me",
+    "author": "https://www.strangevoyages.quest",
+    "toasts": 2,
+    "first_seen": "2026-08-25T14:49:20.656Z",
+    "last_updated": "2026-08-25T14:49:20.656Z",
+    "published": "2026-08-25T14:00Z"
+  },
+  {
+    "url": "https://vidknight.bearblog.dev/i-feel-the-future-of-everything-is-indie/",
+    "title": "I feel the future of everything is indie",
+    "author": "https://vidknight.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-25T14:49:20.656Z",
+    "last_updated": "2026-08-25T14:49:20.656Z",
+    "published": "2026-08-25T13:57Z"
   }
 ]
