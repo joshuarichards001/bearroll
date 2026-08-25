@@ -336,9 +336,9 @@
     "url": "https://herman.bearblog.dev/extending-life-perception/",
     "title": "Extending life perception",
     "author": "https://herman.bearblog.dev",
-    "toasts": 50,
+    "toasts": 51,
     "first_seen": "2026-08-25T12:52:23.614Z",
-    "last_updated": "2026-08-25T21:31:22.280Z",
+    "last_updated": "2026-08-25T22:30:21.106Z",
     "published": "2026-08-25T11:59Z"
   },
   {
@@ -372,9 +372,9 @@
     "url": "https://davidmcgee.xyz/bitterness-about-my-religious-upbringing/",
     "title": "Bitterness about my Religious Upbringing",
     "author": "https://davidmcgee.xyz",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-25T12:52:23.614Z",
-    "last_updated": "2026-08-25T18:42:16.527Z",
+    "last_updated": "2026-08-25T22:30:21.106Z",
     "published": "2026-08-25T11:30Z"
   },
   {
@@ -417,9 +417,9 @@
     "url": "https://semdominio.bearblog.dev/fofoca-homerica-iliada-canto-i-parte-1/",
     "title": "Fofoca homérica: Ilíada, canto I (Parte 1)",
     "author": "https://semdominio.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-25T13:52:38.766Z",
-    "last_updated": "2026-08-25T18:42:16.527Z",
+    "last_updated": "2026-08-25T22:30:21.106Z",
     "published": "2026-08-25T12:57Z"
   },
   {
@@ -507,9 +507,9 @@
     "url": "https://unturnedhovel.bearblog.dev/difficult-session-report/",
     "title": "Taking My Lumps: A Frydheld Sector Session Report",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 11,
+    "toasts": 13,
     "first_seen": "2026-08-25T17:33:56.765Z",
-    "last_updated": "2026-08-25T20:32:18.463Z",
+    "last_updated": "2026-08-25T22:30:21.106Z",
     "published": "2026-08-25T16:41Z"
   },
   {
@@ -570,18 +570,18 @@
     "url": "https://joshgriffiths.site/that-time-i-was-almost-a-vtuber/",
     "title": "That Time I Was Almost a Vtuber",
     "author": "https://joshgriffiths.site",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-25T19:34:11.820Z",
-    "last_updated": "2026-08-25T21:31:22.280Z",
+    "last_updated": "2026-08-25T22:30:21.106Z",
     "published": "2026-08-25T17:47Z"
   },
   {
     "url": "https://sebastianmalloy.bearblog.dev/there-are-no-good-billionaires/",
     "title": "There Are No Good Billionaires…",
     "author": "https://sebastianmalloy.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-25T20:32:18.463Z",
-    "last_updated": "2026-08-25T20:32:18.463Z",
+    "last_updated": "2026-08-25T22:30:21.106Z",
     "published": "2026-08-25T20:15Z"
   },
   {
@@ -664,5 +664,32 @@
     "first_seen": "2026-08-25T21:31:22.280Z",
     "last_updated": "2026-08-25T21:31:22.280Z",
     "published": "2026-08-25T18:32Z"
+  },
+  {
+    "url": "https://leeyuhsolve.bearblog.dev/youre-not-you-when-you-draw/",
+    "title": "You're not you when you draw.",
+    "author": "https://leeyuhsolve.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-08-25T22:30:21.106Z",
+    "last_updated": "2026-08-25T22:30:21.106Z",
+    "published": "2026-08-25T20:41Z"
+  },
+  {
+    "url": "https://sebastianmalloy.bearblog.dev/stupid-summer-people/",
+    "title": "Stupid Summer People",
+    "author": "https://sebastianmalloy.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-25T22:30:21.106Z",
+    "last_updated": "2026-08-25T22:30:21.106Z",
+    "published": "2026-08-25T13:37Z"
+  },
+  {
+    "url": "https://crescendo.bearblog.dev/its-never-the-right-season/",
+    "title": "It's Never the Right Season",
+    "author": "https://crescendo.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-25T22:30:21.106Z",
+    "last_updated": "2026-08-25T22:30:21.106Z",
+    "published": "2026-08-25T21:38Z"
   }
 ]
