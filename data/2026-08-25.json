@@ -66,9 +66,9 @@
     "url": "https://notes.jeddacp.com/the-part-of-our-friendship-we-kept/",
     "title": "The Part of Our Friendship We Kept",
     "author": "https://notes.jeddacp.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-25T03:01:23.295Z",
-    "last_updated": "2026-08-25T04:41:23.246Z",
+    "last_updated": "2026-08-25T05:34:01.209Z",
     "published": "2026-08-25T01:40Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://heartfullkings.bearblog.dev/9940/",
     "title": "⋆｡°✎ᝰ ˎˊ˗",
     "author": "https://heartfullkings.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-25T04:41:23.246Z",
-    "last_updated": "2026-08-25T04:41:23.246Z",
+    "last_updated": "2026-08-25T05:34:01.209Z",
     "published": "2026-08-25T03:24Z"
   },
   {
@@ -178,5 +178,32 @@
     "first_seen": "2026-08-25T04:41:23.246Z",
     "last_updated": "2026-08-25T04:41:23.246Z",
     "published": "2026-08-25T02:03Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/earthrise/",
+    "title": "Earthrise",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-25T05:34:01.209Z",
+    "last_updated": "2026-08-25T05:34:01.209Z",
+    "published": "2026-08-25T04:48Z"
+  },
+  {
+    "url": "https://rnotte.art/why-did-i-choose-bear/",
+    "title": "why did i choose bear?",
+    "author": "https://rnotte.art",
+    "toasts": 2,
+    "first_seen": "2026-08-25T05:34:01.209Z",
+    "last_updated": "2026-08-25T05:34:01.209Z",
+    "published": "2026-08-25T04:45Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/checked-out-unhinged/",
+    "title": "Checked out Unhinged",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 2,
+    "first_seen": "2026-08-25T05:34:01.209Z",
+    "last_updated": "2026-08-25T05:34:01.209Z",
+    "published": "2026-08-25T04:32Z"
   }
 ]

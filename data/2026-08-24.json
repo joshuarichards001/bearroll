@@ -273,9 +273,9 @@
     "url": "https://orkish-odyssey.bearblog.dev/myth-magic-and-the-logic-of-dreams/",
     "title": "Myth, Magic, and the Logic of Dreams",
     "author": "https://orkish-odyssey.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-08-24T14:45:18.091Z",
-    "last_updated": "2026-08-25T01:24:40.374Z",
+    "last_updated": "2026-08-25T05:34:01.209Z",
     "published": "2026-08-24T14:34Z"
   },
   {
@@ -561,9 +561,9 @@
     "url": "https://www.jamesleighton.com/week-notes/2026/34/",
     "title": "Week Notes - 2026-34",
     "author": "https://www.jamesleighton.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-24T20:33:21.563Z",
-    "last_updated": "2026-08-24T20:33:21.563Z",
+    "last_updated": "2026-08-25T05:34:01.209Z",
     "published": "2026-08-24T20:30Z"
   },
   {
@@ -709,5 +709,14 @@
     "first_seen": "2026-08-25T01:24:40.374Z",
     "last_updated": "2026-08-25T01:24:40.374Z",
     "published": "2026-08-24T23:03Z"
+  },
+  {
+    "url": "https://jetgirl.art/game-controllers-and-you/",
+    "title": "Game Controllers and You",
+    "author": "https://jetgirl.art",
+    "toasts": 3,
+    "first_seen": "2026-08-25T05:34:01.209Z",
+    "last_updated": "2026-08-25T05:34:01.209Z",
+    "published": "2026-08-24T22:29Z"
   }
 ]
