@@ -120,18 +120,18 @@
     "url": "https://compiledfrog.com/post-93-my-first-fragment-function/",
     "title": "Post #93: My First Fragment Function",
     "author": "https://compiledfrog.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-25T04:41:23.246Z",
-    "last_updated": "2026-08-25T04:41:23.246Z",
+    "last_updated": "2026-08-25T06:53:08.391Z",
     "published": "2026-08-25T03:07Z"
   },
   {
     "url": "https://forsomeone.bearblog.dev/i-learned-it-from-watching-you/",
     "title": "I learned it from watching you",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-25T04:41:23.246Z",
-    "last_updated": "2026-08-25T04:41:23.246Z",
+    "last_updated": "2026-08-25T06:53:08.391Z",
     "published": "2026-08-25T02:59Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://tiramisu.bearblog.dev/party-time/",
     "title": "party time",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-25T04:41:23.246Z",
-    "last_updated": "2026-08-25T04:41:23.246Z",
+    "last_updated": "2026-08-25T06:53:08.391Z",
     "published": "2026-08-25T02:14Z"
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://rnotte.art/why-did-i-choose-bear/",
     "title": "why did i choose bear?",
     "author": "https://rnotte.art",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-25T05:34:01.209Z",
-    "last_updated": "2026-08-25T05:34:01.209Z",
+    "last_updated": "2026-08-25T06:53:08.391Z",
     "published": "2026-08-25T04:45Z"
   },
   {
@@ -205,5 +205,23 @@
     "first_seen": "2026-08-25T05:34:01.209Z",
     "last_updated": "2026-08-25T05:34:01.209Z",
     "published": "2026-08-25T04:32Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/apple-reverses-decision-on-hide-my-email-changes/",
+    "title": "Apple Reverses Decision on Hide My Email Changes",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-25T06:53:08.391Z",
+    "last_updated": "2026-08-25T06:53:08.391Z",
+    "published": "2026-08-25T04:54Z"
+  },
+  {
+    "url": "https://explorenz.bearblog.dev/houhora/",
+    "title": "Houhora",
+    "author": "https://explorenz.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-25T06:53:08.391Z",
+    "last_updated": "2026-08-25T06:53:08.391Z",
+    "published": "2026-08-25T04:26Z"
   }
 ]
