@@ -336,9 +336,9 @@
     "url": "https://herman.bearblog.dev/extending-life-perception/",
     "title": "Extending life perception",
     "author": "https://herman.bearblog.dev",
-    "toasts": 42,
+    "toasts": 44,
     "first_seen": "2026-08-25T12:52:23.614Z",
-    "last_updated": "2026-08-25T18:42:16.527Z",
+    "last_updated": "2026-08-25T19:34:11.820Z",
     "published": "2026-08-25T11:59Z"
   },
   {
@@ -354,9 +354,9 @@
     "url": "https://itsme.bearblog.dev/wix-is-a-mess/",
     "title": "WIX is a mess!",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-08-25T12:52:23.614Z",
-    "last_updated": "2026-08-25T17:33:56.765Z",
+    "last_updated": "2026-08-25T19:34:11.820Z",
     "published": "2026-08-25T12:41Z"
   },
   {
@@ -408,9 +408,9 @@
     "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
     "title": "Merchants of Insecurity",
     "author": "https://blog.happyfellow.dev",
-    "toasts": 13,
+    "toasts": 15,
     "first_seen": "2026-08-25T13:52:38.766Z",
-    "last_updated": "2026-08-25T18:42:16.527Z",
+    "last_updated": "2026-08-25T19:34:11.820Z",
     "published": "2026-08-25T12:31Z"
   },
   {
@@ -462,9 +462,9 @@
     "url": "https://pinewind.bearblog.dev/what-aesthetic-is-this/",
     "title": "\"what aesthetic is this?\"",
     "author": "https://pinewind.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-08-25T15:45:02.498Z",
-    "last_updated": "2026-08-25T18:42:16.527Z",
+    "last_updated": "2026-08-25T19:34:11.820Z",
     "published": "2026-08-25T14:50Z"
   },
   {
@@ -507,9 +507,9 @@
     "url": "https://unturnedhovel.bearblog.dev/difficult-session-report/",
     "title": "Taking My Lumps: A Frydheld Sector Session Report",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-25T17:33:56.765Z",
-    "last_updated": "2026-08-25T18:42:16.527Z",
+    "last_updated": "2026-08-25T19:34:11.820Z",
     "published": "2026-08-25T16:41Z"
   },
   {
@@ -547,5 +547,32 @@
     "first_seen": "2026-08-25T18:42:16.527Z",
     "last_updated": "2026-08-25T18:42:16.527Z",
     "published": "2026-08-25T14:47Z"
+  },
+  {
+    "url": "https://blog.curiousquail.com/the-hunt-for-rikers-moose/",
+    "title": "The Hunt for Riker's Moose (and Apple Juice)",
+    "author": "https://blog.curiousquail.com",
+    "toasts": 3,
+    "first_seen": "2026-08-25T19:34:11.820Z",
+    "last_updated": "2026-08-25T19:34:11.820Z",
+    "published": "2026-08-25T18:19Z"
+  },
+  {
+    "url": "https://trueself.bearblog.dev/reminder-on-sovereignty/",
+    "title": "reminder on sovereignty",
+    "author": "https://trueself.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-25T19:34:11.820Z",
+    "last_updated": "2026-08-25T19:34:11.820Z",
+    "published": "2026-08-25T19:08Z"
+  },
+  {
+    "url": "https://joshgriffiths.site/that-time-i-was-almost-a-vtuber/",
+    "title": "That Time I Was Almost a Vtuber",
+    "author": "https://joshgriffiths.site",
+    "toasts": 2,
+    "first_seen": "2026-08-25T19:34:11.820Z",
+    "last_updated": "2026-08-25T19:34:11.820Z",
+    "published": "2026-08-25T17:47Z"
   }
 ]
