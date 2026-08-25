@@ -102,9 +102,9 @@
     "url": "https://writeitdown.bearblog.dev/things-i-did-that-made-my-life-better/",
     "title": "Things I did that made my life better",
     "author": "https://writeitdown.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-25T03:01:23.295Z",
-    "last_updated": "2026-08-25T03:01:23.295Z",
+    "last_updated": "2026-08-25T11:30:52.132Z",
     "published": "2026-08-25T00:20Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://blog.lauramichet.com/checked-out-unhinged/",
     "title": "Checked out Unhinged",
     "author": "https://blog.lauramichet.com",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-08-25T05:34:01.209Z",
-    "last_updated": "2026-08-25T05:34:01.209Z",
+    "last_updated": "2026-08-25T11:30:52.132Z",
     "published": "2026-08-25T04:32Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://annoflo.net/2070-music/",
     "title": "ANNO 2070: How a fancy Excel spreadsheet made me cry",
     "author": "https://annoflo.net",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-25T09:38:10.776Z",
-    "last_updated": "2026-08-25T09:38:10.776Z",
+    "last_updated": "2026-08-25T11:30:52.132Z",
     "published": "2026-08-25T08:23Z"
   },
   {
@@ -304,5 +304,32 @@
     "first_seen": "2026-08-25T10:35:44.480Z",
     "last_updated": "2026-08-25T10:35:44.480Z",
     "published": "2026-08-25T07:00Z"
+  },
+  {
+    "url": "https://theprivacydad.com/its-ok-to-take-a-break-from-thinking-about-digital-privacy/",
+    "title": "It's OK to Take a Break from Thinking About Digital Privacy",
+    "author": "https://theprivacydad.com",
+    "toasts": 8,
+    "first_seen": "2026-08-25T11:30:52.132Z",
+    "last_updated": "2026-08-25T11:30:52.132Z",
+    "published": "2026-08-25T10:21Z"
+  },
+  {
+    "url": "https://icyti.me/finding-joy-in-cringe-or-saying-no-to-my-republican-shoulder-devil/",
+    "title": "finding joy in cringe (or, saying NO to my reactionary shoulder devil)",
+    "author": "https://icyti.me",
+    "toasts": 3,
+    "first_seen": "2026-08-25T11:30:52.132Z",
+    "last_updated": "2026-08-25T11:30:52.132Z",
+    "published": "2026-08-25T00:25Z"
+  },
+  {
+    "url": "https://th.blog.br/sabonete-phebo/",
+    "title": "sabonete phebo",
+    "author": "https://th.blog.br",
+    "toasts": 2,
+    "first_seen": "2026-08-25T11:30:52.132Z",
+    "last_updated": "2026-08-25T11:30:52.132Z",
+    "published": "2026-08-25T09:22Z"
   }
 ]
