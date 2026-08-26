@@ -84,9 +84,9 @@
     "url": "https://betaveros.bearblog.dev/scattered-notes-from-setting-up-a-macbook-and-updating-my-website/",
     "title": "scattered notes from setting up a macbook and updating my website",
     "author": "https://betaveros.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-26T04:42:12.395Z",
-    "last_updated": "2026-08-26T05:36:55.703Z",
+    "last_updated": "2026-08-26T09:45:43.801Z",
     "published": "2026-08-26T03:48Z"
   },
   {
@@ -205,5 +205,14 @@
     "first_seen": "2026-08-26T08:48:18.721Z",
     "last_updated": "2026-08-26T08:48:18.721Z",
     "published": "2026-08-26T06:31Z"
+  },
+  {
+    "url": "https://db-sandbox.bearblog.dev/mumbai-memoirs/",
+    "title": "Mumbai Memoirs",
+    "author": "https://db-sandbox.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-26T09:45:43.801Z",
+    "last_updated": "2026-08-26T09:45:43.801Z",
+    "published": "2026-08-26T09:03Z"
   }
 ]
