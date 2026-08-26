@@ -12,9 +12,9 @@
     "url": "https://www.hardrefresh.life/the-best-and-worst-time-to-be-alive/",
     "title": "The Best And Worst Time To Be Alive",
     "author": "https://www.hardrefresh.life",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-08-26T01:34:21.531Z",
-    "last_updated": "2026-08-26T06:54:25.873Z",
+    "last_updated": "2026-08-26T07:49:38.431Z",
     "published": "2026-08-26T01:22Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://tuesdaynight.blog/in-taiwan-now-and-want-to-go-home/",
     "title": "landed in taiwan and already want to go home",
     "author": "https://tuesdaynight.blog",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-08-26T04:42:12.395Z",
-    "last_updated": "2026-08-26T04:42:12.395Z",
+    "last_updated": "2026-08-26T07:49:38.431Z",
     "published": "2026-08-26T03:22Z"
   },
   {
@@ -93,18 +93,81 @@
     "url": "https://sususol.bearblog.dev/photo-a-red-giant/",
     "title": "photo: a red giant",
     "author": "https://sususol.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-26T04:42:12.395Z",
-    "last_updated": "2026-08-26T05:36:55.703Z",
+    "last_updated": "2026-08-26T07:49:38.431Z",
     "published": "2026-08-26T03:30Z"
   },
   {
     "url": "https://perfumeandletters.bearblog.dev/an-ode-to-my-corporate-peeps/",
     "title": "An Ode to My Corporate Peeps",
     "author": "https://perfumeandletters.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-26T06:54:25.873Z",
-    "last_updated": "2026-08-26T06:54:25.873Z",
+    "last_updated": "2026-08-26T07:49:38.431Z",
     "published": "2026-08-26T06:26Z"
+  },
+  {
+    "url": "https://vinceblog.net/now/",
+    "title": "Now",
+    "author": "https://vinceblog.net",
+    "toasts": 3,
+    "first_seen": "2026-08-26T07:49:38.431Z",
+    "last_updated": "2026-08-26T07:49:38.431Z",
+    "published": "2026-08-26T06:52Z"
+  },
+  {
+    "url": "https://bearlyadiary.bearblog.dev/on-why-contrarians-are-some-of-the-worst-kinds-of-people/",
+    "title": "On why contrarians are some of the worst kinds of people",
+    "author": "https://bearlyadiary.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-26T07:49:38.431Z",
+    "last_updated": "2026-08-26T07:49:38.431Z",
+    "published": "2026-08-26T06:09Z"
+  },
+  {
+    "url": "https://theliminalmargin.bearblog.dev/your-energy-is-a-disturbance-to-my-creative-process/",
+    "title": "Your energy is a disturbance to my creative process",
+    "author": "https://theliminalmargin.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-26T07:49:38.431Z",
+    "last_updated": "2026-08-26T07:49:38.431Z",
+    "published": "2026-08-26T05:04Z"
+  },
+  {
+    "url": "https://defygrad.bearblog.dev/when-will-it-make-sense/",
+    "title": "when will it make sense",
+    "author": "https://defygrad.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-26T07:49:38.431Z",
+    "last_updated": "2026-08-26T07:49:38.431Z",
+    "published": "2026-08-26T06:58Z"
+  },
+  {
+    "url": "https://unturnedhovel.bearblog.dev/wages-of-sin-bounty-87-ftl-nomad-session-report/",
+    "title": "Wages of Sin Bounty 87 FTL: Nomad Session Report",
+    "author": "https://unturnedhovel.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-26T07:49:38.431Z",
+    "last_updated": "2026-08-26T07:49:38.431Z",
+    "published": "2026-08-26T06:38Z"
+  },
+  {
+    "url": "https://therabbitholehaswifi.bearblog.dev/the-reckoning/",
+    "title": "The Reckoning",
+    "author": "https://therabbitholehaswifi.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-26T07:49:38.431Z",
+    "last_updated": "2026-08-26T07:49:38.431Z",
+    "published": "2026-08-26T06:20Z"
+  },
+  {
+    "url": "https://eveningnotes.bearblog.dev/fuck-you-i-still-have-your-cookie-recipe/",
+    "title": "Fuck you, I still have your cookie recipe.",
+    "author": "https://eveningnotes.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-26T07:49:38.431Z",
+    "last_updated": "2026-08-26T07:49:38.431Z",
+    "published": "2026-08-26T06:04Z"
   }
 ]
