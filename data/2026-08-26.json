@@ -102,9 +102,9 @@
     "url": "https://perfumeandletters.bearblog.dev/an-ode-to-my-corporate-peeps/",
     "title": "An Ode to My Corporate Peeps",
     "author": "https://perfumeandletters.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-08-26T06:54:25.873Z",
-    "last_updated": "2026-08-26T07:49:38.431Z",
+    "last_updated": "2026-08-26T11:32:41.708Z",
     "published": "2026-08-26T06:26Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://unturnedhovel.bearblog.dev/wages-of-sin-bounty-87-ftl-nomad-session-report/",
     "title": "Wages of Sin Bounty 87 FTL: Nomad Session Report",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-26T07:49:38.431Z",
-    "last_updated": "2026-08-26T08:48:18.721Z",
+    "last_updated": "2026-08-26T11:32:41.708Z",
     "published": "2026-08-26T06:38Z"
   },
   {
@@ -192,18 +192,18 @@
     "url": "https://blog.lauramichet.com/i-saw-a-motocompacto-in-the-wild/",
     "title": "I saw a Motocompacto in the wild",
     "author": "https://blog.lauramichet.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-26T08:48:18.721Z",
-    "last_updated": "2026-08-26T08:48:18.721Z",
+    "last_updated": "2026-08-26T11:32:41.708Z",
     "published": "2026-08-26T06:40Z"
   },
   {
     "url": "https://omkark.me/guess-whos-back-back-again/",
     "title": "Guess who's back. Back again.",
     "author": "https://omkark.me",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-26T08:48:18.721Z",
-    "last_updated": "2026-08-26T08:48:18.721Z",
+    "last_updated": "2026-08-26T11:32:41.708Z",
     "published": "2026-08-26T06:31Z"
   },
   {
@@ -219,18 +219,27 @@
     "url": "https://www.comasborrascosas.es/about/",
     "title": "Sobre mí",
     "author": "https://www.comasborrascosas.es",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-26T10:38:01.145Z",
-    "last_updated": "2026-08-26T10:38:01.145Z",
+    "last_updated": "2026-08-26T11:32:41.708Z",
     "published": "2026-08-26T10:07Z"
   },
   {
     "url": "https://magnusps.dev/everything-popular-is-wrong/",
     "title": "Everything Popular Is Wrong",
     "author": "https://magnusps.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-08-26T10:38:01.145Z",
-    "last_updated": "2026-08-26T10:38:01.145Z",
+    "last_updated": "2026-08-26T11:32:41.708Z",
     "published": "2026-08-26T09:35Z"
+  },
+  {
+    "url": "https://caelinsvault.bearblog.dev/indonesia-blogwagon-the-shadowplay/",
+    "title": "Indonesia Blogwagon: The Shadowplay",
+    "author": "https://caelinsvault.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-26T11:32:41.708Z",
+    "last_updated": "2026-08-26T11:32:41.708Z",
+    "published": "2026-08-26T11:19Z"
   }
 ]
