@@ -12,9 +12,9 @@
     "url": "https://www.hardrefresh.life/the-best-and-worst-time-to-be-alive/",
     "title": "The Best And Worst Time To Be Alive",
     "author": "https://www.hardrefresh.life",
-    "toasts": 4,
+    "toasts": 10,
     "first_seen": "2026-08-26T01:34:21.531Z",
-    "last_updated": "2026-08-26T03:08:06.347Z",
+    "last_updated": "2026-08-26T06:54:25.873Z",
     "published": "2026-08-26T01:22Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-08-26T04:42:12.395Z",
     "last_updated": "2026-08-26T05:36:55.703Z",
     "published": "2026-08-26T03:30Z"
+  },
+  {
+    "url": "https://perfumeandletters.bearblog.dev/an-ode-to-my-corporate-peeps/",
+    "title": "An Ode to My Corporate Peeps",
+    "author": "https://perfumeandletters.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-26T06:54:25.873Z",
+    "last_updated": "2026-08-26T06:54:25.873Z",
+    "published": "2026-08-26T06:26Z"
   }
 ]
