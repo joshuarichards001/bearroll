@@ -3,18 +3,18 @@
     "url": "https://originalspirit.bearblog.dev/a-small-accommodation/",
     "title": "a small accommodation",
     "author": "https://originalspirit.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-08-30T04:31:07.477Z",
-    "last_updated": "2026-08-30T04:31:07.477Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
     "published": "2026-08-30T01:14Z"
   },
   {
     "url": "https://forsomeone.bearblog.dev/your-son-brought-home-a-dog/",
     "title": "Your son brought home a dog",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 4,
+    "toasts": 12,
     "first_seen": "2026-08-30T04:31:07.477Z",
-    "last_updated": "2026-08-30T10:22:05.784Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
     "published": "2026-08-30T00:29Z"
   },
   {
@@ -66,54 +66,54 @@
     "url": "https://laraisabelle.bearblog.dev/hi/",
     "title": "Hi!",
     "author": "https://laraisabelle.bearblog.dev",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-08-30T10:22:05.784Z",
-    "last_updated": "2026-08-30T10:22:05.784Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
     "published": "2026-08-30T07:56Z"
   },
   {
     "url": "https://joeb.bearblog.dev/what-does-that-look-like/",
     "title": "what does that look like?",
     "author": "https://joeb.bearblog.dev",
-    "toasts": 4,
+    "toasts": 12,
     "first_seen": "2026-08-30T10:22:05.784Z",
-    "last_updated": "2026-08-30T10:22:05.784Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
     "published": "2026-08-30T05:17Z"
   },
   {
     "url": "https://blog.avas.space/rosebudthorn-aug26/",
     "title": "rose ▪ bud ▪ thorn - august 2026",
     "author": "https://blog.avas.space",
-    "toasts": 3,
+    "toasts": 11,
     "first_seen": "2026-08-30T10:22:05.784Z",
-    "last_updated": "2026-08-30T10:22:05.784Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
     "published": "2026-08-30T07:30Z"
   },
   {
     "url": "https://tallywinkle.bearblog.dev/finished-blanket/",
     "title": "finished blanket!",
     "author": "https://tallywinkle.bearblog.dev",
-    "toasts": 3,
+    "toasts": 10,
     "first_seen": "2026-08-30T10:22:05.784Z",
-    "last_updated": "2026-08-30T10:22:05.784Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
     "published": "2026-08-30T06:44Z"
   },
   {
     "url": "https://mason.bearblog.dev/what-why-how/",
     "title": "What, Why, How",
     "author": "https://mason.bearblog.dev",
-    "toasts": 3,
+    "toasts": 9,
     "first_seen": "2026-08-30T10:22:05.784Z",
-    "last_updated": "2026-08-30T10:22:05.784Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
     "published": "2026-08-30T05:36Z"
   },
   {
     "url": "https://fornoone.bearblog.dev/weeknotes-352026-taking-some-time/",
     "title": "Weeknotes #35/2026: Taking some time",
     "author": "https://fornoone.bearblog.dev",
-    "toasts": 3,
+    "toasts": 13,
     "first_seen": "2026-08-30T10:22:05.784Z",
-    "last_updated": "2026-08-30T10:22:05.784Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
     "published": "2026-08-30T01:41Z"
   },
   {
@@ -160,5 +160,158 @@
     "first_seen": "2026-08-30T10:22:05.784Z",
     "last_updated": "2026-08-30T10:22:05.784Z",
     "published": "2026-08-30T01:33Z"
+  },
+  {
+    "url": "https://householderkarl.com/psychonautica/",
+    "title": "Psychonautica",
+    "author": "https://householderkarl.com",
+    "toasts": 10,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T13:19Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/neocities-is-for-nostalgic-masochists/",
+    "title": "Neocities is for nostalgic masochists.",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T13:13Z"
+  },
+  {
+    "url": "https://bookishmk.com/blaugust-2026-8-indieweb-blogosphere-newb/",
+    "title": "Blaugust 2026 #8: The Blogosphere Iceberg",
+    "author": "https://bookishmk.com",
+    "toasts": 9,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T11:54Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/did-i-mention-we-have-ai-in-this-new-release/",
+    "title": "Did I Mention We Have AI In This New Release?",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T12:35Z"
+  },
+  {
+    "url": "https://sparenotes.online/weekend-stuff/",
+    "title": "Weekend Stuff",
+    "author": "https://sparenotes.online",
+    "toasts": 9,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T05:08Z"
+  },
+  {
+    "url": "https://blog.heyfuturejesse.com/an-excellent-quote-by-bob-monkhouse/",
+    "title": "An excellent quote by Bob Monkhouse",
+    "author": "https://blog.heyfuturejesse.com",
+    "toasts": 7,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T11:53Z"
+  },
+  {
+    "url": "https://davidmcgee.xyz/its-weird-that-zoomers-are-nostalgic-for-beta-minecraft/",
+    "title": "It's Weird that Zoomers are Nostalgic for Beta Minecraft",
+    "author": "https://davidmcgee.xyz",
+    "toasts": 7,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T11:30Z"
+  },
+  {
+    "url": "https://hilanderrpgs.bearblog.dev/zlda-winters-deep-dungeon/",
+    "title": "ZLDA: Winters Deep (Dungeon)",
+    "author": "https://hilanderrpgs.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T06:35Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/i-made-pickles-with-a-crap-ton-of-chili-oil/",
+    "title": "I made pickles with a crap ton of chili oil",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 8,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T06:21Z"
+  },
+  {
+    "url": "https://technically-good.ca/newsletter/015-2026-08-30/",
+    "title": "💌 Newsletter #015 - \"Watermarks\" in Chatbot Output; Meta settles; \"It's Just a Tool?\"",
+    "author": "https://technically-good.ca",
+    "toasts": 5,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T14:40Z"
+  },
+  {
+    "url": "https://readingrecluse.bearblog.dev/gaza-genocide-and-academic-freedom-by-david-moshman/",
+    "title": "🌟 \"Gaza, Genocide, and Academic Freedom\" by David Moshman",
+    "author": "https://readingrecluse.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T08:36Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260830/",
+    "title": "隔壁桌的暧昧学",
+    "author": "https://blog.solazy.me",
+    "toasts": 3,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T06:00Z"
+  },
+  {
+    "url": "https://lordofnothing.com/dear-emily/",
+    "title": "dear emily",
+    "author": "https://lordofnothing.com",
+    "toasts": 3,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T03:13Z"
+  },
+  {
+    "url": "https://angrybunnyman.com/twenty-three-reminding-myself-that-im-not-a-bad-artist-im-learning-something-new/",
+    "title": "twenty-three: reminding myself that I'm not a bad artist, I'm learning something new",
+    "author": "https://angrybunnyman.com",
+    "toasts": 2,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T15:05Z"
+  },
+  {
+    "url": "https://73pctgeek.com/973/",
+    "title": "973",
+    "author": "https://73pctgeek.com",
+    "toasts": 2,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T11:07Z"
+  },
+  {
+    "url": "https://livingkindfully.bearblog.dev/your-kind-actions-may-have-terrible-consequences/",
+    "title": "Your Kind Actions May Have Terrible Consequences",
+    "author": "https://livingkindfully.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T10:14Z"
+  },
+  {
+    "url": "https://pebbleocean.bearblog.dev/the-path/",
+    "title": "The Path",
+    "author": "https://pebbleocean.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-08-30T15:14:38.173Z",
+    "last_updated": "2026-08-30T15:14:38.173Z",
+    "published": "2026-08-30T05:49Z"
   }
 ]
