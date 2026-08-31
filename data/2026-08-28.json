@@ -210,9 +210,9 @@
     "url": "https://reedybear.bearblog.dev/book-theme-for-bearblog/",
     "title": "My blog looks like a book!",
     "author": "https://reedybear.bearblog.dev",
-    "toasts": 49,
+    "toasts": 52,
     "first_seen": "2026-08-28T23:55:24.770Z",
-    "last_updated": "2026-08-31T01:12:26.091Z",
+    "last_updated": "2026-08-31T16:52:07.753Z",
     "published": "2026-08-28T20:48Z"
   },
   {
@@ -520,5 +520,14 @@
     "first_seen": "2026-08-30T10:22:05.784Z",
     "last_updated": "2026-08-31T08:21:15.058Z",
     "published": "2026-08-28T20:23Z"
+  },
+  {
+    "url": "https://straye.dgirl.gay/blog/2026/ai-ruined-accessibility/",
+    "title": "AI ruined some of my most precious accessibility tools.",
+    "author": "https://straye.dgirl.gay",
+    "toasts": 99,
+    "first_seen": "2026-08-31T16:52:07.753Z",
+    "last_updated": "2026-08-31T16:52:07.753Z",
+    "published": "2026-08-28T22:05Z"
   }
 ]
