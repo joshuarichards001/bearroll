@@ -372,9 +372,9 @@
     "url": "https://kami.bearblog.dev/various-stupid-quotes-i-found-on-the-internet-and-then-put-on-my-website/",
     "title": "Various stupid quotes i found on the internet and then put on my website",
     "author": "https://kami.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-08-30T19:09:47.897Z",
-    "last_updated": "2026-08-31T21:47:58.814Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
     "published": "2026-08-30T19:03Z"
   },
   {
@@ -489,9 +489,9 @@
     "url": "https://idraluna-archives.bearblog.dev/gay-beholder-super-adventure-6-aar/",
     "title": "Gay Beholder Super Adventure 6 (AAR)",
     "author": "https://idraluna-archives.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-08-30T22:31:07.264Z",
-    "last_updated": "2026-09-01T07:29:32.563Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
     "published": "2026-08-30T21:14Z"
   },
   {
@@ -633,18 +633,18 @@
     "url": "https://jottednotes.bearblog.dev/i-want-to-see-more-sunsets/",
     "title": "i want to see more sunsets",
     "author": "https://jottednotes.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-31T01:12:26.091Z",
-    "last_updated": "2026-08-31T08:21:15.058Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
     "published": "2026-08-30T23:39Z"
   },
   {
     "url": "https://leeyuhletters.bearblog.dev/finally-breaking-up-with-drawing/",
     "title": "finally breaking up with drawing",
     "author": "https://leeyuhletters.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-08-31T01:12:26.091Z",
-    "last_updated": "2026-08-31T16:52:07.753Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
     "published": "2026-08-30T23:41Z"
   },
   {
@@ -682,5 +682,14 @@
     "first_seen": "2026-08-31T01:12:26.091Z",
     "last_updated": "2026-08-31T08:21:15.058Z",
     "published": "2026-08-30T21:05Z"
+  },
+  {
+    "url": "https://akashyap.ai/the-future-tech-role-is-the-product-architect/",
+    "title": "The Future Tech Role Is the Product Architect",
+    "author": "https://akashyap.ai",
+    "toasts": 10,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-08-30T15:19Z"
   }
 ]

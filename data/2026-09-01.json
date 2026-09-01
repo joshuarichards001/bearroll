@@ -48,9 +48,9 @@
     "url": "https://blog.solazy.me/20260901/",
     "title": "不再期待下一份工作",
     "author": "https://blog.solazy.me",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-01T07:29:32.563Z",
-    "last_updated": "2026-09-01T07:29:32.563Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
     "published": "2026-09-01T02:00Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://musing.ispretty.fyi/blog/watched-camp-miasma-today/",
     "title": "watched camp miasma today",
     "author": "https://musing.ispretty.fyi",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-01T07:29:32.563Z",
-    "last_updated": "2026-09-01T07:29:32.563Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
     "published": "2026-09-01T05:10Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://robynbirdblog.bearblog.dev/what-anatomy-in-art-making-and-orchestra-performancerehearsel-have-something-in-common/",
     "title": "What Anatomy in Art-Making and Orchestra Performance/Rehearsel have something in common",
     "author": "https://robynbirdblog.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-01T07:29:32.563Z",
-    "last_updated": "2026-09-01T07:29:32.563Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
     "published": "2026-09-01T04:21Z"
   },
   {
@@ -129,18 +129,162 @@
     "url": "https://combatdavey.net/august-31-2026/",
     "title": "august 31 nyt",
     "author": "https://combatdavey.net",
-    "toasts": 2,
+    "toasts": 5,
     "first_seen": "2026-09-01T07:29:32.563Z",
-    "last_updated": "2026-09-01T07:29:32.563Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
     "published": "2026-09-01T03:43Z"
   },
   {
     "url": "https://mikahgosto.bearblog.dev/3108day-1-blog-day-de-2026/",
     "title": "3108Day #1 - Blog Day de 2026",
     "author": "https://mikahgosto.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-01T07:29:32.563Z",
-    "last_updated": "2026-09-01T07:29:32.563Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
     "published": "2026-09-01T02:00Z"
+  },
+  {
+    "url": "https://piimyon.bearblog.dev/can-this-small-web-thing-be-back-to-being-offline/",
+    "title": "Can this small web thing be back to being offline?",
+    "author": "https://piimyon.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T09:17Z"
+  },
+  {
+    "url": "https://drowsy.bearblog.dev/im-too-scared-to-talk-to-my-friends/",
+    "title": "I'm too scared to talk to my friends.",
+    "author": "https://drowsy.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T03:23Z"
+  },
+  {
+    "url": "https://subtleharlot.bearblog.dev/dressing-for-life-in-the-modern-highlands/",
+    "title": "Dressing for Life in the Modern Highlands",
+    "author": "https://subtleharlot.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T10:18Z"
+  },
+  {
+    "url": "https://robynbirdblog.bearblog.dev/the-future-direction-of-my-bearblog/",
+    "title": "The Future Direction of my Bearblog",
+    "author": "https://robynbirdblog.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T09:29Z"
+  },
+  {
+    "url": "https://blog.sulimans.space/stop-your-performative-concern/",
+    "title": "stop your performative concern!",
+    "author": "https://blog.sulimans.space",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T12:53Z"
+  },
+  {
+    "url": "https://e10.bearblog.dev/lust/",
+    "title": "Lust",
+    "author": "https://e10.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T12:53Z"
+  },
+  {
+    "url": "https://nathan.bearblog.dev/separate/",
+    "title": "Be Separate",
+    "author": "https://nathan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T12:20Z"
+  },
+  {
+    "url": "https://readingrecluse.bearblog.dev/to-the-east-of-the-east-by-ping-lu/",
+    "title": "\"To the East of the East\" by Ping Lu",
+    "author": "https://readingrecluse.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T10:41Z"
+  },
+  {
+    "url": "https://themustyattic.bearblog.dev/good-rain/",
+    "title": "good rain",
+    "author": "https://themustyattic.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T09:35Z"
+  },
+  {
+    "url": "https://moodywarlock.net/undead-goon-another-afternoon-scribble/",
+    "title": "Undead Goon - another afternoon scribble",
+    "author": "https://moodywarlock.net",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T09:14Z"
+  },
+  {
+    "url": "https://73pctgeek.com/digital-sketchbooks-in-procreate/",
+    "title": "Digital Sketchbooks in Procreate",
+    "author": "https://73pctgeek.com",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T08:58Z"
+  },
+  {
+    "url": "https://antechei.bearblog.dev/142-paws-sorry/",
+    "title": "142 - paws, sorry",
+    "author": "https://antechei.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T08:37Z"
+  },
+  {
+    "url": "https://tismlens.net/false-assumption-that-others-know-better/",
+    "title": "FALSE: Assumption that others know better",
+    "author": "https://tismlens.net",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T08:28Z"
+  },
+  {
+    "url": "https://pebbleocean.bearblog.dev/why-yu-hua-writes/",
+    "title": "why Yu Hua writes",
+    "author": "https://pebbleocean.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T08:19Z"
+  },
+  {
+    "url": "https://lnebres.bearblog.dev/a-ledge-in-the-river/",
+    "title": "the right to be disappointed",
+    "author": "https://lnebres.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T08:11Z"
+  },
+  {
+    "url": "https://tism.help/new-me/",
+    "title": "Back to messing around",
+    "author": "https://tism.help",
+    "toasts": 2,
+    "first_seen": "2026-09-01T13:16:09.905Z",
+    "last_updated": "2026-09-01T13:16:09.905Z",
+    "published": "2026-09-01T06:35Z"
   }
 ]
