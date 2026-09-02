@@ -12,9 +12,9 @@
     "url": "https://tiramisu.bearblog.dev/new-beginnings/",
     "title": "new beginnings",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-09-02T03:39:53.055Z",
-    "last_updated": "2026-09-02T13:24:25.027Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
     "published": "2026-09-02T02:27Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://leeyuhletters.bearblog.dev/your-cameras-are-making-it-hard-to-connect-with-you/",
     "title": "your cameras are making it hard to connect with you",
     "author": "https://leeyuhletters.bearblog.dev",
-    "toasts": 12,
+    "toasts": 21,
     "first_seen": "2026-09-02T08:35:04.837Z",
-    "last_updated": "2026-09-02T13:24:25.027Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
     "published": "2026-09-02T06:35Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://blog.remedy.blue/i-could-give-it-a-hug-if-it-wasnt-so-abstract/",
     "title": "\"I COULD GIVE IT A HUG IF IT WASN'T SO ABSTRACT\"",
     "author": "https://blog.remedy.blue",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-09-02T08:35:04.837Z",
-    "last_updated": "2026-09-02T13:24:25.027Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
     "published": "2026-09-02T07:11Z"
   },
   {
@@ -111,18 +111,18 @@
     "url": "https://blog.lauramichet.com/i-finished-the-first-seven-senritsu-kaiki-file-kowasugi-movies/",
     "title": "I finished the first seven Senritsu Kaiki File Kowasugi! movies",
     "author": "https://blog.lauramichet.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-09-02T13:24:25.027Z",
-    "last_updated": "2026-09-02T13:24:25.027Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
     "published": "2026-09-02T06:50Z"
   },
   {
     "url": "https://justrodents.com/clear-your-cookies-before-the-price-tag-starts-sniffing/",
     "title": "Clear Your Cookies Before the Price Tag Starts Sniffing",
     "author": "https://justrodents.com",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-09-02T13:24:25.027Z",
-    "last_updated": "2026-09-02T13:24:25.027Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
     "published": "2026-09-02T11:17Z"
   },
   {
@@ -201,18 +201,207 @@
     "url": "https://annoflo.net/lack-doc/",
     "title": "Lacking documentation is fun",
     "author": "https://annoflo.net",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-09-02T13:24:25.027Z",
-    "last_updated": "2026-09-02T13:24:25.027Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
     "published": "2026-09-02T08:21Z"
   },
   {
     "url": "https://thoughts.pivic.com/against-ai-my-bear-configuration/",
     "title": "Against AI: my Bear configuration",
     "author": "https://thoughts.pivic.com",
-    "toasts": 2,
+    "toasts": 7,
     "first_seen": "2026-09-02T13:24:25.027Z",
-    "last_updated": "2026-09-02T13:24:25.027Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
     "published": "2026-09-02T05:30Z"
+  },
+  {
+    "url": "https://blog.avas.space/ring-bullshit/",
+    "title": "rationalizations about ring, flock, etc.",
+    "author": "https://blog.avas.space",
+    "toasts": 12,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T16:17Z"
+  },
+  {
+    "url": "https://blighttown.bearblog.dev/re-your-cameras-are-making-it-hard-to-connect-with-you/",
+    "title": "Re: your cameras are making it hard to connect with you",
+    "author": "https://blighttown.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T13:22Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/theyre-suing-openai/",
+    "title": "They're suing OpenAI",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T13:34Z"
+  },
+  {
+    "url": "https://lwgrs.bearblog.dev/re-mobile-photography/",
+    "title": "re: I don’t/can’t enjoy mobile photography",
+    "author": "https://lwgrs.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T14:38Z"
+  },
+  {
+    "url": "https://didierpironi.bearblog.dev/my-little-hill/",
+    "title": "My Little Hill",
+    "author": "https://didierpironi.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T15:04Z"
+  },
+  {
+    "url": "https://galacticman.bearblog.dev/big-walk-soundtrack/",
+    "title": "Big Walk Soundtrack",
+    "author": "https://galacticman.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T14:10Z"
+  },
+  {
+    "url": "https://pignole-magazine.com/2000-albums-une-retrospective/",
+    "title": "2000 albums : une rétrospective",
+    "author": "https://pignole-magazine.com",
+    "toasts": 3,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T13:55Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/passado/",
+    "title": "Passado",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T13:36Z"
+  },
+  {
+    "url": "https://lnebres.bearblog.dev/the-whale-does-not-owe-us-a-translation/",
+    "title": "\"the whale does not owe us a translation\"",
+    "author": "https://lnebres.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T07:56Z"
+  },
+  {
+    "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
+    "title": "The Post-AI Internet Doesn't Look Great",
+    "author": "https://www.jordangoodman.xyz",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T17:28Z"
+  },
+  {
+    "url": "https://ruadafeira.varzea.recife.br/a-internet-nao-e-libertadora/",
+    "title": "A internet não é libertadora",
+    "author": "https://ruadafeira.varzea.recife.br",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T17:17Z"
+  },
+  {
+    "url": "https://nonentity.bearblog.dev/they-all-have-somebody-to-talk-with/",
+    "title": "They all have somebody to talk with",
+    "author": "https://nonentity.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T16:30Z"
+  },
+  {
+    "url": "https://microblog-semdominio.bearblog.dev/1230/",
+    "title": "12:30",
+    "author": "https://microblog-semdominio.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T16:18Z"
+  },
+  {
+    "url": "https://writer.andersmartinhelle.com/having-more-fun-prepping-for-draw-steel/",
+    "title": "Having more fun prepping for Draw Steel",
+    "author": "https://writer.andersmartinhelle.com",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T16:00Z"
+  },
+  {
+    "url": "https://bard.bearblog.dev/shunversations-in-the-machine/",
+    "title": "Shunversations in the machine",
+    "author": "https://bard.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T15:07Z"
+  },
+  {
+    "url": "https://prasatt.me/the-splendid-fairywren/",
+    "title": "The Splendid Fairywren",
+    "author": "https://prasatt.me",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T14:10Z"
+  },
+  {
+    "url": "https://blog.arkoe.net/revived-my-blog-and-leaked-my-album-on-newgrounds/",
+    "title": "Revived my blog and leaked my album on newgrounds",
+    "author": "https://blog.arkoe.net",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T14:00Z"
+  },
+  {
+    "url": "https://mytelelog.bearblog.dev/the-most-unusual-skill-i-have-developed/",
+    "title": "The most unusual skill I have developed...",
+    "author": "https://mytelelog.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T13:58Z"
+  },
+  {
+    "url": "https://theliminalmargin.bearblog.dev/unfortunately-i-would-still-like-to-win-things/",
+    "title": "Unfortunately, I would still like to win things",
+    "author": "https://theliminalmargin.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T13:58Z"
+  },
+  {
+    "url": "https://jwei.bearblog.dev/death-clock/",
+    "title": "Death Clock",
+    "author": "https://jwei.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T11:53Z"
+  },
+  {
+    "url": "https://ambivalentabout.bearblog.dev/de-volta-ao-bullet-journal/",
+    "title": "De volta ao bullet journal",
+    "author": "https://ambivalentabout.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-02T17:43:46.127Z",
+    "last_updated": "2026-09-02T17:43:46.127Z",
+    "published": "2026-09-02T10:12Z"
   }
 ]
