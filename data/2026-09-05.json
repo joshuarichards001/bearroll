@@ -12,9 +12,9 @@
     "url": "https://icyti.me/doomed-to-fall/",
     "title": "doomed to fall",
     "author": "https://icyti.me",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-09-05T05:23:55.162Z",
-    "last_updated": "2026-09-05T16:38:47.679Z",
+    "last_updated": "2026-09-05T18:52:53.781Z",
     "published": "2026-09-05T03:44Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://householderkarl.com/going-to-the-movies-alone/",
     "title": "Going to the Movies Alone",
     "author": "https://householderkarl.com",
-    "toasts": 8,
+    "toasts": 12,
     "first_seen": "2026-09-05T16:38:47.679Z",
-    "last_updated": "2026-09-05T16:38:47.679Z",
+    "last_updated": "2026-09-05T18:52:53.781Z",
     "published": "2026-09-05T14:53Z"
   },
   {
@@ -304,5 +304,68 @@
     "first_seen": "2026-09-05T16:38:47.679Z",
     "last_updated": "2026-09-05T16:38:47.679Z",
     "published": "2026-09-05T07:58Z"
+  },
+  {
+    "url": "https://thecynicalnerd.bearblog.dev/the-ai-persona-panic-of-2026/",
+    "title": "The AI Persona Panic of 2026: Fake Humans Are Extremely Profitable, So Here's a Badge",
+    "author": "https://thecynicalnerd.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-05T18:52:53.781Z",
+    "last_updated": "2026-09-05T18:52:53.781Z",
+    "published": "2026-09-05T17:59Z"
+  },
+  {
+    "url": "https://quackabout.bearblog.dev/crossing-lines/",
+    "title": "Crossing Lines",
+    "author": "https://quackabout.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T18:52:53.781Z",
+    "last_updated": "2026-09-05T18:52:53.781Z",
+    "published": "2026-09-05T18:27Z"
+  },
+  {
+    "url": "https://annoflo.net/ingress-l10/",
+    "title": "I am now level 10 in Ingress!",
+    "author": "https://annoflo.net",
+    "toasts": 2,
+    "first_seen": "2026-09-05T18:52:53.781Z",
+    "last_updated": "2026-09-05T18:52:53.781Z",
+    "published": "2026-09-05T16:46Z"
+  },
+  {
+    "url": "https://robertbirming.com/opposites-attract/",
+    "title": "Opposites attract",
+    "author": "https://robertbirming.com",
+    "toasts": 2,
+    "first_seen": "2026-09-05T18:52:53.781Z",
+    "last_updated": "2026-09-05T18:52:53.781Z",
+    "published": "2026-09-05T16:28Z"
+  },
+  {
+    "url": "https://etan.bearblog.dev/the-pitcher-cries-for-water-to-carry-and-a-person-for-work-that-is-real-marge-piercy/",
+    "title": "\"The pitcher cries for water to carry / and a person for work that is real.\" Marge Piercy",
+    "author": "https://etan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T18:52:53.781Z",
+    "last_updated": "2026-09-05T18:52:53.781Z",
+    "published": "2026-09-05T13:30Z"
+  },
+  {
+    "url": "https://liisu-crafts.bearblog.dev/finished-icelandic-pullover/",
+    "title": "Finished Icelandic pullover",
+    "author": "https://liisu-crafts.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T18:52:53.781Z",
+    "last_updated": "2026-09-05T18:52:53.781Z",
+    "published": "2026-09-05T11:22Z"
+  },
+  {
+    "url": "https://liisu-crafts.bearblog.dev/two-tiny-mends-because-small-things-also-deserve-attention/",
+    "title": "Two tiny mends, because small things also deserve attention.",
+    "author": "https://liisu-crafts.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T18:52:53.781Z",
+    "last_updated": "2026-09-05T18:52:53.781Z",
+    "published": "2026-09-05T11:13Z"
   }
 ]
