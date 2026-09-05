@@ -30,9 +30,9 @@
     "url": "https://combatdavey.net/september-3-2026/",
     "title": "september 3 ekg",
     "author": "https://combatdavey.net",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-09-04T03:44:22.560Z",
-    "last_updated": "2026-09-04T22:52:38.377Z",
+    "last_updated": "2026-09-05T00:43:20.575Z",
     "published": "2026-09-04T03:31Z"
   },
   {
@@ -345,9 +345,9 @@
     "url": "https://blog.solazy.me/20260904/",
     "title": "只活到 50 岁也挺好",
     "author": "https://blog.solazy.me",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-04T17:28:19.299Z",
-    "last_updated": "2026-09-04T20:30:03.243Z",
+    "last_updated": "2026-09-05T00:43:20.575Z",
     "published": "2026-09-04T14:00Z"
   },
   {
@@ -498,18 +498,18 @@
     "url": "https://louplummer.lol/enjoying-the-ride/",
     "title": "Enjoying the Ride",
     "author": "https://louplummer.lol",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-04T20:30:03.243Z",
-    "last_updated": "2026-09-04T20:30:03.243Z",
+    "last_updated": "2026-09-05T00:43:20.575Z",
     "published": "2026-09-04T12:22Z"
   },
   {
     "url": "https://piecemissing.bearblog.dev/new-post/",
     "title": "A Thousand Times Over",
     "author": "https://piecemissing.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-09-04T22:52:38.377Z",
-    "last_updated": "2026-09-04T22:52:38.377Z",
+    "last_updated": "2026-09-05T00:43:20.575Z",
     "published": "2026-09-04T21:19Z"
   },
   {
@@ -543,9 +543,9 @@
     "url": "https://thelonebard.com/ttrpg-art-highlight-1-slowquest/",
     "title": "TTRPG Art Highlight 1 - Slowquest (Bodie H)",
     "author": "https://thelonebard.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-04T22:52:38.377Z",
-    "last_updated": "2026-09-04T22:52:38.377Z",
+    "last_updated": "2026-09-05T00:43:20.575Z",
     "published": "2026-09-04T20:40Z"
   },
   {
@@ -556,5 +556,14 @@
     "first_seen": "2026-09-04T22:52:38.377Z",
     "last_updated": "2026-09-04T22:52:38.377Z",
     "published": "2026-09-04T20:10Z"
+  },
+  {
+    "url": "https://rasque.bearblog.dev/dont-publish-your-first-novel/",
+    "title": "don't publish your first novel",
+    "author": "https://rasque.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T00:43:20.575Z",
+    "last_updated": "2026-09-05T00:43:20.575Z",
+    "published": "2026-09-04T23:01Z"
   }
 ]
