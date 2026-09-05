@@ -138,9 +138,9 @@
     "url": "https://dungeonbison.bearblog.dev/cairn-academy/",
     "title": "Cairn Academy",
     "author": "https://dungeonbison.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-09-05T13:45:12.480Z",
-    "last_updated": "2026-09-05T13:45:12.480Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
     "published": "2026-09-05T11:28Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://householderkarl.com/going-to-the-movies-alone/",
     "title": "Going to the Movies Alone",
     "author": "https://householderkarl.com",
-    "toasts": 12,
+    "toasts": 15,
     "first_seen": "2026-09-05T16:38:47.679Z",
-    "last_updated": "2026-09-05T18:52:53.781Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
     "published": "2026-09-05T14:53Z"
   },
   {
@@ -219,9 +219,9 @@
     "url": "https://blackdayfilmpost.bearblog.dev/shanks-subscribes-to-hausofdeclines-patreon-which-could-mean-nothing/",
     "title": "Michael Shanks Subscribes to HausOfDecline's Patreon Which Could Mean Nothing For His Next Film \"I Can't Sleep\"",
     "author": "https://blackdayfilmpost.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-05T16:38:47.679Z",
-    "last_updated": "2026-09-05T16:38:47.679Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
     "published": "2026-09-05T15:09Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://gorgonbones.bearblog.dev/the-dungeon-game-weekends-at-stonehell-session-21/",
     "title": "The Dungeon Game: Weekends at Stonehell, session 21",
     "author": "https://gorgonbones.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-05T16:38:47.679Z",
-    "last_updated": "2026-09-05T16:38:47.679Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
     "published": "2026-09-05T13:52Z"
   },
   {
@@ -309,18 +309,18 @@
     "url": "https://thecynicalnerd.bearblog.dev/the-ai-persona-panic-of-2026/",
     "title": "The AI Persona Panic of 2026: Fake Humans Are Extremely Profitable, So Here's a Badge",
     "author": "https://thecynicalnerd.bearblog.dev",
-    "toasts": 3,
+    "toasts": 6,
     "first_seen": "2026-09-05T18:52:53.781Z",
-    "last_updated": "2026-09-05T18:52:53.781Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
     "published": "2026-09-05T17:59Z"
   },
   {
     "url": "https://quackabout.bearblog.dev/crossing-lines/",
     "title": "Crossing Lines",
     "author": "https://quackabout.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-05T18:52:53.781Z",
-    "last_updated": "2026-09-05T18:52:53.781Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
     "published": "2026-09-05T18:27Z"
   },
   {
@@ -367,5 +367,77 @@
     "first_seen": "2026-09-05T18:52:53.781Z",
     "last_updated": "2026-09-05T18:52:53.781Z",
     "published": "2026-09-05T11:13Z"
+  },
+  {
+    "url": "https://lifebythesea.bearblog.dev/how-to-follow-the-passion-without-the-passion/",
+    "title": "How to follow the passion without the passion?",
+    "author": "https://lifebythesea.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-09-05T21:00:03.459Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
+    "published": "2026-09-05T19:32Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/existence-is-futile/",
+    "title": "Existence is futile.",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T21:00:03.459Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
+    "published": "2026-09-05T20:36Z"
+  },
+  {
+    "url": "https://indigotime.bearblog.dev/the-erasure-of-shared-arguments-may-be-civilizations-last-challenge/",
+    "title": "The Erasure of Shared Arguments May Be Civilization’s Last Challenge",
+    "author": "https://indigotime.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T21:00:03.459Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
+    "published": "2026-09-05T20:14Z"
+  },
+  {
+    "url": "https://www.stygmaty.pl/jest-dokadnie-tak-jak-myslaam-jestem-z-innej-planety/",
+    "title": "Jest dokładnie tak, jak myślałam: jestem z innej planety",
+    "author": "https://www.stygmaty.pl",
+    "toasts": 2,
+    "first_seen": "2026-09-05T21:00:03.459Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
+    "published": "2026-09-05T18:48Z"
+  },
+  {
+    "url": "https://quiettake.bearblog.dev/ai-and-sign-language/",
+    "title": "AI and Sign Language: A Few Projects Worth Knowing, Plus the Big One",
+    "author": "https://quiettake.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T21:00:03.459Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
+    "published": "2026-09-05T18:25Z"
+  },
+  {
+    "url": "https://pickles-torches.bearblog.dev/shadowtents/",
+    "title": "ShadowTents",
+    "author": "https://pickles-torches.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T21:00:03.459Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
+    "published": "2026-09-05T17:34Z"
+  },
+  {
+    "url": "https://miscellany.bearblog.dev/from-hastings/",
+    "title": "From Hastings",
+    "author": "https://miscellany.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T21:00:03.459Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
+    "published": "2026-09-05T16:46Z"
+  },
+  {
+    "url": "https://silentresting.bearblog.dev/yiyi-2000/",
+    "title": "Yi Yi (2000)",
+    "author": "https://silentresting.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T21:00:03.459Z",
+    "last_updated": "2026-09-05T21:00:03.459Z",
+    "published": "2026-09-05T15:07Z"
   }
 ]
