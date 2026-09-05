@@ -3,18 +3,18 @@
     "url": "https://storybook.localcatgirl.pet/plurality/",
     "title": "plurality",
     "author": "https://storybook.localcatgirl.pet",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-09-05T05:23:55.162Z",
-    "last_updated": "2026-09-05T10:13:34.936Z",
+    "last_updated": "2026-09-05T13:45:12.480Z",
     "published": "2026-09-05T04:52Z"
   },
   {
     "url": "https://icyti.me/doomed-to-fall/",
     "title": "doomed to fall",
     "author": "https://icyti.me",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-09-05T05:23:55.162Z",
-    "last_updated": "2026-09-05T10:13:34.936Z",
+    "last_updated": "2026-09-05T13:45:12.480Z",
     "published": "2026-09-05T03:44Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://angrybunnyman.com/elbow-tattoos-still-fucking-hurt-but-the-pain-doesnt-make-them-meaningful/",
     "title": "Elbow tattoos still fucking hurt but the pain doesn't make them meaningful",
     "author": "https://angrybunnyman.com",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-09-05T05:23:55.162Z",
-    "last_updated": "2026-09-05T10:13:34.936Z",
+    "last_updated": "2026-09-05T13:45:12.480Z",
     "published": "2026-09-05T01:54Z"
   },
   {
@@ -133,5 +133,41 @@
     "first_seen": "2026-09-05T10:13:34.936Z",
     "last_updated": "2026-09-05T10:13:34.936Z",
     "published": "2026-09-05T02:10Z"
+  },
+  {
+    "url": "https://dungeonbison.bearblog.dev/cairn-academy/",
+    "title": "Cairn Academy",
+    "author": "https://dungeonbison.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-09-05T13:45:12.480Z",
+    "last_updated": "2026-09-05T13:45:12.480Z",
+    "published": "2026-09-05T11:28Z"
+  },
+  {
+    "url": "https://iamvarun.bearblog.dev/i-think-snape-is-a-vampire/",
+    "title": "I think Snape is a vampire",
+    "author": "https://iamvarun.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-05T13:45:12.480Z",
+    "last_updated": "2026-09-05T13:45:12.480Z",
+    "published": "2026-09-05T09:31Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260905/",
+    "title": "周末流水账 0905",
+    "author": "https://blog.solazy.me",
+    "toasts": 2,
+    "first_seen": "2026-09-05T13:45:12.480Z",
+    "last_updated": "2026-09-05T13:45:12.480Z",
+    "published": "2026-09-05T12:00Z"
+  },
+  {
+    "url": "https://blueberryje.bearblog.dev/7181/",
+    "title": "ブログがふたつに分裂してしまった",
+    "author": "https://blueberryje.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-05T13:45:12.480Z",
+    "last_updated": "2026-09-05T13:45:12.480Z",
+    "published": "2026-09-05T09:41Z"
   }
 ]
