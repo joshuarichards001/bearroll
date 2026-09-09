@@ -12,9 +12,9 @@
     "url": "https://combatdavey.net/september-8-2026/",
     "title": "september 8 ici",
     "author": "https://combatdavey.net",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-09T04:12:49.476Z",
-    "last_updated": "2026-09-09T04:12:49.476Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
     "published": "2026-09-09T02:49Z"
   },
   {
@@ -57,27 +57,27 @@
     "url": "https://blog.lauramichet.com/i-was-introduced-to-plantasia/",
     "title": "I was introduced to Plantasia",
     "author": "https://blog.lauramichet.com",
-    "toasts": 5,
+    "toasts": 9,
     "first_seen": "2026-09-09T09:27:20.948Z",
-    "last_updated": "2026-09-09T09:27:20.948Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
     "published": "2026-09-09T06:33Z"
   },
   {
     "url": "https://skuka.online/i-like-nintendo-3ds-better-than-the-switch/",
     "title": "i like nintendo 3ds better than the switch",
     "author": "https://skuka.online",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-09T09:27:20.948Z",
-    "last_updated": "2026-09-09T09:27:20.948Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
     "published": "2026-09-09T07:41Z"
   },
   {
     "url": "https://forsomeone.bearblog.dev/sleeping-with-the-doors-open/",
     "title": "Sleeping with the doors open",
     "author": "https://forsomeone.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-09-09T09:27:20.948Z",
-    "last_updated": "2026-09-09T09:27:20.948Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
     "published": "2026-09-09T06:39Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://nothingvalued.bearblog.dev/rural-america-doesnt-need-more-llm-bs/",
     "title": "Rural America doesn't need more LLM BS",
     "author": "https://nothingvalued.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-09T09:27:20.948Z",
-    "last_updated": "2026-09-09T09:27:20.948Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
     "published": "2026-09-09T04:36Z"
   },
   {
@@ -124,5 +124,95 @@
     "first_seen": "2026-09-09T09:27:20.948Z",
     "last_updated": "2026-09-09T09:27:20.948Z",
     "published": "2026-09-09T08:00Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/youtube-demonitizing-maybe/",
+    "title": "YouTube demonitizing maybe?",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-09-09T14:14:59.567Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
+    "published": "2026-09-09T12:29Z"
+  },
+  {
+    "url": "https://permanentreset.bearblog.dev/physical-media-and-dying-digital/",
+    "title": "Physical Media and Dying Digital",
+    "author": "https://permanentreset.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-09-09T14:14:59.567Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
+    "published": "2026-09-09T12:00Z"
+  },
+  {
+    "url": "https://blighttown.bearblog.dev/services-are-transient/",
+    "title": "Services are transient",
+    "author": "https://blighttown.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-09T14:14:59.567Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
+    "published": "2026-09-09T13:33Z"
+  },
+  {
+    "url": "https://authornette.com/wise/",
+    "title": "I am becoming a wise reader (and writer) again.",
+    "author": "https://authornette.com",
+    "toasts": 2,
+    "first_seen": "2026-09-09T14:14:59.567Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
+    "published": "2026-09-09T12:59Z"
+  },
+  {
+    "url": "https://joeb.bearblog.dev/death-saves-and-cardiac-arrest-protocols/",
+    "title": "Death Saves and Cardiac Arrest Protocols",
+    "author": "https://joeb.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-09T14:14:59.567Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
+    "published": "2026-09-09T11:29Z"
+  },
+  {
+    "url": "https://mason.bearblog.dev/i-am/",
+    "title": "I Am",
+    "author": "https://mason.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-09T14:14:59.567Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
+    "published": "2026-09-09T11:19Z"
+  },
+  {
+    "url": "https://mason.bearblog.dev/tiny-back-yards/",
+    "title": "Tiny back yards",
+    "author": "https://mason.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-09T14:14:59.567Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
+    "published": "2026-09-09T10:57Z"
+  },
+  {
+    "url": "https://anotherdayu.com/4250/",
+    "title": "开源我的个人基因分析流程",
+    "author": "https://anotherdayu.com",
+    "toasts": 2,
+    "first_seen": "2026-09-09T14:14:59.567Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
+    "published": "2026-09-09T10:32Z"
+  },
+  {
+    "url": "https://katapila.bearblog.dev/shower-curtain-trick/",
+    "title": "Shower Curtain Trick",
+    "author": "https://katapila.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-09T14:14:59.567Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
+    "published": "2026-09-09T10:10Z"
+  },
+  {
+    "url": "https://www.mouthguard.observer/my-body-is-dancing-by-izzy-french/",
+    "title": "my body is dancing (in/on/outside) my body, by Izzy French",
+    "author": "https://www.mouthguard.observer",
+    "toasts": 2,
+    "first_seen": "2026-09-09T14:14:59.567Z",
+    "last_updated": "2026-09-09T14:14:59.567Z",
+    "published": "2026-09-09T09:41Z"
   }
 ]
