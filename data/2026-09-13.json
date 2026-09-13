@@ -48,9 +48,9 @@
     "url": "https://mymathjourney.bearblog.dev/off-topic/",
     "title": "off-topic?",
     "author": "https://mymathjourney.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-13T05:45:41.965Z",
-    "last_updated": "2026-09-13T05:45:41.965Z",
+    "last_updated": "2026-09-13T11:21:09.530Z",
     "published": "2026-09-13T04:40Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://vidknight.bearblog.dev/project-progress-thing-1/",
     "title": "Project progress thing #1",
     "author": "https://vidknight.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-13T05:45:41.965Z",
-    "last_updated": "2026-09-13T05:45:41.965Z",
+    "last_updated": "2026-09-13T11:21:09.530Z",
     "published": "2026-09-13T01:30Z"
   },
   {
@@ -115,5 +115,50 @@
     "first_seen": "2026-09-13T05:45:41.965Z",
     "last_updated": "2026-09-13T05:45:41.965Z",
     "published": "2026-09-13T00:36Z"
+  },
+  {
+    "url": "https://biscuits.bearblog.dev/1200-hours-of-norwegian/",
+    "title": "1200 hours of Norwegian",
+    "author": "https://biscuits.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-13T11:21:09.530Z",
+    "last_updated": "2026-09-13T11:21:09.530Z",
+    "published": "2026-09-13T08:32Z"
+  },
+  {
+    "url": "https://73pctgeek.com/987/",
+    "title": "987",
+    "author": "https://73pctgeek.com",
+    "toasts": 2,
+    "first_seen": "2026-09-13T11:21:09.530Z",
+    "last_updated": "2026-09-13T11:21:09.530Z",
+    "published": "2026-09-13T10:46Z"
+  },
+  {
+    "url": "https://derivas.bearblog.dev/el-informe-pisa/",
+    "title": "El informe PISA",
+    "author": "https://derivas.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T11:21:09.530Z",
+    "last_updated": "2026-09-13T11:21:09.530Z",
+    "published": "2026-09-13T10:42Z"
+  },
+  {
+    "url": "https://yingxue.bearblog.dev/flying-to-tianjin/",
+    "title": "Flying to Tianjin",
+    "author": "https://yingxue.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T11:21:09.530Z",
+    "last_updated": "2026-09-13T11:21:09.530Z",
+    "published": "2026-09-13T09:39Z"
+  },
+  {
+    "url": "https://chupacabra.bearblog.dev/the-frame-of-my-glasses-might-last-a-long-time/",
+    "title": "The frame of my glasses might last a long time.",
+    "author": "https://chupacabra.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T11:21:09.530Z",
+    "last_updated": "2026-09-13T11:21:09.530Z",
+    "published": "2026-09-13T03:13Z"
   }
 ]
