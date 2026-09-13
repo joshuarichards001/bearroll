@@ -48,9 +48,9 @@
     "url": "https://mymathjourney.bearblog.dev/off-topic/",
     "title": "off-topic?",
     "author": "https://mymathjourney.bearblog.dev",
-    "toasts": 4,
+    "toasts": 6,
     "first_seen": "2026-09-13T05:45:41.965Z",
-    "last_updated": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
     "published": "2026-09-13T04:40Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://icyti.me/linnstrument-first-impressions-of-a-musician/",
     "title": "Linnstrument: first impressions of a \"musician\"",
     "author": "https://icyti.me",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-13T05:45:41.965Z",
-    "last_updated": "2026-09-13T05:45:41.965Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
     "published": "2026-09-13T03:58Z"
   },
   {
@@ -120,18 +120,18 @@
     "url": "https://biscuits.bearblog.dev/1200-hours-of-norwegian/",
     "title": "1200 hours of Norwegian",
     "author": "https://biscuits.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-13T11:21:09.530Z",
-    "last_updated": "2026-09-13T11:21:09.530Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
     "published": "2026-09-13T08:32Z"
   },
   {
     "url": "https://73pctgeek.com/987/",
     "title": "987",
     "author": "https://73pctgeek.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-09-13T11:21:09.530Z",
-    "last_updated": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
     "published": "2026-09-13T10:46Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://yingxue.bearblog.dev/flying-to-tianjin/",
     "title": "Flying to Tianjin",
     "author": "https://yingxue.bearblog.dev",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-09-13T11:21:09.530Z",
-    "last_updated": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
     "published": "2026-09-13T09:39Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://technically-good.ca/newsletter/016-2026-09-13/",
     "title": "💌 Newsletter #016 - Chatbots and their \"Safeguards,\" Alternative Navigation Apps - and a New Section!",
     "author": "https://technically-good.ca",
-    "toasts": 8,
+    "toasts": 16,
     "first_seen": "2026-09-13T15:51:48.585Z",
-    "last_updated": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
     "published": "2026-09-13T14:07Z"
   },
   {
@@ -183,9 +183,9 @@
     "url": "https://matthias.bearblog.dev/starting-a-new-blog-one-more-time/",
     "title": "starting a new blog one more time",
     "author": "https://matthias.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-09-13T15:51:48.585Z",
-    "last_updated": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
     "published": "2026-09-13T11:32Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://innerhealing.blog/journal-6-mark-zuckerberg-stole-my-parents/",
     "title": "Journal 6- Mark Zuckerberg Stole My Parents",
     "author": "https://innerhealing.blog",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-13T15:51:48.585Z",
-    "last_updated": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
     "published": "2026-09-13T13:05Z"
   },
   {
@@ -228,18 +228,18 @@
     "url": "https://sameoldstory.co/im-not-happier-offline/",
     "title": "I'm not happier offline.",
     "author": "https://sameoldstory.co",
-    "toasts": 3,
+    "toasts": 7,
     "first_seen": "2026-09-13T15:51:48.585Z",
-    "last_updated": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
     "published": "2026-09-13T15:14Z"
   },
   {
     "url": "https://themidnightcosmicboy.bearblog.dev/its-time-to-move-on/",
     "title": "It’s Time to Move On",
     "author": "https://themidnightcosmicboy.bearblog.dev",
-    "toasts": 2,
+    "toasts": 6,
     "first_seen": "2026-09-13T15:51:48.585Z",
-    "last_updated": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
     "published": "2026-09-13T14:21Z"
   },
   {
@@ -367,5 +367,113 @@
     "first_seen": "2026-09-13T15:51:48.585Z",
     "last_updated": "2026-09-13T15:51:48.585Z",
     "published": "2026-09-13T03:37Z"
+  },
+  {
+    "url": "https://householderkarl.com/lazy-sunday-bear-blog-meta/",
+    "title": "Lazy Sunday Bear Blog Meta",
+    "author": "https://householderkarl.com",
+    "toasts": 16,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T16:11Z"
+  },
+  {
+    "url": "https://icyti.me/reason-98417-not-to-go-on-reddit-ever-again/",
+    "title": "reason #98417 not to go on reddit ever again",
+    "author": "https://icyti.me",
+    "toasts": 4,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T16:59Z"
+  },
+  {
+    "url": "https://jeddacp.me/happy-15th-heavenly-birthday-cocoa/",
+    "title": "Happy 15th (heavenly) Birthday, Cocoa",
+    "author": "https://jeddacp.me",
+    "toasts": 5,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T16:36Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260913/",
+    "title": "周末流水账 0913",
+    "author": "https://blog.solazy.me",
+    "toasts": 4,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T14:00Z"
+  },
+  {
+    "url": "https://olu.online/weeknotes-65/",
+    "title": "weeknotes #65",
+    "author": "https://olu.online",
+    "toasts": 3,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T16:04Z"
+  },
+  {
+    "url": "https://marten.bearblog.dev/job-madlibs/",
+    "title": "Job madlibs",
+    "author": "https://marten.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T18:22Z"
+  },
+  {
+    "url": "https://viridianvoid.bearblog.dev/microblog-what-do-they-desperately-want/",
+    "title": "Microblog: What do they desperately want?",
+    "author": "https://viridianvoid.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T18:01Z"
+  },
+  {
+    "url": "https://theprivacydad.com/what-is-obtainium/",
+    "title": "What Is Obtainium?",
+    "author": "https://theprivacydad.com",
+    "toasts": 2,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T17:55Z"
+  },
+  {
+    "url": "https://robertbirming.com/bursting-our-bubbles/",
+    "title": "Bursting Our Bubbles",
+    "author": "https://robertbirming.com",
+    "toasts": 3,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T17:49Z"
+  },
+  {
+    "url": "https://evergreengames.bearblog.dev/ttrpg-rolling-for-interest-how-i-run-games/",
+    "title": "(ttrpg) rolling for interest - how I run games",
+    "author": "https://evergreengames.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T17:12Z"
+  },
+  {
+    "url": "https://updates2nashville.bearblog.dev/finallylink/",
+    "title": "sunday update #1",
+    "author": "https://updates2nashville.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T17:03Z"
+  },
+  {
+    "url": "https://thingsfound.bearblog.dev/sunday-mornings/",
+    "title": "Sunday mornings",
+    "author": "https://thingsfound.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-13T18:37:30.831Z",
+    "published": "2026-09-13T06:54Z"
   }
 ]
