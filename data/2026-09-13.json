@@ -12,9 +12,9 @@
     "url": "https://nostalgia.bearblog.dev/authoritarian-apolitical/",
     "title": "the authoritarian apoliticals and safetyism",
     "author": "https://nostalgia.bearblog.dev",
-    "toasts": 3,
+    "toasts": 6,
     "first_seen": "2026-09-13T05:45:41.965Z",
-    "last_updated": "2026-09-13T05:45:41.965Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
     "published": "2026-09-13T03:59Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://mymathjourney.bearblog.dev/off-topic/",
     "title": "off-topic?",
     "author": "https://mymathjourney.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-13T05:45:41.965Z",
-    "last_updated": "2026-09-13T11:21:09.530Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
     "published": "2026-09-13T04:40Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://piecemissing.bearblog.dev/my-life-is-a-flop-sequel/",
     "title": "My Life Is a Flop Sequel",
     "author": "https://piecemissing.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-13T05:45:41.965Z",
-    "last_updated": "2026-09-13T05:45:41.965Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
     "published": "2026-09-13T01:39Z"
   },
   {
@@ -129,27 +129,27 @@
     "url": "https://73pctgeek.com/987/",
     "title": "987",
     "author": "https://73pctgeek.com",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-09-13T11:21:09.530Z",
-    "last_updated": "2026-09-13T11:21:09.530Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
     "published": "2026-09-13T10:46Z"
   },
   {
     "url": "https://derivas.bearblog.dev/el-informe-pisa/",
     "title": "El informe PISA",
     "author": "https://derivas.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-13T11:21:09.530Z",
-    "last_updated": "2026-09-13T11:21:09.530Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
     "published": "2026-09-13T10:42Z"
   },
   {
     "url": "https://yingxue.bearblog.dev/flying-to-tianjin/",
     "title": "Flying to Tianjin",
     "author": "https://yingxue.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-13T11:21:09.530Z",
-    "last_updated": "2026-09-13T11:21:09.530Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
     "published": "2026-09-13T09:39Z"
   },
   {
@@ -160,5 +160,212 @@
     "first_seen": "2026-09-13T11:21:09.530Z",
     "last_updated": "2026-09-13T11:21:09.530Z",
     "published": "2026-09-13T03:13Z"
+  },
+  {
+    "url": "https://technically-good.ca/newsletter/016-2026-09-13/",
+    "title": "💌 Newsletter #016 - Chatbots and their \"Safeguards,\" Alternative Navigation Apps - and a New Section!",
+    "author": "https://technically-good.ca",
+    "toasts": 8,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T14:07Z"
+  },
+  {
+    "url": "https://mirroredworld.bearblog.dev/have-your-cake/",
+    "title": "Have Your Cake",
+    "author": "https://mirroredworld.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T09:54Z"
+  },
+  {
+    "url": "https://matthias.bearblog.dev/starting-a-new-blog-one-more-time/",
+    "title": "starting a new blog one more time",
+    "author": "https://matthias.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T11:32Z"
+  },
+  {
+    "url": "https://lifebythesea.bearblog.dev/surviving-and-living/",
+    "title": "Surviving and living",
+    "author": "https://lifebythesea.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T13:12Z"
+  },
+  {
+    "url": "https://innerhealing.blog/journal-6-mark-zuckerberg-stole-my-parents/",
+    "title": "Journal 6- Mark Zuckerberg Stole My Parents",
+    "author": "https://innerhealing.blog",
+    "toasts": 3,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T13:05Z"
+  },
+  {
+    "url": "https://thereeldiary.bearblog.dev/coyote-vs-acme-or-i-dont-like-the-word-meta/",
+    "title": "Coyote vs Acme, or I don't like the word meta",
+    "author": "https://thereeldiary.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T11:42Z"
+  },
+  {
+    "url": "https://theonezero.bearblog.dev/window-of-nostalgia/",
+    "title": "Window of Nostalgia",
+    "author": "https://theonezero.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T15:32Z"
+  },
+  {
+    "url": "https://sameoldstory.co/im-not-happier-offline/",
+    "title": "I'm not happier offline.",
+    "author": "https://sameoldstory.co",
+    "toasts": 3,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T15:14Z"
+  },
+  {
+    "url": "https://themidnightcosmicboy.bearblog.dev/its-time-to-move-on/",
+    "title": "It’s Time to Move On",
+    "author": "https://themidnightcosmicboy.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T14:21Z"
+  },
+  {
+    "url": "https://fixer66.bearblog.dev/music-to-my-ears-bear-blog-carnival/",
+    "title": "Music to my ears (Bear Blog Carnival)",
+    "author": "https://fixer66.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T14:13Z"
+  },
+  {
+    "url": "https://ordinarykuma.bearblog.dev/2026-13-09/",
+    "title": "2026, 13, Sep",
+    "author": "https://ordinarykuma.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T14:05Z"
+  },
+  {
+    "url": "https://mcflyguy.bearblog.dev/which-ideas-to-work-on/",
+    "title": "Which ideas to work on?",
+    "author": "https://mcflyguy.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T13:48Z"
+  },
+  {
+    "url": "https://gwhless.bearblog.dev/hold-the-press/",
+    "title": "hold the press",
+    "author": "https://gwhless.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T13:32Z"
+  },
+  {
+    "url": "https://onelastu.bearblog.dev/631/",
+    "title": "在杭州，办理一次驾照到期换证需要多久？",
+    "author": "https://onelastu.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T12:52Z"
+  },
+  {
+    "url": "https://etan.bearblog.dev/an-act-of-imagination-is-an-act-of-self-acceptance-richard-hugo/",
+    "title": "An act of imagination is an act of self-acceptance. - Richard Hugo",
+    "author": "https://etan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T11:30Z"
+  },
+  {
+    "url": "https://stometaxi.bearblog.dev/vivir-con-los-pies-en-la-tierra/",
+    "title": "Vivir con los pies en la tierra",
+    "author": "https://stometaxi.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T11:27Z"
+  },
+  {
+    "url": "https://notestobreathe.bearblog.dev/pearls-and-coffee-cups/",
+    "title": "Pearls and Coffee cups",
+    "author": "https://notestobreathe.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T11:24Z"
+  },
+  {
+    "url": "https://readingrecluse.bearblog.dev/helen-of-nowhere-by-makenna-goodman/",
+    "title": "\"Helen of Nowhere\" by Makenna Goodman",
+    "author": "https://readingrecluse.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T10:44Z"
+  },
+  {
+    "url": "https://mason.bearblog.dev/audio-visual-art/",
+    "title": "Audio-Visual Art",
+    "author": "https://mason.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T10:25Z"
+  },
+  {
+    "url": "https://themustyattic.bearblog.dev/sudden-snow/",
+    "title": "sudden snow",
+    "author": "https://themustyattic.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T08:40Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/the-decision-making-machine/",
+    "title": "The Decision-Making Machine",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T06:48Z"
+  },
+  {
+    "url": "https://yingxue.bearblog.dev/first-days-in-tianjin/",
+    "title": "First days in Tianjin",
+    "author": "https://yingxue.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T12:22Z"
+  },
+  {
+    "url": "https://jdtorian.com/i-will-never-not-check-my-crap-again/",
+    "title": "I Will Never Not Check My Crap Again",
+    "author": "https://jdtorian.com",
+    "toasts": 2,
+    "first_seen": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-13T15:51:48.585Z",
+    "published": "2026-09-13T03:37Z"
   }
 ]
