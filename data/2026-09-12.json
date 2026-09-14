@@ -57,18 +57,18 @@
     "url": "https://toska.bearblog.dev/a-nice-rainbow/",
     "title": "A nice rainbow",
     "author": "https://toska.bearblog.dev",
-    "toasts": 36,
+    "toasts": 38,
     "first_seen": "2026-09-12T09:05:58.297Z",
-    "last_updated": "2026-09-13T21:16:36.607Z",
+    "last_updated": "2026-09-14T04:41:33.903Z",
     "published": "2026-09-12T03:21Z"
   },
   {
     "url": "https://realinternetuser.bearblog.dev/goodbye/",
     "title": "goodbye",
     "author": "https://realinternetuser.bearblog.dev",
-    "toasts": 49,
+    "toasts": 52,
     "first_seen": "2026-09-12T09:05:58.297Z",
-    "last_updated": "2026-09-13T23:57:08.844Z",
+    "last_updated": "2026-09-14T04:41:33.903Z",
     "published": "2026-09-12T06:22Z"
   },
   {
@@ -228,9 +228,9 @@
     "url": "https://thereeldiary.bearblog.dev/youtube-is-an-unpaid-internship/",
     "title": "YouTube is an unpaid internship",
     "author": "https://thereeldiary.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-09-12T13:26:05.618Z",
-    "last_updated": "2026-09-13T21:16:36.607Z",
+    "last_updated": "2026-09-14T04:41:33.903Z",
     "published": "2026-09-12T12:10Z"
   },
   {
@@ -273,9 +273,9 @@
     "url": "https://woolgathering.bearblog.dev/tonight-i-said-goodbye-to-my-cat/",
     "title": "tonight i said goodbye to my cat",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 26,
+    "toasts": 37,
     "first_seen": "2026-09-12T16:50:44.409Z",
-    "last_updated": "2026-09-13T21:16:36.607Z",
+    "last_updated": "2026-09-14T04:41:33.903Z",
     "published": "2026-09-12T15:13Z"
   },
   {
@@ -363,18 +363,18 @@
     "url": "https://tala.bearblog.dev/i-just-want-it-more/",
     "title": "I just want it more",
     "author": "https://tala.bearblog.dev",
-    "toasts": 51,
+    "toasts": 52,
     "first_seen": "2026-09-12T19:02:16.184Z",
-    "last_updated": "2026-09-13T23:57:08.844Z",
+    "last_updated": "2026-09-14T04:41:33.903Z",
     "published": "2026-09-12T17:40Z"
   },
   {
     "url": "https://blog.lauramichet.com/i-have-been-posting-daily-for-two-years/",
     "title": "I have been posting daily for two years",
     "author": "https://blog.lauramichet.com",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-09-12T19:02:16.184Z",
-    "last_updated": "2026-09-13T21:16:36.607Z",
+    "last_updated": "2026-09-14T04:41:33.903Z",
     "published": "2026-09-12T16:45Z"
   },
   {
@@ -399,9 +399,9 @@
     "url": "https://realinternetuser.bearblog.dev/profile/",
     "title": "profile",
     "author": "https://realinternetuser.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-09-12T19:02:16.184Z",
-    "last_updated": "2026-09-13T15:51:48.585Z",
+    "last_updated": "2026-09-14T04:41:33.903Z",
     "published": "2026-09-12T09:38Z"
   },
   {
@@ -444,9 +444,9 @@
     "url": "https://piimyon.bearblog.dev/re-a-nice-rainbow-its-a-double-rainbow-all-the-way/",
     "title": "Re: A nice rainbow | \"It's a double rainbow all the way!\"",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 15,
+    "toasts": 19,
     "first_seen": "2026-09-12T19:02:16.184Z",
-    "last_updated": "2026-09-13T23:57:08.844Z",
+    "last_updated": "2026-09-14T04:41:33.903Z",
     "published": "2026-09-12T17:40Z"
   },
   {
@@ -664,5 +664,14 @@
     "first_seen": "2026-09-13T18:37:30.831Z",
     "last_updated": "2026-09-13T18:37:30.831Z",
     "published": "2026-09-12T17:44Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20260912/",
+    "title": "周末流水账 0912",
+    "author": "https://blog.solazy.me",
+    "toasts": 5,
+    "first_seen": "2026-09-14T04:41:33.903Z",
+    "last_updated": "2026-09-14T04:41:33.903Z",
+    "published": "2026-09-12T15:00Z"
   }
 ]
