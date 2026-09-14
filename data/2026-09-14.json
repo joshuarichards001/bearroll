@@ -3,9 +3,9 @@
     "url": "https://drowsy.bearblog.dev/pet-loss/",
     "title": "pet loss",
     "author": "https://drowsy.bearblog.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-09-14T04:41:33.903Z",
-    "last_updated": "2026-09-14T04:41:33.903Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
     "published": "2026-09-14T00:03Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://davidmcgee.xyz/in-unreserved-praise-of-nutritional-yeast/",
     "title": "In Unreserved Praise of Nutritional Yeast",
     "author": "https://davidmcgee.xyz",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-09-14T04:41:33.903Z",
-    "last_updated": "2026-09-14T04:41:33.903Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
     "published": "2026-09-14T00:32Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://jeffdelp.bearblog.dev/flat-on-my-face/",
     "title": "i might as well fall flat on my face",
     "author": "https://jeffdelp.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-14T04:41:33.903Z",
-    "last_updated": "2026-09-14T04:41:33.903Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
     "published": "2026-09-14T02:25Z"
   },
   {
@@ -102,36 +102,135 @@
     "url": "https://billhook.bearblog.dev/quick_leverage/",
     "title": "Quick Character Leverage",
     "author": "https://billhook.bearblog.dev",
-    "toasts": 2,
+    "toasts": 6,
     "first_seen": "2026-09-14T04:41:33.903Z",
-    "last_updated": "2026-09-14T04:41:33.903Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
     "published": "2026-09-14T03:21Z"
   },
   {
     "url": "https://valentine.bearblog.dev/learning-the-boring-stuff/",
     "title": "learning the boring stuff",
     "author": "https://valentine.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-14T04:41:33.903Z",
-    "last_updated": "2026-09-14T04:41:33.903Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
     "published": "2026-09-14T03:03Z"
   },
   {
     "url": "https://thehourisblue.com/from-the-archive-dr-jerilynn-prior-on-why-perimenopause-is-so-poorly-understood-and-why-it-matters/",
-    "title": "From the Archive: Dr. Jerilynn Prior on Why Perimenopause Is So Poorly Understood - and Why It Matters",
+    "title": "From the Archive: Dr. Jerilynn Prior on Perimenopause",
     "author": "https://thehourisblue.com",
     "toasts": 2,
     "first_seen": "2026-09-14T04:41:33.903Z",
-    "last_updated": "2026-09-14T04:41:33.903Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
     "published": "2026-09-14T02:45Z"
   },
   {
     "url": "https://www.justinthestacks.com/book-review-our-lady-of-holy-slaughter/",
     "title": "Book Review: Our Lady of Holy Slaughter",
     "author": "https://www.justinthestacks.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-14T04:41:33.903Z",
-    "last_updated": "2026-09-14T04:41:33.903Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
     "published": "2026-09-14T00:03Z"
+  },
+  {
+    "url": "https://zeina.bearblog.dev/week-37-2026/",
+    "title": "Week 37, 2026: Holy crow",
+    "author": "https://zeina.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
+    "published": "2026-09-14T02:58Z"
+  },
+  {
+    "url": "https://cytalai.bearblog.dev/cytalai-devotion/",
+    "title": "Cytalai - Devotion",
+    "author": "https://cytalai.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
+    "published": "2026-09-14T06:55Z"
+  },
+  {
+    "url": "https://piimyon.bearblog.dev/the-shame-of-expressing-love/",
+    "title": "The shame of expressing love",
+    "author": "https://piimyon.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
+    "published": "2026-09-14T05:45Z"
+  },
+  {
+    "url": "https://sleepyram.bearblog.dev/i-am-not-a-leader/",
+    "title": "I am not a leader",
+    "author": "https://sleepyram.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
+    "published": "2026-09-14T05:15Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/my-box-of-cables-for-my-stuff-still-in-use/",
+    "title": "My Box Of Cables for My Stuff Still In Use",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
+    "published": "2026-09-14T04:18Z"
+  },
+  {
+    "url": "https://mymathjourney.bearblog.dev/new-book-the-best-writing-on-mathematics/",
+    "title": "New book: The Best Writing on Mathematics",
+    "author": "https://mymathjourney.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
+    "published": "2026-09-14T04:09Z"
+  },
+  {
+    "url": "https://notestobreathe.bearblog.dev/in-theory/",
+    "title": "In Theory",
+    "author": "https://notestobreathe.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
+    "published": "2026-09-14T09:01Z"
+  },
+  {
+    "url": "https://linus-japan.bearblog.dev/sista-veckan-innan-skollov/",
+    "title": "Sista veckan innan skollov",
+    "author": "https://linus-japan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
+    "published": "2026-09-14T06:52Z"
+  },
+  {
+    "url": "https://jollyanchorblog.bearblog.dev/emerald-x-stardew-randomizer/",
+    "title": "emerald x stardew randomizer!",
+    "author": "https://jollyanchorblog.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
+    "published": "2026-09-14T05:32Z"
+  },
+  {
+    "url": "https://explicatingelle.bearblog.dev/project-30-challenge-day-5/",
+    "title": "Project 30 Challenge, day 5",
+    "author": "https://explicatingelle.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
+    "published": "2026-09-14T04:26Z"
+  },
+  {
+    "url": "https://compiledfrog.com/post-113-open-game-art/",
+    "title": "Post #113: Open Game Art",
+    "author": "https://compiledfrog.com",
+    "toasts": 2,
+    "first_seen": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T10:24:07.609Z",
+    "published": "2026-09-14T03:50Z"
   }
 ]
