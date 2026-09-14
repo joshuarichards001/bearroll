@@ -48,9 +48,9 @@
     "url": "https://slowburn.bearblog.dev/piracy-as-a-service/",
     "title": "Piracy as a Service",
     "author": "https://slowburn.bearblog.dev",
-    "toasts": 64,
+    "toasts": 65,
     "first_seen": "2026-09-10T08:47:52.672Z",
-    "last_updated": "2026-09-13T18:37:30.831Z",
+    "last_updated": "2026-09-14T16:50:46.504Z",
     "published": "2026-09-10T07:12Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://blog.avas.space/why-not/",
     "title": "after all... why not?",
     "author": "https://blog.avas.space",
-    "toasts": 86,
+    "toasts": 87,
     "first_seen": "2026-09-10T13:25:03.680Z",
-    "last_updated": "2026-09-13T21:16:36.607Z",
+    "last_updated": "2026-09-14T16:50:46.504Z",
     "published": "2026-09-10T11:34Z"
   },
   {
@@ -372,9 +372,9 @@
     "url": "https://puppynet.work/its-incredible-how-transitioning-changed-how-im-treated/",
     "title": "🏳️‍⚧️ It's incredible how transitioning changed how I'm treated",
     "author": "https://puppynet.work",
-    "toasts": 46,
+    "toasts": 48,
     "first_seen": "2026-09-10T20:36:33.724Z",
-    "last_updated": "2026-09-14T10:24:07.609Z",
+    "last_updated": "2026-09-14T16:50:46.504Z",
     "published": "2026-09-10T18:35Z"
   },
   {
@@ -574,5 +574,14 @@
     "first_seen": "2026-09-11T10:53:11.064Z",
     "last_updated": "2026-09-11T14:54:43.439Z",
     "published": "2026-09-10T22:37Z"
+  },
+  {
+    "url": "https://goodgollyzines.ca/ottawa-election-2026/",
+    "title": "Ottawa Election 2026",
+    "author": "https://goodgollyzines.ca",
+    "toasts": 37,
+    "first_seen": "2026-09-14T16:50:46.504Z",
+    "last_updated": "2026-09-14T16:50:46.504Z",
+    "published": "2026-09-10T20:05Z"
   }
 ]
