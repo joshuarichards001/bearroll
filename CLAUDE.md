@@ -43,8 +43,11 @@ Two independent subsystems share the `data/` directory:
 - `src/lib/posts.ts` — Reads JSON files from `data/`, ranks posts by toast
   count, extracts domains. Key exports: `loadInitialDays()` (first 4 days for
   SSG), `getRemainingDayDates()` (for client-side lazy loading),
-  `getAllDayDates()`, `loadDay()`, and `processDay()`.
+  `getAllDayDates()`, `loadDay()`, `processDay()`, plus `getWeekStarts()` and
+  `loadWeek()` for the weekly feed.
 - `src/lib/format.ts` — Date formatting (`formatDate`).
+- `src/lib/rss.ts` — Renders a ranked post list as the HTML body shared by both
+  feeds (`postsToListHtml`).
 - `src/lib/stats.ts` — Computes aggregate statistics across all collected data,
   or across a single month. Deduplicates posts by URL, ranks top posts by
   toasts, and tallies per-blog appearance counts. Key exports:
@@ -67,8 +70,12 @@ Two independent subsystems share the `data/` directory:
 - `src/pages/archive/[date].astro` — Per-date archive page showing all posts
   collected on that date. Statically generated for every available date.
 - `src/pages/rss.xml.ts` — RSS feed of the top 10 posts per day from the last 14
-  days. Skips today's data and delays yesterday's until after 9am UTC to allow
+  days. Skips today's data and delays yesterday's until after 6am UTC to allow
   toast counts to stabilize.
+- `src/pages/rss-weekly.xml.ts` — RSS feed of the top 20 posts per Sun–Sat week
+  for the last 12 completed weeks. A week is held back until the Sunday after it
+  ends, at 6am UTC.
+- `src/pages/feeds.astro` — Static page linking to the daily and weekly feeds.
 - `src/pages/404.astro` — Custom 404 error page with a link back to home.
 - `src/pages/api/[date].astro` — Static **HTML fragment** endpoints generated at
   build time for each day file. Returns rendered `DaySection` markup (not JSON),

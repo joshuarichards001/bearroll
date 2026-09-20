@@ -19,7 +19,9 @@ export function GET(context: APIContext) {
     return [
       {
         title: `Bearroll Weekly Top 20 - ${formatDate(sunday)} to ${formatDate(saturday.toISOString().slice(0, 10))}`,
-        link: `${context.site!}`,
+        // Each item needs its own link: @astrojs/rss derives <guid> from it,
+        // and identical guids make readers treat every week as the same entry.
+        link: `${context.site!}archive/${sunday}`,
         pubDate,
         content: postsToListHtml(posts),
       },
