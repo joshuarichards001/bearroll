@@ -103,7 +103,7 @@ export function computeStats(monthKey?: string): Stats {
   // Top posts: sorted by toasts, re-ranked by position
   const topPosts = [...uniquePosts]
     .sort((a, b) => b.toasts - a.toasts)
-    .slice(0, 10)
+    .slice(0, 20)
     .map((p, i) => ({ ...p, rank: i + 1 }));
 
   // Blog stats: accumulate across all appearances
