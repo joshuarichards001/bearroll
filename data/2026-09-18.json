@@ -237,9 +237,9 @@
     "url": "https://householderkarl.com/gratuitous-suffering-persian-cinema-and-pagan-gods/",
     "title": "Gratuitous Suffering, Persian Cinema, and Pagan Gods",
     "author": "https://householderkarl.com",
-    "toasts": 23,
+    "toasts": 24,
     "first_seen": "2026-09-18T14:49:52.930Z",
-    "last_updated": "2026-09-20T10:56:02.524Z",
+    "last_updated": "2026-09-21T10:29:28.352Z",
     "published": "2026-09-18T13:46Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://glonk.bearblog.dev/decline-of-civilization/",
     "title": "Decline of civilization",
     "author": "https://glonk.bearblog.dev",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-09-18T14:49:52.930Z",
-    "last_updated": "2026-09-20T05:52:40.104Z",
+    "last_updated": "2026-09-21T10:29:28.352Z",
     "published": "2026-09-18T12:54Z"
   },
   {
@@ -633,9 +633,9 @@
     "url": "https://elmc.at/shadowrun-review/",
     "title": "Shadowrun Review",
     "author": "https://elmc.at",
-    "toasts": 26,
+    "toasts": 27,
     "first_seen": "2026-09-19T04:27:49.221Z",
-    "last_updated": "2026-09-20T10:56:02.524Z",
+    "last_updated": "2026-09-21T10:29:28.352Z",
     "published": "2026-09-18T22:59Z"
   },
   {
@@ -700,5 +700,14 @@
     "first_seen": "2026-09-19T13:46:04.403Z",
     "last_updated": "2026-09-21T04:42:20.435Z",
     "published": "2026-09-18T15:00Z"
+  },
+  {
+    "url": "https://www.spindlecrow.space/im-learning-electronics-again/",
+    "title": "wtf am i doing? aka i'm learning electronics again",
+    "author": "https://www.spindlecrow.space",
+    "toasts": 9,
+    "first_seen": "2026-09-21T10:29:28.352Z",
+    "last_updated": "2026-09-21T10:29:28.352Z",
+    "published": "2026-09-18T12:15Z"
   }
 ]
