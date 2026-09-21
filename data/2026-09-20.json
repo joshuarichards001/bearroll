@@ -84,9 +84,9 @@
     "url": "https://blog.sulimans.space/we-need-more-transparently-opinionated-journalism/",
     "title": "we need more transparently opinionated journalism",
     "author": "https://blog.sulimans.space",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-09-20T10:56:02.524Z",
-    "last_updated": "2026-09-20T10:56:02.524Z",
+    "last_updated": "2026-09-21T20:52:34.496Z",
     "published": "2026-09-20T07:31Z"
   },
   {
@@ -183,18 +183,18 @@
     "url": "https://rwitesh.bearblog.dev/posts/things-i-once-thought-mattered/",
     "title": "Things I Once Thought Mattered",
     "author": "https://rwitesh.bearblog.dev",
-    "toasts": 23,
+    "toasts": 25,
     "first_seen": "2026-09-20T14:37:40.501Z",
-    "last_updated": "2026-09-21T16:51:57.734Z",
+    "last_updated": "2026-09-21T20:52:34.496Z",
     "published": "2026-09-20T12:10Z"
   },
   {
     "url": "https://curiously.bearblog.dev/too-much-social-media-new/",
     "title": "too much social media",
     "author": "https://curiously.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-09-20T14:37:40.501Z",
-    "last_updated": "2026-09-21T16:51:57.734Z",
+    "last_updated": "2026-09-21T20:52:34.496Z",
     "published": "2026-09-20T10:56Z"
   },
   {
@@ -210,9 +210,9 @@
     "url": "https://jackreiger.bearblog.dev/you-cant-think-your-way-into-happiness/",
     "title": "You can't think your way into happiness.",
     "author": "https://jackreiger.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-09-20T14:37:40.501Z",
-    "last_updated": "2026-09-21T16:51:57.734Z",
+    "last_updated": "2026-09-21T20:52:34.496Z",
     "published": "2026-09-20T13:18Z"
   },
   {
@@ -399,9 +399,9 @@
     "url": "https://yunzi.co.uk/messing-around-with-gemini-no-not-the-ai/",
     "title": "Messing around with Gemini - No NOT the  AI",
     "author": "https://yunzi.co.uk",
-    "toasts": 19,
+    "toasts": 20,
     "first_seen": "2026-09-20T21:16:40.178Z",
-    "last_updated": "2026-09-21T16:51:57.734Z",
+    "last_updated": "2026-09-21T20:52:34.496Z",
     "published": "2026-09-20T18:22Z"
   },
   {
@@ -471,9 +471,9 @@
     "url": "https://piimyon.bearblog.dev/say-something-nice-pass-it-on/",
     "title": "Say something nice. Pass it on.",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 18,
+    "toasts": 22,
     "first_seen": "2026-09-20T23:57:35.482Z",
-    "last_updated": "2026-09-21T16:51:57.734Z",
+    "last_updated": "2026-09-21T20:52:34.496Z",
     "published": "2026-09-20T22:12Z"
   },
   {
@@ -565,5 +565,14 @@
     "first_seen": "2026-09-21T04:42:20.435Z",
     "last_updated": "2026-09-21T04:42:20.435Z",
     "published": "2026-09-20T18:43Z"
+  },
+  {
+    "url": "https://reflexprotokoll.de/rfx-task-switchitis/",
+    "title": "RFX // Task Switchitis",
+    "author": "https://reflexprotokoll.de",
+    "toasts": 3,
+    "first_seen": "2026-09-21T20:52:34.496Z",
+    "last_updated": "2026-09-21T20:52:34.496Z",
+    "published": "2026-09-20T23:57Z"
   }
 ]
