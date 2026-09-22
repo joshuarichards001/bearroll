@@ -102,9 +102,9 @@
     "url": "https://herman.bearblog.dev/on-reading-books/",
     "title": "On reading books",
     "author": "https://herman.bearblog.dev",
-    "toasts": 7,
+    "toasts": 51,
     "first_seen": "2026-09-22T09:41:38.102Z",
-    "last_updated": "2026-09-22T09:41:38.102Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
     "published": "2026-09-22T09:20Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://73pctgeek.com/996/",
     "title": "996",
     "author": "https://73pctgeek.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-22T09:41:38.102Z",
-    "last_updated": "2026-09-22T09:41:38.102Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
     "published": "2026-09-22T08:31Z"
   },
   {
@@ -156,18 +156,198 @@
     "url": "https://sleepyram.bearblog.dev/mood-playlist/",
     "title": "Mood playlist",
     "author": "https://sleepyram.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-22T09:41:38.102Z",
-    "last_updated": "2026-09-22T09:41:38.102Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
     "published": "2026-09-22T05:29Z"
   },
   {
     "url": "https://notes.seantaylor.work/the-inequality-of-attention/",
     "title": "The Inequality Of Attention",
     "author": "https://notes.seantaylor.work",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-22T09:41:38.102Z",
-    "last_updated": "2026-09-22T09:41:38.102Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
     "published": "2026-09-22T04:30Z"
+  },
+  {
+    "url": "https://koke.bearblog.dev/my-plan-to-start-working-on-my-ideas/",
+    "title": "My plan to start working on my ideas",
+    "author": "https://koke.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T14:00Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/news-of-the-world/",
+    "title": "News of the World",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T13:23Z"
+  },
+  {
+    "url": "https://heyimbriel.bearblog.dev/agora-02/",
+    "title": "Agora",
+    "author": "https://heyimbriel.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T13:20Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/conforme-e-mail-anterior/",
+    "title": "Conforme e-mail anterior",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T12:27Z"
+  },
+  {
+    "url": "https://pearlsandcoffeecups.bearblog.dev/the-journey-continues-on-lofi-setting/",
+    "title": "The Journey continues, on LoFi setting",
+    "author": "https://pearlsandcoffeecups.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T11:41Z"
+  },
+  {
+    "url": "https://livrodereceitas.bearblog.dev/batata-doce-com-carne-moida/",
+    "title": "Batata doce com Carne Moída",
+    "author": "https://livrodereceitas.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T11:06Z"
+  },
+  {
+    "url": "https://cats-musings.blog/0100-newsthoughts-talarico-paxton-2026/",
+    "title": "NewsThoughts: Texas Sized Texas News (also, my hundredth post!)",
+    "author": "https://cats-musings.blog",
+    "toasts": 3,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T03:36Z"
+  },
+  {
+    "url": "https://swc.bearblog.dev/facia/",
+    "title": "Facia",
+    "author": "https://swc.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T13:54Z"
+  },
+  {
+    "url": "https://someinnonregol.bearblog.dev/simple/",
+    "title": "Simple",
+    "author": "https://someinnonregol.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T13:24Z"
+  },
+  {
+    "url": "https://mikahgosto.bearblog.dev/hoje-vi-algo-que-me-lembrou-muito-voce/",
+    "title": "Hoje vi algo que me lembrou muito você",
+    "author": "https://mikahgosto.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T00:18Z"
+  },
+  {
+    "url": "https://constance.bearblog.dev/what-you-grow-up-eating/",
+    "title": "What you grow up eating",
+    "author": "https://constance.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T12:56Z"
+  },
+  {
+    "url": "https://ajnook.bearblog.dev/great-quote-about-parenting/",
+    "title": "Great quote about parenting",
+    "author": "https://ajnook.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T12:50Z"
+  },
+  {
+    "url": "https://setimaarte.bearblog.dev/os-dez-de-hollywood/",
+    "title": "Os Dez de Hollywood",
+    "author": "https://setimaarte.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T12:38Z"
+  },
+  {
+    "url": "https://blogdoth.bearblog.dev/playlists/",
+    "title": "Minhas Playlists",
+    "author": "https://blogdoth.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T11:41Z"
+  },
+  {
+    "url": "https://etan.bearblog.dev/only-by-living-completely-in-the-world-can-one-learn-to-believe-one-must-abandon-every-attempt-to-make-something-of-oneself-even-to-make-of-oneself-a-righteous-person/",
+    "title": "\"Only by living completely in the world can one learn to believe. One must abandon every attempt to make something of oneself— even to make of oneself a righteous person.\" Bonhoeffer via Dillard",
+    "author": "https://etan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T11:30Z"
+  },
+  {
+    "url": "https://doghappylife.bearblog.dev/1067/",
+    "title": "咪魯不在的那個早上",
+    "author": "https://doghappylife.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T10:13Z"
+  },
+  {
+    "url": "https://sharathcgeorge.com/the-overlords-prayer/",
+    "title": "The Overlord's Prayer",
+    "author": "https://sharathcgeorge.com",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T10:09Z"
+  },
+  {
+    "url": "https://themustyattic.bearblog.dev/bookstores/",
+    "title": "bookstores",
+    "author": "https://themustyattic.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T08:37Z"
+  },
+  {
+    "url": "https://icyti.me/miscellany/",
+    "title": "MISCellany",
+    "author": "https://icyti.me",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T03:58Z"
+  },
+  {
+    "url": "https://defjuan.bearblog.dev/arent-you-a-robot/",
+    "title": "\"Aren't you a robot?\"",
+    "author": "https://defjuan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-22T14:29:17.857Z",
+    "last_updated": "2026-09-22T14:29:17.857Z",
+    "published": "2026-09-22T00:47Z"
   }
 ]
