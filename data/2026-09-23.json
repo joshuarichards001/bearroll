@@ -21,18 +21,18 @@
     "url": "https://lumpmotif.com/my-son-is-still-in-the-hospital/",
     "title": "My Son is Still in the Hospital",
     "author": "https://lumpmotif.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-23T05:38:52.217Z",
-    "last_updated": "2026-09-23T05:38:52.217Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
     "published": "2026-09-23T03:26Z"
   },
   {
     "url": "https://icyti.me/productivity-hater/",
     "title": "productivity hater",
     "author": "https://icyti.me",
-    "toasts": 4,
+    "toasts": 9,
     "first_seen": "2026-09-23T05:38:52.217Z",
-    "last_updated": "2026-09-23T11:04:30.810Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
     "published": "2026-09-23T02:09Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://kryst4line.bearblog.dev/being-an-ethical-programmer-in-a-vibecoded-world/",
     "title": "Being an ethical programmer in a vibecoded world",
     "author": "https://kryst4line.bearblog.dev",
-    "toasts": 3,
+    "toasts": 14,
     "first_seen": "2026-09-23T11:04:30.810Z",
-    "last_updated": "2026-09-23T11:04:30.810Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
     "published": "2026-09-23T10:21Z"
   },
   {
@@ -120,27 +120,27 @@
     "url": "https://themustyattic.bearblog.dev/spring-equinox/",
     "title": "spring equinox",
     "author": "https://themustyattic.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-23T11:04:30.810Z",
-    "last_updated": "2026-09-23T11:04:30.810Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
     "published": "2026-09-23T09:14Z"
   },
   {
     "url": "https://yunzi.co.uk/the-last-acceptable-discrimination/",
     "title": "The last acceptable discrimination",
     "author": "https://yunzi.co.uk",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-23T11:04:30.810Z",
-    "last_updated": "2026-09-23T11:04:30.810Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
     "published": "2026-09-23T08:59Z"
   },
   {
     "url": "https://blog.lauramichet.com/reminder-about-which-pokemon-is-currently-worth-one-money/",
     "title": "Reminder about which Pokemon is currently worth One Money",
     "author": "https://blog.lauramichet.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-23T11:04:30.810Z",
-    "last_updated": "2026-09-23T11:04:30.810Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
     "published": "2026-09-23T06:40Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://combatdavey.net/september-22-2026/",
     "title": "september 22 uhh",
     "author": "https://combatdavey.net",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-23T11:04:30.810Z",
-    "last_updated": "2026-09-23T11:04:30.810Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
     "published": "2026-09-23T03:46Z"
   },
   {
@@ -187,5 +187,230 @@
     "first_seen": "2026-09-23T11:04:30.810Z",
     "last_updated": "2026-09-23T11:04:30.810Z",
     "published": "2026-09-23T03:45Z"
+  },
+  {
+    "url": "https://robertbirming.com/dare-be-weirdo/",
+    "title": "Dare to be a weirdo",
+    "author": "https://robertbirming.com",
+    "toasts": 14,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T13:20Z"
+  },
+  {
+    "url": "https://albanbrooke.com/slow-web/",
+    "title": "The web being slow is a choice (and it’s a very stupid choice)",
+    "author": "https://albanbrooke.com",
+    "toasts": 15,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T04:42Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/minmaxxing-into-hating-everything/",
+    "title": "Min/Maxxing Into Hating Everything",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 7,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T15:06Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/stupid-technology/",
+    "title": "STUPID technology!",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T12:23Z"
+  },
+  {
+    "url": "https://nonentity.bearblog.dev/they-are-leveling-kramatorsk/",
+    "title": "They are leveling Kramatorsk",
+    "author": "https://nonentity.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T12:09Z"
+  },
+  {
+    "url": "https://blog.sulimans.space/the-stupidity-of-the-horseshoe-theory/",
+    "title": "the stupidity of the horseshoe theory",
+    "author": "https://blog.sulimans.space",
+    "toasts": 5,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T11:34Z"
+  },
+  {
+    "url": "https://writeitdown.bearblog.dev/got-a-job-lol/",
+    "title": "Got a job lol",
+    "author": "https://writeitdown.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T15:02Z"
+  },
+  {
+    "url": "https://num7.paranormalis.com/from-blogger-to-bear-blog/",
+    "title": "From Blogger to Bear Blog",
+    "author": "https://num7.paranormalis.com",
+    "toasts": 4,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T13:22Z"
+  },
+  {
+    "url": "https://curiously.bearblog.dev/who-is-your-audience/",
+    "title": "who is your audience",
+    "author": "https://curiously.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T14:36Z"
+  },
+  {
+    "url": "https://swc.bearblog.dev/journal-entry-about-blogging/",
+    "title": "Journal Entry About Blogging",
+    "author": "https://swc.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T12:58Z"
+  },
+  {
+    "url": "https://slowburn.bearblog.dev/fascism-is-like-rabies/",
+    "title": "Fascism is like rabies",
+    "author": "https://slowburn.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T10:56Z"
+  },
+  {
+    "url": "https://qmf.bearblog.dev/japp-fortfarande-skitbra-sex-minuter-synthpop-perfektion/",
+    "title": "Japp. Fortfarande skitbra. Sex minuter synthpop-perfektion",
+    "author": "https://qmf.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T10:45Z"
+  },
+  {
+    "url": "https://annoflo.net/september-updates-2026/",
+    "title": "23.09.2026 - September Updates",
+    "author": "https://annoflo.net",
+    "toasts": 3,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T08:58Z"
+  },
+  {
+    "url": "https://blog.aficiona.do/a-long-time-coming/",
+    "title": "A long time coming",
+    "author": "https://blog.aficiona.do",
+    "toasts": 2,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T15:16Z"
+  },
+  {
+    "url": "https://blighttown.bearblog.dev/i-wish-i-were-reading-out-of-boredom/",
+    "title": "I wish I were reading out of boredom",
+    "author": "https://blighttown.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T14:54Z"
+  },
+  {
+    "url": "https://paratexto.net/realmente-podemos-hablar-sobre-la-inteligencia-artifical/",
+    "title": "¿Realmente podemos hablar sobre la Inteligencia Artifical?",
+    "author": "https://paratexto.net",
+    "toasts": 2,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T14:40Z"
+  },
+  {
+    "url": "https://alk.bearblog.dev/left-ear-ringing/",
+    "title": "left ear ringing",
+    "author": "https://alk.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T13:20Z"
+  },
+  {
+    "url": "https://actualspine.bearblog.dev/our-humblest-darling/",
+    "title": "Our Humblest Darling",
+    "author": "https://actualspine.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T13:04Z"
+  },
+  {
+    "url": "https://theashesofphoenix.com/refusal/",
+    "title": "Refusal",
+    "author": "https://theashesofphoenix.com",
+    "toasts": 2,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T12:14Z"
+  },
+  {
+    "url": "https://boi.bearblog.dev/i-dont-know/",
+    "title": "i dont know",
+    "author": "https://boi.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T11:57Z"
+  },
+  {
+    "url": "https://bluelilylilyblue.bearblog.dev/blue-is-not-my-favourite-colour/",
+    "title": "Blue Is Not My Favourite Colour",
+    "author": "https://bluelilylilyblue.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T11:22Z"
+  },
+  {
+    "url": "https://www.createwithashi.com/the-creative-journey-choreography-edition/",
+    "title": "the creative journey: choreography edition",
+    "author": "https://www.createwithashi.com",
+    "toasts": 5,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T04:29Z"
+  },
+  {
+    "url": "https://livingkindfully.bearblog.dev/my-sons-friend-just-killed-himself/",
+    "title": "My Son's Friend Just Killed Himself",
+    "author": "https://livingkindfully.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T08:48Z"
+  },
+  {
+    "url": "https://loveisverbing.bearblog.dev/exit-plan/",
+    "title": "what's your exit plan?",
+    "author": "https://loveisverbing.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T08:47Z"
+  },
+  {
+    "url": "https://deepnull.bearblog.dev/stochastic-series-pt-0-what-is-a-stochastic-process/",
+    "title": "Stochastic Series - Pt 0 - What is a stochastic process?",
+    "author": "https://deepnull.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T16:25:54.105Z",
+    "published": "2026-09-23T07:42Z"
   }
 ]
