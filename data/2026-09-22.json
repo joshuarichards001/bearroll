@@ -30,9 +30,9 @@
     "url": "https://rnotte.art/the-easiest-thing-to-animate/",
     "title": "the easiest thing to animate",
     "author": "https://rnotte.art",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-09-22T04:06:51.787Z",
-    "last_updated": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T20:01:07.183Z",
     "published": "2026-09-22T03:23Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://herman.bearblog.dev/on-reading-books/",
     "title": "On reading books",
     "author": "https://herman.bearblog.dev",
-    "toasts": 135,
+    "toasts": 140,
     "first_seen": "2026-09-22T09:41:38.102Z",
-    "last_updated": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T20:01:07.183Z",
     "published": "2026-09-22T09:20Z"
   },
   {
@@ -354,18 +354,18 @@
     "url": "https://blog.avas.space/energydrain/",
     "title": "a source of drain",
     "author": "https://blog.avas.space",
-    "toasts": 17,
+    "toasts": 19,
     "first_seen": "2026-09-22T18:36:50.904Z",
-    "last_updated": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T20:01:07.183Z",
     "published": "2026-09-22T15:00Z"
   },
   {
     "url": "https://idcrisisangel.ca/white-nights-and-dark-days/",
     "title": "white nights and dark days",
     "author": "https://idcrisisangel.ca",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-09-22T18:36:50.904Z",
-    "last_updated": "2026-09-22T18:36:50.904Z",
+    "last_updated": "2026-09-23T20:01:07.183Z",
     "published": "2026-09-22T17:25Z"
   },
   {
@@ -507,9 +507,9 @@
     "url": "https://valentine.bearblog.dev/how-much-are-you-willing-to-give-up/",
     "title": "how much are you willing to give up?",
     "author": "https://valentine.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-09-22T21:52:38.923Z",
-    "last_updated": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T20:01:07.183Z",
     "published": "2026-09-22T19:52Z"
   },
   {
@@ -678,9 +678,9 @@
     "url": "https://blog.absurdpirate.com/i-got-duped-into-watching-a-right-wing-youtuber/",
     "title": "I Got Duped Into Watching a Right Wing Youtuber",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-09-23T00:08:51.356Z",
-    "last_updated": "2026-09-23T16:25:54.105Z",
+    "last_updated": "2026-09-23T20:01:07.183Z",
     "published": "2026-09-22T22:54Z"
   },
   {
@@ -723,9 +723,9 @@
     "url": "https://blog.techdecline.dev/when-to-throw-the-party-a-platform-engineering-problem/",
     "title": "When to Throw the Party - A Platform Engineering Problem",
     "author": "https://blog.techdecline.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-23T00:08:51.356Z",
-    "last_updated": "2026-09-23T05:38:52.217Z",
+    "last_updated": "2026-09-23T20:01:07.183Z",
     "published": "2026-09-22T20:22Z"
   },
   {
@@ -808,5 +808,14 @@
     "first_seen": "2026-09-23T11:04:30.810Z",
     "last_updated": "2026-09-23T16:25:54.105Z",
     "published": "2026-09-22T17:00Z"
+  },
+  {
+    "url": "https://liaswyrd.bearblog.dev/autumn-equinox-2026-blog/",
+    "title": "Autumn Equinox 2026 (Blog)",
+    "author": "https://liaswyrd.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-09-23T20:01:07.183Z",
+    "last_updated": "2026-09-23T20:01:07.183Z",
+    "published": "2026-09-22T18:15Z"
   }
 ]
