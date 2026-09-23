@@ -102,18 +102,18 @@
     "url": "https://herman.bearblog.dev/on-reading-books/",
     "title": "On reading books",
     "author": "https://herman.bearblog.dev",
-    "toasts": 105,
+    "toasts": 121,
     "first_seen": "2026-09-22T09:41:38.102Z",
-    "last_updated": "2026-09-23T05:38:52.217Z",
+    "last_updated": "2026-09-23T11:04:30.810Z",
     "published": "2026-09-22T09:20Z"
   },
   {
     "url": "https://blizzic.com/entry-manifesto-jam-theres-no-time/",
     "title": "There's no time. My Entry to the 2nd TTRPG Manifesto Jam",
     "author": "https://blizzic.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-22T09:41:38.102Z",
-    "last_updated": "2026-09-22T09:41:38.102Z",
+    "last_updated": "2026-09-23T11:04:30.810Z",
     "published": "2026-09-22T03:11Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://semdominio.bearblog.dev/conforme-e-mail-anterior/",
     "title": "Conforme e-mail anterior",
     "author": "https://semdominio.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-09-22T14:29:17.857Z",
-    "last_updated": "2026-09-22T18:36:50.904Z",
+    "last_updated": "2026-09-23T11:04:30.810Z",
     "published": "2026-09-22T12:27Z"
   },
   {
@@ -354,9 +354,9 @@
     "url": "https://blog.avas.space/energydrain/",
     "title": "a source of drain",
     "author": "https://blog.avas.space",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-09-22T18:36:50.904Z",
-    "last_updated": "2026-09-22T21:52:38.923Z",
+    "last_updated": "2026-09-23T11:04:30.810Z",
     "published": "2026-09-22T15:00Z"
   },
   {
@@ -381,9 +381,9 @@
     "url": "https://mikahgosto.bearblog.dev/21/",
     "title": "#21 🤏🏼",
     "author": "https://mikahgosto.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-22T18:36:50.904Z",
-    "last_updated": "2026-09-22T18:36:50.904Z",
+    "last_updated": "2026-09-23T11:04:30.810Z",
     "published": "2026-09-22T15:16Z"
   },
   {
@@ -678,18 +678,18 @@
     "url": "https://blog.absurdpirate.com/i-got-duped-into-watching-a-right-wing-youtuber/",
     "title": "I Got Duped Into Watching a Right Wing Youtuber",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-09-23T00:08:51.356Z",
-    "last_updated": "2026-09-23T05:38:52.217Z",
+    "last_updated": "2026-09-23T11:04:30.810Z",
     "published": "2026-09-22T22:54Z"
   },
   {
     "url": "https://householderkarl.com/the-universe-is-a-weird-place/",
     "title": "The Universe Is a Weird Place",
     "author": "https://householderkarl.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-09-23T00:08:51.356Z",
-    "last_updated": "2026-09-23T05:38:52.217Z",
+    "last_updated": "2026-09-23T11:04:30.810Z",
     "published": "2026-09-22T23:09Z"
   },
   {
@@ -777,9 +777,9 @@
     "url": "https://anotherdayu.com/pivot-vol21/",
     "title": "PIVOT Vol.21",
     "author": "https://anotherdayu.com",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-09-23T05:38:52.217Z",
-    "last_updated": "2026-09-23T05:38:52.217Z",
+    "last_updated": "2026-09-23T11:04:30.810Z",
     "published": "2026-09-22T21:54Z"
   },
   {
@@ -799,5 +799,14 @@
     "first_seen": "2026-09-23T05:38:52.217Z",
     "last_updated": "2026-09-23T05:38:52.217Z",
     "published": "2026-09-22T16:55Z"
+  },
+  {
+    "url": "https://boi.bearblog.dev/identity/",
+    "title": "identity",
+    "author": "https://boi.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-23T11:04:30.810Z",
+    "last_updated": "2026-09-23T11:04:30.810Z",
+    "published": "2026-09-22T17:00Z"
   }
 ]
