@@ -3,18 +3,18 @@
     "url": "https://lumpmotif.com/my-son-is-home-from-the-hospital/",
     "title": "My Son is Home from the Hospital",
     "author": "https://lumpmotif.com",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-09-24T03:53:42.382Z",
-    "last_updated": "2026-09-24T03:53:42.382Z",
+    "last_updated": "2026-09-24T09:08:14.053Z",
     "published": "2026-09-24T01:52Z"
   },
   {
     "url": "https://johnis.me/samoyed-and-teddy-bear/",
     "title": "Samoyed-and-teddy-bear.jpg",
     "author": "https://johnis.me",
-    "toasts": 5,
+    "toasts": 10,
     "first_seen": "2026-09-24T03:53:42.382Z",
-    "last_updated": "2026-09-24T03:53:42.382Z",
+    "last_updated": "2026-09-24T09:08:14.053Z",
     "published": "2026-09-24T01:45Z"
   },
   {
@@ -39,18 +39,81 @@
     "url": "https://smallquiet.bearblog.dev/a-note-on-gift-shopping/",
     "title": "A note on gift-shopping",
     "author": "https://smallquiet.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-09-24T03:53:42.382Z",
-    "last_updated": "2026-09-24T03:53:42.382Z",
+    "last_updated": "2026-09-24T09:08:14.053Z",
     "published": "2026-09-24T01:22Z"
   },
   {
     "url": "https://pearlsandcoffeecups.bearblog.dev/the-new-ai-agent-standoff-amazon-vs-meta-muse-or-a-boring-chat-about-the-new-age-of-agentic-shopping/",
     "title": "The Agentic Shopping Standoff, Amazon vs Meta Muse AI",
     "author": "https://pearlsandcoffeecups.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-09-24T03:53:42.382Z",
-    "last_updated": "2026-09-24T03:53:42.382Z",
+    "last_updated": "2026-09-24T09:08:14.053Z",
     "published": "2026-09-24T00:32Z"
+  },
+  {
+    "url": "https://folkflora.co/rosemary-focus-and-the-return-of-routine/",
+    "title": "Rosemary, focus, and the return of routine",
+    "author": "https://folkflora.co",
+    "toasts": 3,
+    "first_seen": "2026-09-24T09:08:14.053Z",
+    "last_updated": "2026-09-24T09:08:14.053Z",
+    "published": "2026-09-24T07:30Z"
+  },
+  {
+    "url": "https://cherrysroom.bearblog.dev/please-take-me-slightly-less-seriously/",
+    "title": "please take me slightly less seriously",
+    "author": "https://cherrysroom.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-24T09:08:14.053Z",
+    "last_updated": "2026-09-24T09:08:14.053Z",
+    "published": "2026-09-24T07:25Z"
+  },
+  {
+    "url": "https://toggy.bearblog.dev/ancient-herstory/",
+    "title": "Ancient Herstory",
+    "author": "https://toggy.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-24T09:08:14.053Z",
+    "last_updated": "2026-09-24T09:08:14.053Z",
+    "published": "2026-09-24T07:20Z"
+  },
+  {
+    "url": "https://michaelroxas.com/discord-gets-banned-in-ph/",
+    "title": "Discord gets banned in PH",
+    "author": "https://michaelroxas.com",
+    "toasts": 2,
+    "first_seen": "2026-09-24T09:08:14.053Z",
+    "last_updated": "2026-09-24T09:08:14.053Z",
+    "published": "2026-09-24T06:53Z"
+  },
+  {
+    "url": "https://hilanderrpgs.bearblog.dev/dc/",
+    "title": "Labjer's Dungeon Crawlings",
+    "author": "https://hilanderrpgs.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-24T09:08:14.053Z",
+    "last_updated": "2026-09-24T09:08:14.053Z",
+    "published": "2026-09-24T04:29Z"
+  },
+  {
+    "url": "https://davidmcgee.xyz/recorded-music-as-superstimulus/",
+    "title": "Recorded Music as Superstimulus",
+    "author": "https://davidmcgee.xyz",
+    "toasts": 2,
+    "first_seen": "2026-09-24T09:08:14.053Z",
+    "last_updated": "2026-09-24T09:08:14.053Z",
+    "published": "2026-09-24T03:10Z"
+  },
+  {
+    "url": "https://developer-capybara.bearblog.dev/do-you-ever-dream-of/",
+    "title": "do you ever dream of",
+    "author": "https://developer-capybara.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-24T09:08:14.053Z",
+    "last_updated": "2026-09-24T09:08:14.053Z",
+    "published": "2026-09-24T01:22Z"
   }
 ]
