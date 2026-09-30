@@ -3,27 +3,27 @@
     "url": "https://thisismylast.bearblog.dev/my-cup-of-coffee-versus-your-subscription-cost/",
     "title": "My Cup Of Coffee Versus Your Subscription Cost",
     "author": "https://thisismylast.bearblog.dev",
-    "toasts": 5,
+    "toasts": 23,
     "first_seen": "2026-09-30T06:24:54.843Z",
-    "last_updated": "2026-09-30T06:24:54.843Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
     "published": "2026-09-30T02:11Z"
   },
   {
     "url": "https://littlefrog.bearblog.dev/frog-friends/",
     "title": "Frog Friends",
     "author": "https://littlefrog.bearblog.dev",
-    "toasts": 5,
+    "toasts": 8,
     "first_seen": "2026-09-30T06:24:54.843Z",
-    "last_updated": "2026-09-30T06:24:54.843Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
     "published": "2026-09-30T01:13Z"
   },
   {
     "url": "https://combatdavey.net/september-29-2026/",
     "title": "september 29 nyl",
     "author": "https://combatdavey.net",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-09-30T06:24:54.843Z",
-    "last_updated": "2026-09-30T06:24:54.843Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
     "published": "2026-09-30T03:58Z"
   },
   {
@@ -43,5 +43,113 @@
     "first_seen": "2026-09-30T06:24:54.843Z",
     "last_updated": "2026-09-30T06:24:54.843Z",
     "published": "2026-09-30T05:38Z"
+  },
+  {
+    "url": "https://blog.avas.space/rosebudthorn-sep26/",
+    "title": "rose ▪ bud ▪ thorn - september 2026",
+    "author": "https://blog.avas.space",
+    "toasts": 11,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T07:30Z"
+  },
+  {
+    "url": "https://rants.jlopes.eu/you-had-me-at-your-great-idea/",
+    "title": "You Had Me At Your Great Idea!",
+    "author": "https://rants.jlopes.eu",
+    "toasts": 5,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T13:04Z"
+  },
+  {
+    "url": "https://th.blog.br/indice/",
+    "title": "Índice",
+    "author": "https://th.blog.br",
+    "toasts": 5,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T12:40Z"
+  },
+  {
+    "url": "https://householderkarl.com/hypocrisy/",
+    "title": "Hypocrisy",
+    "author": "https://householderkarl.com",
+    "toasts": 4,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T11:38Z"
+  },
+  {
+    "url": "https://logs.bearblog.dev/o-meu-sumico-inexplicado/",
+    "title": "O meu sumiço inexplicado",
+    "author": "https://logs.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T10:14Z"
+  },
+  {
+    "url": "https://brettcodes.com/beware/",
+    "title": "Beware: Real risks of using AI as a software dev team",
+    "author": "https://brettcodes.com",
+    "toasts": 3,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T12:09Z"
+  },
+  {
+    "url": "https://bluebottles.bearblog.dev/you-dont-need-planning-permission/",
+    "title": "you don't need planning permission",
+    "author": "https://bluebottles.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T10:12Z"
+  },
+  {
+    "url": "https://writer-point.com/fun-stuff-on-the-internet-part-1/",
+    "title": "Fun Stuff on the Internet! (Part 1?)",
+    "author": "https://writer-point.com",
+    "toasts": 3,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T10:00Z"
+  },
+  {
+    "url": "https://trueself.bearblog.dev/redirection-is-love/",
+    "title": "redirection is love",
+    "author": "https://trueself.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T13:00Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/punhado-de-coisas-aleatorias/",
+    "title": "Punhado de coisas aleatórias",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T12:34Z"
+  },
+  {
+    "url": "https://neus.blog/where-to-buy-property-in-dubai-for-a-golden-visa/",
+    "title": "Where to Buy Property in Dubai for a Golden Visa?",
+    "author": "https://neus.blog",
+    "toasts": 2,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T11:48Z"
+  },
+  {
+    "url": "https://livingkindfully.bearblog.dev/there-will-always-be-haters/",
+    "title": "There will Always be Haters",
+    "author": "https://livingkindfully.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-09-30T13:26:07.463Z",
+    "last_updated": "2026-09-30T13:26:07.463Z",
+    "published": "2026-09-30T11:29Z"
   }
 ]
