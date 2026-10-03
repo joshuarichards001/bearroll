@@ -12,9 +12,9 @@
     "url": "https://ginoz.bearblog.dev/maybeiwasborntobeacorporatedrone/",
     "title": "Maybe I was born to be a corporate drone",
     "author": "https://ginoz.bearblog.dev",
-    "toasts": 26,
+    "toasts": 27,
     "first_seen": "2026-10-01T08:33:17.419Z",
-    "last_updated": "2026-10-02T20:29:13.022Z",
+    "last_updated": "2026-10-03T00:15:44.842Z",
     "published": "2026-10-01T03:46Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://sleepyram.bearblog.dev/not-okay/",
     "title": "Someone who's not okay",
     "author": "https://sleepyram.bearblog.dev",
-    "toasts": 32,
+    "toasts": 33,
     "first_seen": "2026-10-01T16:08:45.957Z",
-    "last_updated": "2026-10-02T20:29:13.022Z",
+    "last_updated": "2026-10-03T00:15:44.842Z",
     "published": "2026-10-01T08:44Z"
   },
   {
     "url": "https://blighttown.bearblog.dev/mozilla-says-firefox-shuffles-its-ui-for-no-goddamned-reason-whatsoever/",
     "title": "Mozilla says \"Firefox shuffles its UI for no goddamned reason whatsoever\"",
     "author": "https://blighttown.bearblog.dev",
-    "toasts": 51,
+    "toasts": 52,
     "first_seen": "2026-10-01T16:08:45.957Z",
-    "last_updated": "2026-10-02T20:29:13.022Z",
+    "last_updated": "2026-10-03T00:15:44.842Z",
     "published": "2026-10-01T15:28Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://anarchaeopteryx.bearblog.dev/2026-10-01-finances-six-months/",
     "title": "Changes in finances since March 2026",
     "author": "https://anarchaeopteryx.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-10-01T16:08:45.957Z",
-    "last_updated": "2026-10-01T21:39:43.088Z",
+    "last_updated": "2026-10-03T00:15:44.842Z",
     "published": "2026-10-01T15:00Z"
   },
   {
@@ -466,5 +466,14 @@
     "first_seen": "2026-10-02T15:32:34.286Z",
     "last_updated": "2026-10-02T15:32:34.286Z",
     "published": "2026-10-01T23:30Z"
+  },
+  {
+    "url": "https://terminallucidity.net/antlers/",
+    "title": "Antlers",
+    "author": "https://terminallucidity.net",
+    "toasts": 8,
+    "first_seen": "2026-10-03T00:15:44.842Z",
+    "last_updated": "2026-10-03T00:15:44.842Z",
+    "published": "2026-10-01T17:14Z"
   }
 ]
