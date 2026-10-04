@@ -1,4 +1,4 @@
-import { getAllDayDates, loadDay, type RankedPost } from "./posts";
+import { getAllDayDates, getMonday, loadDay, type RankedPost } from "./posts";
 
 export interface RankedBlog {
   domain: string;
@@ -20,6 +20,7 @@ export interface Stats {
   topPosts: RankedPost[];
   topBlogs: RankedBlog[];
   dailyToasts: DayStat[];
+  weeklyToasts: DayStat[];
 }
 
 export interface MonthInfo {
@@ -133,6 +134,16 @@ export function computeStats(monthKey?: string): Stats {
     .reverse()
     .map((date) => ({ date, total: dailyMap.get(date) ?? 0 }));
 
+  const weeklyMap = new Map<string, number>();
+  for (const { date, total } of dailyToasts) {
+    const monday = getMonday(date);
+    weeklyMap.set(monday, (weeklyMap.get(monday) ?? 0) + total);
+  }
+  const weeklyToasts: DayStat[] = [...weeklyMap].map(([date, total]) => ({
+    date,
+    total,
+  }));
+
   const totalToasts = uniquePosts.reduce((sum, p) => sum + p.toasts, 0);
 
   return {
@@ -142,5 +153,6 @@ export function computeStats(monthKey?: string): Stats {
     topPosts,
     topBlogs,
     dailyToasts,
+    weeklyToasts,
   };
 }

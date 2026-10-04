@@ -10,6 +10,7 @@ interface Props {
 }
 
 const { stats, activeSlug } = Astro.props;
+const weekly = !activeSlug;
 const months = getAvailableMonths();
 const totalToastsDisplay =
   stats.totalToasts >= 1000
@@ -53,8 +54,13 @@ const activeBtn = "bg-accent border-accent text-white";
   </div>
 </dl>
 <section>
-  <h2 class="text-sm font-bold text-heading mb-2">Daily Toast Activity</h2>
-  <ToastGraph data={stats.dailyToasts} />
+  <h2 class="text-sm font-bold text-heading mb-2">
+    {weekly ? "Weekly" : "Daily"} Toast Activity
+  </h2>
+  <ToastGraph
+    data={weekly ? stats.weeklyToasts : stats.dailyToasts}
+    weekly={weekly}
+  />
 </section>
 <section>
   <h2 class="text-sm font-bold text-heading mb-3">Most Toasted Posts</h2>

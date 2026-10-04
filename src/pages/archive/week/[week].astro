@@ -1,0 +1,36 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import PostItem from "../../../components/PostItem.astro";
+import PageHeader from "../../../components/PageHeader.astro";
+import { getArchiveWeekStarts, loadWeekPosts } from "../../../lib/posts";
+import { formatWeek } from "../../../lib/format";
+import type { GetStaticPaths } from "astro";
+
+export const getStaticPaths: GetStaticPaths = () => {
+  return getArchiveWeekStarts().map((week) => ({ params: { week } }));
+};
+
+const { week } = Astro.params;
+const posts = loadWeekPosts(week!);
+const label = formatWeek(week!);
+---
+
+<Layout
+  title={`${label} — Bear Roll`}
+  description={`Bear Blog discover page top posts from the week of ${label}.`}
+>
+  <PageHeader slot="header" title={label} />
+  <main class="flex flex-col gap-4">
+    {
+      posts.length > 0 ? (
+        <ul class="flex flex-col">
+          {posts.map((post) => (
+            <PostItem post={post} />
+          ))}
+        </ul>
+      ) : (
+        <p class="text-muted">No posts found for this week.</p>
+      )
+    }
+  </main>
+</Layout>

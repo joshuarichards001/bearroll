@@ -92,11 +92,10 @@ const WEEK_DAYS = 7;
 const TOP_PER_WEEK = 20;
 const MAX_WEEKS = 12;
 
-/** The Sun–Sat date strings for the week starting at the given Sunday. */
-function weekDates(sunday: string): string[] {
-  const start = new Date(sunday + "T00:00:00Z");
+function weekDates(start: string): string[] {
+  const first = new Date(start + "T00:00:00Z");
   return Array.from({ length: WEEK_DAYS }, (_, i) => {
-    const d = new Date(start);
+    const d = new Date(first);
     d.setUTCDate(d.getUTCDate() + i);
     return d.toISOString().slice(0, 10);
   });
@@ -129,10 +128,9 @@ export function getWeekStarts(): string[] {
   return weeks;
 }
 
-/** Top posts across one Sun–Sat week, deduped by URL and ranked by toasts. */
-export function loadWeek(sunday: string): RankedPost[] {
+export function loadWeekPosts(start: string): RankedPost[] {
   const byUrl = new Map<string, RankedPost>();
-  for (const date of weekDates(sunday)) {
+  for (const date of weekDates(start)) {
     const day = loadDay(date);
     if (!day) continue;
     for (const post of day.posts) {
@@ -142,8 +140,22 @@ export function loadWeek(sunday: string): RankedPost[] {
   }
   return [...byUrl.values()]
     .sort((a, b) => b.toasts - a.toasts)
-    .slice(0, TOP_PER_WEEK)
     .map((post, i) => ({ ...post, rank: i + 1 }));
+}
+
+/** Top posts across one Sun–Sat week, deduped by URL and ranked by toasts. */
+export function loadWeek(sunday: string): RankedPost[] {
+  return loadWeekPosts(sunday).slice(0, TOP_PER_WEEK);
+}
+
+export function getMonday(date: string): string {
+  const d = new Date(date + "T00:00:00Z");
+  d.setUTCDate(d.getUTCDate() - ((d.getUTCDay() + 6) % 7));
+  return d.toISOString().slice(0, 10);
+}
+
+export function getArchiveWeekStarts(): string[] {
+  return [...new Set(getAllDayDates().map(getMonday))];
 }
 
 /** Get the ISO timestamp of the most recent data collection. */

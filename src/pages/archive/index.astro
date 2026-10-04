@@ -12,6 +12,9 @@ const dates = getAllDayDates();
 >
   <PageHeader slot="header" title="Archive" />
   <main class="flex flex-col gap-4">
+    <a href="/archive/week" class="text-link hover:underline">
+      Browse by week →
+    </a>
     <ul class="flex flex-col gap-2">
       {
         dates.map((date) => (

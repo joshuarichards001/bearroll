@@ -1,0 +1,31 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import PageHeader from "../../../components/PageHeader.astro";
+import { getArchiveWeekStarts } from "../../../lib/posts";
+import { formatWeek } from "../../../lib/format";
+
+const weeks = getArchiveWeekStarts();
+---
+
+<Layout
+  title="Weekly Archive — Bear Roll"
+  description="Browse every collected week of the Bear Blog discover page."
+>
+  <PageHeader slot="header" title="Weekly Archive" />
+  <main class="flex flex-col gap-4">
+    <ul class="flex flex-col gap-2">
+      {
+        weeks.map((monday) => (
+          <li>
+            <a
+              href={`/archive/week/${monday}`}
+              class="text-link hover:underline"
+            >
+              {formatWeek(monday)}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </main>
+</Layout>

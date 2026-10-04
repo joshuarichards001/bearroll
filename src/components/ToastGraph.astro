@@ -1,12 +1,13 @@
 ---
 import type { DayStat } from "../lib/stats";
-import { formatDate } from "../lib/format";
+import { formatDate, formatWeek } from "../lib/format";
 
 interface Props {
   data: DayStat[];
+  weekly?: boolean;
 }
 
-const { data } = Astro.props;
+const { data, weekly = false } = Astro.props;
 
 const W = 600;
 const H = 120;
@@ -37,7 +38,7 @@ const yTicks = [0, Math.round(maxVal / 2), maxVal];
 <svg
   viewBox={`0 0 ${W} ${H}`}
   class="w-full"
-  aria-label="Daily toast totals"
+  aria-label={`${weekly ? "Weekly" : "Daily"} toast totals`}
   role="img"
 >
   {
@@ -74,10 +75,10 @@ const yTicks = [0, Math.round(maxVal / 2), maxVal];
       const showLabel = i % labelStep === 0;
       return (
         <a
-          href={`/archive/${d.date}`}
+          href={weekly ? `/archive/week/${d.date}` : `/archive/${d.date}`}
           class="cursor-pointer opacity-75 hover:opacity-100 active:opacity-100 active:brightness-[0.8]"
         >
-          <title>{formatDate(d.date)}</title>
+          <title>{weekly ? formatWeek(d.date) : formatDate(d.date)}</title>
           <rect
             x={x + 1}
             y={barY(d.total)}

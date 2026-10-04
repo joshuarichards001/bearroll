@@ -44,14 +44,17 @@ Two independent subsystems share the `data/` directory:
   count, extracts domains. Key exports: `loadInitialDays()` (first 4 days for
   SSG), `getRemainingDayDates()` (for client-side lazy loading),
   `getAllDayDates()`, `loadDay()`, `processDay()`, plus `getWeekStarts()` and
-  `loadWeek()` for the weekly feed.
-- `src/lib/format.ts` — Date formatting (`formatDate`).
+  `loadWeek()` for the weekly feed, and `getArchiveWeekStarts()`, `getMonday()`
+  and `loadWeekPosts()` for the Mon–Sun week archive.
+- `src/lib/format.ts` — Date formatting (`formatDate`, `formatWeek`).
 - `src/lib/rss.ts` — Renders a ranked post list as the HTML body shared by both
   feeds (`postsToListHtml`).
 - `src/lib/stats.ts` — Computes aggregate statistics across all collected data,
   or across a single month. Deduplicates posts by URL, ranks top posts by
-  toasts, and tallies per-blog appearance counts. Key exports:
-  `computeStats(monthKey?)` and `getAvailableMonths()`.
+  toasts, tallies per-blog appearance counts, and totals toasts per day and per
+  Mon–Sun week. The all-time page graphs weekly totals (bars link to the week
+  archive); month pages graph daily totals (bars link to the day archive). Key
+  exports: `computeStats(monthKey?)` and `getAvailableMonths()`.
 - `src/pages/index.astro` — Main page. Server-renders the first 4 days, then
   uses a scroll event listener to lazy-load older days via the HTML API when the
   user nears the bottom of the page. Client-side filter logic and scroll loading
@@ -66,7 +69,12 @@ Two independent subsystems share the `data/` directory:
 - `src/pages/about.astro` — Static about page explaining the project's purpose
   and technical implementation.
 - `src/pages/archive/index.astro` — Lists all collected dates as links to
-  individual archive pages.
+  individual archive pages, with a link to the weekly archive at the top.
+- `src/pages/archive/week/index.astro` — Lists every Mon–Sun week with collected
+  data (including the in-progress week).
+- `src/pages/archive/week/[week].astro` — Per-week archive page (keyed by the
+  week's Monday, e.g. `/archive/week/2026-09-28`) showing all posts from that
+  week ranked by toasts. Statically generated for every week.
 - `src/pages/archive/[date].astro` — Per-date archive page showing all posts
   collected on that date. Statically generated for every available date.
 - `src/pages/rss.xml.ts` — RSS feed of the top 10 posts per day from the last 14
@@ -130,3 +138,10 @@ with pre-rendered HTML fragment endpoints for infinite scroll.
   `src/styles/global.css` and exposed to Tailwind via `@theme`. The client-side
   JS (`renderDay`, `applyFilter`) uses Tailwind class names directly when
   creating/toggling DOM elements.
+
+## Code Style
+
+- **Minimal comments:** Don't add comments unless they're really needed for
+  context (e.g. a non-obvious constraint or workaround). Prefer clear names over
+  comments that restate what the code does, and don't add doc comments to
+  self-explanatory functions, fields, or props.
