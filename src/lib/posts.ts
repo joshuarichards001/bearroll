@@ -102,22 +102,23 @@ function weekDates(start: string): string[] {
 }
 
 /**
- * Sunday start-dates of completed weeks whose feed item has published, newest
- * first. A week (Sun–Sat) publishes the following Sunday at 6am UTC, so the
- * just-ended week is held back until then.
+ * Monday start-dates of completed weeks whose feed item has published, newest
+ * first. A week (Mon–Sun) publishes the following Monday at 7am UTC, so the
+ * just-ended week is held back until Sunday's posts have had time to gain
+ * toasts.
  */
 export function getWeekStarts(): string[] {
   const now = new Date();
-  // Sunday 00:00 UTC of the current, in-progress week.
-  const sunday = new Date(now);
-  sunday.setUTCHours(0, 0, 0, 0);
-  sunday.setUTCDate(sunday.getUTCDate() - sunday.getUTCDay());
+  // Monday 00:00 UTC of the current, in-progress week.
+  const monday = new Date(
+    getMonday(now.toISOString().slice(0, 10)) + "T00:00:00Z",
+  );
 
-  // Most recent completed week starts the previous Sunday; if its publish time
-  // (this Sunday 6am UTC) hasn't passed, fall back another week.
-  const publish = new Date(sunday);
-  publish.setUTCHours(6, 0, 0, 0);
-  const weekStart = new Date(sunday);
+  // Most recent completed week starts the previous Monday; if its publish time
+  // (this Monday 7am UTC) hasn't passed, fall back another week.
+  const publish = new Date(monday);
+  publish.setUTCHours(7, 0, 0, 0);
+  const weekStart = new Date(monday);
   weekStart.setUTCDate(weekStart.getUTCDate() - (now < publish ? 14 : 7));
 
   const weeks: string[] = [];
@@ -143,9 +144,9 @@ export function loadWeekPosts(start: string): RankedPost[] {
     .map((post, i) => ({ ...post, rank: i + 1 }));
 }
 
-/** Top posts across one Sun–Sat week, deduped by URL and ranked by toasts. */
-export function loadWeek(sunday: string): RankedPost[] {
-  return loadWeekPosts(sunday).slice(0, TOP_PER_WEEK);
+/** Top posts across one Mon–Sun week, deduped by URL and ranked by toasts. */
+export function loadWeek(monday: string): RankedPost[] {
+  return loadWeekPosts(monday).slice(0, TOP_PER_WEEK);
 }
 
 export function getMonday(date: string): string {

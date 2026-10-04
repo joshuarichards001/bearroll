@@ -80,9 +80,9 @@ Two independent subsystems share the `data/` directory:
 - `src/pages/rss.xml.ts` — RSS feed of the top 10 posts per day from the last 14
   days. Skips today's data and delays yesterday's until after 6am UTC to allow
   toast counts to stabilize.
-- `src/pages/rss-weekly.xml.ts` — RSS feed of the top 20 posts per Sun–Sat week
-  for the last 12 completed weeks. A week is held back until the Sunday after it
-  ends, at 6am UTC.
+- `src/pages/rss-weekly.xml.ts` — RSS feed of the top 20 posts per Mon–Sun week
+  for the last 12 completed weeks. A week is held back until the Monday after it
+  ends, at 7am UTC, so Sunday's posts have time to gain toasts.
 - `src/pages/feeds.astro` — Static page linking to the daily and weekly feeds.
 - `src/pages/404.astro` — Custom 404 error page with a link back to home.
 - `src/pages/api/[date].astro` — Static **HTML fragment** endpoints generated at

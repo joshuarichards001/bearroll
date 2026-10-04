@@ -5,25 +5,26 @@ import { getWeekStarts, loadWeek } from "../lib/posts";
 import { postsToListHtml } from "../lib/rss";
 
 export function GET(context: APIContext) {
-  const items = getWeekStarts().flatMap((sunday) => {
-    const posts = loadWeek(sunday);
+  const items = getWeekStarts().flatMap((monday) => {
+    const posts = loadWeek(monday);
     if (posts.length === 0) return [];
 
-    const saturday = new Date(sunday + "T00:00:00Z");
-    saturday.setUTCDate(saturday.getUTCDate() + 6);
-    // Published the Sunday after the week ends, at 6am UTC.
-    const pubDate = new Date(sunday + "T00:00:00Z");
+    const sunday = new Date(monday + "T00:00:00Z");
+    sunday.setUTCDate(sunday.getUTCDate() + 6);
+    // Published the Monday after the week ends, at 7am UTC.
+    const pubDate = new Date(monday + "T00:00:00Z");
     pubDate.setUTCDate(pubDate.getUTCDate() + 7);
-    pubDate.setUTCHours(6, 0, 0, 0);
+    pubDate.setUTCHours(7, 0, 0, 0);
+    const archiveUrl = `${context.site!}archive/week/${monday}`;
 
     return [
       {
-        title: `Bearroll Weekly Top 20 - ${formatDate(sunday)} to ${formatDate(saturday.toISOString().slice(0, 10))}`,
+        title: `Bearroll Weekly Top 20 - ${formatDate(monday)} to ${formatDate(sunday.toISOString().slice(0, 10))}`,
         // Each item needs its own link: @astrojs/rss derives <guid> from it,
         // and identical guids make readers treat every week as the same entry.
-        link: `${context.site!}archive/${sunday}`,
+        link: archiveUrl,
         pubDate,
-        content: postsToListHtml(posts),
+        content: `${postsToListHtml(posts)}<p><a href="${archiveUrl}">See all posts from this week</a></p>`,
       },
     ];
   });
