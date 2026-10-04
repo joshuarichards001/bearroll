@@ -3,18 +3,18 @@
     "url": "https://doodhpeda.bearblog.dev/blog/slowing-down/",
     "title": "Slowing down",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 6,
+    "toasts": 12,
     "first_seen": "2026-10-04T05:01:24.611Z",
-    "last_updated": "2026-10-04T05:01:24.611Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
     "published": "2026-10-04T03:59Z"
   },
   {
     "url": "https://amateurastro.bearblog.dev/first-images/",
     "title": "First Images",
     "author": "https://amateurastro.bearblog.dev",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-10-04T05:01:24.611Z",
-    "last_updated": "2026-10-04T05:01:24.611Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
     "published": "2026-10-04T00:07Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://strawberrymilk.bearblog.dev/viva-indie-web/",
     "title": "viva indie web",
     "author": "https://strawberrymilk.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-04T05:01:24.611Z",
-    "last_updated": "2026-10-04T05:01:24.611Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
     "published": "2026-10-04T02:04Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://icyti.me/anti-scrolling-2/",
     "title": "anti scrolling part 2",
     "author": "https://icyti.me",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-04T05:01:24.611Z",
-    "last_updated": "2026-10-04T05:01:24.611Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
     "published": "2026-10-04T03:57Z"
   },
   {
     "url": "https://nostalgia.bearblog.dev/taiwan-invasion/",
     "title": "我至今也搞不懂为什么中国平民想攻占台湾",
     "author": "https://nostalgia.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-04T05:01:24.611Z",
-    "last_updated": "2026-10-04T05:01:24.611Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
     "published": "2026-10-04T03:34Z"
   },
   {
@@ -79,5 +79,68 @@
     "first_seen": "2026-10-04T05:01:24.611Z",
     "last_updated": "2026-10-04T05:01:24.611Z",
     "published": "2026-10-04T00:18Z"
+  },
+  {
+    "url": "https://whateverthewindbrings.com/brazils-general-election/",
+    "title": "Brazilian general election",
+    "author": "https://whateverthewindbrings.com",
+    "toasts": 3,
+    "first_seen": "2026-10-04T11:59:49.348Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
+    "published": "2026-10-04T05:54Z"
+  },
+  {
+    "url": "https://etan.bearblog.dev/divide-the-human-race-by-two-pilgrim-would-write-of-another-unfufilled-encounter-and-there-you-have-them-the-millions-who-never-connect-from-pilgrim-by-timothy-findley/",
+    "title": "\" Divide the human race by two, Pilgrim would write of another unfufilled encounter, and there you have them: the millions who never connect.\" - From Pilgrim by Timothy Findley",
+    "author": "https://etan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-04T11:59:49.348Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
+    "published": "2026-10-04T11:30Z"
+  },
+  {
+    "url": "https://www.eremosuk.com/should-we-read-and-misread-the-bible/",
+    "title": "should we read (and misread) the bible?",
+    "author": "https://www.eremosuk.com",
+    "toasts": 2,
+    "first_seen": "2026-10-04T11:59:49.348Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
+    "published": "2026-10-04T09:11Z"
+  },
+  {
+    "url": "https://kuranes.bearblog.dev/im-building-so-much/",
+    "title": "i'm building so much",
+    "author": "https://kuranes.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-04T11:59:49.348Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
+    "published": "2026-10-04T05:55Z"
+  },
+  {
+    "url": "https://inkandstillness.com/bethlehem-kudumba-unit-hope-again/",
+    "title": "Bethlehem Kudumba Unit - Hope Again",
+    "author": "https://inkandstillness.com",
+    "toasts": 2,
+    "first_seen": "2026-10-04T11:59:49.348Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
+    "published": "2026-10-04T04:46Z"
+  },
+  {
+    "url": "https://nibreok.bearblog.dev/a-disjointed-train-of-thought-around-seasons-and-holidays-and-how-my-second-week-of-no-social-media-is-going/",
+    "title": "A disjointed train of thought around seasons and holidays and how my second week of no social media is going.",
+    "author": "https://nibreok.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-04T11:59:49.348Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
+    "published": "2026-10-04T02:43Z"
+  },
+  {
+    "url": "https://jazmck.bearblog.dev/omenstheartgooglingbugsandanimals/",
+    "title": "Omens. The art Googling Bugs and Animals",
+    "author": "https://jazmck.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-04T11:59:49.348Z",
+    "last_updated": "2026-10-04T11:59:49.348Z",
+    "published": "2026-10-04T02:23Z"
   }
 ]
