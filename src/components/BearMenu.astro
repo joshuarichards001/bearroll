@@ -1,6 +1,30 @@
+---
+const links = [
+  { href: "/", label: "home" },
+  { href: "/about", label: "about" },
+  { href: "/stats", label: "stats" },
+  { href: "/feeds", label: "feeds" },
+];
+
+const currentPath = Astro.url.pathname.replace(/\/$/, "") || "/";
+const isCurrent = (href: string) =>
+  href === "/"
+    ? currentPath === "/"
+    : currentPath === href || currentPath.startsWith(`${href}/`);
+---
+
 <nav class="flex gap-4" aria-label="Site">
-  <a href="/" class="text-xs text-muted underline">home</a>
-  <a href="/about" class="text-xs text-muted underline">about</a>
-  <a href="/stats" class="text-xs text-muted underline">stats</a>
-  <a href="/feeds" class="text-xs text-muted underline">feeds</a>
+  {
+    links.map(({ href, label }) =>
+      isCurrent(href) ? (
+        <a href={href} class="text-xs text-muted" aria-current="page">
+          {label}
+        </a>
+      ) : (
+        <a href={href} class="text-xs text-muted underline">
+          {label}
+        </a>
+      ),
+    )
+  }
 </nav>
