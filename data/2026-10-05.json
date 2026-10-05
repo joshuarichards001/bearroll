@@ -3,18 +3,18 @@
     "url": "https://tiramisu.bearblog.dev/the-way-they-used-to-feel/",
     "title": "the way they used to feel",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 4,
+    "toasts": 7,
     "first_seen": "2026-10-05T01:48:54.695Z",
-    "last_updated": "2026-10-05T08:38:56.455Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
     "published": "2026-10-05T01:09Z"
   },
   {
     "url": "https://skwf.bearblog.dev/must-be-tough-being-an-educator/",
     "title": "Must be tough being an Educator",
     "author": "https://skwf.bearblog.dev",
-    "toasts": 3,
+    "toasts": 8,
     "first_seen": "2026-10-05T08:38:56.455Z",
-    "last_updated": "2026-10-05T08:38:56.455Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
     "published": "2026-10-05T07:38Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://venado.bearblog.dev/heated-rivalry-kind-of-ruined-me/",
     "title": "heated rivalry kind of ruined me",
     "author": "https://venado.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-10-05T08:38:56.455Z",
-    "last_updated": "2026-10-05T08:38:56.455Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
     "published": "2026-10-05T06:46Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://icyti.me/come-sit-next-to-me-at-pixel-area/",
     "title": "come sit next to me at pixel area",
     "author": "https://icyti.me",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-05T08:38:56.455Z",
-    "last_updated": "2026-10-05T08:38:56.455Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
     "published": "2026-10-05T03:41Z"
   },
   {
@@ -93,9 +93,315 @@
     "url": "https://garden.maryseph.com/blog/re-eternal-september/",
     "title": "re: Eternal September",
     "author": "https://garden.maryseph.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-05T08:38:56.455Z",
-    "last_updated": "2026-10-05T08:38:56.455Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
     "published": "2026-10-05T01:28Z"
+  },
+  {
+    "url": "https://blog.sulimans.space/what-is-political/",
+    "title": "what is political?",
+    "author": "https://blog.sulimans.space",
+    "toasts": 14,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T14:01Z"
+  },
+  {
+    "url": "https://blog.avas.space/nice-things/",
+    "title": "nice things i’ve done for myself lately",
+    "author": "https://blog.avas.space",
+    "toasts": 9,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T11:00Z"
+  },
+  {
+    "url": "https://robertbirming.com/photo/",
+    "title": "Photo",
+    "author": "https://robertbirming.com",
+    "toasts": 8,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T14:08Z"
+  },
+  {
+    "url": "https://turbiegaming.bearblog.dev/re-should-we-still-share-code/",
+    "title": "Re: Should we still share code?",
+    "author": "https://turbiegaming.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T15:19Z"
+  },
+  {
+    "url": "https://robertbirming.com/make-photo-pages/",
+    "title": "Let's make /photo pages",
+    "author": "https://robertbirming.com",
+    "toasts": 5,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T16:37Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/i-entered-mystery-cave/",
+    "title": "I entered Mystery Cave",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 5,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T16:11Z"
+  },
+  {
+    "url": "https://www.fyelaquino.online/the-morta-fying-ordeal-of-being-known/",
+    "title": "The Morta-fying Ordeal of Being Known",
+    "author": "https://www.fyelaquino.online",
+    "toasts": 6,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T07:59Z"
+  },
+  {
+    "url": "https://terminallucidity.net/esseff/",
+    "title": "EssEff",
+    "author": "https://terminallucidity.net",
+    "toasts": 5,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T12:50Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/quebrando-promessas/",
+    "title": "Quebrando promessas",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T12:47Z"
+  },
+  {
+    "url": "https://osr.bearblog.dev/the-open-source-revolution-begins/",
+    "title": "The Open Source Revolution Begins!",
+    "author": "https://osr.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T17:38Z"
+  },
+  {
+    "url": "https://mirroredworld.bearblog.dev/casual-games/",
+    "title": "Casual Games",
+    "author": "https://mirroredworld.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T15:13Z"
+  },
+  {
+    "url": "https://cerberus.bearblog.dev/games-rapidfire-topical-gaming-opinions-because-im-sick-of-effortposting/",
+    "title": "[games] rapidfire topical gaming opinions because i'm sick of effortposting",
+    "author": "https://cerberus.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T14:49Z"
+  },
+  {
+    "url": "https://lance.bearblog.dev/should-we-still-share-code/",
+    "title": "Should we still share code?",
+    "author": "https://lance.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T13:51Z"
+  },
+  {
+    "url": "https://nothings.bearblog.dev/dear-future-self-from-age-twenty-three/",
+    "title": "dear future self, from age twenty-three",
+    "author": "https://nothings.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T13:32Z"
+  },
+  {
+    "url": "https://blighttown.bearblog.dev/working-feels-a-bit-like-reality-tv/",
+    "title": "Working feels a bit like reality TV",
+    "author": "https://blighttown.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T13:28Z"
+  },
+  {
+    "url": "https://lwgrs.bearblog.dev/week-notes-2026-40/",
+    "title": "Week notes 2026-40",
+    "author": "https://lwgrs.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T13:01Z"
+  },
+  {
+    "url": "https://theratsqueaks.bearblog.dev/a-second-little-while-has-hit-the-towers/",
+    "title": "A second \"Little while\" Has hit the towers.",
+    "author": "https://theratsqueaks.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T12:41Z"
+  },
+  {
+    "url": "https://thelonebard.com/lets-play-grok-2e-part-2/",
+    "title": "Let’s Play Grok?! 2e Part 2: Bibliotheconomy",
+    "author": "https://thelonebard.com",
+    "toasts": 3,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T12:35Z"
+  },
+  {
+    "url": "https://mikahgosto.bearblog.dev/25/",
+    "title": "#25 🤏🏼",
+    "author": "https://mikahgosto.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T12:13Z"
+  },
+  {
+    "url": "https://qmf.bearblog.dev/jag-lyssnar-inte-pa-saker-som-slutar-pa-core/",
+    "title": "Jag lyssnar inte på saker som slutar på -core",
+    "author": "https://qmf.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T09:55Z"
+  },
+  {
+    "url": "https://coreyblogs.com/in-the-company-of-a-justifiably-confounded-canine/",
+    "title": "...in the company of a justifiably confounded canine.",
+    "author": "https://coreyblogs.com",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T18:01Z"
+  },
+  {
+    "url": "https://tism.help/declawing-cats-is-evil/",
+    "title": "Declawing Cats is Evil and Some tl;dr Stuff About Loss, Life and Joe",
+    "author": "https://tism.help",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T17:37Z"
+  },
+  {
+    "url": "https://storybook.localcatgirl.pet/the-woman-in-the-mirror/",
+    "title": "the woman in the mirror",
+    "author": "https://storybook.localcatgirl.pet",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T16:50Z"
+  },
+  {
+    "url": "https://nramseyhistorian.bearblog.dev/jchs4/",
+    "title": "Minnie Healey's Storms",
+    "author": "https://nramseyhistorian.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T15:31Z"
+  },
+  {
+    "url": "https://bulbasaur.bearblog.dev/blog/2026/10/05/",
+    "title": "The living stone is not an Onix",
+    "author": "https://bulbasaur.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T15:30Z"
+  },
+  {
+    "url": "https://anotherdayu.com/9891/",
+    "title": "形式熟悉，内容陌生，味道惊喜",
+    "author": "https://anotherdayu.com",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T15:01Z"
+  },
+  {
+    "url": "https://dwelling.bearblog.dev/mental-over-physical/",
+    "title": "mental over physical",
+    "author": "https://dwelling.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T13:40Z"
+  },
+  {
+    "url": "https://white-ceiling.bearblog.dev/7482/",
+    "title": "改庵號",
+    "author": "https://white-ceiling.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T13:03Z"
+  },
+  {
+    "url": "https://www.mouthguard.observer/maenadic-hymn-by-charzie-janovro/",
+    "title": "Maenadic Hymn by Charzie Janovro",
+    "author": "https://www.mouthguard.observer",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T13:00Z"
+  },
+  {
+    "url": "https://daviramos.com/br/biografia-inexistente/",
+    "title": "Biografia de um personagem inexistente",
+    "author": "https://daviramos.com",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T11:54Z"
+  },
+  {
+    "url": "https://etan.bearblog.dev/a-few-pages-from-brenda-ueland-if-you-want-to-write/",
+    "title": "“There is nothing hard about it but your anxious vanity and fear of failure.” - Brenda Ueland",
+    "author": "https://etan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T11:30Z"
+  },
+  {
+    "url": "https://keeperoflore.com/the-book-of-temples-chapter-46/",
+    "title": "The Book of Temples Chapter 46",
+    "author": "https://keeperoflore.com",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T11:26Z"
+  },
+  {
+    "url": "https://reflexprotokoll.de/log2642-status-3/",
+    "title": "LOG/26/42 - Status 3",
+    "author": "https://reflexprotokoll.de",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T07:09Z"
+  },
+  {
+    "url": "https://thingsfound.bearblog.dev/development-discussion/",
+    "title": "Development discussion.",
+    "author": "https://thingsfound.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-05T18:07:49.617Z",
+    "last_updated": "2026-10-05T18:07:49.617Z",
+    "published": "2026-10-05T06:43Z"
   }
 ]
