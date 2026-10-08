@@ -12,9 +12,9 @@
     "url": "https://blog.curiousquail.com/forty-three-years-of-questionable-decisions/",
     "title": "Forty Three Years of Questionable Decisions",
     "author": "https://blog.curiousquail.com",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-10-06T07:20:33.507Z",
-    "last_updated": "2026-10-07T20:29:39.313Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-06T03:00Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://otavio.cc/photo/",
     "title": "Photo",
     "author": "https://otavio.cc",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-10-06T14:53:28.664Z",
-    "last_updated": "2026-10-08T00:49:28.262Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-06T09:22Z"
   },
   {
@@ -300,9 +300,9 @@
     "url": "https://jazmck.bearblog.dev/how-stevie-nicks-became-my-step-god-mother/",
     "title": "How Stevie Nicks Became My Step God Mother.",
     "author": "https://jazmck.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-10-06T14:53:28.664Z",
-    "last_updated": "2026-10-07T06:59:33.959Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-06T10:30Z"
   },
   {
@@ -354,9 +354,9 @@
     "url": "https://midnight.bearblog.dev/how-do-you-make-new-friends/",
     "title": "how do you make new friends?",
     "author": "https://midnight.bearblog.dev",
-    "toasts": 38,
+    "toasts": 40,
     "first_seen": "2026-10-06T20:04:31.694Z",
-    "last_updated": "2026-10-08T07:07:18.138Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-06T15:26Z"
   },
   {
@@ -552,27 +552,27 @@
     "url": "https://lumpmotif.com/no-ai-is-now-a-software-feature/",
     "title": "'No AI' is a Feature",
     "author": "https://lumpmotif.com",
-    "toasts": 32,
+    "toasts": 35,
     "first_seen": "2026-10-07T00:28:49.462Z",
-    "last_updated": "2026-10-08T07:07:18.138Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-06T21:10Z"
   },
   {
     "url": "https://ludd.life/busy-audience-nobody/",
-    "title": "Busy, for an audience of nobody",
+    "title": "Busy, For An Audience Of Nobody",
     "author": "https://ludd.life",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-10-07T00:28:49.462Z",
-    "last_updated": "2026-10-07T20:29:39.313Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-06T19:32Z"
   },
   {
     "url": "https://ginoz.bearblog.dev/today-i-cried-in-therapy/",
     "title": "Today I cried in therapy",
     "author": "https://ginoz.bearblog.dev",
-    "toasts": 11,
+    "toasts": 13,
     "first_seen": "2026-10-07T00:28:49.462Z",
-    "last_updated": "2026-10-08T07:07:18.138Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-06T22:18Z"
   },
   {
@@ -700,5 +700,14 @@
     "first_seen": "2026-10-08T00:49:28.262Z",
     "last_updated": "2026-10-08T07:07:18.138Z",
     "published": "2026-10-06T15:41Z"
+  },
+  {
+    "url": "https://calluna.bearblog.dev/livros-novos/",
+    "title": "livros novos!",
+    "author": "https://calluna.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-06T22:27Z"
   }
 ]

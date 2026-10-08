@@ -3,36 +3,36 @@
     "url": "https://urflow.bearblog.dev/the-rise-of-software-clickbait/",
     "title": "The Rise of Software Clickbait",
     "author": "https://urflow.bearblog.dev",
-    "toasts": 9,
+    "toasts": 15,
     "first_seen": "2026-10-08T07:07:18.138Z",
-    "last_updated": "2026-10-08T07:07:18.138Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-08T01:08Z"
   },
   {
     "url": "https://ramblerambleramble.bearblog.dev/im-so-tired-of-caring/",
     "title": "i'm so tired of caring",
     "author": "https://ramblerambleramble.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-08T07:07:18.138Z",
-    "last_updated": "2026-10-08T07:07:18.138Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-08T03:33Z"
   },
   {
     "url": "https://icyti.me/feeling-like-an-underachiever/",
     "title": "feeling like an underachiever",
     "author": "https://icyti.me",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-08T07:07:18.138Z",
-    "last_updated": "2026-10-08T07:07:18.138Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-08T02:09Z"
   },
   {
     "url": "https://gr-y.uk/photo/",
     "title": "Photo",
     "author": "https://gr-y.uk",
-    "toasts": 3,
+    "toasts": 6,
     "first_seen": "2026-10-08T07:07:18.138Z",
-    "last_updated": "2026-10-08T07:07:18.138Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-08T00:14Z"
   },
   {
@@ -48,27 +48,27 @@
     "url": "https://terminallucidity.net/sedation/",
     "title": "Sedation",
     "author": "https://terminallucidity.net",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-08T07:07:18.138Z",
-    "last_updated": "2026-10-08T07:07:18.138Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-08T02:27Z"
   },
   {
     "url": "https://sleepyram.bearblog.dev/sleep-debt/",
     "title": "Sleep debt",
     "author": "https://sleepyram.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-08T07:07:18.138Z",
-    "last_updated": "2026-10-08T07:07:18.138Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-08T00:42Z"
   },
   {
     "url": "https://nats.space/i-like-physical-media/",
     "title": "I Like Physical Media",
     "author": "https://nats.space",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-08T07:07:18.138Z",
-    "last_updated": "2026-10-08T07:07:18.138Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
     "published": "2026-10-08T00:38Z"
   },
   {
@@ -79,5 +79,275 @@
     "first_seen": "2026-10-08T07:07:18.138Z",
     "last_updated": "2026-10-08T07:07:18.138Z",
     "published": "2026-10-08T00:21Z"
+  },
+  {
+    "url": "https://rants.jlopes.eu/when-trusting-website-analytics/",
+    "title": "When trusting website Analytics",
+    "author": "https://rants.jlopes.eu",
+    "toasts": 10,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T08:42Z"
+  },
+  {
+    "url": "https://asma-en.bearblog.dev/try-neocities/",
+    "title": "Try Neocities",
+    "author": "https://asma-en.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T06:30Z"
+  },
+  {
+    "url": "https://ludd.life/toast-plate/",
+    "title": "Toast on a Plate",
+    "author": "https://ludd.life",
+    "toasts": 5,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T10:30Z"
+  },
+  {
+    "url": "https://www.eremosuk.com/poverty-is-the-door-to-freedom/",
+    "title": "poverty is the door to freedom ...",
+    "author": "https://www.eremosuk.com",
+    "toasts": 4,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T10:45Z"
+  },
+  {
+    "url": "https://themourningdove.bearblog.dev/picking-up-the-pieces-of-my-broken-attention-span/",
+    "title": "Picking up the pieces of my broken attention span",
+    "author": "https://themourningdove.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T09:12Z"
+  },
+  {
+    "url": "https://actualspine.bearblog.dev/social-media-mental/",
+    "title": "Social Media Mental Health Advocacy",
+    "author": "https://actualspine.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T14:19Z"
+  },
+  {
+    "url": "https://piimyon.bearblog.dev/notwanttoargue/",
+    "title": "I don't want to argue with you.",
+    "author": "https://piimyon.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T13:39Z"
+  },
+  {
+    "url": "https://ollelindholm.com/my-favourite-things/",
+    "title": "My favourite things",
+    "author": "https://ollelindholm.com",
+    "toasts": 3,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T11:00Z"
+  },
+  {
+    "url": "https://notes.seantaylor.work/death-by-dashboard/",
+    "title": "Death by Dashboard",
+    "author": "https://notes.seantaylor.work",
+    "toasts": 3,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T09:30Z"
+  },
+  {
+    "url": "https://secretsofmeowgic.bearblog.dev/put-that-quantum-down/",
+    "title": "Put That Quantum Down",
+    "author": "https://secretsofmeowgic.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T09:23Z"
+  },
+  {
+    "url": "https://mintcitylights.com/2026/10/08/games-ive-been-playing-oct-2026/",
+    "title": "games i've been playing (october 2026 edition)",
+    "author": "https://mintcitylights.com",
+    "toasts": 3,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T06:38Z"
+  },
+  {
+    "url": "https://sorted.bearblog.dev/whats-your-intention/",
+    "title": "What's your intention?",
+    "author": "https://sorted.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T06:25Z"
+  },
+  {
+    "url": "https://dailyexplorations.bearblog.dev/the-dancer/",
+    "title": "The Dancer",
+    "author": "https://dailyexplorations.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T05:28Z"
+  },
+  {
+    "url": "https://roseburrow.bearblog.dev/second-puberty-but-like-emotional/",
+    "title": "Second puberty, but like, emotional.",
+    "author": "https://roseburrow.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T15:05Z"
+  },
+  {
+    "url": "https://yunzi.co.uk/thoughts-on-gemini-no-still-not-the-ai/",
+    "title": "Thoughts on Gemini (no, still not the AI)",
+    "author": "https://yunzi.co.uk",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T13:27Z"
+  },
+  {
+    "url": "https://keeperoflore.com/the-book-of-temples-chapter-47/",
+    "title": "The Book of Temples Chapter 47",
+    "author": "https://keeperoflore.com",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T13:26Z"
+  },
+  {
+    "url": "https://polvoronii.bearblog.dev/perpetual-september/",
+    "title": "a mind etched in perpetual september",
+    "author": "https://polvoronii.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T13:13Z"
+  },
+  {
+    "url": "https://taylordrew.me/september-2026-reads/",
+    "title": "september 2026 reads",
+    "author": "https://taylordrew.me",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T12:42Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/juanita_hammes_-can-go/",
+    "title": "\"juanita_hammes_\" can go ...",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T12:35Z"
+  },
+  {
+    "url": "https://lesscomputer.ca/be-diligent/",
+    "title": "be diligent",
+    "author": "https://lesscomputer.ca",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T12:01Z"
+  },
+  {
+    "url": "https://lalov.bearblog.dev/choosing-the-right-initial-target-for-the-cinema-project/",
+    "title": "Choosing the \"right\" initial target for the cinema project",
+    "author": "https://lalov.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T11:39Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/software-engineering/",
+    "title": "“Software Engineering”",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T11:21Z"
+  },
+  {
+    "url": "https://metaphormixtape.blog/about-me/",
+    "title": "About Me",
+    "author": "https://metaphormixtape.blog",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T10:20Z"
+  },
+  {
+    "url": "https://tudosefaz.bearblog.dev/consideracoes-pifias-sobre-o-nobel-da-literatura/",
+    "title": "Considerações pífias sobre o Nobel da Literatura",
+    "author": "https://tudosefaz.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T10:19Z"
+  },
+  {
+    "url": "https://nostalgia.bearblog.dev/1433/",
+    "title": "无用小知识：计算机本科毕业生是物理本科毕业生的十倍不止",
+    "author": "https://nostalgia.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T09:53Z"
+  },
+  {
+    "url": "https://thereisnosleep.bearblog.dev/end-of-abyss-cant-stop-getting-in-its-own-way/",
+    "title": "End of Abyss can't stop getting in its own way",
+    "author": "https://thereisnosleep.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T09:47Z"
+  },
+  {
+    "url": "https://garnet.bearblog.dev/fog/",
+    "title": "fog",
+    "author": "https://garnet.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T08:52Z"
+  },
+  {
+    "url": "https://themustyattic.bearblog.dev/the-bus-to-jinghong/",
+    "title": "the bus to Jinghong",
+    "author": "https://themustyattic.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T07:29Z"
+  },
+  {
+    "url": "https://vinceblog.net/national-day/",
+    "title": "National Day Weekend",
+    "author": "https://vinceblog.net",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T07:04Z"
+  },
+  {
+    "url": "https://bolhadear.bearblog.dev/poca/",
+    "title": "Poça",
+    "author": "https://bolhadear.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-08T15:22:42.172Z",
+    "last_updated": "2026-10-08T15:22:42.172Z",
+    "published": "2026-10-08T03:56Z"
   }
 ]
