@@ -129,18 +129,18 @@
     "url": "https://otavio.cc/photo/",
     "title": "Photo",
     "author": "https://otavio.cc",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-10-06T14:53:28.664Z",
-    "last_updated": "2026-10-07T20:29:39.313Z",
+    "last_updated": "2026-10-08T00:49:28.262Z",
     "published": "2026-10-06T09:22Z"
   },
   {
     "url": "https://blog.damonreece.com/dawntrail-retrospective-cultural-representation/",
     "title": "Dawntrail, cultural representation, and the future",
     "author": "https://blog.damonreece.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-10-06T14:53:28.664Z",
-    "last_updated": "2026-10-07T14:25:33.422Z",
+    "last_updated": "2026-10-08T00:49:28.262Z",
     "published": "2026-10-06T05:08Z"
   },
   {
@@ -345,18 +345,18 @@
     "url": "https://skuka.online/why-i-like-overworking/",
     "title": "why i like (over)working",
     "author": "https://skuka.online",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-10-06T20:04:31.694Z",
-    "last_updated": "2026-10-07T14:25:33.422Z",
+    "last_updated": "2026-10-08T00:49:28.262Z",
     "published": "2026-10-06T18:28Z"
   },
   {
     "url": "https://midnight.bearblog.dev/how-do-you-make-new-friends/",
     "title": "how do you make new friends?",
     "author": "https://midnight.bearblog.dev",
-    "toasts": 34,
+    "toasts": 37,
     "first_seen": "2026-10-06T20:04:31.694Z",
-    "last_updated": "2026-10-07T20:29:39.313Z",
+    "last_updated": "2026-10-08T00:49:28.262Z",
     "published": "2026-10-06T15:26Z"
   },
   {
@@ -372,9 +372,9 @@
     "url": "https://heyhowdy.blog/my-slightly-offline-edc/",
     "title": "My Slightly Offline EDC",
     "author": "https://heyhowdy.blog",
-    "toasts": 16,
+    "toasts": 18,
     "first_seen": "2026-10-06T20:04:31.694Z",
-    "last_updated": "2026-10-07T20:29:39.313Z",
+    "last_updated": "2026-10-08T00:49:28.262Z",
     "published": "2026-10-06T16:55Z"
   },
   {
@@ -543,18 +543,18 @@
     "url": "https://nymermini.bearblog.dev/shumi-no-ohanashi/",
     "title": "shumi no ohanashi",
     "author": "https://nymermini.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-10-07T00:28:49.462Z",
-    "last_updated": "2026-10-07T20:29:39.313Z",
+    "last_updated": "2026-10-08T00:49:28.262Z",
     "published": "2026-10-06T23:15Z"
   },
   {
     "url": "https://lumpmotif.com/no-ai-is-now-a-software-feature/",
     "title": "'No AI' is a Feature",
     "author": "https://lumpmotif.com",
-    "toasts": 27,
+    "toasts": 29,
     "first_seen": "2026-10-07T00:28:49.462Z",
-    "last_updated": "2026-10-07T20:29:39.313Z",
+    "last_updated": "2026-10-08T00:49:28.262Z",
     "published": "2026-10-06T21:10Z"
   },
   {
@@ -570,9 +570,9 @@
     "url": "https://ginoz.bearblog.dev/today-i-cried-in-therapy/",
     "title": "Today I cried in therapy",
     "author": "https://ginoz.bearblog.dev",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-10-07T00:28:49.462Z",
-    "last_updated": "2026-10-07T14:25:33.422Z",
+    "last_updated": "2026-10-08T00:49:28.262Z",
     "published": "2026-10-06T22:18Z"
   },
   {
@@ -691,5 +691,14 @@
     "first_seen": "2026-10-07T06:59:33.959Z",
     "last_updated": "2026-10-07T06:59:33.959Z",
     "published": "2026-10-06T21:38Z"
+  },
+  {
+    "url": "https://coreyblogs.com/his-desert-island-movies/",
+    "title": "...his desert island movies.",
+    "author": "https://coreyblogs.com",
+    "toasts": 7,
+    "first_seen": "2026-10-08T00:49:28.262Z",
+    "last_updated": "2026-10-08T00:49:28.262Z",
+    "published": "2026-10-06T15:41Z"
   }
 ]
