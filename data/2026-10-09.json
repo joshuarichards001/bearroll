@@ -39,9 +39,9 @@
     "url": "https://writeodd.bearblog.dev/negative-space/",
     "title": "Negative Space Playstyle Principles",
     "author": "https://writeodd.bearblog.dev",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-10-09T08:40:03.142Z",
-    "last_updated": "2026-10-11T01:39:59.326Z",
+    "last_updated": "2026-10-11T15:26:14.653Z",
     "published": "2026-10-09T02:49Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://asma-en.bearblog.dev/my-husband-is-a-good-man/",
     "title": "My Husband Is a Good Man",
     "author": "https://asma-en.bearblog.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-10-09T08:40:03.142Z",
-    "last_updated": "2026-10-10T22:19:20.086Z",
+    "last_updated": "2026-10-11T15:26:14.653Z",
     "published": "2026-10-09T07:31Z"
   },
   {
@@ -156,18 +156,18 @@
     "url": "https://ludd.life/plan-fell-through-evening/",
     "title": "Still Wearing One Shoe",
     "author": "https://ludd.life",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-10-09T15:56:19.784Z",
-    "last_updated": "2026-10-10T22:19:20.086Z",
+    "last_updated": "2026-10-11T15:26:14.653Z",
     "published": "2026-10-09T10:30Z"
   },
   {
     "url": "https://dreamlogic.blog/this-time-last-year-i-was-in-japan/",
     "title": "this time last year i was in japan",
     "author": "https://dreamlogic.blog",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-10-09T15:56:19.784Z",
-    "last_updated": "2026-10-09T20:43:07.843Z",
+    "last_updated": "2026-10-11T15:26:14.653Z",
     "published": "2026-10-09T09:00Z"
   },
   {
@@ -345,9 +345,9 @@
     "url": "https://rnotte.art/if-i-could-do-it-all-over-again/",
     "title": "if i could do it all over again",
     "author": "https://rnotte.art",
-    "toasts": 19,
+    "toasts": 21,
     "first_seen": "2026-10-09T20:43:07.843Z",
-    "last_updated": "2026-10-11T08:29:07.235Z",
+    "last_updated": "2026-10-11T15:26:14.653Z",
     "published": "2026-10-09T17:32Z"
   },
   {
@@ -552,9 +552,9 @@
     "url": "https://blog.solazy.me/20261009/",
     "title": "好记性不如烂笔头",
     "author": "https://blog.solazy.me",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-10-10T13:24:06.524Z",
-    "last_updated": "2026-10-11T08:29:07.235Z",
+    "last_updated": "2026-10-11T15:26:14.653Z",
     "published": "2026-10-09T15:00Z"
   },
   {
@@ -588,9 +588,18 @@
     "url": "https://coreyblogs.com/some-wise-words-about-life-none-of-which-are-his-own/",
     "title": "...some wise words about life, none of which are his own.",
     "author": "https://coreyblogs.com",
-    "toasts": 19,
+    "toasts": 21,
     "first_seen": "2026-10-10T22:19:20.086Z",
-    "last_updated": "2026-10-11T08:29:07.235Z",
+    "last_updated": "2026-10-11T15:26:14.653Z",
     "published": "2026-10-09T22:31Z"
+  },
+  {
+    "url": "https://techdemo.com.br/de-volta-a-rotina/",
+    "title": "De volta à rotina",
+    "author": "https://techdemo.com.br",
+    "toasts": 4,
+    "first_seen": "2026-10-11T15:26:14.653Z",
+    "last_updated": "2026-10-11T15:26:14.653Z",
+    "published": "2026-10-09T22:12Z"
   }
 ]
