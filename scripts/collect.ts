@@ -73,19 +73,7 @@ function parsePosts(html: string): Post[] {
     const author = $li.find("div > small > span > a").first().attr("href");
     const publishedEl = $li.find("div > small small[title]").first();
     const published = publishedEl.attr("title");
-
-    // Toast count: the last <small> inside the <small> chain, containing an <svg>
-    let toasts = 0;
-    $li.find("div > small > small").each((_, sm) => {
-      const $sm = $(sm);
-      if ($sm.find("svg").length > 0) {
-        const text = $sm.text().trim();
-        const parsed = parseInt(text, 10);
-        if (!isNaN(parsed)) {
-          toasts = parsed;
-        }
-      }
-    });
+    const toasts = parseInt($li.attr("data-upvotes") ?? "", 10) || 0;
 
     if (!url || !title || !published) {
       console.error(
