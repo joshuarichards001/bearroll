@@ -12,18 +12,18 @@
     "url": "https://jetgirl.art/new-noodlist-website/",
     "title": "New Noodlist Website",
     "author": "https://jetgirl.art",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-10-16T06:51:57.774Z",
-    "last_updated": "2026-10-16T12:10:30.893Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
     "published": "2026-10-16T00:17Z"
   },
   {
     "url": "https://torn.bearblog.dev/the-three-is-and-what-i-want-in-a-player/",
     "title": "The Three \"I\"s And What I Want In A Player",
     "author": "https://torn.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-10-16T06:51:57.774Z",
-    "last_updated": "2026-10-16T06:51:57.774Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
     "published": "2026-10-16T01:42Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://chiltonm.bearblog.dev/shut-up-about-lonesome-dove/",
     "title": "shut up about Lonesome Dove. shut the fuck up about Lonesome Dove",
     "author": "https://chiltonm.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-10-16T06:51:57.774Z",
-    "last_updated": "2026-10-16T06:51:57.774Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
     "published": "2026-10-16T03:14Z"
   },
   {
@@ -93,27 +93,27 @@
     "url": "https://dreamchaser.bearblog.dev/new-post/",
     "title": "The Things We Forget to Be Grateful For",
     "author": "https://dreamchaser.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-10-16T12:10:30.893Z",
-    "last_updated": "2026-10-16T12:10:30.893Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
     "published": "2026-10-16T11:10Z"
   },
   {
     "url": "https://ludd.life/some-rent/",
     "title": "Some of It Is Rent: The List That Keeps Me Up",
     "author": "https://ludd.life",
-    "toasts": 4,
+    "toasts": 7,
     "first_seen": "2026-10-16T12:10:30.893Z",
-    "last_updated": "2026-10-16T12:10:30.893Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
     "published": "2026-10-16T10:30Z"
   },
   {
     "url": "https://sorted.bearblog.dev/questions-and-space/",
     "title": "Questions and space",
     "author": "https://sorted.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-10-16T12:10:30.893Z",
-    "last_updated": "2026-10-16T12:10:30.893Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
     "published": "2026-10-16T07:01Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://mataherry.bearblog.dev/my-country-is-on-fire/",
     "title": "MY COUNTRY IS ON FIRE",
     "author": "https://mataherry.bearblog.dev",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-10-16T12:10:30.893Z",
-    "last_updated": "2026-10-16T12:10:30.893Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
     "published": "2026-10-16T05:34Z"
   },
   {
@@ -187,5 +187,185 @@
     "first_seen": "2026-10-16T12:10:30.893Z",
     "last_updated": "2026-10-16T12:10:30.893Z",
     "published": "2026-10-16T06:30Z"
+  },
+  {
+    "url": "https://nate.spot/gnome-makes-me-sad/",
+    "title": "GNOME makes me sad",
+    "author": "https://nate.spot",
+    "toasts": 8,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T15:02Z"
+  },
+  {
+    "url": "https://coreyblogs.com/the-worst-thing-hes-ever-done/",
+    "title": "...the worst thing he's ever done.",
+    "author": "https://coreyblogs.com",
+    "toasts": 5,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T15:10Z"
+  },
+  {
+    "url": "https://blog.curiousquail.com/t-no-its-cool-possum-make-yourself-at-home-up-there-scarf/",
+    "title": "No it's cool, Possum. Make yourself at home up there.",
+    "author": "https://blog.curiousquail.com",
+    "toasts": 5,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T14:22Z"
+  },
+  {
+    "url": "https://ninetimes.bearblog.dev/naples-by-night/",
+    "title": "Naples at Night",
+    "author": "https://ninetimes.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T16:51Z"
+  },
+  {
+    "url": "https://blog.meetmeintavoan.com/taiwanese-period-dramas/",
+    "title": "Taiwanese period dramas",
+    "author": "https://blog.meetmeintavoan.com",
+    "toasts": 4,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T14:35Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/god-i-need-more-color-in-my-life/",
+    "title": "God I Need More Color In My Life",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 4,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T14:29Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/when-software-engineer-becomes-a-minimum-wage-job/",
+    "title": "When 'software engineer' becomes a minimum-wage job.",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T12:24Z"
+  },
+  {
+    "url": "https://sofisht.ink/risc-calculus/",
+    "title": "RISC Calculus",
+    "author": "https://sofisht.ink",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T16:14Z"
+  },
+  {
+    "url": "https://zenmind.cn/learning-with-ai-fde-certification/",
+    "title": "用 AI 陪自己学习：一次 FDE 认证复盘",
+    "author": "https://zenmind.cn",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T16:00Z"
+  },
+  {
+    "url": "https://pretendtypewriter.net/learning-to-relax-but-at-what-cost/",
+    "title": "LEARNING TO RELAX, BUT AT WHAT COST?",
+    "author": "https://pretendtypewriter.net",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T16:00Z"
+  },
+  {
+    "url": "https://sciolus.bearblog.dev/all-the-things/",
+    "title": "All The Things",
+    "author": "https://sciolus.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T15:12Z"
+  },
+  {
+    "url": "https://thoughtrek.bearblog.dev/say-hi/",
+    "title": "Say Hi",
+    "author": "https://thoughtrek.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T14:59Z"
+  },
+  {
+    "url": "https://vandan.bearblog.dev/todays-cloudiness/",
+    "title": "Today's Cloudiness",
+    "author": "https://vandan.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T14:41Z"
+  },
+  {
+    "url": "https://sudelbuch.bearblog.dev/friday-painting-barnett-newman-yellow-painting-1949/",
+    "title": "Friday Painting: Barnett Newman, Yellow Painting (1949)",
+    "author": "https://sudelbuch.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T05:00Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/off-line/",
+    "title": "Off-line",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T13:03Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20261016/",
+    "title": "装了一路的那本书",
+    "author": "https://blog.solazy.me",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T13:00Z"
+  },
+  {
+    "url": "https://restandpace.bearblog.dev/october-15th/",
+    "title": "October 15th",
+    "author": "https://restandpace.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T12:33Z"
+  },
+  {
+    "url": "https://livingkindfully.bearblog.dev/dont-like-your-life-so-take-action/",
+    "title": "Don't Like Your Life? So Take Action",
+    "author": "https://livingkindfully.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T12:02Z"
+  },
+  {
+    "url": "https://kennyqin.com/letting-contacts-go/",
+    "title": "Letting Contacts Go",
+    "author": "https://kennyqin.com",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T07:49Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/watched-exhuma/",
+    "title": "Watched Exhuma",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 3,
+    "first_seen": "2026-10-16T17:13:45.092Z",
+    "last_updated": "2026-10-16T17:13:45.092Z",
+    "published": "2026-10-16T06:52Z"
   }
 ]
