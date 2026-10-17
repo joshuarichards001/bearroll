@@ -39,9 +39,9 @@
     "url": "https://ly.bearblog.dev/its-not-right-until-its-a-good-meal/",
     "title": "it's not right until it's a good meal",
     "author": "https://ly.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-10-17T08:22:09.191Z",
-    "last_updated": "2026-10-17T12:46:37.360Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
     "published": "2026-10-17T02:12Z"
   },
   {
@@ -120,27 +120,27 @@
     "url": "https://diels-daydreams.bearblog.dev/i-have-full-access-to-my-moms-phone/",
     "title": "I have full access to my mom's phone",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-17T08:22:09.191Z",
-    "last_updated": "2026-10-17T12:46:37.360Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
     "published": "2026-10-17T04:48Z"
   },
   {
     "url": "https://ludd.life/see-sunday/",
     "title": "See You Sunday",
     "author": "https://ludd.life",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-10-17T12:46:37.360Z",
-    "last_updated": "2026-10-17T12:46:37.360Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
     "published": "2026-10-17T10:30Z"
   },
   {
     "url": "https://thecynicalnerd.bearblog.dev/the-ai-snitch-scandal-nobody-bothered-to-explain/",
     "title": "The AI Snitch Scandal Nobody Bothered to Explain",
     "author": "https://thecynicalnerd.bearblog.dev",
-    "toasts": 5,
+    "toasts": 8,
     "first_seen": "2026-10-17T12:46:37.360Z",
-    "last_updated": "2026-10-17T12:46:37.360Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
     "published": "2026-10-17T08:38Z"
   },
   {
@@ -232,5 +232,149 @@
     "first_seen": "2026-10-17T12:46:37.360Z",
     "last_updated": "2026-10-17T12:46:37.360Z",
     "published": "2026-10-17T08:37Z"
+  },
+  {
+    "url": "https://heyimbriel.bearblog.dev/especial-de-mesversario/",
+    "title": "Especial de mesversário do blog: Um dia eu saio da cama.",
+    "author": "https://heyimbriel.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T13:49Z"
+  },
+  {
+    "url": "https://lnebres.bearblog.dev/sadness/",
+    "title": "sadness",
+    "author": "https://lnebres.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T13:00Z"
+  },
+  {
+    "url": "https://misto.bearblog.dev/hlava-1-dytynstvo-knyha-dytysntvo-irusi-saik-2019/",
+    "title": "Глава 1. Дитинство - Книга Дитиснтво Ірусі Саїк (2019)",
+    "author": "https://misto.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T15:58Z"
+  },
+  {
+    "url": "https://jottednotes.bearblog.dev/inbox-zero-and-being-an-adult/",
+    "title": "inbox zero and being an adult",
+    "author": "https://jottednotes.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T15:49Z"
+  },
+  {
+    "url": "https://peelingtheonion.bearblog.dev/because-roses-were-never-without-thorns/",
+    "title": "because roses were never without thorns",
+    "author": "https://peelingtheonion.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T15:04Z"
+  },
+  {
+    "url": "https://doghappylife.bearblog.dev/1998/",
+    "title": "她的人生",
+    "author": "https://doghappylife.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T13:03Z"
+  },
+  {
+    "url": "https://bababooey.bearblog.dev/52-ancestors-week-43/",
+    "title": "52 Ancestors: Week 43, James and Louisa (Bailey) Cram",
+    "author": "https://bababooey.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T15:03Z"
+  },
+  {
+    "url": "https://rolesolo.bearblog.dev/traveller-where-prep-is-play/",
+    "title": "Traveller - Where Prep Is Play",
+    "author": "https://rolesolo.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T14:36Z"
+  },
+  {
+    "url": "https://jungsohyeon.blog/3498/",
+    "title": "나의 포모",
+    "author": "https://jungsohyeon.blog",
+    "toasts": 3,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T14:30Z"
+  },
+  {
+    "url": "https://gorgonbones.bearblog.dev/the-dungeon-game-weekends-at-stonehell-session-25/",
+    "title": "The Dungeon Game: Weekends at Stonehell, session 25",
+    "author": "https://gorgonbones.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T13:33Z"
+  },
+  {
+    "url": "https://yaimgood.bearblog.dev/dont-need-a-flying-car-ya-im-good/",
+    "title": "Don't need a flying car, ya, I'm Good",
+    "author": "https://yaimgood.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T15:48Z"
+  },
+  {
+    "url": "https://joshgriffiths.site/im-done-with-media-made-after-2022/",
+    "title": "I’m Done with Media Made After 2022",
+    "author": "https://joshgriffiths.site",
+    "toasts": 2,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T15:10Z"
+  },
+  {
+    "url": "https://misto.bearblog.dev/knyga-dytynstvo-irusi-saik-2019/",
+    "title": "Книга - Дитинство Ірусі Саїк (2019)",
+    "author": "https://misto.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T14:31Z"
+  },
+  {
+    "url": "https://diels-daydreams.bearblog.dev/eu-tenho-total-acesso-ao-celular-da-minha-mae/",
+    "title": "Eu tenho total acesso ao celular da minha mãe",
+    "author": "https://diels-daydreams.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T13:50Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/the-somebodies-who-are-nobody/",
+    "title": "The somebodies who are nobody.",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T13:12Z"
+  },
+  {
+    "url": "https://lonelygirlphenomenology.bearblog.dev/to-whoevers-out-there-for-me/",
+    "title": "To whoever’s out there for me",
+    "author": "https://lonelygirlphenomenology.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T16:11:33.519Z",
+    "published": "2026-10-17T12:50Z"
   }
 ]
