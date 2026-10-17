@@ -129,9 +129,9 @@
     "url": "https://ludd.life/see-sunday/",
     "title": "See You Sunday",
     "author": "https://ludd.life",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-10-17T12:46:37.360Z",
-    "last_updated": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
     "published": "2026-10-17T10:30Z"
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://sabrshukr.bearblog.dev/ai-would-be-net-positive-for-planet-earth/",
     "title": "AI would be net-positive for planet Earth",
     "author": "https://sabrshukr.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-17T12:46:37.360Z",
-    "last_updated": "2026-10-17T12:46:37.360Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
     "published": "2026-10-17T11:54Z"
   },
   {
@@ -264,9 +264,9 @@
     "url": "https://jottednotes.bearblog.dev/inbox-zero-and-being-an-adult/",
     "title": "inbox zero and being an adult",
     "author": "https://jottednotes.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-10-17T16:11:33.519Z",
-    "last_updated": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
     "published": "2026-10-17T15:49Z"
   },
   {
@@ -327,18 +327,18 @@
     "url": "https://yaimgood.bearblog.dev/dont-need-a-flying-car-ya-im-good/",
     "title": "Don't need a flying car, ya, I'm Good",
     "author": "https://yaimgood.bearblog.dev",
-    "toasts": 4,
+    "toasts": 6,
     "first_seen": "2026-10-17T16:11:33.519Z",
-    "last_updated": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
     "published": "2026-10-17T15:48Z"
   },
   {
     "url": "https://joshgriffiths.site/im-done-with-media-made-after-2022/",
     "title": "I’m Done with Media Made After 2022",
     "author": "https://joshgriffiths.site",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-17T16:11:33.519Z",
-    "last_updated": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
     "published": "2026-10-17T15:10Z"
   },
   {
@@ -381,18 +381,18 @@
     "url": "https://elmc.at/dw-w01/",
     "title": "Fishing a Naked Man Out of a Well",
     "author": "https://elmc.at",
-    "toasts": 7,
+    "toasts": 10,
     "first_seen": "2026-10-17T19:05:41.300Z",
-    "last_updated": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
     "published": "2026-10-17T16:23Z"
   },
   {
     "url": "https://bulbasaur.bearblog.dev/blog/2026/10/17/",
     "title": "Watering houseplants with Squirtle-chan 3",
     "author": "https://bulbasaur.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-10-17T19:05:41.300Z",
-    "last_updated": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
     "published": "2026-10-17T17:00Z"
   },
   {
@@ -462,9 +462,99 @@
     "url": "https://forkingmad.blog/tv-viewing-fragmented/",
     "title": "TV viewing options are very fragmented",
     "author": "https://forkingmad.blog",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-17T19:05:41.300Z",
-    "last_updated": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
     "published": "2026-10-17T16:42Z"
+  },
+  {
+    "url": "https://coppershaman.com/getting-suffocated-by-books/",
+    "title": "Getting suffocated by books",
+    "author": "https://coppershaman.com",
+    "toasts": 5,
+    "first_seen": "2026-10-17T22:02:24.954Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
+    "published": "2026-10-17T20:02Z"
+  },
+  {
+    "url": "https://chrisb.bearblog.dev/carrie-stephen-king/",
+    "title": "Carrie - Stephen King",
+    "author": "https://chrisb.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-17T22:02:24.954Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
+    "published": "2026-10-17T20:50Z"
+  },
+  {
+    "url": "https://mugofacorns.bearblog.dev/my-commute-people/",
+    "title": "My Commute People",
+    "author": "https://mugofacorns.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-17T22:02:24.954Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
+    "published": "2026-10-17T21:48Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/you-gotta-see-you-can-see-everything/",
+    "title": "You gotta see You Can See Everything",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 3,
+    "first_seen": "2026-10-17T22:02:24.954Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
+    "published": "2026-10-17T20:13Z"
+  },
+  {
+    "url": "https://anymoreanyways.bearblog.dev/small-talk/",
+    "title": "small talk",
+    "author": "https://anymoreanyways.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-17T22:02:24.954Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
+    "published": "2026-10-17T19:37Z"
+  },
+  {
+    "url": "https://jetgirl.art/the-customer-doesnt-exist/",
+    "title": "The Customer Doesn't Exist",
+    "author": "https://jetgirl.art",
+    "toasts": 3,
+    "first_seen": "2026-10-17T22:02:24.954Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
+    "published": "2026-10-17T19:32Z"
+  },
+  {
+    "url": "https://mhmiller.bearblog.dev/a-lighthearted-life-update/",
+    "title": "A Lighthearted Life Update",
+    "author": "https://mhmiller.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-17T22:02:24.954Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
+    "published": "2026-10-17T19:27Z"
+  },
+  {
+    "url": "https://vinceblog.net/medical-bills/",
+    "title": "Medical Bills",
+    "author": "https://vinceblog.net",
+    "toasts": 3,
+    "first_seen": "2026-10-17T22:02:24.954Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
+    "published": "2026-10-17T18:15Z"
+  },
+  {
+    "url": "https://smallquiet.bearblog.dev/a-note-on-door-sales/",
+    "title": "A note on door sales",
+    "author": "https://smallquiet.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-17T22:02:24.954Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
+    "published": "2026-10-17T20:35Z"
+  },
+  {
+    "url": "https://norulesjustme.bearblog.dev/the-redhead-and-the-reality/",
+    "title": "The Redhead and the Reality",
+    "author": "https://norulesjustme.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-17T22:02:24.954Z",
+    "last_updated": "2026-10-17T22:02:24.954Z",
+    "published": "2026-10-17T19:53Z"
   }
 ]
