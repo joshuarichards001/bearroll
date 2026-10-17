@@ -129,18 +129,18 @@
     "url": "https://ludd.life/see-sunday/",
     "title": "See You Sunday",
     "author": "https://ludd.life",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-10-17T12:46:37.360Z",
-    "last_updated": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
     "published": "2026-10-17T10:30Z"
   },
   {
     "url": "https://thecynicalnerd.bearblog.dev/the-ai-snitch-scandal-nobody-bothered-to-explain/",
     "title": "The AI Snitch Scandal Nobody Bothered to Explain",
     "author": "https://thecynicalnerd.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-10-17T12:46:37.360Z",
-    "last_updated": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
     "published": "2026-10-17T08:38Z"
   },
   {
@@ -237,9 +237,9 @@
     "url": "https://heyimbriel.bearblog.dev/especial-de-mesversario/",
     "title": "Especial de mesversário do blog: Um dia eu saio da cama.",
     "author": "https://heyimbriel.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-10-17T16:11:33.519Z",
-    "last_updated": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
     "published": "2026-10-17T13:49Z"
   },
   {
@@ -264,9 +264,9 @@
     "url": "https://jottednotes.bearblog.dev/inbox-zero-and-being-an-adult/",
     "title": "inbox zero and being an adult",
     "author": "https://jottednotes.bearblog.dev",
-    "toasts": 4,
+    "toasts": 7,
     "first_seen": "2026-10-17T16:11:33.519Z",
-    "last_updated": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
     "published": "2026-10-17T15:49Z"
   },
   {
@@ -327,9 +327,9 @@
     "url": "https://yaimgood.bearblog.dev/dont-need-a-flying-car-ya-im-good/",
     "title": "Don't need a flying car, ya, I'm Good",
     "author": "https://yaimgood.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-10-17T16:11:33.519Z",
-    "last_updated": "2026-10-17T16:11:33.519Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
     "published": "2026-10-17T15:48Z"
   },
   {
@@ -376,5 +376,95 @@
     "first_seen": "2026-10-17T16:11:33.519Z",
     "last_updated": "2026-10-17T16:11:33.519Z",
     "published": "2026-10-17T12:50Z"
+  },
+  {
+    "url": "https://elmc.at/dw-w01/",
+    "title": "Fishing a Naked Man Out of a Well",
+    "author": "https://elmc.at",
+    "toasts": 7,
+    "first_seen": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
+    "published": "2026-10-17T16:23Z"
+  },
+  {
+    "url": "https://bulbasaur.bearblog.dev/blog/2026/10/17/",
+    "title": "Watering houseplants with Squirtle-chan 3",
+    "author": "https://bulbasaur.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
+    "published": "2026-10-17T17:00Z"
+  },
+  {
+    "url": "https://billhook.bearblog.dev/advice-on-play/",
+    "title": "Advice on Playing Games and a Recipe for Glazed Carrots",
+    "author": "https://billhook.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
+    "published": "2026-10-17T18:16Z"
+  },
+  {
+    "url": "https://jordanraymond.ca/les-strategies-de-lecture-particulieres-sont-secondaires/",
+    "title": "Les stratégies de lecture particulières sont secondaires",
+    "author": "https://jordanraymond.ca",
+    "toasts": 3,
+    "first_seen": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
+    "published": "2026-10-17T17:45Z"
+  },
+  {
+    "url": "https://davidmcgee.xyz/social-skills-and-social-skills/",
+    "title": "Social Skills and Social Skills",
+    "author": "https://davidmcgee.xyz",
+    "toasts": 3,
+    "first_seen": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
+    "published": "2026-10-17T17:44Z"
+  },
+  {
+    "url": "https://makebad.games/with-valves-steam-frame-headset-and-armada-things-look-bright-for-steamos-on-android-gaming-handhelds/",
+    "title": "With Armada and Valve's Steam Frame headset, things look bright for SteamOS on Android gaming handhelds",
+    "author": "https://makebad.games",
+    "toasts": 3,
+    "first_seen": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
+    "published": "2026-10-17T17:21Z"
+  },
+  {
+    "url": "https://currybab.bearblog.dev/blog/triton_fused_attention/",
+    "title": "Triton으로 FlashAttention 1·2 forward 구현하기",
+    "author": "https://currybab.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
+    "published": "2026-10-17T16:20Z"
+  },
+  {
+    "url": "https://theemptycart.com/the-art-of-buying-less/",
+    "title": "The Art of Buying Less",
+    "author": "https://theemptycart.com",
+    "toasts": 3,
+    "first_seen": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
+    "published": "2026-10-17T11:45Z"
+  },
+  {
+    "url": "https://yingxue.bearblog.dev/tianjin-yangliuqing-ancient-town/",
+    "title": "Tianjin, Yangliuqing Ancient Town",
+    "author": "https://yingxue.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
+    "published": "2026-10-17T08:00Z"
+  },
+  {
+    "url": "https://forkingmad.blog/tv-viewing-fragmented/",
+    "title": "TV viewing options are very fragmented",
+    "author": "https://forkingmad.blog",
+    "toasts": 2,
+    "first_seen": "2026-10-17T19:05:41.300Z",
+    "last_updated": "2026-10-17T19:05:41.300Z",
+    "published": "2026-10-17T16:42Z"
   }
 ]
