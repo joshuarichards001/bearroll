@@ -48,9 +48,9 @@
     "url": "https://smallsustainablenotes.bearblog.dev/flaneuse-in-the-city/",
     "title": "flâneuse in the city",
     "author": "https://smallsustainablenotes.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-10-18T05:32:34.120Z",
-    "last_updated": "2026-10-18T17:53:35.097Z",
+    "last_updated": "2026-10-19T00:56:08.805Z",
     "published": "2026-10-18T00:35Z"
   },
   {
@@ -390,9 +390,9 @@
     "url": "https://etiamastra.com/i-miss-talking-about-death/",
     "title": "i miss talking about death.",
     "author": "https://etiamastra.com",
-    "toasts": 18,
+    "toasts": 20,
     "first_seen": "2026-10-18T17:53:35.097Z",
-    "last_updated": "2026-10-18T22:52:28.783Z",
+    "last_updated": "2026-10-19T00:56:08.805Z",
     "published": "2026-10-18T17:41Z"
   },
   {
@@ -498,9 +498,9 @@
     "url": "https://leavethefeed.org/ladies-and-gentlemen-we-are-floating-in-slop/",
     "title": "Ladies and Gentlemen We Are Floating in Slop",
     "author": "https://leavethefeed.org",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-10-18T20:18:49.721Z",
-    "last_updated": "2026-10-18T22:52:28.783Z",
+    "last_updated": "2026-10-19T00:56:08.805Z",
     "published": "2026-10-18T18:22Z"
   },
   {
@@ -516,27 +516,27 @@
     "url": "https://bungleinthejungle.bearblog.dev/there-go-200-of-my-closest-friends/",
     "title": "There go 200 of my closest friends",
     "author": "https://bungleinthejungle.bearblog.dev",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-10-18T20:18:49.721Z",
-    "last_updated": "2026-10-18T22:52:28.783Z",
+    "last_updated": "2026-10-19T00:56:08.805Z",
     "published": "2026-10-18T18:10Z"
   },
   {
     "url": "https://subtleharlot.com/object-003-n009-ghostbusters/",
     "title": "Object 003: N.009 - Ghostbusters!",
     "author": "https://subtleharlot.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-18T20:18:49.721Z",
-    "last_updated": "2026-10-18T20:18:49.721Z",
+    "last_updated": "2026-10-19T00:56:08.805Z",
     "published": "2026-10-18T20:00Z"
   },
   {
     "url": "https://bungleinthejungle.bearblog.dev/some-time-sensitive-thoughts/",
     "title": "Just showing up to No Kings",
     "author": "https://bungleinthejungle.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-18T20:18:49.721Z",
-    "last_updated": "2026-10-18T20:18:49.721Z",
+    "last_updated": "2026-10-19T00:56:08.805Z",
     "published": "2026-10-18T19:49Z"
   },
   {
@@ -615,9 +615,9 @@
     "url": "https://1995.bearblog.dev/i-love-our-cats-so-much/",
     "title": "i love our cats so much it makes me cry",
     "author": "https://1995.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-10-18T22:52:28.783Z",
-    "last_updated": "2026-10-18T22:52:28.783Z",
+    "last_updated": "2026-10-19T00:56:08.805Z",
     "published": "2026-10-18T20:28Z"
   },
   {
@@ -651,9 +651,9 @@
     "url": "https://blog.dante.cool/media-and-material/",
     "title": "media and material",
     "author": "https://blog.dante.cool",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-18T22:52:28.783Z",
-    "last_updated": "2026-10-18T22:52:28.783Z",
+    "last_updated": "2026-10-19T00:56:08.805Z",
     "published": "2026-10-18T21:25Z"
   },
   {
@@ -664,5 +664,23 @@
     "first_seen": "2026-10-18T22:52:28.783Z",
     "last_updated": "2026-10-18T22:52:28.783Z",
     "published": "2026-10-18T20:50Z"
+  },
+  {
+    "url": "https://acim.blog/mind-the-gap/",
+    "title": "Mind the Gap",
+    "author": "https://acim.blog",
+    "toasts": 3,
+    "first_seen": "2026-10-19T00:56:08.805Z",
+    "last_updated": "2026-10-19T00:56:08.805Z",
+    "published": "2026-10-18T22:50Z"
+  },
+  {
+    "url": "https://jamesbaker.uk/i-ran-my-third-york-10-mile/",
+    "title": "🏃‍♂️‍➡️ I Ran My Third York 10 Mile",
+    "author": "https://jamesbaker.uk",
+    "toasts": 3,
+    "first_seen": "2026-10-19T00:56:08.805Z",
+    "last_updated": "2026-10-19T00:56:08.805Z",
+    "published": "2026-10-18T19:49Z"
   }
 ]
