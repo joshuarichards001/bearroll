@@ -39,9 +39,9 @@
     "url": "https://vandan.bearblog.dev/why-now/",
     "title": "Why Now?",
     "author": "https://vandan.bearblog.dev",
-    "toasts": 3,
+    "toasts": 6,
     "first_seen": "2026-10-22T03:55:15.734Z",
-    "last_updated": "2026-10-22T03:55:15.734Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
     "published": "2026-10-22T02:05Z"
   },
   {
@@ -52,5 +52,104 @@
     "first_seen": "2026-10-22T03:55:15.734Z",
     "last_updated": "2026-10-22T03:55:15.734Z",
     "published": "2026-10-22T01:04Z"
+  },
+  {
+    "url": "https://thoughts.pivic.com/on-facebooks-25bn-usd-fine/",
+    "title": "On Facebook's 25bn USD fine",
+    "author": "https://thoughts.pivic.com",
+    "toasts": 7,
+    "first_seen": "2026-10-22T09:16:01.837Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
+    "published": "2026-10-22T05:48Z"
+  },
+  {
+    "url": "https://themustyattic.bearblog.dev/a-street-called-righteous/",
+    "title": "a street called Righteous",
+    "author": "https://themustyattic.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-22T09:16:01.837Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
+    "published": "2026-10-22T07:24Z"
+  },
+  {
+    "url": "https://saltandstatic.bearblog.dev/bleedout/",
+    "title": "Bleedout 🩸",
+    "author": "https://saltandstatic.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-22T09:16:01.837Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
+    "published": "2026-10-22T07:22Z"
+  },
+  {
+    "url": "https://notes.seantaylor.work/for-your-amusement/",
+    "title": "For Your Amusement",
+    "author": "https://notes.seantaylor.work",
+    "toasts": 4,
+    "first_seen": "2026-10-22T09:16:01.837Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
+    "published": "2026-10-22T06:00Z"
+  },
+  {
+    "url": "https://disconnect.bearblog.dev/big-tech-is-like-a-creepy-ex-and-government-is-like-an-invasive-and-nosy-neighbor/",
+    "title": "Big tech is like a creepy ex and government is like an invasive and nosy neighbor",
+    "author": "https://disconnect.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-22T09:16:01.837Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
+    "published": "2026-10-22T01:29Z"
+  },
+  {
+    "url": "https://rama.bearblog.dev/bintang-jatuh/",
+    "title": "Bintang Jatuh",
+    "author": "https://rama.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-22T09:16:01.837Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
+    "published": "2026-10-22T08:17Z"
+  },
+  {
+    "url": "https://calogerobonasia.it/traces-of-a-decision/",
+    "title": "The traces of a decision",
+    "author": "https://calogerobonasia.it",
+    "toasts": 3,
+    "first_seen": "2026-10-22T09:16:01.837Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
+    "published": "2026-10-22T07:22Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/brush-mapping-update/",
+    "title": "Brush mapping update",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 2,
+    "first_seen": "2026-10-22T09:16:01.837Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
+    "published": "2026-10-22T06:39Z"
+  },
+  {
+    "url": "https://someweirdladybug.bearblog.dev/the-final-nightmare/",
+    "title": "The Final Nightmare",
+    "author": "https://someweirdladybug.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-22T09:16:01.837Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
+    "published": "2026-10-22T05:45Z"
+  },
+  {
+    "url": "https://sorted.bearblog.dev/the-details/",
+    "title": "The details",
+    "author": "https://sorted.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-22T09:16:01.837Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
+    "published": "2026-10-22T05:42Z"
+  },
+  {
+    "url": "https://icyti.me/the-cities-suffer/",
+    "title": "the cities suffer",
+    "author": "https://icyti.me",
+    "toasts": 2,
+    "first_seen": "2026-10-22T09:16:01.837Z",
+    "last_updated": "2026-10-22T09:16:01.837Z",
+    "published": "2026-10-22T03:59Z"
   }
 ]
