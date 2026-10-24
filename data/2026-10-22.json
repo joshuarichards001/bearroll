@@ -156,9 +156,9 @@
     "url": "https://herman.bearblog.dev/if-people-would-just/",
     "title": "If people would just",
     "author": "https://herman.bearblog.dev",
-    "toasts": 115,
+    "toasts": 118,
     "first_seen": "2026-10-22T14:56:29.519Z",
-    "last_updated": "2026-10-24T14:21:00.776Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-22T12:19Z"
   },
   {
@@ -336,9 +336,9 @@
     "url": "https://blog.willmeye.rs/carve-a-pumpkin/",
     "title": "Carve a pumpkin!",
     "author": "https://blog.willmeye.rs",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-10-22T19:06:55.154Z",
-    "last_updated": "2026-10-24T05:31:58.809Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-22T14:56Z"
   },
   {
@@ -462,18 +462,18 @@
     "url": "https://lnebres.bearblog.dev/sf-in-the-age-of-ai/",
     "title": "S.F. in the age of A.I.",
     "author": "https://lnebres.bearblog.dev",
-    "toasts": 49,
+    "toasts": 53,
     "first_seen": "2026-10-22T19:06:55.154Z",
-    "last_updated": "2026-10-24T14:21:00.776Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-22T17:43Z"
   },
   {
     "url": "https://lin-living-life.bearblog.dev/returning-to-myself-i-am-as-i-always-am/",
     "title": "Returning to Myself (I am, as I always am)",
     "author": "https://lin-living-life.bearblog.dev",
-    "toasts": 16,
+    "toasts": 18,
     "first_seen": "2026-10-22T23:03:51.981Z",
-    "last_updated": "2026-10-24T05:31:58.809Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-22T21:18Z"
   },
   {
@@ -489,18 +489,18 @@
     "url": "https://widdershinswanderings.bearblog.dev/running-cairn-with-my-kids/",
     "title": "Running Cairn for My Kids",
     "author": "https://widdershinswanderings.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-10-22T23:03:51.981Z",
-    "last_updated": "2026-10-23T14:44:43.573Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-22T21:44Z"
   },
   {
     "url": "https://matahar.bearblog.dev/sometimes-emancipation-demands-self-sabotage/",
     "title": "Sometimes emancipation demands self-sabotage",
     "author": "https://matahar.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-10-22T23:03:51.981Z",
-    "last_updated": "2026-10-24T14:21:00.776Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-22T20:27Z"
   },
   {
@@ -588,9 +588,9 @@
     "url": "https://writeitdown.bearblog.dev/consumption-as-a-political-identity-a-critique/",
     "title": "Consumption as a political identity (A critique)",
     "author": "https://writeitdown.bearblog.dev",
-    "toasts": 14,
+    "toasts": 16,
     "first_seen": "2026-10-23T03:59:08.631Z",
-    "last_updated": "2026-10-24T10:33:50.701Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-22T23:07Z"
   },
   {
@@ -628,5 +628,14 @@
     "first_seen": "2026-10-23T14:44:43.573Z",
     "last_updated": "2026-10-23T21:55:43.316Z",
     "published": "2026-10-22T23:20Z"
+  },
+  {
+    "url": "https://coreyblogs.com/on-a-rainy-thursday-morning-in-san-francisco/",
+    "title": "...on a rainy Thursday morning in San Francisco.",
+    "author": "https://coreyblogs.com",
+    "toasts": 10,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-22T16:05Z"
   }
 ]

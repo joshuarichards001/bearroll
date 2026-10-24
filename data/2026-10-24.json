@@ -30,9 +30,9 @@
     "url": "https://life.drsh.io/a-cat-is-crying-outside-at-midnight/",
     "title": "a cat is crying outside at midnight",
     "author": "https://life.drsh.io",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-24T05:31:58.809Z",
-    "last_updated": "2026-10-24T05:31:58.809Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-24T00:15Z"
   },
   {
@@ -48,36 +48,36 @@
     "url": "https://jollyanchorblog.bearblog.dev/no-draft/",
     "title": "no draft :/",
     "author": "https://jollyanchorblog.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-10-24T05:31:58.809Z",
-    "last_updated": "2026-10-24T14:21:00.776Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-24T00:56Z"
   },
   {
     "url": "https://reedybear.bearblog.dev/im-so-nervous-for-tomorrow/",
     "title": "I'm SO nervous for tomorrow",
     "author": "https://reedybear.bearblog.dev",
-    "toasts": 14,
+    "toasts": 17,
     "first_seen": "2026-10-24T10:33:50.701Z",
-    "last_updated": "2026-10-24T14:21:00.776Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-24T03:05Z"
   },
   {
     "url": "https://icyti.me/so-now-you-care/",
     "title": "so NOW you care????",
     "author": "https://icyti.me",
-    "toasts": 11,
+    "toasts": 14,
     "first_seen": "2026-10-24T10:33:50.701Z",
-    "last_updated": "2026-10-24T14:21:00.776Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-24T03:59Z"
   },
   {
     "url": "https://camryleal.bearblog.dev/performativism/",
     "title": "Performativism",
     "author": "https://camryleal.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-10-24T10:33:50.701Z",
-    "last_updated": "2026-10-24T14:21:00.776Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-24T06:17Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://blog.lauramichet.com/visited-the-brooklyn-botanic-garden/",
     "title": "Visited the Brooklyn Botanic Garden",
     "author": "https://blog.lauramichet.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-10-24T10:33:50.701Z",
-    "last_updated": "2026-10-24T14:21:00.776Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-24T03:30Z"
   },
   {
@@ -237,18 +237,18 @@
     "url": "https://sesame.bearblog.dev/sun/",
     "title": "sun",
     "author": "https://sesame.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-10-24T14:21:00.776Z",
-    "last_updated": "2026-10-24T14:21:00.776Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-24T12:48Z"
   },
   {
     "url": "https://semdominio.bearblog.dev/blog-e-de-verdade/",
     "title": "Blog é de verdade",
     "author": "https://semdominio.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-24T14:21:00.776Z",
-    "last_updated": "2026-10-24T14:21:00.776Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-24T13:35Z"
   },
   {
@@ -327,9 +327,117 @@
     "url": "https://antechei.bearblog.dev/bad-day-not-like-the-song/",
     "title": "bad day (not like the song)",
     "author": "https://antechei.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-24T14:21:00.776Z",
-    "last_updated": "2026-10-24T14:21:00.776Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
     "published": "2026-10-24T07:20Z"
+  },
+  {
+    "url": "https://unturnedhovel.bearblog.dev/silence-cried-the-mountain/",
+    "title": "Silence Cried The Mountain",
+    "author": "https://unturnedhovel.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T14:47Z"
+  },
+  {
+    "url": "https://negativeliberty.com/facebook-exit/",
+    "title": "Facebook Exit",
+    "author": "https://negativeliberty.com",
+    "toasts": 5,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T15:51Z"
+  },
+  {
+    "url": "https://yordi.me/against-the-light/",
+    "title": "Against the Light",
+    "author": "https://yordi.me",
+    "toasts": 4,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T14:41Z"
+  },
+  {
+    "url": "https://whereabout-f.bearblog.dev/at-close-range/",
+    "title": "At close range",
+    "author": "https://whereabout-f.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T14:32Z"
+  },
+  {
+    "url": "https://dms.bearblog.dev/the-first-sharing-of-a-thought/",
+    "title": "The first sharing of a thought.",
+    "author": "https://dms.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T17:08Z"
+  },
+  {
+    "url": "https://dearluci.bearblog.dev/day146/",
+    "title": "day146 - celebrated",
+    "author": "https://dearluci.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T14:17Z"
+  },
+  {
+    "url": "https://torn.bearblog.dev/mentors-and-mastery/",
+    "title": "Mentors and Mastery",
+    "author": "https://torn.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T14:16Z"
+  },
+  {
+    "url": "https://blog.katemonkey.com/customer-led-disruption-month-1/",
+    "title": "Customer Led Disruption in a Digital Era - Month 1",
+    "author": "https://blog.katemonkey.com",
+    "toasts": 3,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T14:10Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/broken-screens-on-iphone-duo/",
+    "title": "Broken Screens on iPhone Duo",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T12:05Z"
+  },
+  {
+    "url": "https://ninetimes.bearblog.dev/reading-ai-gives-me-fatigue-a-manifesto/",
+    "title": "Reading or Hearing \"AI\" Gives Me Fatigue: A Manifesto",
+    "author": "https://ninetimes.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T16:19Z"
+  },
+  {
+    "url": "https://meghna.bearblog.dev/isemotionalbluntingthesameasequanimity/",
+    "title": "Is emotional blunting the same as equanimity?",
+    "author": "https://meghna.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T02:59Z"
+  },
+  {
+    "url": "https://gorgonbones.bearblog.dev/the-dungeon-game-weekends-at-stonehell-session-26/",
+    "title": "The Dungeon Game: Weekends at Stonehell, session 26",
+    "author": "https://gorgonbones.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-24T17:57:51.486Z",
+    "last_updated": "2026-10-24T17:57:51.486Z",
+    "published": "2026-10-24T12:50Z"
   }
 ]
