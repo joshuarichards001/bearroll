@@ -12,9 +12,9 @@
     "url": "https://widdershins.verja.net/bubbles-makes-the-web-interesting-again/",
     "title": "Bubbles Makes the Web Interesting Again",
     "author": "https://widdershins.verja.net",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-10-27T07:30:47.449Z",
-    "last_updated": "2026-10-27T07:30:47.449Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
     "published": "2026-10-27T01:36Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://thinkings.space/of-miffy/",
     "title": "Of Miffy",
     "author": "https://thinkings.space",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-10-27T07:30:47.449Z",
-    "last_updated": "2026-10-27T07:30:47.449Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
     "published": "2026-10-27T01:29Z"
   },
   {
@@ -48,27 +48,27 @@
     "url": "https://ordinarykuma.bearblog.dev/sth-behind-my-blog/",
     "title": "部落格文章（與他們的產地）",
     "author": "https://ordinarykuma.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-27T07:30:47.449Z",
-    "last_updated": "2026-10-27T07:30:47.449Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
     "published": "2026-10-27T07:14Z"
   },
   {
     "url": "https://saltandstatic.bearblog.dev/didnt-know/",
     "title": "Didn't Know",
     "author": "https://saltandstatic.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-27T07:30:47.449Z",
-    "last_updated": "2026-10-27T07:30:47.449Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
     "published": "2026-10-27T06:48Z"
   },
   {
     "url": "https://mayberay.bearblog.dev/i-hate-online-waiting-rooms-using-lotteries-to-make-event-ticket-sales-fairer-in-south-africa/",
     "title": "I Hate Online Waiting Rooms: Using Lotteries to Make Event Ticket Sales Fairer in South Africa",
     "author": "https://mayberay.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-10-27T07:30:47.449Z",
-    "last_updated": "2026-10-27T07:30:47.449Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
     "published": "2026-10-27T05:56Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://icyti.me/hoarding-notes/",
     "title": "digital hoarder of the written word",
     "author": "https://icyti.me",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-10-27T07:30:47.449Z",
-    "last_updated": "2026-10-27T07:30:47.449Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
     "published": "2026-10-27T03:59Z"
   },
   {
@@ -133,5 +133,158 @@
     "first_seen": "2026-10-27T07:30:47.449Z",
     "last_updated": "2026-10-27T07:30:47.449Z",
     "published": "2026-10-27T01:30Z"
+  },
+  {
+    "url": "https://herman.bearblog.dev/the-upvote-dilemma/",
+    "title": "The upvote dilemma",
+    "author": "https://herman.bearblog.dev",
+    "toasts": 48,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T13:05Z"
+  },
+  {
+    "url": "https://dostoynikov.bearblog.dev/virtual-museum-for-my-wifes-artworks/",
+    "title": "Virtual museum for my wife's artworks",
+    "author": "https://dostoynikov.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T08:49Z"
+  },
+  {
+    "url": "https://coreyblogs.com/yet-another-rejection-from-the-new-york-times/",
+    "title": "…yet another rejection from The New York Times.",
+    "author": "https://coreyblogs.com",
+    "toasts": 4,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T13:48Z"
+  },
+  {
+    "url": "https://etan.bearblog.dev/i-have-been-doing-this-little-blog-for-a-year-now-and-i-love-it/",
+    "title": "I have been doing this little blog for a year now and I love it.",
+    "author": "https://etan.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T11:30Z"
+  },
+  {
+    "url": "https://sudelbuch.bearblog.dev/berlin-in-pictures-neukolln-worksite/",
+    "title": "Berlin in Pictures: Neukölln Worksite (2026)",
+    "author": "https://sudelbuch.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T06:00Z"
+  },
+  {
+    "url": "https://stilllost.bearblog.dev/261027/",
+    "title": "261027",
+    "author": "https://stilllost.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T13:30Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/almost-done-and/",
+    "title": "Almost done and ...",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T13:19Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/outra-coisa/",
+    "title": "Outra coisa",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T12:31Z"
+  },
+  {
+    "url": "https://mrmr.bearblog.dev/personalgrowthjournaling/",
+    "title": "journaling is the most powerful tool for personal growth",
+    "author": "https://mrmr.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T12:17Z"
+  },
+  {
+    "url": "https://littleducky.bearblog.dev/an-open-letter-to-my-mom/",
+    "title": "An open letter to my mom",
+    "author": "https://littleducky.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T11:54Z"
+  },
+  {
+    "url": "https://lapracot.bearblog.dev/20261027/",
+    "title": "2026/10/27",
+    "author": "https://lapracot.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T11:34Z"
+  },
+  {
+    "url": "https://thelongplay.bearblog.dev/my-first-nuzlocke-pokemon-x/",
+    "title": "🎮 My first Nuzlocke - Pokemon X",
+    "author": "https://thelongplay.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T11:14Z"
+  },
+  {
+    "url": "https://blog.24601.net/trusting-strangers/",
+    "title": "Trusting Strangers",
+    "author": "https://blog.24601.net",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T10:50Z"
+  },
+  {
+    "url": "https://pipa.bearblog.dev/the-paradox/",
+    "title": "The Paradox",
+    "author": "https://pipa.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T10:44Z"
+  },
+  {
+    "url": "https://henrik-simen.bearblog.dev/carousel-002-mitchell-space-people/",
+    "title": "Two sisters. One coffee shop. Two very polite visitors from \"a huge mother-craft.\"",
+    "author": "https://henrik-simen.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T10:30Z"
+  },
+  {
+    "url": "https://mataherry.bearblog.dev/listen-to-bearblog-feeds/",
+    "title": "FeedTok - Listen to bearblog feeds",
+    "author": "https://mataherry.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T09:55Z"
+  },
+  {
+    "url": "https://betaveros.bearblog.dev/how-to-make-a-systemd-service/",
+    "title": "How to make a systemd service",
+    "author": "https://betaveros.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-27T14:10:05.561Z",
+    "last_updated": "2026-10-27T14:10:05.561Z",
+    "published": "2026-10-27T09:18Z"
   }
 ]
