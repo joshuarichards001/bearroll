@@ -30,9 +30,9 @@
     "url": "https://ly.bearblog.dev/sponge/",
     "title": "sponge",
     "author": "https://ly.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-10-28T04:47:57.132Z",
-    "last_updated": "2026-10-28T04:47:57.132Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
     "published": "2026-10-28T04:06Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://cats-musings.blog/0109-year-one-review/",
     "title": "My blog is officially one year old",
     "author": "https://cats-musings.blog",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-10-28T04:47:57.132Z",
-    "last_updated": "2026-10-28T04:47:57.132Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
     "published": "2026-10-28T02:23Z"
   },
   {
@@ -97,5 +97,149 @@
     "first_seen": "2026-10-28T04:47:57.132Z",
     "last_updated": "2026-10-28T04:47:57.132Z",
     "published": "2026-10-28T00:34Z"
+  },
+  {
+    "url": "https://doghappylife.bearblog.dev/6184/",
+    "title": "學術論文投稿記",
+    "author": "https://doghappylife.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T08:55Z"
+  },
+  {
+    "url": "https://shuttershyness100.bearblog.dev/an-honest-attempt-at-transparency/",
+    "title": "An honest attempt at transparency",
+    "author": "https://shuttershyness100.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T06:38Z"
+  },
+  {
+    "url": "https://betaveros.bearblog.dev/ipa-tutorial-for-literally-just-me/",
+    "title": "IPA tutorial for literally just me",
+    "author": "https://betaveros.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T07:58Z"
+  },
+  {
+    "url": "https://mataherry.bearblog.dev/mimpi-aneh-di-pasar-atom/",
+    "title": "[ID] Mimpi aneh di Pasar Atom",
+    "author": "https://mataherry.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T07:48Z"
+  },
+  {
+    "url": "https://henrik-simen.bearblog.dev/031-art-design-for-dreaming/",
+    "title": "In 1956, General Motors filmed a woman dreaming about the future. We let her finish the dream.",
+    "author": "https://henrik-simen.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T10:30Z"
+  },
+  {
+    "url": "https://maestroandrea.bearblog.dev/numeri-romani/",
+    "title": "Numeri romani",
+    "author": "https://maestroandrea.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T10:11Z"
+  },
+  {
+    "url": "https://blog.supergrey.uk/revisit-ai-writing/",
+    "title": "再談「AI味」",
+    "author": "https://blog.supergrey.uk",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T09:03Z"
+  },
+  {
+    "url": "https://magnusps.dev/room-to-breathe/",
+    "title": "Room to Breathe",
+    "author": "https://magnusps.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T08:52Z"
+  },
+  {
+    "url": "https://shuttershyness100.bearblog.dev/ramblings-to-ruminate/",
+    "title": "Ramblings to Ruminate",
+    "author": "https://shuttershyness100.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T07:25Z"
+  },
+  {
+    "url": "https://sourcewalker.bearblog.dev/does-gamelift-really-run-itself-1-why-we-chose-gamelift/",
+    "title": "Does GameLift Really Run Itself? (1) — Why We Chose GameLift",
+    "author": "https://sourcewalker.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T06:33Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/makin-movies/",
+    "title": "Makin' movies",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T06:23Z"
+  },
+  {
+    "url": "https://calogerobonasia.it/sovranita-digitale-casi-limite/",
+    "title": "La sovranità digitale si misura anche dai casi limite",
+    "author": "https://calogerobonasia.it",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T06:00Z"
+  },
+  {
+    "url": "https://sudelbuch.bearblog.dev/wednesday-assorted-links-new-new-new-new-new-new-new-new-new-new/",
+    "title": "Wednesday assorted links: Nietzsche, Kupferstichkabinett, AI, Wagner",
+    "author": "https://sudelbuch.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T06:00Z"
+  },
+  {
+    "url": "https://anarchaeopteryx.bearblog.dev/2026-10-28-dos2/",
+    "title": "Divinity Original Sin 2 - Act 1 - Braccus' Tower 17hr23",
+    "author": "https://anarchaeopteryx.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T04:08Z"
+  },
+  {
+    "url": "https://icyti.me/linux-disaster-imminent/",
+    "title": "linux disaster imminent",
+    "author": "https://icyti.me",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T03:59Z"
+  },
+  {
+    "url": "https://justcolors.blog/upgrade-new-domain/",
+    "title": "Upgrade and New Domain",
+    "author": "https://justcolors.blog",
+    "toasts": 2,
+    "first_seen": "2026-10-28T11:06:56.930Z",
+    "last_updated": "2026-10-28T11:06:56.930Z",
+    "published": "2026-10-28T04:06Z"
   }
 ]
