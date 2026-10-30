@@ -111,9 +111,9 @@
     "url": "https://shuttershyness100.bearblog.dev/an-honest-attempt-at-transparency/",
     "title": "An honest attempt at transparency",
     "author": "https://shuttershyness100.bearblog.dev",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-10-28T11:06:56.930Z",
-    "last_updated": "2026-10-29T21:39:27.017Z",
+    "last_updated": "2026-10-30T01:42:43.512Z",
     "published": "2026-10-28T06:38Z"
   },
   {
@@ -255,18 +255,18 @@
     "url": "https://coreyblogs.com/how-to-ruin-a-perfectly-good-sunset-photo/",
     "title": "...how to ruin a perfectly good sunset photo.",
     "author": "https://coreyblogs.com",
-    "toasts": 40,
+    "toasts": 43,
     "first_seen": "2026-10-28T18:05:06.395Z",
-    "last_updated": "2026-10-29T21:39:27.017Z",
+    "last_updated": "2026-10-30T01:42:43.512Z",
     "published": "2026-10-28T13:24Z"
   },
   {
     "url": "https://topopa.bearblog.dev/financial-trauma/",
     "title": "Financial trauma I hope I won't pass down on my daughter",
     "author": "https://topopa.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-10-28T18:05:06.395Z",
-    "last_updated": "2026-10-29T21:39:27.017Z",
+    "last_updated": "2026-10-30T01:42:43.512Z",
     "published": "2026-10-28T16:03Z"
   },
   {
@@ -579,9 +579,9 @@
     "url": "https://neko.bearblog.dev/a-trepid-return-to-bearblog/",
     "title": "a trepid return to bearblog",
     "author": "https://neko.bearblog.dev",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-10-28T22:59:35.699Z",
-    "last_updated": "2026-10-29T21:39:27.017Z",
+    "last_updated": "2026-10-30T01:42:43.512Z",
     "published": "2026-10-28T19:57Z"
   },
   {
@@ -772,5 +772,14 @@
     "first_seen": "2026-10-29T02:19:57.244Z",
     "last_updated": "2026-10-29T02:19:57.244Z",
     "published": "2026-10-28T18:23Z"
+  },
+  {
+    "url": "https://felixringe.com/legal-exploits/",
+    "title": "Legal exploits may emerge at scale",
+    "author": "https://felixringe.com",
+    "toasts": 7,
+    "first_seen": "2026-10-30T01:42:43.512Z",
+    "last_updated": "2026-10-30T01:42:43.512Z",
+    "published": "2026-10-28T20:54Z"
   }
 ]
