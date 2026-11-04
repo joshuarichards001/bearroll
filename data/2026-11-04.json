@@ -21,18 +21,18 @@
     "url": "https://widdershins.verja.net/welcome-home-debian/",
     "title": "Welcome Home, Debian",
     "author": "https://widdershins.verja.net",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-04T02:00:28.339Z",
-    "last_updated": "2026-11-04T09:00:10.819Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
     "published": "2026-11-04T01:39Z"
   },
   {
     "url": "https://donthave2sting.bearblog.dev/my-dream-about-obama/",
     "title": "my dream about obama",
     "author": "https://donthave2sting.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-04T02:00:28.339Z",
-    "last_updated": "2026-11-04T09:00:10.819Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
     "published": "2026-11-04T01:27Z"
   },
   {
@@ -48,27 +48,27 @@
     "url": "https://blog.ammonite.me/thirteen-years-ago-i-failed-at-their-dream/",
     "title": "Thirteen years ago I failed at their dream",
     "author": "https://blog.ammonite.me",
-    "toasts": 9,
+    "toasts": 19,
     "first_seen": "2026-11-04T09:00:10.819Z",
-    "last_updated": "2026-11-04T09:00:10.819Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
     "published": "2026-11-04T04:08Z"
   },
   {
     "url": "https://blog.fiddery.com/tx-blue/",
     "title": "tx blue!!",
     "author": "https://blog.fiddery.com",
-    "toasts": 4,
+    "toasts": 7,
     "first_seen": "2026-11-04T09:00:10.819Z",
-    "last_updated": "2026-11-04T09:00:10.819Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
     "published": "2026-11-04T05:27Z"
   },
   {
     "url": "https://idraluna-archives.bearblog.dev/the-odradeks-drift-series/",
     "title": "The Odradek's Drift Series (Alpha Version)",
     "author": "https://idraluna-archives.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-04T09:00:10.819Z",
-    "last_updated": "2026-11-04T09:00:10.819Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
     "published": "2026-11-04T04:54Z"
   },
   {
@@ -120,18 +120,18 @@
     "url": "https://via.bearblog.dev/6-months-of-hitting-the-gym/",
     "title": "6 months of hitting the gym",
     "author": "https://via.bearblog.dev",
-    "toasts": 2,
+    "toasts": 7,
     "first_seen": "2026-11-04T09:00:10.819Z",
-    "last_updated": "2026-11-04T09:00:10.819Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
     "published": "2026-11-04T08:29Z"
   },
   {
     "url": "https://wundeblume.bearblog.dev/nest-der-sprache-hebel-der-sprache-kloppel-der-sprache/",
     "title": "Nest der Sprache, Hebel der Sprache, Klöppel der Sprache",
     "author": "https://wundeblume.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-04T09:00:10.819Z",
-    "last_updated": "2026-11-04T09:00:10.819Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
     "published": "2026-11-04T07:51Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://kailo.bearblog.dev/twilight-of-the-idol/",
     "title": "Twilight of the Idol",
     "author": "https://kailo.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-04T09:00:10.819Z",
-    "last_updated": "2026-11-04T09:00:10.819Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
     "published": "2026-11-04T07:34Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://sudelbuch.bearblog.dev/wednesday-assorted-links-hegel-today/",
     "title": "Wednesday assorted links: Thielemann, Sellars, Steiner, Mozart",
     "author": "https://sudelbuch.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-04T09:00:10.819Z",
-    "last_updated": "2026-11-04T09:00:10.819Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
     "published": "2026-11-04T06:00Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://jdtorian.com/one-year-of-this/",
     "title": "One Year of This",
     "author": "https://jdtorian.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-04T09:00:10.819Z",
-    "last_updated": "2026-11-04T09:00:10.819Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
     "published": "2026-11-04T06:00Z"
   },
   {
@@ -237,9 +237,207 @@
     "url": "https://ly.bearblog.dev/best-way-to-wake-up/",
     "title": "best way to wake up",
     "author": "https://ly.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-04T09:00:10.819Z",
-    "last_updated": "2026-11-04T09:00:10.819Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
     "published": "2026-11-04T01:21Z"
+  },
+  {
+    "url": "https://weatherlinguist.bearblog.dev/is-the-polar-vortex-breaking-up-in-november/",
+    "title": "Is the polar vortex breaking up in november?",
+    "author": "https://weatherlinguist.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T14:55Z"
+  },
+  {
+    "url": "https://coreyblogs.com/his-first-bear-blog-hate-mail/",
+    "title": "...his first Bear Blog hate mail.",
+    "author": "https://coreyblogs.com",
+    "toasts": 9,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T14:55Z"
+  },
+  {
+    "url": "https://magnusps.dev/who-counts-as-family/",
+    "title": "Who Counts as Family",
+    "author": "https://magnusps.dev",
+    "toasts": 9,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T09:57Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/ethics-is-dead-and-the-internet-killed-it/",
+    "title": "Ethics is dead and the Internet killed it.",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T16:13Z"
+  },
+  {
+    "url": "https://angrybunnyman.com/i-held-no-hopes-but-last-night-was-a-batshit-midterm/",
+    "title": "I held no hopes but last night was a batshit midterm",
+    "author": "https://angrybunnyman.com",
+    "toasts": 4,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T15:15Z"
+  },
+  {
+    "url": "https://whateverthewindbrings.com/thinking-about-the-genai-slop-problem-on-digital-stores/",
+    "title": "Thinking about the genAI slop problem on digital stores",
+    "author": "https://whateverthewindbrings.com",
+    "toasts": 4,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T10:11Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/banda-de-garagem/",
+    "title": "Banda de garagem",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T13:26Z"
+  },
+  {
+    "url": "https://haydenramm.bearblog.dev/when-did-you-realise-you-couldnt-cut-it/",
+    "title": "when did you realise you couldn't cut it",
+    "author": "https://haydenramm.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T11:50Z"
+  },
+  {
+    "url": "https://blog.24601.net/the-data-centre-what/",
+    "title": "The Data Centre What?",
+    "author": "https://blog.24601.net",
+    "toasts": 3,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T11:47Z"
+  },
+  {
+    "url": "https://sincelasttime.bearblog.dev/since-last-time-001/",
+    "title": "Since Last Time: 001",
+    "author": "https://sincelasttime.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T10:13Z"
+  },
+  {
+    "url": "https://nburchett.com/the-late-shift-at-the-end-of-the-world/",
+    "title": "The Late Shift at the End of the World",
+    "author": "https://nburchett.com",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T16:52Z"
+  },
+  {
+    "url": "https://lwgrs.bearblog.dev/new-phone-who-dis/",
+    "title": "New phone, who dis?",
+    "author": "https://lwgrs.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T16:50Z"
+  },
+  {
+    "url": "https://www.justinthestacks.com/managing-is-easy-leading-is-what-hurts/",
+    "title": "Managing is Easy. Leading is What Hurts.",
+    "author": "https://www.justinthestacks.com",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T13:38Z"
+  },
+  {
+    "url": "https://candycornsoldiers.bearblog.dev/the-mystery-of-sindbad-mystery/",
+    "title": "The Mystery of Sindbad Mystery",
+    "author": "https://candycornsoldiers.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T13:25Z"
+  },
+  {
+    "url": "https://www.javis.me/202610/",
+    "title": "2026-10 书影音总结",
+    "author": "https://www.javis.me",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T13:24Z"
+  },
+  {
+    "url": "https://paratexto.net/fracaso-y-progreso/",
+    "title": "Fracaso y progreso",
+    "author": "https://paratexto.net",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T13:15Z"
+  },
+  {
+    "url": "https://blog.24601.net/automation-and-autonomy/",
+    "title": "Automation and Autonomy",
+    "author": "https://blog.24601.net",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T13:12Z"
+  },
+  {
+    "url": "https://wanderingjackdaw.bearblog.dev/walkthrough-for-bellingcats-the-riders-view-challenge/",
+    "title": "Walkthrough for Bellingcat's 'The Rider's View' challenge",
+    "author": "https://wanderingjackdaw.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T11:38Z"
+  },
+  {
+    "url": "https://musing.ispretty.fyi/blog/n/",
+    "title": "n",
+    "author": "https://musing.ispretty.fyi",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T10:48Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/reviews-of-the-new-ipad-mini-are-out/",
+    "title": "Reviews of the New iPad Mini Are Out",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T10:41Z"
+  },
+  {
+    "url": "https://pthm.dev/leeroy-making-ai-agents-play-world-of-warcraft/",
+    "title": "LEEROY: Making AI agents play World of Warcraft",
+    "author": "https://pthm.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T09:33Z"
+  },
+  {
+    "url": "https://anonymous-wanderers.life/there-will-always-be-outliers/",
+    "title": "There will always be outliers",
+    "author": "https://anonymous-wanderers.life",
+    "toasts": 2,
+    "first_seen": "2026-11-04T17:05:45.640Z",
+    "last_updated": "2026-11-04T17:05:45.640Z",
+    "published": "2026-11-04T08:27Z"
   }
 ]
