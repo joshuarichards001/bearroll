@@ -120,9 +120,9 @@
     "url": "https://via.bearblog.dev/6-months-of-hitting-the-gym/",
     "title": "6 months of hitting the gym",
     "author": "https://via.bearblog.dev",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-11-04T09:00:10.819Z",
-    "last_updated": "2026-11-05T21:23:38.296Z",
+    "last_updated": "2026-11-06T02:04:21.341Z",
     "published": "2026-11-04T08:29Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://coreyblogs.com/his-first-bear-blog-hate-mail/",
     "title": "...his first Bear Blog hate mail.",
     "author": "https://coreyblogs.com",
-    "toasts": 57,
+    "toasts": 58,
     "first_seen": "2026-11-04T17:05:45.640Z",
-    "last_updated": "2026-11-05T21:23:38.296Z",
+    "last_updated": "2026-11-06T02:04:21.341Z",
     "published": "2026-11-04T14:55Z"
   },
   {
@@ -273,9 +273,9 @@
     "url": "https://itsme.bearblog.dev/ethics-is-dead-and-the-internet-killed-it/",
     "title": "Ethics is dead and the Internet killed it.",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 30,
+    "toasts": 33,
     "first_seen": "2026-11-04T17:05:45.640Z",
-    "last_updated": "2026-11-05T21:23:38.296Z",
+    "last_updated": "2026-11-06T02:04:21.341Z",
     "published": "2026-11-04T16:13Z"
   },
   {
@@ -309,9 +309,9 @@
     "url": "https://haydenramm.bearblog.dev/when-did-you-realise-you-couldnt-cut-it/",
     "title": "when did you realise you couldn't cut it",
     "author": "https://haydenramm.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-04T17:05:45.640Z",
-    "last_updated": "2026-11-04T23:24:54.657Z",
+    "last_updated": "2026-11-06T02:04:21.341Z",
     "published": "2026-11-04T11:50Z"
   },
   {
@@ -444,18 +444,18 @@
     "url": "https://halinu.bearblog.dev/really-wordpress/",
     "title": "Really, WordPress?",
     "author": "https://halinu.bearblog.dev",
-    "toasts": 30,
+    "toasts": 32,
     "first_seen": "2026-11-04T23:24:54.657Z",
-    "last_updated": "2026-11-05T21:23:38.296Z",
+    "last_updated": "2026-11-06T02:04:21.341Z",
     "published": "2026-11-04T20:07Z"
   },
   {
     "url": "https://samwigglesworth.bearblog.dev/i-dont-like-roses/",
     "title": "I Don't Like Roses",
     "author": "https://samwigglesworth.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-11-04T23:24:54.657Z",
-    "last_updated": "2026-11-05T14:19:47.049Z",
+    "last_updated": "2026-11-06T02:04:21.341Z",
     "published": "2026-11-04T17:29Z"
   },
   {
@@ -471,27 +471,27 @@
     "url": "https://qwyn.me/roll-8-kodak-gold/",
     "title": "Roll #8 - Kodak Gold 200",
     "author": "https://qwyn.me",
-    "toasts": 24,
+    "toasts": 27,
     "first_seen": "2026-11-04T23:24:54.657Z",
-    "last_updated": "2026-11-05T21:23:38.296Z",
+    "last_updated": "2026-11-06T02:04:21.341Z",
     "published": "2026-11-04T19:58Z"
   },
   {
     "url": "https://lassmaya.bearblog.dev/we-got-rid-of-our-dogs/",
     "title": "\"we got rid of our dogs\"",
     "author": "https://lassmaya.bearblog.dev",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-11-04T23:24:54.657Z",
-    "last_updated": "2026-11-05T21:23:38.296Z",
+    "last_updated": "2026-11-06T02:04:21.341Z",
     "published": "2026-11-04T18:51Z"
   },
   {
     "url": "https://coreyblogs.com/the-front-page-of-todays-paper/",
     "title": "...the front page of today's paper.",
     "author": "https://coreyblogs.com",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-11-04T23:24:54.657Z",
-    "last_updated": "2026-11-05T21:23:38.296Z",
+    "last_updated": "2026-11-06T02:04:21.341Z",
     "published": "2026-11-04T22:42Z"
   },
   {
@@ -552,9 +552,9 @@
     "url": "https://techdemo.com.br/buscando-um-jogo-para-chamar-de-lar/",
     "title": "Buscando um jogo para chamar de lar",
     "author": "https://techdemo.com.br",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-04T23:24:54.657Z",
-    "last_updated": "2026-11-05T21:23:38.296Z",
+    "last_updated": "2026-11-06T02:04:21.341Z",
     "published": "2026-11-04T19:21Z"
   },
   {
@@ -754,5 +754,14 @@
     "first_seen": "2026-11-05T14:19:47.049Z",
     "last_updated": "2026-11-05T21:23:38.296Z",
     "published": "2026-11-04T09:42Z"
+  },
+  {
+    "url": "https://th.blog.br/halloween/",
+    "title": "halloween",
+    "author": "https://th.blog.br",
+    "toasts": 4,
+    "first_seen": "2026-11-06T02:04:21.341Z",
+    "last_updated": "2026-11-06T02:04:21.341Z",
+    "published": "2026-11-04T20:44Z"
   }
 ]
