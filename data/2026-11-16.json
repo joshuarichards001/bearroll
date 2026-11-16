@@ -12,9 +12,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/am-i-being-manipulated/",
     "title": "Am I being manipulated?",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 23,
+    "toasts": 24,
     "first_seen": "2026-11-16T09:12:01.539Z",
-    "last_updated": "2026-11-16T14:00:52.117Z",
+    "last_updated": "2026-11-16T16:00:51.951Z",
     "published": "2026-11-16T05:48Z"
   },
   {
@@ -183,18 +183,18 @@
     "url": "https://notes.stateofnats.com/the-state-of-nats-latest-post/",
     "title": "35 reflections for my 35th birthday",
     "author": "https://notes.stateofnats.com",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-11-16T12:00:51.693Z",
-    "last_updated": "2026-11-16T14:00:52.117Z",
+    "last_updated": "2026-11-16T16:00:51.951Z",
     "published": "2026-11-16T11:53Z"
   },
   {
     "url": "https://blog.lauramichet.com/cursed-beverage/",
     "title": "Cursed beverage",
     "author": "https://blog.lauramichet.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-16T12:00:51.693Z",
-    "last_updated": "2026-11-16T14:00:52.117Z",
+    "last_updated": "2026-11-16T16:00:51.951Z",
     "published": "2026-11-16T07:30Z"
   },
   {
@@ -219,9 +219,9 @@
     "url": "https://qmf.bearblog.dev/det-har-ar-sa-dumt-det-ar-sa-fantastiskt-dumt/",
     "title": "Det här är så dumt. Det är så fantastiskt dumt.",
     "author": "https://qmf.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-16T12:00:51.693Z",
-    "last_updated": "2026-11-16T12:00:51.693Z",
+    "last_updated": "2026-11-16T16:00:51.951Z",
     "published": "2026-11-16T11:00Z"
   },
   {
@@ -246,9 +246,9 @@
     "url": "https://agamid.bearblog.dev/hello-world/",
     "title": "Hello World!",
     "author": "https://agamid.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-16T12:00:51.693Z",
-    "last_updated": "2026-11-16T12:00:51.693Z",
+    "last_updated": "2026-11-16T16:00:51.951Z",
     "published": "2026-11-16T10:24Z"
   },
   {
@@ -264,9 +264,9 @@
     "url": "https://www.hardrefresh.life/halfway-through-movember/",
     "title": "Halfway Through Movember",
     "author": "https://www.hardrefresh.life",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-16T12:00:51.693Z",
-    "last_updated": "2026-11-16T12:00:51.693Z",
+    "last_updated": "2026-11-16T16:00:51.951Z",
     "published": "2026-11-16T09:15Z"
   },
   {
@@ -385,5 +385,50 @@
     "first_seen": "2026-11-16T15:00:51.778Z",
     "last_updated": "2026-11-16T15:00:51.778Z",
     "published": "2026-11-16T13:52Z"
+  },
+  {
+    "url": "https://xiaofeixia.bearblog.dev/part_2-2/",
+    "title": "《如何阅读一棵树》part_2",
+    "author": "https://xiaofeixia.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-16T16:00:51.951Z",
+    "last_updated": "2026-11-16T16:00:51.951Z",
+    "published": "2026-11-16T15:08Z"
+  },
+  {
+    "url": "https://afterstan.bearblog.dev/laundry-day/",
+    "title": "Laundry day",
+    "author": "https://afterstan.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-11-16T16:00:51.951Z",
+    "last_updated": "2026-11-16T16:00:51.951Z",
+    "published": "2026-11-16T14:45Z"
+  },
+  {
+    "url": "https://coreyblogs.com/his-weekend-of-canceled-plans/",
+    "title": "...his weekend of canceled plans.",
+    "author": "https://coreyblogs.com",
+    "toasts": 3,
+    "first_seen": "2026-11-16T16:00:51.951Z",
+    "last_updated": "2026-11-16T16:00:51.951Z",
+    "published": "2026-11-16T14:35Z"
+  },
+  {
+    "url": "https://fionntantapes.ie/lore-from-the-nore/",
+    "title": "Lore from the Nore",
+    "author": "https://fionntantapes.ie",
+    "toasts": 2,
+    "first_seen": "2026-11-16T16:00:51.951Z",
+    "last_updated": "2026-11-16T16:00:51.951Z",
+    "published": "2026-11-16T15:01Z"
+  },
+  {
+    "url": "https://vinceblog.net/vinceos-version-40-release-notes/",
+    "title": "vinceOS Version 40 Release Notes",
+    "author": "https://vinceblog.net",
+    "toasts": 2,
+    "first_seen": "2026-11-16T16:00:51.951Z",
+    "last_updated": "2026-11-16T16:00:51.951Z",
+    "published": "2026-11-16T13:02Z"
   }
 ]
