@@ -12,9 +12,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/am-i-being-manipulated/",
     "title": "Am I being manipulated?",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-11-16T09:12:01.539Z",
-    "last_updated": "2026-11-16T16:00:51.951Z",
+    "last_updated": "2026-11-16T17:00:52.004Z",
     "published": "2026-11-16T05:48Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://jetgirl.art/wow-forever-is-a-cozy-game/",
     "title": "WoW Forever is a cozy game.",
     "author": "https://jetgirl.art",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-16T09:12:01.539Z",
-    "last_updated": "2026-11-16T09:12:01.539Z",
+    "last_updated": "2026-11-16T17:00:52.004Z",
     "published": "2026-11-16T04:28Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://kurozu-cho.bearblog.dev/hayley/",
     "title": "The Hayley Williams Show",
     "author": "https://kurozu-cho.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-16T09:12:01.539Z",
-    "last_updated": "2026-11-16T12:00:51.693Z",
+    "last_updated": "2026-11-16T17:00:52.004Z",
     "published": "2026-11-16T02:55Z"
   },
   {
@@ -246,9 +246,9 @@
     "url": "https://agamid.bearblog.dev/hello-world/",
     "title": "Hello World!",
     "author": "https://agamid.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-16T12:00:51.693Z",
-    "last_updated": "2026-11-16T16:00:51.951Z",
+    "last_updated": "2026-11-16T17:00:52.004Z",
     "published": "2026-11-16T10:24Z"
   },
   {
@@ -300,9 +300,9 @@
     "url": "https://th.blog.br/alma-nutrida/",
     "title": "alma nutrida",
     "author": "https://th.blog.br",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-16T14:00:52.117Z",
-    "last_updated": "2026-11-16T15:00:51.778Z",
+    "last_updated": "2026-11-16T17:00:52.004Z",
     "published": "2026-11-16T13:11Z"
   },
   {
@@ -354,9 +354,9 @@
     "url": "https://widdershins.verja.net/bear-blog-just-got-more-interesting/",
     "title": "Bear Blog Just Got More Interesting",
     "author": "https://widdershins.verja.net",
-    "toasts": 4,
+    "toasts": 8,
     "first_seen": "2026-11-16T15:00:51.778Z",
-    "last_updated": "2026-11-16T15:00:51.778Z",
+    "last_updated": "2026-11-16T17:00:52.004Z",
     "published": "2026-11-16T14:17Z"
   },
   {
@@ -408,9 +408,9 @@
     "url": "https://coreyblogs.com/his-weekend-of-canceled-plans/",
     "title": "...his weekend of canceled plans.",
     "author": "https://coreyblogs.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-16T16:00:51.951Z",
-    "last_updated": "2026-11-16T16:00:51.951Z",
+    "last_updated": "2026-11-16T17:00:52.004Z",
     "published": "2026-11-16T14:35Z"
   },
   {
@@ -430,5 +430,41 @@
     "first_seen": "2026-11-16T16:00:51.951Z",
     "last_updated": "2026-11-16T16:00:51.951Z",
     "published": "2026-11-16T13:02Z"
+  },
+  {
+    "url": "https://containsnosquid.com/why-not-squid/",
+    "title": "Why not squid?",
+    "author": "https://containsnosquid.com",
+    "toasts": 3,
+    "first_seen": "2026-11-16T17:00:52.004Z",
+    "last_updated": "2026-11-16T17:00:52.004Z",
+    "published": "2026-11-16T16:51Z"
+  },
+  {
+    "url": "https://igetideal.bearblog.dev/570/",
+    "title": "十一月中",
+    "author": "https://igetideal.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-16T17:00:52.004Z",
+    "last_updated": "2026-11-16T17:00:52.004Z",
+    "published": "2026-11-16T16:24Z"
+  },
+  {
+    "url": "https://blog.harrison.page/garage-door-spam/",
+    "title": "Garage Door Spam",
+    "author": "https://blog.harrison.page",
+    "toasts": 2,
+    "first_seen": "2026-11-16T17:00:52.004Z",
+    "last_updated": "2026-11-16T17:00:52.004Z",
+    "published": "2026-11-16T14:29Z"
+  },
+  {
+    "url": "https://www.eremosuk.com/being-a-mustard-seed/",
+    "title": "being a mustard seed",
+    "author": "https://www.eremosuk.com",
+    "toasts": 2,
+    "first_seen": "2026-11-16T17:00:52.004Z",
+    "last_updated": "2026-11-16T17:00:52.004Z",
+    "published": "2026-11-16T11:36Z"
   }
 ]
