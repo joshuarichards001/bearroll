@@ -29,11 +29,5 @@ export default [
       "@typescript-eslint/consistent-type-imports": "error",
     },
   },
-  {
-    files: ["scripts/**/*.ts"],
-    rules: {
-      "no-console": "off",
-    },
-  },
   eslintConfigPrettier,
 ];

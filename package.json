@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "collect": "tsx scripts/collect.ts",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
@@ -22,7 +21,6 @@
     "@astrojs/sitemap": "^3.7.1",
     "@tailwindcss/vite": "^4.2.2",
     "astro": "^6.0.8",
-    "cheerio": "^1.2.0",
     "tailwindcss": "^4.2.2"
   },
   "devDependencies": {
@@ -36,7 +34,6 @@
     "lint-staged": "^16.4.0",
     "prettier": "^3.8.1",
     "prettier-plugin-astro": "^0.14.1",
-    "tsx": "^4.21.0",
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.57.2"
   }

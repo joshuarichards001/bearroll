@@ -11,9 +11,9 @@ Live at [bearroll.dev](https://bearroll.dev).
 
 ## How it works
 
-**Collector** — A Node script (`scripts/collect.mjs`) scrapes the first 5 pages
-of Bear Blog's discover feed using Cheerio and writes `data/YYYY-MM-DD.json`
-files. A GitHub Actions cron job runs this hourly.
+**Collector** — A Cloudflare Worker (`worker/`) with an hourly Cron Trigger
+scrapes the first 5 pages of Bear Blog's discover feed and commits updated
+`data/YYYY-MM-DD.json` files to this repo through the GitHub API.
 
 **Frontend** — A static [Astro](https://astro.build) site reads those JSON files
 at build time. The first 6 days are server-rendered; older days load on scroll

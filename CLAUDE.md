@@ -14,7 +14,6 @@ filtering and infinite scroll.
 ## Commands
 
 - **Install dependencies:** `npm ci`
-- **Run the collector:** `npm run collect` (or `npx tsx scripts/collect.ts`)
 - **Dev server:** `npm run dev`
 - **Build static site:** `npm run build` (outputs to `dist/`)
 - **Preview build:** `npm run preview`
@@ -24,6 +23,15 @@ filtering and infinite scroll.
 - **Lint:** `npm run lint` (ESLint on `src/`, zero warnings allowed)
 - **Check all:** `npm run check-all` (format + type check + lint + build)
 
+The collector Worker is a separate package in `worker/` (run these from there,
+after `npm ci`):
+
+- **Local dry run:**
+  `npm run dev -- --var DRY_RUN:1 --var GITHUB_TOKEN:<token>`, then
+  `curl "localhost:8787/__scheduled"`
+- **Type check:** `npm run check-types`
+- **Deploy:** `npm run deploy` (needs `wrangler secret put GITHUB_TOKEN` once)
+
 There are no tests.
 
 ## Architecture
@@ -32,11 +40,13 @@ Two independent subsystems share the `data/` directory:
 
 ### Data Collector
 
-- `scripts/collect.ts` — TypeScript script that fetches discover pages 0-4,
-  parses HTML with Cheerio, and merges results into `data/YYYY-MM-DD.json`
-  files.
-- `.github/workflows/collect.yml` — Runs the collector hourly via cron, commits
-  changed data files.
+- `worker/` — Cloudflare Worker with an hourly Cron Trigger
+  (`worker/wrangler.jsonc`). `src/index.ts` fetches discover pages 0-4, reads
+  the affected `data/YYYY-MM-DD.json` files from GitHub, merges results, and
+  commits changed files to `master` as a single commit via the GitHub Git Data
+  API (`src/github.ts`). `src/parse.ts` parses HTML with `HTMLRewriter`. Needs a
+  `GITHUB_TOKEN` secret (fine-grained PAT, Contents read/write on this repo).
+  Setting the `DRY_RUN` var skips the commit.
 
 ### Astro Frontend (static site)
 
@@ -109,8 +119,9 @@ Two independent subsystems share the `data/` directory:
 
 ### Data flow
 
-Collector writes `data/*.json` → Astro reads them at build time → static site
-with pre-rendered HTML fragment endpoints for infinite scroll.
+Collector Worker commits `data/*.json` to GitHub → push triggers a Cloudflare
+Pages build → Astro reads them at build time → static site with pre-rendered
+HTML fragment endpoints for infinite scroll.
 
 ## Key Design Decisions
 
@@ -122,14 +133,14 @@ with pre-rendered HTML fragment endpoints for infinite scroll.
   `<small>` element (ISO 8601), NOT from the relative time text.
 - **Scraping etiquette:** 1s delay between page requests, custom User-Agent
   header, max 5 pages per run.
-- **Opt-out:** `OPTED_OUT_DOMAINS` in `scripts/collect.ts` lists domains that
+- **Opt-out:** `OPTED_OUT_DOMAINS` in `worker/src/index.ts` lists domains that
   asked to be excluded; matching posts are dropped while parsing, so they never
   reach `data/`. Filtering happens at collection time only — the frontend has no
   opt-out logic — so when a domain is added, its already collected posts must be
   deleted from `data/` by hand.
-- **Fail-loud on page 0:** If zero posts are found on page 0, the script exits
-  non-zero (HTML structure may have changed). Later pages with fewer/zero posts
-  are tolerated.
+- **Fail-loud on page 0:** If zero posts are found on page 0, the Worker throws
+  and the cron invocation fails (HTML structure may have changed). Later pages
+  with fewer/zero posts are tolerated.
 - **Ranking:** Posts are ranked per-day by toast count descending. The frontend
   filter buttons (top 10/20/all) use `data-rank` attributes to show/hide posts
   by toggling Tailwind's `hidden` class.
