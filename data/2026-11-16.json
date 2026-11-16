@@ -57,9 +57,9 @@
     "url": "https://agltd.bearblog.dev/better-to-say-it-than-not-say-it/",
     "title": "Better to say it than not say it",
     "author": "https://agltd.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-16T09:12:01.539Z",
-    "last_updated": "2026-11-16T09:12:01.539Z",
+    "last_updated": "2026-11-16T18:00:52.000Z",
     "published": "2026-11-16T07:39Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://kurozu-cho.bearblog.dev/hayley/",
     "title": "The Hayley Williams Show",
     "author": "https://kurozu-cho.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-16T09:12:01.539Z",
-    "last_updated": "2026-11-16T17:00:52.004Z",
+    "last_updated": "2026-11-16T18:00:52.000Z",
     "published": "2026-11-16T02:55Z"
   },
   {
@@ -282,9 +282,9 @@
     "url": "https://mrmr.bearblog.dev/bigsmileshighenergy/",
     "title": "big smiles and high energy",
     "author": "https://mrmr.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-16T13:00:51.763Z",
-    "last_updated": "2026-11-16T13:00:51.763Z",
+    "last_updated": "2026-11-16T18:00:52.000Z",
     "published": "2026-11-16T12:18Z"
   },
   {
@@ -354,9 +354,9 @@
     "url": "https://widdershins.verja.net/bear-blog-just-got-more-interesting/",
     "title": "Bear Blog Just Got More Interesting",
     "author": "https://widdershins.verja.net",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-11-16T15:00:51.778Z",
-    "last_updated": "2026-11-16T17:00:52.004Z",
+    "last_updated": "2026-11-16T18:00:52.000Z",
     "published": "2026-11-16T14:17Z"
   },
   {
@@ -408,9 +408,9 @@
     "url": "https://coreyblogs.com/his-weekend-of-canceled-plans/",
     "title": "...his weekend of canceled plans.",
     "author": "https://coreyblogs.com",
-    "toasts": 4,
+    "toasts": 6,
     "first_seen": "2026-11-16T16:00:51.951Z",
-    "last_updated": "2026-11-16T17:00:52.004Z",
+    "last_updated": "2026-11-16T18:00:52.000Z",
     "published": "2026-11-16T14:35Z"
   },
   {
@@ -435,9 +435,9 @@
     "url": "https://containsnosquid.com/why-not-squid/",
     "title": "Why not squid?",
     "author": "https://containsnosquid.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-16T17:00:52.004Z",
-    "last_updated": "2026-11-16T17:00:52.004Z",
+    "last_updated": "2026-11-16T18:00:52.000Z",
     "published": "2026-11-16T16:51Z"
   },
   {
@@ -466,5 +466,41 @@
     "first_seen": "2026-11-16T17:00:52.004Z",
     "last_updated": "2026-11-16T17:00:52.004Z",
     "published": "2026-11-16T11:36Z"
+  },
+  {
+    "url": "https://explicatingelle.bearblog.dev/types-of-fan-engagement/",
+    "title": "Types of Fan Engagement",
+    "author": "https://explicatingelle.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-16T18:00:52.000Z",
+    "last_updated": "2026-11-16T18:00:52.000Z",
+    "published": "2026-11-16T14:30Z"
+  },
+  {
+    "url": "https://boringomar.blog/hello-internet/",
+    "title": "Hello Internet",
+    "author": "https://boringomar.blog",
+    "toasts": 2,
+    "first_seen": "2026-11-16T18:00:52.000Z",
+    "last_updated": "2026-11-16T18:00:52.000Z",
+    "published": "2026-11-16T17:27Z"
+  },
+  {
+    "url": "https://onebadbit.com/posts/2026/11/what-is-going-on-with-ios-27/",
+    "title": "What is going on with iOS 27?",
+    "author": "https://onebadbit.com",
+    "toasts": 2,
+    "first_seen": "2026-11-16T18:00:52.000Z",
+    "last_updated": "2026-11-16T18:00:52.000Z",
+    "published": "2026-11-16T17:27Z"
+  },
+  {
+    "url": "https://www.susannedoesthesouthwest.com/tucson-arizona/",
+    "title": "Tucson, Arizona",
+    "author": "https://www.susannedoesthesouthwest.com",
+    "toasts": 2,
+    "first_seen": "2026-11-16T18:00:52.000Z",
+    "last_updated": "2026-11-16T18:00:52.000Z",
+    "published": "2026-11-16T17:17Z"
   }
 ]
