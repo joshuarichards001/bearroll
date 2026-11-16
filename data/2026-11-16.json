@@ -3,18 +3,18 @@
     "url": "https://coreyblogs.com/in-sweatpants-with-b-and-ellie-while-it-rains-outside/",
     "title": "...in sweatpants, with B and Ellie, while it rains outside.",
     "author": "https://coreyblogs.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-16T01:39:41.650Z",
-    "last_updated": "2026-11-16T09:12:01.539Z",
+    "last_updated": "2026-11-16T13:00:51.763Z",
     "published": "2026-11-16T01:29Z"
   },
   {
     "url": "https://doodhpeda.bearblog.dev/blog/am-i-being-manipulated/",
     "title": "Am I being manipulated?",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 18,
+    "toasts": 22,
     "first_seen": "2026-11-16T09:12:01.539Z",
-    "last_updated": "2026-11-16T12:00:51.693Z",
+    "last_updated": "2026-11-16T13:00:51.763Z",
     "published": "2026-11-16T05:48Z"
   },
   {
@@ -174,18 +174,18 @@
     "url": "https://jennfrank.bearblog.dev/ludwig-as-in-ludology-but-also-narrative-cohesiveness-thematic-leitmotifs/",
     "title": "Ludwig (as in ludology, but also, narrative cohesiveness & thematic leitmotifs)",
     "author": "https://jennfrank.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-16T12:00:51.693Z",
-    "last_updated": "2026-11-16T12:00:51.693Z",
+    "last_updated": "2026-11-16T13:00:51.763Z",
     "published": "2026-11-16T09:22Z"
   },
   {
     "url": "https://notes.stateofnats.com/the-state-of-nats-latest-post/",
     "title": "35 reflections for my 35th birthday",
     "author": "https://notes.stateofnats.com",
-    "toasts": 5,
+    "toasts": 12,
     "first_seen": "2026-11-16T12:00:51.693Z",
-    "last_updated": "2026-11-16T12:00:51.693Z",
+    "last_updated": "2026-11-16T13:00:51.763Z",
     "published": "2026-11-16T11:53Z"
   },
   {
@@ -268,5 +268,23 @@
     "first_seen": "2026-11-16T12:00:51.693Z",
     "last_updated": "2026-11-16T12:00:51.693Z",
     "published": "2026-11-16T09:15Z"
+  },
+  {
+    "url": "https://weatherlinguist.bearblog.dev/from-weather-analogs-to-diffusion-models/",
+    "title": "From weather analogs to diffusion models",
+    "author": "https://weatherlinguist.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-16T13:00:51.763Z",
+    "last_updated": "2026-11-16T13:00:51.763Z",
+    "published": "2026-11-16T12:16Z"
+  },
+  {
+    "url": "https://mrmr.bearblog.dev/bigsmileshighenergy/",
+    "title": "big smiles and high energy",
+    "author": "https://mrmr.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-16T13:00:51.763Z",
+    "last_updated": "2026-11-16T13:00:51.763Z",
+    "published": "2026-11-16T12:18Z"
   }
 ]
