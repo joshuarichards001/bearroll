@@ -36,7 +36,7 @@ There are no tests.
 
 ## Architecture
 
-Two independent subsystems share the `data/` directory:
+Two independent subsystems share the `data/` directory in the GitHub repo:
 
 ### Data Collector
 
@@ -55,7 +55,9 @@ Two independent subsystems share the `data/` directory:
   SSG), `getRemainingDayDates()` (for client-side lazy loading),
   `getAllDayDates()`, `loadDay()`, `processDay()`, plus `getWeekStarts()` and
   `loadWeek()` for the weekly feed, and `getArchiveWeekStarts()`, `getMonday()`
-  and `loadWeekPosts()` for the Mon–Sun week archive.
+  and `loadWeekPosts()` for the Mon–Sun week archive. `getLastCollectedAt()`
+  returns the latest `last_updated` in the newest day file, for the home page
+  header.
 - `src/lib/format.ts` — Date formatting (`formatDate`, `formatWeek`).
 - `src/lib/rss.ts` — Renders a ranked post list as the HTML body shared by both
   feeds (`postsToListHtml`).
@@ -98,17 +100,22 @@ Two independent subsystems share the `data/` directory:
 - `src/pages/api/[date].astro` — Static **HTML fragment** endpoints generated at
   build time for each day file. Returns rendered `DaySection` markup (not JSON),
   inserted into the page via `insertAdjacentHTML`.
-- `src/components/DaySection.astro` — Renders a single day's post list with date
-  header and filter buttons.
+- `src/components/DaySection.astro` — Renders a single day's post list with a
+  date header.
 - `src/components/PostItem.astro` — Renders a single post item with rank, title,
   author, and toast count.
-- `src/components/Header.astro` — Site header/navigation for the home page.
+- `src/components/Header.astro` — Home page header with the top 10/all filter
+  buttons, site navigation, and when posts were last updated.
 - `src/components/PageHeader.astro` — Shared page header used by sub-pages
   (stats, about, archive, 404). Displays a title and the site navigation menu.
 - `src/components/BearMenu.astro` — Site-wide navigation bar with links to home,
-  about, archive, stats, and RSS feed.
+  about, stats, and feeds.
 - `src/components/BlogItem.astro` — Renders a single blog entry in the stats
   page's most featured blogs list, showing total toasts, domain, and post count.
+- `src/components/StatsView.astro` — Shared body of the all-time and per-month
+  stats pages: period navigation, totals, toast graph, top posts, and top blogs.
+- `src/components/ToastGraph.astro` — SVG bar chart of toast totals per day or
+  per week, with each bar linking to its archive page.
 - `src/styles/global.css` — Tailwind v4 CSS-first config with custom theme
   colors (fg, bg, bg-alt, muted, border, border-light, accent) that adapt to
   light/dark mode via CSS custom properties.
@@ -127,8 +134,8 @@ HTML fragment endpoints for infinite scroll.
 
 - **Post deduplication:** URL is the unique key. A post belongs to exactly one
   day file based on its `published` date (not scrape date). Toast counts only
-  increase (higher value always wins). `last_updated` is always refreshed when a
-  post is re-seen.
+  increase (higher value always wins). `last_updated` is refreshed only when a
+  post's toasts or title change.
 - **Published date source:** Extracted from the `title` attribute on the
   `<small>` element (ISO 8601), NOT from the relative time text.
 - **Scraping etiquette:** 1s delay between page requests, custom User-Agent
@@ -142,13 +149,13 @@ HTML fragment endpoints for infinite scroll.
   and the cron invocation fails (HTML structure may have changed). Later pages
   with fewer/zero posts are tolerated.
 - **Ranking:** Posts are ranked per-day by toast count descending. The frontend
-  filter buttons (top 10/20/all) use `data-rank` attributes to show/hide posts
-  by toggling Tailwind's `hidden` class.
+  filter buttons (top 10/all) use `data-rank` attributes to show/hide posts by
+  toggling Tailwind's `hidden` class.
 - **Styling:** All styles use Tailwind v4 utility classes (no custom CSS
   classes). Light/dark mode colors are defined as CSS custom properties in
   `src/styles/global.css` and exposed to Tailwind via `@theme`. The client-side
-  JS (`renderDay`, `applyFilter`) uses Tailwind class names directly when
-  creating/toggling DOM elements.
+  JS (`applyFilter`) uses Tailwind class names directly when toggling DOM
+  elements.
 
 ## Code Style
 
