@@ -1,15 +1,23 @@
 import rss from "@astrojs/rss";
 import type { APIContext } from "astro";
-import { formatCount } from "../lib/format";
+import { formatChange, formatCount } from "../lib/format";
 import { escapeHtml } from "../lib/rss";
 import {
   computeStats,
   getAvailableMonths,
+  getPreviousMonth,
   type MonthInfo,
   type Stats,
 } from "../lib/stats";
 
-function monthToHtml(month: MonthInfo, stats: Stats, site: URL): string {
+function monthToHtml(
+  month: MonthInfo,
+  stats: Stats,
+  previous: Stats | undefined,
+  site: URL,
+): string {
+  const change = (pick: (s: Stats) => number) =>
+    previous ? ` (${formatChange(pick(stats), pick(previous))})` : "";
   const monthName = month.label.split(" ")[0];
   const statsUrl = `${site}stats/${month.slug}`;
 
@@ -31,9 +39,9 @@ function monthToHtml(month: MonthInfo, stats: Stats, site: URL): string {
   return `<p>Here are the stats from Bear Blog trending for ${month.label}. A post is included if it reaches the top 5 pages of <a href="https://bearblog.dev/discover/">bearblog.dev/discover</a>, as collected by <a href="${site}">bearroll.dev</a>.</p>
 <h2>${monthName} Bear Blog trending stats</h2>
 <ul>
-<li><strong>${stats.totalPosts}</strong> trending posts</li>
-<li><strong>${stats.uniqueBlogs}</strong> unique blogs</li>
-<li><strong>${formatCount(stats.totalToasts)}</strong> toasts collected</li>
+<li><strong>${stats.totalPosts}</strong> trending posts${change((s) => s.totalPosts)}</li>
+<li><strong>${stats.uniqueBlogs}</strong> unique blogs${change((s) => s.uniqueBlogs)}</li>
+<li><strong>${formatCount(stats.totalToasts)}</strong> toasts collected${change((s) => s.totalToasts)}</li>
 </ul>
 <h3>Most Toasted Posts</h3>
 <ol>${posts}</ol>
@@ -55,13 +63,19 @@ export function GET(context: APIContext) {
     // posts have time to gain toasts. Until then the month is held back.
     const pubDate = new Date(Date.UTC(year, monthNum, 1, 7));
     if (now < pubDate) return [];
+    const previousMonth = getPreviousMonth(month.key);
 
     return [
       {
         title: `Bear Blog Trending Stats - ${month.label}`,
         link: `${site}stats/${month.slug}`,
         pubDate,
-        content: monthToHtml(month, computeStats(month.key), site),
+        content: monthToHtml(
+          month,
+          computeStats(month.key),
+          previousMonth && computeStats(previousMonth.key),
+          site,
+        ),
       },
     ];
   });

@@ -17,3 +17,8 @@ export function formatWeek(monday: string): string {
 export function formatCount(n: number): string {
   return n >= 1000 ? `${Math.round(n / 1000)}k` : String(n);
 }
+
+export function formatChange(current: number, previous: number): string {
+  const pct = Math.round(((current - previous) / previous) * 100);
+  return `${pct > 0 ? "+" : ""}${pct}%`;
+}

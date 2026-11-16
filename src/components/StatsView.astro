@@ -2,17 +2,36 @@
 import BlogItem from "./BlogItem.astro";
 import PostItem from "./PostItem.astro";
 import ToastGraph from "./ToastGraph.astro";
-import { formatCount } from "../lib/format";
+import { formatChange, formatCount } from "../lib/format";
 import { getAvailableMonths, type Stats } from "../lib/stats";
 
 interface Props {
   stats: Stats;
   activeSlug?: string;
+  previous?: Stats;
 }
 
-const { stats, activeSlug } = Astro.props;
+const { stats, activeSlug, previous } = Astro.props;
 const weekly = !activeSlug;
 const months = getAvailableMonths();
+
+const headline = [
+  {
+    label: "trending posts",
+    value: String(stats.totalPosts),
+    change: previous && formatChange(stats.totalPosts, previous.totalPosts),
+  },
+  {
+    label: "unique blogs",
+    value: String(stats.uniqueBlogs),
+    change: previous && formatChange(stats.uniqueBlogs, previous.uniqueBlogs),
+  },
+  {
+    label: "toasts collected",
+    value: formatCount(stats.totalToasts),
+    change: previous && formatChange(stats.totalToasts, previous.totalToasts),
+  },
+];
 
 const baseBtn =
   "text-xs px-2.5 py-1 rounded-sm border no-underline whitespace-nowrap";
@@ -37,20 +56,19 @@ const activeBtn = "bg-accent border-accent text-white";
 </nav>
 
 <dl class="flex gap-4 flex-wrap">
-  <div class="flex flex-col-reverse">
-    <dt class="text-xs text-muted">trending posts</dt>
-    <dd class="text-2xl font-bold text-heading">{stats.totalPosts}</dd>
-  </div>
-  <div class="flex flex-col-reverse">
-    <dt class="text-xs text-muted">unique blogs</dt>
-    <dd class="text-2xl font-bold text-heading">{stats.uniqueBlogs}</dd>
-  </div>
-  <div class="flex flex-col-reverse">
-    <dt class="text-xs text-muted">toasts collected</dt>
-    <dd class="text-2xl font-bold text-heading">
-      {formatCount(stats.totalToasts)}
-    </dd>
-  </div>
+  {
+    headline.map(({ label, value, change }) => (
+      <div class="flex flex-col-reverse">
+        <dt class="text-xs text-muted">{label}</dt>
+        <dd class="text-2xl font-bold text-heading">
+          {value}
+          {change && (
+            <span class="text-xs font-normal text-muted">({change})</span>
+          )}
+        </dd>
+      </div>
+    ))
+  }
 </dl>
 <section>
   <h2 class="text-sm font-bold text-heading mb-2">

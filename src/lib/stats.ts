@@ -72,6 +72,13 @@ export function getAvailableMonths(): MonthInfo[] {
     });
 }
 
+export function getPreviousMonth(monthKey: string): MonthInfo | undefined {
+  const [year, month] = monthKey.split("-").map(Number);
+  const prev = new Date(Date.UTC(year, month - 2, 1));
+  const prevKey = prev.toISOString().slice(0, 7);
+  return getAvailableMonths().find((m) => m.key === prevKey);
+}
+
 /** Compute stats across all data, or restricted to a YYYY-MM month key. */
 export function computeStats(monthKey?: string): Stats {
   const dates = getAllDayDates().filter(
