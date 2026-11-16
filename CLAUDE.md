@@ -58,9 +58,10 @@ Two independent subsystems share the `data/` directory in the GitHub repo:
   and `loadWeekPosts()` for the Mon–Sun week archive. `getLastCollectedAt()`
   returns the latest `last_updated` in the newest day file, for the home page
   header.
-- `src/lib/format.ts` — Date formatting (`formatDate`, `formatWeek`).
-- `src/lib/rss.ts` — Renders a ranked post list as the HTML body shared by both
-  feeds (`postsToListHtml`).
+- `src/lib/format.ts` — Date formatting (`formatDate`, `formatWeek`) and
+  `formatCount` (abbreviates 1000+ as `21k`).
+- `src/lib/rss.ts` — Renders a ranked post list as the HTML body shared by the
+  daily and weekly feeds (`postsToListHtml`), and `escapeHtml` for post titles.
 - `src/lib/stats.ts` — Computes aggregate statistics across all collected data,
   or across a single month. Deduplicates posts by URL, ranks top posts by
   toasts, tallies per-blog appearance counts, and totals toasts per day and per
@@ -95,7 +96,11 @@ Two independent subsystems share the `data/` directory in the GitHub repo:
 - `src/pages/rss-weekly.xml.ts` — RSS feed of the top 20 posts per Mon–Sun week
   for the last 12 completed weeks. A week is held back until the Monday after it
   ends, at 7am UTC, so Sunday's posts have time to gain toasts.
-- `src/pages/feeds.astro` — Static page linking to the daily and weekly feeds.
+- `src/pages/rss-monthly.xml.ts` — RSS feed with one stats post per completed
+  month (totals, top 10 posts, top 10 blogs), mirroring the month's stats page.
+  A month is held back until the 1st of the next month at 7am UTC.
+- `src/pages/feeds.astro` — Static page linking to the daily, weekly, and
+  monthly stats feeds.
 - `src/pages/404.astro` — Custom 404 error page with a link back to home.
 - `src/pages/api/[date].astro` — Static **HTML fragment** endpoints generated at
   build time for each day file. Returns rendered `DaySection` markup (not JSON),

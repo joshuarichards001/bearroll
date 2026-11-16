@@ -13,3 +13,7 @@ export function formatWeek(monday: string): string {
   sunday.setUTCDate(sunday.getUTCDate() + 6);
   return `${formatDate(monday)} – ${formatDate(sunday.toISOString().slice(0, 10))}`;
 }
+
+export function formatCount(n: number): string {
+  return n >= 1000 ? `${Math.round(n / 1000)}k` : String(n);
+}

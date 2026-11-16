@@ -2,6 +2,7 @@
 import BlogItem from "./BlogItem.astro";
 import PostItem from "./PostItem.astro";
 import ToastGraph from "./ToastGraph.astro";
+import { formatCount } from "../lib/format";
 import { getAvailableMonths, type Stats } from "../lib/stats";
 
 interface Props {
@@ -12,10 +13,6 @@ interface Props {
 const { stats, activeSlug } = Astro.props;
 const weekly = !activeSlug;
 const months = getAvailableMonths();
-const totalToastsDisplay =
-  stats.totalToasts >= 1000
-    ? `${Math.round(stats.totalToasts / 1000)}k`
-    : String(stats.totalToasts);
 
 const baseBtn =
   "text-xs px-2.5 py-1 rounded-sm border no-underline whitespace-nowrap";
@@ -50,7 +47,9 @@ const activeBtn = "bg-accent border-accent text-white";
   </div>
   <div class="flex flex-col-reverse">
     <dt class="text-xs text-muted">toasts collected</dt>
-    <dd class="text-2xl font-bold text-heading">{totalToastsDisplay}</dd>
+    <dd class="text-2xl font-bold text-heading">
+      {formatCount(stats.totalToasts)}
+    </dd>
   </div>
 </dl>
 <section>
