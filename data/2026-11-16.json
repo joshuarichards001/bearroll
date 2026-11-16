@@ -12,9 +12,9 @@
     "url": "https://doodhpeda.bearblog.dev/blog/am-i-being-manipulated/",
     "title": "Am I being manipulated?",
     "author": "https://doodhpeda.bearblog.dev",
-    "toasts": 25,
+    "toasts": 26,
     "first_seen": "2026-11-16T09:12:01.539Z",
-    "last_updated": "2026-11-16T17:00:52.004Z",
+    "last_updated": "2026-11-16T19:00:52.165Z",
     "published": "2026-11-16T05:48Z"
   },
   {
@@ -172,20 +172,20 @@
   },
   {
     "url": "https://jennfrank.bearblog.dev/ludwig-as-in-ludology-but-also-narrative-cohesiveness-thematic-leitmotifs/",
-    "title": "Ludwig (as in ludology, but also, narrative cohesiveness & thematic leitmotifs)",
+    "title": "Ludwig (as in ludology, but also, narratology)",
     "author": "https://jennfrank.bearblog.dev",
     "toasts": 8,
     "first_seen": "2026-11-16T12:00:51.693Z",
-    "last_updated": "2026-11-16T14:00:52.117Z",
+    "last_updated": "2026-11-16T19:00:52.165Z",
     "published": "2026-11-16T09:22Z"
   },
   {
     "url": "https://notes.stateofnats.com/the-state-of-nats-latest-post/",
     "title": "35 reflections for my 35th birthday",
     "author": "https://notes.stateofnats.com",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-11-16T12:00:51.693Z",
-    "last_updated": "2026-11-16T16:00:51.951Z",
+    "last_updated": "2026-11-16T19:00:52.165Z",
     "published": "2026-11-16T11:53Z"
   },
   {
@@ -502,5 +502,50 @@
     "first_seen": "2026-11-16T18:00:52.000Z",
     "last_updated": "2026-11-16T18:00:52.000Z",
     "published": "2026-11-16T17:17Z"
+  },
+  {
+    "url": "https://kylenixon.ca/degoogling-update/",
+    "title": "What I Use Instead of Google",
+    "author": "https://kylenixon.ca",
+    "toasts": 4,
+    "first_seen": "2026-11-16T19:00:52.165Z",
+    "last_updated": "2026-11-16T19:00:52.165Z",
+    "published": "2026-11-16T17:51Z"
+  },
+  {
+    "url": "https://www.jenn.site/partial-parallels/",
+    "title": "partial parallels",
+    "author": "https://www.jenn.site",
+    "toasts": 2,
+    "first_seen": "2026-11-16T19:00:52.165Z",
+    "last_updated": "2026-11-16T19:00:52.165Z",
+    "published": "2026-11-16T18:36Z"
+  },
+  {
+    "url": "https://qwyn.me/roll-10-mr-negative-secret-sauce/",
+    "title": "Roll #10!!! - Mr. Negative Secret Sauce",
+    "author": "https://qwyn.me",
+    "toasts": 2,
+    "first_seen": "2026-11-16T19:00:52.165Z",
+    "last_updated": "2026-11-16T19:00:52.165Z",
+    "published": "2026-11-16T18:31Z"
+  },
+  {
+    "url": "https://qwyn.me/roll-9-mr-negative-bat-country/",
+    "title": "Roll #9 - Mr. Negative Bat Country",
+    "author": "https://qwyn.me",
+    "toasts": 2,
+    "first_seen": "2026-11-16T19:00:52.165Z",
+    "last_updated": "2026-11-16T19:00:52.165Z",
+    "published": "2026-11-16T18:28Z"
+  },
+  {
+    "url": "https://betweentheskyscrapers.bearblog.dev/the-perfect-view/",
+    "title": "the perfect view",
+    "author": "https://betweentheskyscrapers.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-16T19:00:52.165Z",
+    "last_updated": "2026-11-16T19:00:52.165Z",
+    "published": "2026-11-16T18:15Z"
   }
 ]
