@@ -84,9 +84,9 @@
     "url": "https://www.jenn.site/on-friends-at-frontier-labs/",
     "title": "On Friends at Frontier Labs",
     "author": "https://www.jenn.site",
-    "toasts": 4,
+    "toasts": 6,
     "first_seen": "2026-11-16T09:12:01.539Z",
-    "last_updated": "2026-11-16T14:00:52.117Z",
+    "last_updated": "2026-11-16T15:00:51.778Z",
     "published": "2026-11-16T04:24Z"
   },
   {
@@ -210,9 +210,9 @@
     "url": "https://rabbit-reading.bearblog.dev/day-52-guy-davenport-lydia-davis-simone-de-beauvoir/",
     "title": "Day 52: Guy Davenport, Lydia Davis, Simone de Beauvoir",
     "author": "https://rabbit-reading.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-16T12:00:51.693Z",
-    "last_updated": "2026-11-16T12:00:51.693Z",
+    "last_updated": "2026-11-16T15:00:51.778Z",
     "published": "2026-11-16T11:05Z"
   },
   {
@@ -273,9 +273,9 @@
     "url": "https://weatherlinguist.bearblog.dev/from-weather-analogs-to-diffusion-models/",
     "title": "From weather analogs to diffusion models",
     "author": "https://weatherlinguist.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-16T13:00:51.763Z",
-    "last_updated": "2026-11-16T13:00:51.763Z",
+    "last_updated": "2026-11-16T15:00:51.778Z",
     "published": "2026-11-16T12:16Z"
   },
   {
@@ -300,9 +300,9 @@
     "url": "https://th.blog.br/alma-nutrida/",
     "title": "alma nutrida",
     "author": "https://th.blog.br",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-16T14:00:52.117Z",
-    "last_updated": "2026-11-16T14:00:52.117Z",
+    "last_updated": "2026-11-16T15:00:51.778Z",
     "published": "2026-11-16T13:11Z"
   },
   {
@@ -349,5 +349,41 @@
     "first_seen": "2026-11-16T14:00:52.117Z",
     "last_updated": "2026-11-16T14:00:52.117Z",
     "published": "2026-11-16T09:49Z"
+  },
+  {
+    "url": "https://widdershins.verja.net/bear-blog-just-got-more-interesting/",
+    "title": "Bear Blog Just Got More Interesting",
+    "author": "https://widdershins.verja.net",
+    "toasts": 4,
+    "first_seen": "2026-11-16T15:00:51.778Z",
+    "last_updated": "2026-11-16T15:00:51.778Z",
+    "published": "2026-11-16T14:17Z"
+  },
+  {
+    "url": "https://exomonstruo.net/in-search-of-lost-time-world-of-warcraft-forever/",
+    "title": "In Search of Lost Time: World of Warcraft: Forever",
+    "author": "https://exomonstruo.net",
+    "toasts": 2,
+    "first_seen": "2026-11-16T15:00:51.778Z",
+    "last_updated": "2026-11-16T15:00:51.778Z",
+    "published": "2026-11-16T14:22Z"
+  },
+  {
+    "url": "https://ign4ciojoaquinm.bearblog.dev/textos-leidos-en-el-hablame-sucio-0ct-2026/",
+    "title": "Textos leídos en el Hablame sucio - 0ct 2026",
+    "author": "https://ign4ciojoaquinm.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-16T15:00:51.778Z",
+    "last_updated": "2026-11-16T15:00:51.778Z",
+    "published": "2026-11-16T14:04Z"
+  },
+  {
+    "url": "https://insidetherift.bearblog.dev/outalvezosdois/",
+    "title": "English or Português",
+    "author": "https://insidetherift.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-16T15:00:51.778Z",
+    "last_updated": "2026-11-16T15:00:51.778Z",
+    "published": "2026-11-16T13:52Z"
   }
 ]
