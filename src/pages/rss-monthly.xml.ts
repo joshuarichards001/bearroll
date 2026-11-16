@@ -29,7 +29,6 @@ function monthToHtml(month: MonthInfo, stats: Stats, site: URL): string {
     .join("\n");
 
   return `<p>Here are the stats from Bear Blog trending for ${month.label}. A post is included if it reaches the top 5 pages of <a href="https://bearblog.dev/discover/">bearblog.dev/discover</a>, as collected by <a href="${site}">bearroll.dev</a>.</p>
-<p><strong>disclaimer:</strong> blogging isn't about the numbers. These stats are just interesting to look at, so feel free to skip this post.</p>
 <h2>${monthName} Bear Blog trending stats</h2>
 <ul>
 <li><strong>${stats.totalPosts}</strong> trending posts</li>
@@ -43,7 +42,7 @@ function monthToHtml(month: MonthInfo, stats: Stats, site: URL): string {
 <h3>Daily toast activity</h3>
 <p>See the daily toast graph on the <a href="${statsUrl}">${month.label} stats page</a>.</p>
 <hr>
-<p>Track how things change over time at <a href="${site}stats">bearroll.dev/stats</a>. Thoughts or ideas? Email <a href="mailto:hello@bearroll.dev">hello@bearroll.dev</a>.</p>`;
+<p>Track how things change over time at <a href="${site}stats">bearroll.dev/stats</a>.</p>`;
 }
 
 export function GET(context: APIContext) {
