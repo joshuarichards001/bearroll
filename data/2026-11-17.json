@@ -264,9 +264,9 @@
     "url": "https://itsme.bearblog.dev/privacy-schmivacy/",
     "title": "Privacy, schmivacy",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-11-17T13:00:51.861Z",
-    "last_updated": "2026-11-17T21:00:51.972Z",
+    "last_updated": "2026-11-17T22:00:51.823Z",
     "published": "2026-11-17T12:48Z"
   },
   {
@@ -381,9 +381,9 @@
     "url": "https://theprivacydad.com/rockbox-is-a-foss-community-project-for-digital-music-players/",
     "title": "Rockbox is a FOSS Community Project for Digital Music Players",
     "author": "https://theprivacydad.com",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-17T16:00:52.066Z",
-    "last_updated": "2026-11-17T16:00:52.066Z",
+    "last_updated": "2026-11-17T22:00:51.823Z",
     "published": "2026-11-17T15:25Z"
   },
   {
@@ -435,9 +435,9 @@
     "url": "https://mrmr.bearblog.dev/happystacking/",
     "title": "happy stacking",
     "author": "https://mrmr.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-17T17:00:52.070Z",
-    "last_updated": "2026-11-17T19:00:51.755Z",
+    "last_updated": "2026-11-17T22:00:51.823Z",
     "published": "2026-11-17T10:43Z"
   },
   {
@@ -628,5 +628,23 @@
     "first_seen": "2026-11-17T21:00:51.972Z",
     "last_updated": "2026-11-17T21:00:51.972Z",
     "published": "2026-11-17T16:56Z"
+  },
+  {
+    "url": "https://yourloyaladvisor.com/how-hypermall-generates-highly-killable-targets/",
+    "title": "How Hypermall Generates Highly-Killable Targets",
+    "author": "https://yourloyaladvisor.com",
+    "toasts": 3,
+    "first_seen": "2026-11-17T22:00:51.823Z",
+    "last_updated": "2026-11-17T22:00:51.823Z",
+    "published": "2026-11-17T20:51Z"
+  },
+  {
+    "url": "https://chrisb.bearblog.dev/sublimation-isabel-j-kim/",
+    "title": "Sublimation - Isabel J. Kim",
+    "author": "https://chrisb.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T22:00:51.823Z",
+    "last_updated": "2026-11-17T22:00:51.823Z",
+    "published": "2026-11-17T21:30Z"
   }
 ]
