@@ -30,9 +30,9 @@
     "url": "https://blog.dessy.me/theme-update/",
     "title": "Theme Facelift: Done",
     "author": "https://blog.dessy.me",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-11-17T03:00:51.726Z",
-    "last_updated": "2026-11-17T09:00:51.760Z",
+    "last_updated": "2026-11-17T10:00:51.897Z",
     "published": "2026-11-17T01:47Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://cultnorthwest.com/choe-fear/",
     "title": "Jonathan Choe and the Business of Fear",
     "author": "https://cultnorthwest.com",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-11-17T04:00:51.792Z",
-    "last_updated": "2026-11-17T09:00:51.760Z",
+    "last_updated": "2026-11-17T10:00:51.897Z",
     "published": "2026-11-17T03:34Z"
   },
   {
@@ -169,5 +169,41 @@
     "first_seen": "2026-11-17T09:00:51.760Z",
     "last_updated": "2026-11-17T09:00:51.760Z",
     "published": "2026-11-17T02:56Z"
+  },
+  {
+    "url": "https://priceofpower.bearblog.dev/politics-at-work-partisanship-inside-the-firm/",
+    "title": "Politics at Work: Partisanship inside the Firm",
+    "author": "https://priceofpower.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-17T10:00:51.897Z",
+    "last_updated": "2026-11-17T10:00:51.897Z",
+    "published": "2026-11-17T09:49Z"
+  },
+  {
+    "url": "https://agnes.love/im-agnes-and-ill-be-your-twitter-lolcow-for-the-week/",
+    "title": "I'm Agnes, and I'll be your Twitter Lolcow for the week!",
+    "author": "https://agnes.love",
+    "toasts": 3,
+    "first_seen": "2026-11-17T10:00:51.897Z",
+    "last_updated": "2026-11-17T10:00:51.897Z",
+    "published": "2026-11-17T09:01Z"
+  },
+  {
+    "url": "https://73pctgeek.com/1052/",
+    "title": "1052",
+    "author": "https://73pctgeek.com",
+    "toasts": 2,
+    "first_seen": "2026-11-17T10:00:51.897Z",
+    "last_updated": "2026-11-17T10:00:51.897Z",
+    "published": "2026-11-17T09:08Z"
+  },
+  {
+    "url": "https://oypster.org/who-still-makes-good-stuff/",
+    "title": "Who Still Makes Good Stuff?",
+    "author": "https://oypster.org",
+    "toasts": 2,
+    "first_seen": "2026-11-17T10:00:51.897Z",
+    "last_updated": "2026-11-17T10:00:51.897Z",
+    "published": "2026-11-17T08:51Z"
   }
 ]
