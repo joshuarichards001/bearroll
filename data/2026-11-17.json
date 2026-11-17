@@ -21,18 +21,18 @@
     "url": "https://mintcitylights.com/2026/11/17/to-track-or-not-to-track/",
     "title": "to track or not to track",
     "author": "https://mintcitylights.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-17T02:00:51.722Z",
-    "last_updated": "2026-11-17T05:00:51.731Z",
+    "last_updated": "2026-11-17T06:00:51.561Z",
     "published": "2026-11-17T01:22Z"
   },
   {
     "url": "https://blog.dessy.me/theme-update/",
     "title": "Theme Facelift: Done",
     "author": "https://blog.dessy.me",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-17T03:00:51.726Z",
-    "last_updated": "2026-11-17T05:00:51.731Z",
+    "last_updated": "2026-11-17T06:00:51.561Z",
     "published": "2026-11-17T01:47Z"
   },
   {
@@ -70,5 +70,14 @@
     "first_seen": "2026-11-17T05:00:51.731Z",
     "last_updated": "2026-11-17T05:00:51.731Z",
     "published": "2026-11-17T00:36Z"
+  },
+  {
+    "url": "https://zeina.bearblog.dev/week-46-2026/",
+    "title": "Week 46, 2026: Hard-boiled",
+    "author": "https://zeina.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-17T06:00:51.561Z",
+    "last_updated": "2026-11-17T06:00:51.561Z",
+    "published": "2026-11-17T05:38Z"
   }
 ]
