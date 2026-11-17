@@ -102,9 +102,9 @@
     "url": "https://bw.bearblog.dev/wedding-day-blast/",
     "title": "Wedding day blast!",
     "author": "https://bw.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-17T08:00:52.085Z",
-    "last_updated": "2026-11-17T19:00:51.755Z",
+    "last_updated": "2026-11-17T23:00:52.042Z",
     "published": "2026-11-17T07:12Z"
   },
   {
@@ -228,9 +228,9 @@
     "url": "https://kangminsuk.com/ai-cheating-scandal-in-korea/",
     "title": "AI Cheating Scandal in Korea",
     "author": "https://kangminsuk.com",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-11-17T12:00:51.740Z",
-    "last_updated": "2026-11-17T21:00:51.972Z",
+    "last_updated": "2026-11-17T23:00:52.042Z",
     "published": "2026-11-17T11:51Z"
   },
   {
@@ -264,9 +264,9 @@
     "url": "https://itsme.bearblog.dev/privacy-schmivacy/",
     "title": "Privacy, schmivacy",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 13,
+    "toasts": 19,
     "first_seen": "2026-11-17T13:00:51.861Z",
-    "last_updated": "2026-11-17T22:00:51.823Z",
+    "last_updated": "2026-11-17T23:00:52.042Z",
     "published": "2026-11-17T12:48Z"
   },
   {
@@ -309,9 +309,9 @@
     "url": "https://writeodd.bearblog.dev/to-bootleg-boothill-pt1/",
     "title": "To Bootleg Boothill - pt.1",
     "author": "https://writeodd.bearblog.dev",
-    "toasts": 4,
+    "toasts": 6,
     "first_seen": "2026-11-17T14:00:51.792Z",
-    "last_updated": "2026-11-17T17:00:52.070Z",
+    "last_updated": "2026-11-17T23:00:52.042Z",
     "published": "2026-11-17T13:35Z"
   },
   {
@@ -444,9 +444,9 @@
     "url": "https://psnosignaluk.bearblog.dev/too-old-for-this-shit/",
     "title": "Too old for this shit",
     "author": "https://psnosignaluk.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-11-17T18:00:51.980Z",
-    "last_updated": "2026-11-17T21:00:51.972Z",
+    "last_updated": "2026-11-17T23:00:52.042Z",
     "published": "2026-11-17T17:03Z"
   },
   {
@@ -646,5 +646,41 @@
     "first_seen": "2026-11-17T22:00:51.823Z",
     "last_updated": "2026-11-17T22:00:51.823Z",
     "published": "2026-11-17T21:30Z"
+  },
+  {
+    "url": "https://eagleraviorange.bearblog.dev/a-text-regarding-how-an-aego-aro-ace-mind-consumes-fiction/",
+    "title": "A text regarding how an aego-aro-ace mind consumes fiction",
+    "author": "https://eagleraviorange.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-17T23:00:52.042Z",
+    "last_updated": "2026-11-17T23:00:52.042Z",
+    "published": "2026-11-17T22:50Z"
+  },
+  {
+    "url": "https://froglizardant.com/two-versions/",
+    "title": "dear Uncle Luke:",
+    "author": "https://froglizardant.com",
+    "toasts": 3,
+    "first_seen": "2026-11-17T23:00:52.042Z",
+    "last_updated": "2026-11-17T23:00:52.042Z",
+    "published": "2026-11-17T22:39Z"
+  },
+  {
+    "url": "https://coreyblogs.com/a-post-he-cant-seem-to-get-right-on-a-day-when-it-all-feels-wrong/",
+    "title": "...a post he can't seem to get right on a day when it all feels wrong.",
+    "author": "https://coreyblogs.com",
+    "toasts": 2,
+    "first_seen": "2026-11-17T23:00:52.042Z",
+    "last_updated": "2026-11-17T23:00:52.042Z",
+    "published": "2026-11-17T22:19Z"
+  },
+  {
+    "url": "https://delilerdensenanlarsin.bearblog.dev/fasulye-tanesi/",
+    "title": "fasulye tanesi",
+    "author": "https://delilerdensenanlarsin.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T23:00:52.042Z",
+    "last_updated": "2026-11-17T23:00:52.042Z",
+    "published": "2026-11-17T22:15Z"
   }
 ]
