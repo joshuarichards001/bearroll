@@ -102,9 +102,9 @@
     "url": "https://bw.bearblog.dev/wedding-day-blast/",
     "title": "Wedding day blast!",
     "author": "https://bw.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-17T08:00:52.085Z",
-    "last_updated": "2026-11-17T12:00:51.740Z",
+    "last_updated": "2026-11-17T14:00:51.792Z",
     "published": "2026-11-17T07:12Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://oypster.org/who-still-makes-good-stuff/",
     "title": "Who Still Makes Good Stuff?",
     "author": "https://oypster.org",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-17T10:00:51.897Z",
-    "last_updated": "2026-11-17T11:00:52.042Z",
+    "last_updated": "2026-11-17T14:00:51.792Z",
     "published": "2026-11-17T08:51Z"
   },
   {
@@ -228,18 +228,18 @@
     "url": "https://kangminsuk.com/ai-cheating-scandal-in-korea/",
     "title": "AI Cheating Scandal in Korea",
     "author": "https://kangminsuk.com",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-17T12:00:51.740Z",
-    "last_updated": "2026-11-17T12:00:51.740Z",
+    "last_updated": "2026-11-17T14:00:51.792Z",
     "published": "2026-11-17T11:51Z"
   },
   {
     "url": "https://againstthecultofthecommodity.bearblog.dev/cuttlefish/",
     "title": "Cuttlefish",
     "author": "https://againstthecultofthecommodity.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-17T12:00:51.740Z",
-    "last_updated": "2026-11-17T12:00:51.740Z",
+    "last_updated": "2026-11-17T14:00:51.792Z",
     "published": "2026-11-17T11:24Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://sekar.web.id/knowember/",
     "title": "Knowember",
     "author": "https://sekar.web.id",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-11-17T13:00:51.861Z",
-    "last_updated": "2026-11-17T13:00:51.861Z",
+    "last_updated": "2026-11-17T14:00:51.792Z",
     "published": "2026-11-17T12:15Z"
   },
   {
@@ -273,9 +273,9 @@
     "url": "https://livlaughlove.bearblog.dev/the-moving-world/",
     "title": "The Moving World",
     "author": "https://livlaughlove.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-17T13:00:51.861Z",
-    "last_updated": "2026-11-17T13:00:51.861Z",
+    "last_updated": "2026-11-17T14:00:51.792Z",
     "published": "2026-11-17T12:36Z"
   },
   {
@@ -304,5 +304,23 @@
     "first_seen": "2026-11-17T13:00:51.861Z",
     "last_updated": "2026-11-17T13:00:51.861Z",
     "published": "2026-11-17T12:11Z"
+  },
+  {
+    "url": "https://writeodd.bearblog.dev/to-bootleg-boothill-pt1/",
+    "title": "To Bootleg Boothill - pt.1",
+    "author": "https://writeodd.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T14:00:51.792Z",
+    "last_updated": "2026-11-17T14:00:51.792Z",
+    "published": "2026-11-17T13:35Z"
+  },
+  {
+    "url": "https://paraquemencontrar.bearblog.dev/2026-11-17-0937/",
+    "title": "Sorte do dia",
+    "author": "https://paraquemencontrar.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T14:00:51.792Z",
+    "last_updated": "2026-11-17T14:00:51.792Z",
+    "published": "2026-11-17T12:37Z"
   }
 ]
