@@ -102,9 +102,9 @@
     "url": "https://bw.bearblog.dev/wedding-day-blast/",
     "title": "Wedding day blast!",
     "author": "https://bw.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-17T08:00:52.085Z",
-    "last_updated": "2026-11-17T09:00:51.760Z",
+    "last_updated": "2026-11-17T12:00:51.740Z",
     "published": "2026-11-17T07:12Z"
   },
   {
@@ -210,9 +210,9 @@
     "url": "https://justiz.bearblog.dev/a-beautiful-view/",
     "title": "A Beautiful View 🌴",
     "author": "https://justiz.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-17T11:00:52.042Z",
-    "last_updated": "2026-11-17T11:00:52.042Z",
+    "last_updated": "2026-11-17T12:00:51.740Z",
     "published": "2026-11-17T09:46Z"
   },
   {
@@ -223,5 +223,32 @@
     "first_seen": "2026-11-17T11:00:52.042Z",
     "last_updated": "2026-11-17T11:00:52.042Z",
     "published": "2026-11-17T08:43Z"
+  },
+  {
+    "url": "https://kangminsuk.com/ai-cheating-scandal-in-korea/",
+    "title": "AI Cheating Scandal in Korea",
+    "author": "https://kangminsuk.com",
+    "toasts": 2,
+    "first_seen": "2026-11-17T12:00:51.740Z",
+    "last_updated": "2026-11-17T12:00:51.740Z",
+    "published": "2026-11-17T11:51Z"
+  },
+  {
+    "url": "https://againstthecultofthecommodity.bearblog.dev/cuttlefish/",
+    "title": "Cuttlefish",
+    "author": "https://againstthecultofthecommodity.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T12:00:51.740Z",
+    "last_updated": "2026-11-17T12:00:51.740Z",
+    "published": "2026-11-17T11:24Z"
+  },
+  {
+    "url": "https://mothertehresa.bearblog.dev/i-thought-ill-be-glad-my-dad-died/",
+    "title": "I Thought I'll Be Glad My Dad Died",
+    "author": "https://mothertehresa.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T12:00:51.740Z",
+    "last_updated": "2026-11-17T12:00:51.740Z",
+    "published": "2026-11-17T09:56Z"
   }
 ]
