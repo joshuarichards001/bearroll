@@ -93,9 +93,9 @@
     "url": "https://blog.solazy.me/20261117/",
     "title": "学会像呼吸一样拒绝别人",
     "author": "https://blog.solazy.me",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-17T08:00:52.085Z",
-    "last_updated": "2026-11-17T08:00:52.085Z",
+    "last_updated": "2026-11-17T11:00:52.042Z",
     "published": "2026-11-17T05:00Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://combatdavey.net/november-16-2026/",
     "title": "november 16 bfd",
     "author": "https://combatdavey.net",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-17T08:00:52.085Z",
-    "last_updated": "2026-11-17T09:00:51.760Z",
+    "last_updated": "2026-11-17T11:00:52.042Z",
     "published": "2026-11-17T04:59Z"
   },
   {
@@ -174,18 +174,18 @@
     "url": "https://priceofpower.bearblog.dev/politics-at-work-partisanship-inside-the-firm/",
     "title": "Politics at Work: Partisanship inside the Firm",
     "author": "https://priceofpower.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-17T10:00:51.897Z",
-    "last_updated": "2026-11-17T10:00:51.897Z",
+    "last_updated": "2026-11-17T11:00:52.042Z",
     "published": "2026-11-17T09:49Z"
   },
   {
     "url": "https://agnes.love/im-agnes-and-ill-be-your-twitter-lolcow-for-the-week/",
     "title": "I'm Agnes, and I'll be your Twitter Lolcow for the week!",
     "author": "https://agnes.love",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-17T10:00:51.897Z",
-    "last_updated": "2026-11-17T10:00:51.897Z",
+    "last_updated": "2026-11-17T11:00:52.042Z",
     "published": "2026-11-17T09:01Z"
   },
   {
@@ -201,9 +201,27 @@
     "url": "https://oypster.org/who-still-makes-good-stuff/",
     "title": "Who Still Makes Good Stuff?",
     "author": "https://oypster.org",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-17T10:00:51.897Z",
-    "last_updated": "2026-11-17T10:00:51.897Z",
+    "last_updated": "2026-11-17T11:00:52.042Z",
     "published": "2026-11-17T08:51Z"
+  },
+  {
+    "url": "https://justiz.bearblog.dev/a-beautiful-view/",
+    "title": "A Beautiful View 🌴",
+    "author": "https://justiz.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T11:00:52.042Z",
+    "last_updated": "2026-11-17T11:00:52.042Z",
+    "published": "2026-11-17T09:46Z"
+  },
+  {
+    "url": "https://ly.bearblog.dev/himym/",
+    "title": "himym",
+    "author": "https://ly.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T11:00:52.042Z",
+    "last_updated": "2026-11-17T11:00:52.042Z",
+    "published": "2026-11-17T08:43Z"
   }
 ]
