@@ -3,9 +3,9 @@
     "url": "https://coreyblogs.com/in-sweatpants-with-b-and-ellie-while-it-rains-outside/",
     "title": "...in sweatpants, with B and Ellie, while it rains outside.",
     "author": "https://coreyblogs.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-11-16T01:39:41.650Z",
-    "last_updated": "2026-11-16T13:00:51.763Z",
+    "last_updated": "2026-11-17T01:00:51.703Z",
     "published": "2026-11-16T01:29Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://commune.cultnorthwest.com/meowvember/",
     "title": "Meowvember '26",
     "author": "https://commune.cultnorthwest.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-16T09:12:01.539Z",
-    "last_updated": "2026-11-16T09:12:01.539Z",
+    "last_updated": "2026-11-17T01:00:51.703Z",
     "published": "2026-11-16T02:19Z"
   },
   {
@@ -354,9 +354,9 @@
     "url": "https://widdershins.verja.net/bear-blog-just-got-more-interesting/",
     "title": "Bear Blog Just Got More Interesting",
     "author": "https://widdershins.verja.net",
-    "toasts": 27,
+    "toasts": 31,
     "first_seen": "2026-11-16T15:00:51.778Z",
-    "last_updated": "2026-11-17T00:00:52.044Z",
+    "last_updated": "2026-11-17T01:00:51.703Z",
     "published": "2026-11-16T14:17Z"
   },
   {
@@ -408,9 +408,9 @@
     "url": "https://coreyblogs.com/his-weekend-of-canceled-plans/",
     "title": "...his weekend of canceled plans.",
     "author": "https://coreyblogs.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-16T16:00:51.951Z",
-    "last_updated": "2026-11-16T20:00:51.788Z",
+    "last_updated": "2026-11-17T01:00:51.703Z",
     "published": "2026-11-16T14:35Z"
   },
   {
@@ -507,9 +507,9 @@
     "url": "https://kylenixon.ca/degoogling-update/",
     "title": "What I Use Instead of Google",
     "author": "https://kylenixon.ca",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-11-16T19:00:52.165Z",
-    "last_updated": "2026-11-16T22:00:51.537Z",
+    "last_updated": "2026-11-17T01:00:51.703Z",
     "published": "2026-11-16T17:51Z"
   },
   {
@@ -597,9 +597,9 @@
     "url": "https://leeraedee.org/i-keep-deleteing-my-posts/",
     "title": "I KEEP DELETING MY POSTS :/",
     "author": "https://leeraedee.org",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-16T21:00:51.818Z",
-    "last_updated": "2026-11-16T23:00:51.919Z",
+    "last_updated": "2026-11-17T01:00:51.703Z",
     "published": "2026-11-16T20:05Z"
   },
   {
@@ -669,9 +669,45 @@
     "url": "https://olu.online/it-is-always-the-time-of-monsters/",
     "title": "it is always the time of monsters",
     "author": "https://olu.online",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-17T00:00:52.044Z",
-    "last_updated": "2026-11-17T00:00:52.044Z",
+    "last_updated": "2026-11-17T01:00:51.703Z",
     "published": "2026-11-16T23:07Z"
+  },
+  {
+    "url": "https://midwest.best/week-seven-recapweek-eight-preview/",
+    "title": "Week Seven Recap/Week Eight Preview",
+    "author": "https://midwest.best",
+    "toasts": 4,
+    "first_seen": "2026-11-17T01:00:51.703Z",
+    "last_updated": "2026-11-17T01:00:51.703Z",
+    "published": "2026-11-16T23:52Z"
+  },
+  {
+    "url": "https://gr-y.uk/knowvember-2026/",
+    "title": "Know-vember 2026",
+    "author": "https://gr-y.uk",
+    "toasts": 3,
+    "first_seen": "2026-11-17T01:00:51.703Z",
+    "last_updated": "2026-11-17T01:00:51.703Z",
+    "published": "2026-11-16T23:56Z"
+  },
+  {
+    "url": "https://heyimbriel.bearblog.dev/agua-com-acucar-e-algumas-coisas-mais/",
+    "title": "Água com açúcar e algumas coisas mais.",
+    "author": "https://heyimbriel.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T01:00:51.703Z",
+    "last_updated": "2026-11-17T01:00:51.703Z",
+    "published": "2026-11-16T23:56Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/mudar/",
+    "title": "Mudar",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T01:00:51.703Z",
+    "last_updated": "2026-11-17T01:00:51.703Z",
+    "published": "2026-11-16T22:50Z"
   }
 ]
