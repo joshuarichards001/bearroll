@@ -57,9 +57,9 @@
     "url": "https://dear-ciara.bearblog.dev/desert-tree-frogs/",
     "title": "desert tree frogs",
     "author": "https://dear-ciara.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-17T04:00:51.792Z",
-    "last_updated": "2026-11-17T04:00:51.792Z",
+    "last_updated": "2026-11-17T08:00:52.085Z",
     "published": "2026-11-17T03:03Z"
   },
   {
@@ -88,5 +88,41 @@
     "first_seen": "2026-11-17T07:00:51.639Z",
     "last_updated": "2026-11-17T07:00:51.639Z",
     "published": "2026-11-17T05:14Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20261117/",
+    "title": "学会像呼吸一样拒绝别人",
+    "author": "https://blog.solazy.me",
+    "toasts": 3,
+    "first_seen": "2026-11-17T08:00:52.085Z",
+    "last_updated": "2026-11-17T08:00:52.085Z",
+    "published": "2026-11-17T05:00Z"
+  },
+  {
+    "url": "https://bw.bearblog.dev/wedding-day-blast/",
+    "title": "Wedding day blast!",
+    "author": "https://bw.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T08:00:52.085Z",
+    "last_updated": "2026-11-17T08:00:52.085Z",
+    "published": "2026-11-17T07:12Z"
+  },
+  {
+    "url": "https://combatdavey.net/november-16-2026/",
+    "title": "november 16 bfd",
+    "author": "https://combatdavey.net",
+    "toasts": 2,
+    "first_seen": "2026-11-17T08:00:52.085Z",
+    "last_updated": "2026-11-17T08:00:52.085Z",
+    "published": "2026-11-17T04:59Z"
+  },
+  {
+    "url": "https://bw.bearblog.dev/blog-updates/",
+    "title": "Blog updates",
+    "author": "https://bw.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-17T08:00:52.085Z",
+    "last_updated": "2026-11-17T08:00:52.085Z",
+    "published": "2026-11-17T01:11Z"
   }
 ]
