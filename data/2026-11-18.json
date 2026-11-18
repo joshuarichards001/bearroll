@@ -219,9 +219,9 @@
     "url": "https://elmc.at/dw-t04/",
     "title": "Offering Communion to a Ghost",
     "author": "https://elmc.at",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-18T10:00:51.866Z",
-    "last_updated": "2026-11-18T10:00:51.866Z",
+    "last_updated": "2026-11-18T11:00:52.331Z",
     "published": "2026-11-18T09:56Z"
   },
   {
@@ -232,5 +232,23 @@
     "first_seen": "2026-11-18T10:00:51.866Z",
     "last_updated": "2026-11-18T10:00:51.866Z",
     "published": "2026-11-18T09:50Z"
+  },
+  {
+    "url": "https://abetterway.bearblog.dev/the-innovation-workshop-lets-put-some-post-it-notes-on-a-fucking-wall/",
+    "title": "The Innovation Workshop: Let's Put Some Post-it Notes on a Fucking Wall",
+    "author": "https://abetterway.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-18T11:00:52.331Z",
+    "last_updated": "2026-11-18T11:00:52.331Z",
+    "published": "2026-11-18T08:23Z"
+  },
+  {
+    "url": "https://lapracot.bearblog.dev/20261118/",
+    "title": "2026/11/18",
+    "author": "https://lapracot.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-18T11:00:52.331Z",
+    "last_updated": "2026-11-18T11:00:52.331Z",
+    "published": "2026-11-18T10:54Z"
   }
 ]
