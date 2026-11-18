@@ -12,9 +12,9 @@
     "url": "https://blog.lauramichet.com/why-i-oppose-self-driving-vehicles/",
     "title": "Why I oppose self-driving vehicles",
     "author": "https://blog.lauramichet.com",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-11-18T02:00:51.828Z",
-    "last_updated": "2026-11-18T10:00:51.866Z",
+    "last_updated": "2026-11-18T12:00:52.425Z",
     "published": "2026-11-18T01:32Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://coreyblogs.com/the-happiest-pup-in-the-world/",
     "title": "...the happiest pup in the world!",
     "author": "https://coreyblogs.com",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-11-18T06:00:51.812Z",
-    "last_updated": "2026-11-18T09:00:52.281Z",
+    "last_updated": "2026-11-18T12:00:52.425Z",
     "published": "2026-11-18T05:11Z"
   },
   {
@@ -219,18 +219,18 @@
     "url": "https://elmc.at/dw-t04/",
     "title": "Offering Communion to a Ghost",
     "author": "https://elmc.at",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-18T10:00:51.866Z",
-    "last_updated": "2026-11-18T11:00:52.331Z",
+    "last_updated": "2026-11-18T12:00:52.425Z",
     "published": "2026-11-18T09:56Z"
   },
   {
     "url": "https://logs.bearblog.dev/sentimentos/",
     "title": "Sentimentos",
     "author": "https://logs.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-18T10:00:51.866Z",
-    "last_updated": "2026-11-18T10:00:51.866Z",
+    "last_updated": "2026-11-18T12:00:52.425Z",
     "published": "2026-11-18T09:50Z"
   },
   {
@@ -250,5 +250,41 @@
     "first_seen": "2026-11-18T11:00:52.331Z",
     "last_updated": "2026-11-18T11:00:52.331Z",
     "published": "2026-11-18T10:54Z"
+  },
+  {
+    "url": "https://elleskapu.bearblog.dev/juuri1/",
+    "title": "Juurisykkyrä: Vapaaehtoisuuden Kritiikki, Osa 1",
+    "author": "https://elleskapu.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-18T12:00:52.425Z",
+    "last_updated": "2026-11-18T12:00:52.425Z",
+    "published": "2026-11-18T11:49Z"
+  },
+  {
+    "url": "https://blog.avas.space/workplace-equality/",
+    "title": "workplace equality",
+    "author": "https://blog.avas.space",
+    "toasts": 3,
+    "first_seen": "2026-11-18T12:00:52.425Z",
+    "last_updated": "2026-11-18T12:00:52.425Z",
+    "published": "2026-11-18T11:03Z"
+  },
+  {
+    "url": "https://centraldequeixas.bearblog.dev/deja-vu-nera-pra-ontem/",
+    "title": "déjà vu: nera pra ontem?",
+    "author": "https://centraldequeixas.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-18T12:00:52.425Z",
+    "last_updated": "2026-11-18T12:00:52.425Z",
+    "published": "2026-11-18T11:30Z"
+  },
+  {
+    "url": "https://pretendtypewriter.net/tea-for-one-sets/",
+    "title": "TEA-FOR-ONE SETS",
+    "author": "https://pretendtypewriter.net",
+    "toasts": 2,
+    "first_seen": "2026-11-18T12:00:52.425Z",
+    "last_updated": "2026-11-18T12:00:52.425Z",
+    "published": "2026-11-18T11:30Z"
   }
 ]
