@@ -3,18 +3,18 @@
     "url": "https://blog.dante.cool/you-should-play-sovereign-tower/",
     "title": "you should play Sovereign Tower",
     "author": "https://blog.dante.cool",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-18T02:00:51.828Z",
-    "last_updated": "2026-11-18T02:00:51.828Z",
+    "last_updated": "2026-11-18T10:00:51.866Z",
     "published": "2026-11-18T01:10Z"
   },
   {
     "url": "https://blog.lauramichet.com/why-i-oppose-self-driving-vehicles/",
     "title": "Why I oppose self-driving vehicles",
     "author": "https://blog.lauramichet.com",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-11-18T02:00:51.828Z",
-    "last_updated": "2026-11-18T09:00:52.281Z",
+    "last_updated": "2026-11-18T10:00:51.866Z",
     "published": "2026-11-18T01:32Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://www.jenn.site/canadian-woman-discovers-dressing-for-the-weather/",
     "title": "Canadian Woman Discovers Dressing for the Weather",
     "author": "https://www.jenn.site",
-    "toasts": 10,
+    "toasts": 13,
     "first_seen": "2026-11-18T06:00:51.812Z",
-    "last_updated": "2026-11-18T09:00:52.281Z",
+    "last_updated": "2026-11-18T10:00:51.866Z",
     "published": "2026-11-18T05:29Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://www.susannedoesthesouthwest.com/el-paso-texas-mexico/",
     "title": "El Paso, Texas + Mexico",
     "author": "https://www.susannedoesthesouthwest.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-18T09:00:52.281Z",
-    "last_updated": "2026-11-18T09:00:52.281Z",
+    "last_updated": "2026-11-18T10:00:51.866Z",
     "published": "2026-11-18T08:07Z"
   },
   {
@@ -214,5 +214,23 @@
     "first_seen": "2026-11-18T09:00:52.281Z",
     "last_updated": "2026-11-18T09:00:52.281Z",
     "published": "2026-11-18T04:21Z"
+  },
+  {
+    "url": "https://elmc.at/dw-t04/",
+    "title": "Offering Communion to a Ghost",
+    "author": "https://elmc.at",
+    "toasts": 2,
+    "first_seen": "2026-11-18T10:00:51.866Z",
+    "last_updated": "2026-11-18T10:00:51.866Z",
+    "published": "2026-11-18T09:56Z"
+  },
+  {
+    "url": "https://logs.bearblog.dev/sentimentos/",
+    "title": "Sentimentos",
+    "author": "https://logs.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-18T10:00:51.866Z",
+    "last_updated": "2026-11-18T10:00:51.866Z",
+    "published": "2026-11-18T09:50Z"
   }
 ]
