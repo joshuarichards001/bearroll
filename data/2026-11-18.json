@@ -111,9 +111,9 @@
     "url": "https://www.jenn.site/canadian-woman-discovers-dressing-for-the-weather/",
     "title": "Canadian Woman Discovers Dressing for the Weather",
     "author": "https://www.jenn.site",
-    "toasts": 14,
+    "toasts": 16,
     "first_seen": "2026-11-18T06:00:51.812Z",
-    "last_updated": "2026-11-18T14:00:52.036Z",
+    "last_updated": "2026-11-18T16:00:51.860Z",
     "published": "2026-11-18T05:29Z"
   },
   {
@@ -264,9 +264,9 @@
     "url": "https://blog.avas.space/workplace-equality/",
     "title": "workplace equality",
     "author": "https://blog.avas.space",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-18T12:00:52.425Z",
-    "last_updated": "2026-11-18T15:00:51.782Z",
+    "last_updated": "2026-11-18T16:00:51.860Z",
     "published": "2026-11-18T11:03Z"
   },
   {
@@ -309,9 +309,9 @@
     "url": "https://smallquiet.bearblog.dev/a-note-on-cooking-eggs/",
     "title": "A note on cooking eggs",
     "author": "https://smallquiet.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-18T13:00:51.828Z",
-    "last_updated": "2026-11-18T15:00:51.782Z",
+    "last_updated": "2026-11-18T16:00:51.860Z",
     "published": "2026-11-18T12:11Z"
   },
   {
@@ -381,18 +381,18 @@
     "url": "https://readingrecluse.bearblog.dev/wool-by-hugh-howey/",
     "title": "\"Wool\" by Hugh Howey",
     "author": "https://readingrecluse.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-18T14:00:52.036Z",
-    "last_updated": "2026-11-18T15:00:51.782Z",
+    "last_updated": "2026-11-18T16:00:51.860Z",
     "published": "2026-11-18T12:34Z"
   },
   {
     "url": "https://explicatingelle.bearblog.dev/dont-be-a-pessimistic-doomer-please/",
     "title": "Don't be a Pessimistic Doomer, Please",
     "author": "https://explicatingelle.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-18T15:00:51.782Z",
-    "last_updated": "2026-11-18T15:00:51.782Z",
+    "last_updated": "2026-11-18T16:00:51.860Z",
     "published": "2026-11-18T14:30Z"
   },
   {
@@ -403,5 +403,41 @@
     "first_seen": "2026-11-18T15:00:51.782Z",
     "last_updated": "2026-11-18T15:00:51.782Z",
     "published": "2026-11-18T13:55Z"
+  },
+  {
+    "url": "https://coreyblogs.com/how-to-raise-a-jewish-dog/",
+    "title": "...how to raise a Jewish dog!",
+    "author": "https://coreyblogs.com",
+    "toasts": 4,
+    "first_seen": "2026-11-18T16:00:51.860Z",
+    "last_updated": "2026-11-18T16:00:51.860Z",
+    "published": "2026-11-18T15:12Z"
+  },
+  {
+    "url": "https://againstthecultofthecommodity.bearblog.dev/caverns-of-chaos-father-fliegengotts-journal/",
+    "title": "Caverns of Chaos - Father Fliegengott's Journal",
+    "author": "https://againstthecultofthecommodity.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-18T16:00:51.860Z",
+    "last_updated": "2026-11-18T16:00:51.860Z",
+    "published": "2026-11-18T15:41Z"
+  },
+  {
+    "url": "https://rabbit-reading.bearblog.dev/day-53-inua-ellams-james-ellroy-deborah-eisenberg/",
+    "title": "Day 53: Inua Ellams, James Ellroy, Deborah Eisenberg",
+    "author": "https://rabbit-reading.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-18T16:00:51.860Z",
+    "last_updated": "2026-11-18T16:00:51.860Z",
+    "published": "2026-11-18T14:41Z"
+  },
+  {
+    "url": "https://moonroad.bearblog.dev/k/",
+    "title": "开心不开心都要去唱K",
+    "author": "https://moonroad.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-18T16:00:51.860Z",
+    "last_updated": "2026-11-18T16:00:51.860Z",
+    "published": "2026-11-18T14:30Z"
   }
 ]
