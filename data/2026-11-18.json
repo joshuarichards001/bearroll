@@ -129,9 +129,9 @@
     "url": "https://coreyblogs.com/the-happiest-pup-in-the-world/",
     "title": "...the happiest pup in the world!",
     "author": "https://coreyblogs.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-18T06:00:51.812Z",
-    "last_updated": "2026-11-18T15:00:51.782Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
     "published": "2026-11-18T05:11Z"
   },
   {
@@ -219,9 +219,9 @@
     "url": "https://elmc.at/dw-t04/",
     "title": "Offering Communion to a Ghost",
     "author": "https://elmc.at",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-18T10:00:51.866Z",
-    "last_updated": "2026-11-18T14:00:52.036Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
     "published": "2026-11-18T09:56Z"
   },
   {
@@ -390,9 +390,9 @@
     "url": "https://explicatingelle.bearblog.dev/dont-be-a-pessimistic-doomer-please/",
     "title": "Don't be a Pessimistic Doomer, Please",
     "author": "https://explicatingelle.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-11-18T15:00:51.782Z",
-    "last_updated": "2026-11-18T20:00:52.209Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
     "published": "2026-11-18T14:30Z"
   },
   {
@@ -408,9 +408,9 @@
     "url": "https://coreyblogs.com/how-to-raise-a-jewish-dog/",
     "title": "...how to raise a Jewish dog!",
     "author": "https://coreyblogs.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-18T16:00:51.860Z",
-    "last_updated": "2026-11-18T20:00:52.209Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
     "published": "2026-11-18T15:12Z"
   },
   {
@@ -444,9 +444,9 @@
     "url": "https://leeraedee.org/i-still-use-insta-dont-murder-me/",
     "title": "I still use insta. DON'T MURDER ME!",
     "author": "https://leeraedee.org",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-18T17:00:51.692Z",
-    "last_updated": "2026-11-18T17:00:51.692Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
     "published": "2026-11-18T16:23Z"
   },
   {
@@ -480,9 +480,9 @@
     "url": "https://mnc.bearblog.dev/hantoshiokure/",
     "title": "半年遅れ",
     "author": "https://mnc.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-18T17:00:51.692Z",
-    "last_updated": "2026-11-18T17:00:51.692Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
     "published": "2026-11-18T16:59Z"
   },
   {
@@ -610,5 +610,59 @@
     "first_seen": "2026-11-18T20:00:52.209Z",
     "last_updated": "2026-11-18T20:00:52.209Z",
     "published": "2026-11-18T19:00Z"
+  },
+  {
+    "url": "https://risse.bearblog.dev/my-boyfriend-handed-me-a-rubric/",
+    "title": "my boyfriend handed me a rubric",
+    "author": "https://risse.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-18T21:00:51.726Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
+    "published": "2026-11-18T20:09Z"
+  },
+  {
+    "url": "https://maschile.bearblog.dev/that-vegan-restaurant-can-go-to-hell/",
+    "title": "That vegan restaurant can go to hell",
+    "author": "https://maschile.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-18T21:00:51.726Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
+    "published": "2026-11-18T20:23Z"
+  },
+  {
+    "url": "https://maschile.bearblog.dev/il-ristorante-vegano-puo-andare-a-farsi-fottere/",
+    "title": "Il ristorante vegano  può andare a farsi fottere",
+    "author": "https://maschile.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-18T21:00:51.726Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
+    "published": "2026-11-18T20:23Z"
+  },
+  {
+    "url": "https://slowerr.com/writing-is-a-mistake-undeleted/",
+    "title": "Writing is a mistake (undeleted)",
+    "author": "https://slowerr.com",
+    "toasts": 3,
+    "first_seen": "2026-11-18T21:00:51.726Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
+    "published": "2026-11-18T19:28Z"
+  },
+  {
+    "url": "https://th.blog.br/meu-processo-de-selecao-e-edicao-de-fotos/",
+    "title": "meu processo de seleção e edição de fotos",
+    "author": "https://th.blog.br",
+    "toasts": 2,
+    "first_seen": "2026-11-18T21:00:51.726Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
+    "published": "2026-11-18T21:00Z"
+  },
+  {
+    "url": "https://qmf.bearblog.dev/regler-undantag-och-en-servett/",
+    "title": "Regler, undantag och en servett",
+    "author": "https://qmf.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-18T21:00:51.726Z",
+    "last_updated": "2026-11-18T21:00:51.726Z",
+    "published": "2026-11-18T20:49Z"
   }
 ]
