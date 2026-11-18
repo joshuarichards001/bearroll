@@ -12,9 +12,9 @@
     "url": "https://blog.lauramichet.com/why-i-oppose-self-driving-vehicles/",
     "title": "Why I oppose self-driving vehicles",
     "author": "https://blog.lauramichet.com",
-    "toasts": 7,
+    "toasts": 10,
     "first_seen": "2026-11-18T02:00:51.828Z",
-    "last_updated": "2026-11-18T04:00:51.917Z",
+    "last_updated": "2026-11-18T05:00:52.129Z",
     "published": "2026-11-18T01:32Z"
   },
   {
@@ -61,5 +61,50 @@
     "first_seen": "2026-11-18T04:00:51.917Z",
     "last_updated": "2026-11-18T04:00:51.917Z",
     "published": "2026-11-18T03:28Z"
+  },
+  {
+    "url": "https://thehourisblue.com/skaros-la-musica-della-prima-luce/",
+    "title": "Skáros (Σκάρος) — La musica della prima luce",
+    "author": "https://thehourisblue.com",
+    "toasts": 2,
+    "first_seen": "2026-11-18T05:00:52.129Z",
+    "last_updated": "2026-11-18T05:00:52.129Z",
+    "published": "2026-11-18T04:50Z"
+  },
+  {
+    "url": "https://frogwizard.bearblog.dev/tapo-privacy-mode-when-router-sees-my-phone/",
+    "title": "Put a Tapo camera in privacy mode when the router sees my phone",
+    "author": "https://frogwizard.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-18T05:00:52.129Z",
+    "last_updated": "2026-11-18T05:00:52.129Z",
+    "published": "2026-11-18T04:45Z"
+  },
+  {
+    "url": "https://thehourisblue.com/skaros-the-music-of-first-light/",
+    "title": "Skáros (Σκάρος) — The Music of First Light",
+    "author": "https://thehourisblue.com",
+    "toasts": 2,
+    "first_seen": "2026-11-18T05:00:52.129Z",
+    "last_updated": "2026-11-18T05:00:52.129Z",
+    "published": "2026-11-18T04:38Z"
+  },
+  {
+    "url": "https://notes.seantaylor.work/play-is-the-way/",
+    "title": "Play Is The Way",
+    "author": "https://notes.seantaylor.work",
+    "toasts": 2,
+    "first_seen": "2026-11-18T05:00:52.129Z",
+    "last_updated": "2026-11-18T05:00:52.129Z",
+    "published": "2026-11-18T04:30Z"
+  },
+  {
+    "url": "https://frogwizard.bearblog.dev/dictate-anywhere-from-the-i3bar-tray/",
+    "title": "Dictate anywhere from the i3bar tray",
+    "author": "https://frogwizard.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-18T05:00:52.129Z",
+    "last_updated": "2026-11-18T05:00:52.129Z",
+    "published": "2026-11-18T04:18Z"
   }
 ]
