@@ -48,9 +48,9 @@
     "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
     "title": "\"I can tell you wrote this yourself\"",
     "author": "https://em-online.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-19T04:00:51.751Z",
-    "last_updated": "2026-11-19T08:00:51.663Z",
+    "last_updated": "2026-11-19T09:00:51.994Z",
     "published": "2026-11-19T03:45Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://alvinsoon.com/47/",
     "title": "47",
     "author": "https://alvinsoon.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-19T05:00:52.209Z",
-    "last_updated": "2026-11-19T08:00:51.663Z",
+    "last_updated": "2026-11-19T09:00:51.994Z",
     "published": "2026-11-19T04:27Z"
   },
   {
@@ -115,5 +115,23 @@
     "first_seen": "2026-11-19T06:00:51.893Z",
     "last_updated": "2026-11-19T06:00:51.893Z",
     "published": "2026-11-19T06:00Z"
+  },
+  {
+    "url": "https://coppershaman.com/22-sessions-of-blades-in-the-dark/",
+    "title": "22 sessions of Blades in the Dark",
+    "author": "https://coppershaman.com",
+    "toasts": 2,
+    "first_seen": "2026-11-19T09:00:51.994Z",
+    "last_updated": "2026-11-19T09:00:51.994Z",
+    "published": "2026-11-19T08:36Z"
+  },
+  {
+    "url": "https://combatdavey.net/november-18-2026/",
+    "title": "november 18 wiz",
+    "author": "https://combatdavey.net",
+    "toasts": 2,
+    "first_seen": "2026-11-19T09:00:51.994Z",
+    "last_updated": "2026-11-19T09:00:51.994Z",
+    "published": "2026-11-19T04:59Z"
   }
 ]
