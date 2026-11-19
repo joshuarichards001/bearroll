@@ -39,9 +39,9 @@
     "url": "https://blog.solazy.me/20261119/",
     "title": "记假帐",
     "author": "https://blog.solazy.me",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-11-19T04:00:51.751Z",
-    "last_updated": "2026-11-19T08:00:51.663Z",
+    "last_updated": "2026-11-19T11:00:51.792Z",
     "published": "2026-11-19T03:00Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://alvinsoon.com/47/",
     "title": "47",
     "author": "https://alvinsoon.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-11-19T05:00:52.209Z",
-    "last_updated": "2026-11-19T09:00:51.994Z",
+    "last_updated": "2026-11-19T11:00:51.792Z",
     "published": "2026-11-19T04:27Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://bw.bearblog.dev/abcde/",
     "title": "ABCDE Journaling",
     "author": "https://bw.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-19T10:00:52.504Z",
-    "last_updated": "2026-11-19T10:00:52.504Z",
+    "last_updated": "2026-11-19T11:00:51.792Z",
     "published": "2026-11-19T09:35Z"
   },
   {
@@ -156,9 +156,36 @@
     "url": "https://chat-message-poems.bearblog.dev/hoka-idk/",
     "title": "Hoka, get in touch",
     "author": "https://chat-message-poems.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-19T10:00:52.504Z",
-    "last_updated": "2026-11-19T10:00:52.504Z",
+    "last_updated": "2026-11-19T11:00:51.792Z",
     "published": "2026-11-19T08:41Z"
+  },
+  {
+    "url": "https://blogdoth.bearblog.dev/palestra-filme-e-estudos/",
+    "title": "Palestra, filme e estudos",
+    "author": "https://blogdoth.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T11:00:51.792Z",
+    "last_updated": "2026-11-19T11:00:51.792Z",
+    "published": "2026-11-19T10:00Z"
+  },
+  {
+    "url": "https://www.eremosuk.com/where-is-god-where-isnt-god/",
+    "title": "where is God? where isn't God?",
+    "author": "https://www.eremosuk.com",
+    "toasts": 2,
+    "first_seen": "2026-11-19T11:00:51.792Z",
+    "last_updated": "2026-11-19T11:00:51.792Z",
+    "published": "2026-11-19T09:33Z"
+  },
+  {
+    "url": "https://tvrsdigital54.bearblog.dev/como-diminuir-o-uso-de-ia/",
+    "title": "Como diminuir o uso de IA.",
+    "author": "https://tvrsdigital54.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T11:00:51.792Z",
+    "last_updated": "2026-11-19T11:00:51.792Z",
+    "published": "2026-11-19T03:59Z"
   }
 ]
