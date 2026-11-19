@@ -39,9 +39,9 @@
     "url": "https://blog.solazy.me/20261119/",
     "title": "记假帐",
     "author": "https://blog.solazy.me",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-11-19T04:00:51.751Z",
-    "last_updated": "2026-11-19T12:00:51.620Z",
+    "last_updated": "2026-11-19T13:00:51.718Z",
     "published": "2026-11-19T03:00Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://alvinsoon.com/47/",
     "title": "47",
     "author": "https://alvinsoon.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-11-19T05:00:52.209Z",
-    "last_updated": "2026-11-19T11:00:51.792Z",
+    "last_updated": "2026-11-19T13:00:51.718Z",
     "published": "2026-11-19T04:27Z"
   },
   {
@@ -201,9 +201,54 @@
     "url": "https://semdominio.bearblog.dev/comida-precisa-de-fogo/",
     "title": "Comida precisa de fogo",
     "author": "https://semdominio.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-19T12:00:51.620Z",
-    "last_updated": "2026-11-19T12:00:51.620Z",
+    "last_updated": "2026-11-19T13:00:51.718Z",
     "published": "2026-11-19T11:12Z"
+  },
+  {
+    "url": "https://sidelong.bearblog.dev/ends-ambient-music/",
+    "title": "The Ends of Ambient Music.",
+    "author": "https://sidelong.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-19T13:00:51.718Z",
+    "last_updated": "2026-11-19T13:00:51.718Z",
+    "published": "2026-11-19T12:56Z"
+  },
+  {
+    "url": "https://blog.harshaloza.com/the-third-learner-software-defines-the-cell-the-floor-completes-it/",
+    "title": "The third learner: software defines the cell, the floor completes it",
+    "author": "https://blog.harshaloza.com",
+    "toasts": 2,
+    "first_seen": "2026-11-19T13:00:51.718Z",
+    "last_updated": "2026-11-19T13:00:51.718Z",
+    "published": "2026-11-19T12:48Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/i-write-things-youll-never-read/",
+    "title": "I write things you'll never read.",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T13:00:51.718Z",
+    "last_updated": "2026-11-19T13:00:51.718Z",
+    "published": "2026-11-19T12:40Z"
+  },
+  {
+    "url": "https://kosti.bearblog.dev/local-theory-for-neural-thickets/",
+    "title": "Local theory for neural thickets",
+    "author": "https://kosti.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T13:00:51.718Z",
+    "last_updated": "2026-11-19T13:00:51.718Z",
+    "published": "2026-11-19T12:01Z"
+  },
+  {
+    "url": "https://afterstan.bearblog.dev/tape-is-a-thing-i-carry/",
+    "title": "Tape is a thing I carry",
+    "author": "https://afterstan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T13:00:51.718Z",
+    "last_updated": "2026-11-19T13:00:51.718Z",
+    "published": "2026-11-19T08:08Z"
   }
 ]
