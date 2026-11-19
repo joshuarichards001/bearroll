@@ -133,5 +133,32 @@
     "first_seen": "2026-11-19T09:00:51.994Z",
     "last_updated": "2026-11-19T09:00:51.994Z",
     "published": "2026-11-19T04:59Z"
+  },
+  {
+    "url": "https://bw.bearblog.dev/abcde/",
+    "title": "ABCDE Journaling",
+    "author": "https://bw.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T10:00:52.504Z",
+    "last_updated": "2026-11-19T10:00:52.504Z",
+    "published": "2026-11-19T09:35Z"
+  },
+  {
+    "url": "https://theashesofphoenix.com/hardwired-wdrukowane/",
+    "title": "Hardwired [Wdrukowane]",
+    "author": "https://theashesofphoenix.com",
+    "toasts": 2,
+    "first_seen": "2026-11-19T10:00:52.504Z",
+    "last_updated": "2026-11-19T10:00:52.504Z",
+    "published": "2026-11-19T09:19Z"
+  },
+  {
+    "url": "https://chat-message-poems.bearblog.dev/hoka-idk/",
+    "title": "Hoka, get in touch",
+    "author": "https://chat-message-poems.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T10:00:52.504Z",
+    "last_updated": "2026-11-19T10:00:52.504Z",
+    "published": "2026-11-19T08:41Z"
   }
 ]
