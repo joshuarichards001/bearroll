@@ -39,9 +39,9 @@
     "url": "https://blog.solazy.me/20261119/",
     "title": "记假帐",
     "author": "https://blog.solazy.me",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-11-19T04:00:51.751Z",
-    "last_updated": "2026-11-19T14:00:51.822Z",
+    "last_updated": "2026-11-19T15:00:51.896Z",
     "published": "2026-11-19T03:00Z"
   },
   {
@@ -219,18 +219,18 @@
     "url": "https://blog.harshaloza.com/the-third-learner-software-defines-the-cell-the-floor-completes-it/",
     "title": "The third learner: software defines the cell, the floor completes it",
     "author": "https://blog.harshaloza.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-19T13:00:51.718Z",
-    "last_updated": "2026-11-19T13:00:51.718Z",
+    "last_updated": "2026-11-19T15:00:51.896Z",
     "published": "2026-11-19T12:48Z"
   },
   {
     "url": "https://itsme.bearblog.dev/i-write-things-youll-never-read/",
     "title": "I write things you'll never read.",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-19T13:00:51.718Z",
-    "last_updated": "2026-11-19T14:00:51.822Z",
+    "last_updated": "2026-11-19T15:00:51.896Z",
     "published": "2026-11-19T12:40Z"
   },
   {
@@ -255,18 +255,54 @@
     "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
     "title": "Paper, folds, and what’s new in fanzines.app",
     "author": "https://krthr.co",
-    "toasts": 4,
+    "toasts": 7,
     "first_seen": "2026-11-19T14:00:51.822Z",
-    "last_updated": "2026-11-19T14:00:51.822Z",
+    "last_updated": "2026-11-19T15:00:51.896Z",
     "published": "2026-11-19T13:13Z"
   },
   {
     "url": "https://kangminsuk.com/how-much-can-i-love/",
     "title": "How Much Can I Love?",
     "author": "https://kangminsuk.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-19T14:00:51.822Z",
-    "last_updated": "2026-11-19T14:00:51.822Z",
+    "last_updated": "2026-11-19T15:00:51.896Z",
     "published": "2026-11-19T12:47Z"
+  },
+  {
+    "url": "https://plxadv.bearblog.dev/baby-mia/",
+    "title": "🧸 A grandfather named his Meta AI agent after his granddaughter. When Meta banned it as a hacker, “Baby Mia” drafted a lawsuit & wrote to Congress.",
+    "author": "https://plxadv.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-19T15:00:51.896Z",
+    "last_updated": "2026-11-19T15:00:51.896Z",
+    "published": "2026-11-19T14:06Z"
+  },
+  {
+    "url": "https://explicatingelle.bearblog.dev/re-bear-blog-tag-and-meta-manager/",
+    "title": "RE: Bear Blog tag and meta manager",
+    "author": "https://explicatingelle.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T15:00:51.896Z",
+    "last_updated": "2026-11-19T15:00:51.896Z",
+    "published": "2026-11-19T14:30Z"
+  },
+  {
+    "url": "https://calogerobonasia.it/chi-risponde-dei-numeri/",
+    "title": "Chi risponde dei numeri?",
+    "author": "https://calogerobonasia.it",
+    "toasts": 2,
+    "first_seen": "2026-11-19T15:00:51.896Z",
+    "last_updated": "2026-11-19T15:00:51.896Z",
+    "published": "2026-11-19T14:22Z"
+  },
+  {
+    "url": "https://blog.sonngo.dev/bear-blog-but-multilingual/",
+    "title": "Bear Blog, But Multilingual",
+    "author": "https://blog.sonngo.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T15:00:51.896Z",
+    "last_updated": "2026-11-19T15:00:51.896Z",
+    "published": "2026-11-19T14:06Z"
   }
 ]
