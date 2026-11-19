@@ -102,9 +102,9 @@
     "url": "https://www.jenn.site/notes-on-differentiated-social-awareness/",
     "title": "Notes on Differentiated Social Awareness",
     "author": "https://www.jenn.site",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-19T06:00:51.893Z",
-    "last_updated": "2026-11-19T08:00:51.663Z",
+    "last_updated": "2026-11-19T16:00:51.852Z",
     "published": "2026-11-19T05:45Z"
   },
   {
@@ -228,9 +228,9 @@
     "url": "https://itsme.bearblog.dev/i-write-things-youll-never-read/",
     "title": "I write things you'll never read.",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-19T13:00:51.718Z",
-    "last_updated": "2026-11-19T15:00:51.896Z",
+    "last_updated": "2026-11-19T16:00:51.852Z",
     "published": "2026-11-19T12:40Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
     "title": "Paper, folds, and what’s new in fanzines.app",
     "author": "https://krthr.co",
-    "toasts": 7,
+    "toasts": 12,
     "first_seen": "2026-11-19T14:00:51.822Z",
-    "last_updated": "2026-11-19T15:00:51.896Z",
+    "last_updated": "2026-11-19T16:00:51.852Z",
     "published": "2026-11-19T13:13Z"
   },
   {
@@ -304,5 +304,50 @@
     "first_seen": "2026-11-19T15:00:51.896Z",
     "last_updated": "2026-11-19T15:00:51.896Z",
     "published": "2026-11-19T14:06Z"
+  },
+  {
+    "url": "https://blog.damonreece.com/furthermore/",
+    "title": "Furthermore",
+    "author": "https://blog.damonreece.com",
+    "toasts": 2,
+    "first_seen": "2026-11-19T16:00:51.852Z",
+    "last_updated": "2026-11-19T16:00:51.852Z",
+    "published": "2026-11-19T15:47Z"
+  },
+  {
+    "url": "https://keeperoflore.com/the-book-of-temples-chapter-59/",
+    "title": "The Book of Temples Chapter 59",
+    "author": "https://keeperoflore.com",
+    "toasts": 2,
+    "first_seen": "2026-11-19T16:00:51.852Z",
+    "last_updated": "2026-11-19T16:00:51.852Z",
+    "published": "2026-11-19T15:32Z"
+  },
+  {
+    "url": "https://donthave2sting.bearblog.dev/im-a-sucker-for-dead-malls/",
+    "title": "im a sucker for dead malls",
+    "author": "https://donthave2sting.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T16:00:51.852Z",
+    "last_updated": "2026-11-19T16:00:51.852Z",
+    "published": "2026-11-19T14:56Z"
+  },
+  {
+    "url": "https://yoon.club/8268/",
+    "title": "別努力去滿足不存在的需求",
+    "author": "https://yoon.club",
+    "toasts": 2,
+    "first_seen": "2026-11-19T16:00:51.852Z",
+    "last_updated": "2026-11-19T16:00:51.852Z",
+    "published": "2026-11-19T14:20Z"
+  },
+  {
+    "url": "https://lordtoots.bearblog.dev/finding-meaning-without-work/",
+    "title": "Finding meaning without work",
+    "author": "https://lordtoots.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T16:00:51.852Z",
+    "last_updated": "2026-11-19T16:00:51.852Z",
+    "published": "2026-11-19T12:12Z"
   }
 ]
