@@ -21,9 +21,9 @@
     "url": "https://hilanderrpgs.bearblog.dev/why-does-it-snow/",
     "title": "Why Does it Snow?",
     "author": "https://hilanderrpgs.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-19T02:00:51.932Z",
-    "last_updated": "2026-11-19T08:00:51.663Z",
+    "last_updated": "2026-11-19T14:00:51.822Z",
     "published": "2026-11-19T01:25Z"
   },
   {
@@ -39,18 +39,18 @@
     "url": "https://blog.solazy.me/20261119/",
     "title": "记假帐",
     "author": "https://blog.solazy.me",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-11-19T04:00:51.751Z",
-    "last_updated": "2026-11-19T13:00:51.718Z",
+    "last_updated": "2026-11-19T14:00:51.822Z",
     "published": "2026-11-19T03:00Z"
   },
   {
     "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
     "title": "\"I can tell you wrote this yourself\"",
     "author": "https://em-online.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-11-19T04:00:51.751Z",
-    "last_updated": "2026-11-19T09:00:51.994Z",
+    "last_updated": "2026-11-19T14:00:51.822Z",
     "published": "2026-11-19T03:45Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://alvinsoon.com/47/",
     "title": "47",
     "author": "https://alvinsoon.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-11-19T05:00:52.209Z",
-    "last_updated": "2026-11-19T13:00:51.718Z",
+    "last_updated": "2026-11-19T14:00:51.822Z",
     "published": "2026-11-19T04:27Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://bw.bearblog.dev/abcde/",
     "title": "ABCDE Journaling",
     "author": "https://bw.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-19T10:00:52.504Z",
-    "last_updated": "2026-11-19T12:00:51.620Z",
+    "last_updated": "2026-11-19T14:00:51.822Z",
     "published": "2026-11-19T09:35Z"
   },
   {
@@ -228,9 +228,9 @@
     "url": "https://itsme.bearblog.dev/i-write-things-youll-never-read/",
     "title": "I write things you'll never read.",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-19T13:00:51.718Z",
-    "last_updated": "2026-11-19T13:00:51.718Z",
+    "last_updated": "2026-11-19T14:00:51.822Z",
     "published": "2026-11-19T12:40Z"
   },
   {
@@ -250,5 +250,23 @@
     "first_seen": "2026-11-19T13:00:51.718Z",
     "last_updated": "2026-11-19T13:00:51.718Z",
     "published": "2026-11-19T08:08Z"
+  },
+  {
+    "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+    "title": "Paper, folds, and what’s new in fanzines.app",
+    "author": "https://krthr.co",
+    "toasts": 4,
+    "first_seen": "2026-11-19T14:00:51.822Z",
+    "last_updated": "2026-11-19T14:00:51.822Z",
+    "published": "2026-11-19T13:13Z"
+  },
+  {
+    "url": "https://kangminsuk.com/how-much-can-i-love/",
+    "title": "How Much Can I Love?",
+    "author": "https://kangminsuk.com",
+    "toasts": 2,
+    "first_seen": "2026-11-19T14:00:51.822Z",
+    "last_updated": "2026-11-19T14:00:51.822Z",
+    "published": "2026-11-19T12:47Z"
   }
 ]
