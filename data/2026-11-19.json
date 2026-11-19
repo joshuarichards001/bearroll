@@ -48,9 +48,9 @@
     "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
     "title": "\"I can tell you wrote this yourself\"",
     "author": "https://em-online.bearblog.dev",
-    "toasts": 2,
+    "toasts": 5,
     "first_seen": "2026-11-19T04:00:51.751Z",
-    "last_updated": "2026-11-19T04:00:51.751Z",
+    "last_updated": "2026-11-19T05:00:52.209Z",
     "published": "2026-11-19T03:45Z"
   },
   {
@@ -79,5 +79,23 @@
     "first_seen": "2026-11-19T04:00:51.751Z",
     "last_updated": "2026-11-19T04:00:51.751Z",
     "published": "2026-11-19T02:12Z"
+  },
+  {
+    "url": "https://alvinsoon.com/47/",
+    "title": "47",
+    "author": "https://alvinsoon.com",
+    "toasts": 5,
+    "first_seen": "2026-11-19T05:00:52.209Z",
+    "last_updated": "2026-11-19T05:00:52.209Z",
+    "published": "2026-11-19T04:27Z"
+  },
+  {
+    "url": "https://lance.bearblog.dev/what-risks-should-make-me-delay-retirement/",
+    "title": "What risks should make me delay retirement?",
+    "author": "https://lance.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T05:00:52.209Z",
+    "last_updated": "2026-11-19T05:00:52.209Z",
+    "published": "2026-11-19T04:11Z"
   }
 ]
