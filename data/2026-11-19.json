@@ -30,9 +30,54 @@
     "url": "https://misaka.bearblog.dev/ranking-kuota-internet-2/",
     "title": "Ranking Kuota Internet",
     "author": "https://misaka.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-19T02:00:51.932Z",
-    "last_updated": "2026-11-19T02:00:51.932Z",
+    "last_updated": "2026-11-19T04:00:51.751Z",
     "published": "2026-11-19T01:17Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20261119/",
+    "title": "记假帐",
+    "author": "https://blog.solazy.me",
+    "toasts": 5,
+    "first_seen": "2026-11-19T04:00:51.751Z",
+    "last_updated": "2026-11-19T04:00:51.751Z",
+    "published": "2026-11-19T03:00Z"
+  },
+  {
+    "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+    "title": "\"I can tell you wrote this yourself\"",
+    "author": "https://em-online.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T04:00:51.751Z",
+    "last_updated": "2026-11-19T04:00:51.751Z",
+    "published": "2026-11-19T03:45Z"
+  },
+  {
+    "url": "https://boogerdiary.bearblog.dev/i-listen-therefore-i-cringe/",
+    "title": "I listen, therefore I cringe.",
+    "author": "https://boogerdiary.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T04:00:51.751Z",
+    "last_updated": "2026-11-19T04:00:51.751Z",
+    "published": "2026-11-19T03:26Z"
+  },
+  {
+    "url": "https://leftunsent.bearblog.dev/not-good-enough/",
+    "title": "not good enough",
+    "author": "https://leftunsent.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T04:00:51.751Z",
+    "last_updated": "2026-11-19T04:00:51.751Z",
+    "published": "2026-11-19T02:25Z"
+  },
+  {
+    "url": "https://pipefelipe.bearblog.dev/practice-excellence/",
+    "title": "Practice Excellence",
+    "author": "https://pipefelipe.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-19T04:00:51.751Z",
+    "last_updated": "2026-11-19T04:00:51.751Z",
+    "published": "2026-11-19T02:12Z"
   }
 ]
