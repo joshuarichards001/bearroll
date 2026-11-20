@@ -1,11 +1,11 @@
 [
   {
     "url": "https://notes.partlark.com/its-helpful-to-write-stuff-down-same-financial-plan-doc-15-years/",
-    "title": "it's helpful to write stuff down! (or how i've updated the same financial plan doc for more than 15 years)",
+    "title": "it's helpful to write stuff down! (or why i've updated the same financial plan doc for more than 15 years)",
     "author": "https://notes.partlark.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-20T01:00:52.402Z",
-    "last_updated": "2026-11-20T01:00:52.402Z",
+    "last_updated": "2026-11-20T03:00:51.949Z",
     "published": "2026-11-20T00:10Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://sameoldstory.co/blogging-instead-of-using-conventional-social-media/",
     "title": "Blogging instead of using conventional social media.",
     "author": "https://sameoldstory.co",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-20T01:00:52.402Z",
-    "last_updated": "2026-11-20T01:00:52.402Z",
+    "last_updated": "2026-11-20T03:00:51.949Z",
     "published": "2026-11-20T00:24Z"
   },
   {
@@ -43,5 +43,59 @@
     "first_seen": "2026-11-20T02:00:52.597Z",
     "last_updated": "2026-11-20T02:00:52.597Z",
     "published": "2026-11-20T01:16Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20261120/",
+    "title": "今天你骂 AI 味博客了吗？",
+    "author": "https://blog.solazy.me",
+    "toasts": 5,
+    "first_seen": "2026-11-20T03:00:51.949Z",
+    "last_updated": "2026-11-20T03:00:51.949Z",
+    "published": "2026-11-20T03:00Z"
+  },
+  {
+    "url": "https://blog.joelie.space/anti-tax-rhetoric/",
+    "title": "anti-tax-rhetoric",
+    "author": "https://blog.joelie.space",
+    "toasts": 4,
+    "first_seen": "2026-11-20T03:00:51.949Z",
+    "last_updated": "2026-11-20T03:00:51.949Z",
+    "published": "2026-11-20T01:54Z"
+  },
+  {
+    "url": "https://duncanhare.bearblog.dev/o-labirinto-da-mente/",
+    "title": "O labirinto da mente",
+    "author": "https://duncanhare.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-20T03:00:51.949Z",
+    "last_updated": "2026-11-20T03:00:51.949Z",
+    "published": "2026-11-20T02:33Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/if-it-is-something-important-remember-it-yourself/",
+    "title": "If It Is Something Important, Remember It Yourself",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-20T03:00:51.949Z",
+    "last_updated": "2026-11-20T03:00:51.949Z",
+    "published": "2026-11-20T02:26Z"
+  },
+  {
+    "url": "https://basic.bearblog.dev/ye-olde-blogroll/",
+    "title": "Ye Olde Blogroll",
+    "author": "https://basic.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-20T03:00:51.949Z",
+    "last_updated": "2026-11-20T03:00:51.949Z",
+    "published": "2026-11-20T01:29Z"
+  },
+  {
+    "url": "https://freedman.dev/what-kind-of-music-do-you-listen-to/",
+    "title": "What kind of music do you listen to?",
+    "author": "https://freedman.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-20T03:00:51.949Z",
+    "last_updated": "2026-11-20T03:00:51.949Z",
+    "published": "2026-11-20T01:29Z"
   }
 ]
