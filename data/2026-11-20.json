@@ -102,9 +102,9 @@
     "url": "https://cats-musings.blog/0115-departure-from-religion/",
     "title": "My departure from religion",
     "author": "https://cats-musings.blog",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-20T04:00:51.517Z",
-    "last_updated": "2026-11-20T09:00:51.928Z",
+    "last_updated": "2026-11-20T16:00:51.667Z",
     "published": "2026-11-20T03:54Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://www.jenn.site/patrick-collison-you-are-wrong-about-street-furniture/",
     "title": "Patrick Collison you are WRONG about street furniture!!!",
     "author": "https://www.jenn.site",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-20T06:00:52.055Z",
-    "last_updated": "2026-11-20T09:00:51.928Z",
+    "last_updated": "2026-11-20T16:00:51.667Z",
     "published": "2026-11-20T02:55Z"
   },
   {
@@ -210,9 +210,9 @@
     "url": "https://abetterway.bearblog.dev/have-you-tried-asking-the-people-who-actually-do-the-fucking-job/",
     "title": "Have You Tried Asking the People Who Actually Do the Fucking Job?",
     "author": "https://abetterway.bearblog.dev",
-    "toasts": 15,
+    "toasts": 18,
     "first_seen": "2026-11-20T10:00:51.732Z",
-    "last_updated": "2026-11-20T15:00:51.739Z",
+    "last_updated": "2026-11-20T16:00:51.667Z",
     "published": "2026-11-20T09:10Z"
   },
   {
@@ -291,9 +291,9 @@
     "url": "https://schledorn.bearblog.dev/we-didnt-sign-up-for-this/",
     "title": "We didn't sign up for this.",
     "author": "https://schledorn.bearblog.dev",
-    "toasts": 5,
+    "toasts": 9,
     "first_seen": "2026-11-20T14:00:51.718Z",
-    "last_updated": "2026-11-20T15:00:51.739Z",
+    "last_updated": "2026-11-20T16:00:51.667Z",
     "published": "2026-11-20T13:48Z"
   },
   {
@@ -322,5 +322,41 @@
     "first_seen": "2026-11-20T15:00:51.739Z",
     "last_updated": "2026-11-20T15:00:51.739Z",
     "published": "2026-11-20T13:50Z"
+  },
+  {
+    "url": "https://coreyblogs.com/his-first-wyoming-sunset/",
+    "title": "...his first Wyoming sunset!",
+    "author": "https://coreyblogs.com",
+    "toasts": 2,
+    "first_seen": "2026-11-20T16:00:51.667Z",
+    "last_updated": "2026-11-20T16:00:51.667Z",
+    "published": "2026-11-20T15:43Z"
+  },
+  {
+    "url": "https://explicatingelle.bearblog.dev/book-review-alanna-the-first-adventure/",
+    "title": "Book Review: Alanna: The First Adventure",
+    "author": "https://explicatingelle.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-20T16:00:51.667Z",
+    "last_updated": "2026-11-20T16:00:51.667Z",
+    "published": "2026-11-20T15:10Z"
+  },
+  {
+    "url": "https://slowerr.com/stolen-words/",
+    "title": "Stolen words",
+    "author": "https://slowerr.com",
+    "toasts": 2,
+    "first_seen": "2026-11-20T16:00:51.667Z",
+    "last_updated": "2026-11-20T16:00:51.667Z",
+    "published": "2026-11-20T15:00Z"
+  },
+  {
+    "url": "https://afterstan.bearblog.dev/ten-pictures-from-northern-laos/",
+    "title": "Ten pictures from northern Laos",
+    "author": "https://afterstan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-20T16:00:51.667Z",
+    "last_updated": "2026-11-20T16:00:51.667Z",
+    "published": "2026-11-20T14:45Z"
   }
 ]
