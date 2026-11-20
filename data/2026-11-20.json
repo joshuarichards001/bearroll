@@ -183,9 +183,9 @@
     "url": "https://paco.bearblog.dev/not-just-how-much-but-why/",
     "title": "Not Just How Much, But Why",
     "author": "https://paco.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-20T08:00:51.763Z",
-    "last_updated": "2026-11-20T08:00:51.763Z",
+    "last_updated": "2026-11-20T14:00:51.718Z",
     "published": "2026-11-20T06:40Z"
   },
   {
@@ -210,9 +210,9 @@
     "url": "https://abetterway.bearblog.dev/have-you-tried-asking-the-people-who-actually-do-the-fucking-job/",
     "title": "Have You Tried Asking the People Who Actually Do the Fucking Job?",
     "author": "https://abetterway.bearblog.dev",
-    "toasts": 10,
+    "toasts": 13,
     "first_seen": "2026-11-20T10:00:51.732Z",
-    "last_updated": "2026-11-20T13:00:51.682Z",
+    "last_updated": "2026-11-20T14:00:51.718Z",
     "published": "2026-11-20T09:10Z"
   },
   {
@@ -286,5 +286,23 @@
     "first_seen": "2026-11-20T12:00:52.053Z",
     "last_updated": "2026-11-20T12:00:52.053Z",
     "published": "2026-11-20T11:00Z"
+  },
+  {
+    "url": "https://schledorn.bearblog.dev/we-didnt-sign-up-for-this/",
+    "title": "We didn't sign up for this.",
+    "author": "https://schledorn.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-20T14:00:51.718Z",
+    "last_updated": "2026-11-20T14:00:51.718Z",
+    "published": "2026-11-20T13:48Z"
+  },
+  {
+    "url": "https://sekar.web.id/kemiskinan-orang-orang-kaya/",
+    "title": "Kemiskinan Orang-Orang Kaya",
+    "author": "https://sekar.web.id",
+    "toasts": 3,
+    "first_seen": "2026-11-20T14:00:51.718Z",
+    "last_updated": "2026-11-20T14:00:51.718Z",
+    "published": "2026-11-20T13:10Z"
   }
 ]
