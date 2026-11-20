@@ -210,18 +210,18 @@
     "url": "https://abetterway.bearblog.dev/have-you-tried-asking-the-people-who-actually-do-the-fucking-job/",
     "title": "Have You Tried Asking the People Who Actually Do the Fucking Job?",
     "author": "https://abetterway.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-20T10:00:51.732Z",
-    "last_updated": "2026-11-20T11:00:51.841Z",
+    "last_updated": "2026-11-20T12:00:52.053Z",
     "published": "2026-11-20T09:10Z"
   },
   {
     "url": "https://magnusps.dev/the-arithmetic-of-a-young-family/",
     "title": "The Arithmetic of a Young Family",
     "author": "https://magnusps.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-20T10:00:51.732Z",
-    "last_updated": "2026-11-20T10:00:51.732Z",
+    "last_updated": "2026-11-20T12:00:52.053Z",
     "published": "2026-11-20T09:44Z"
   },
   {
@@ -259,5 +259,32 @@
     "first_seen": "2026-11-20T11:00:51.841Z",
     "last_updated": "2026-11-20T11:00:51.841Z",
     "published": "2026-11-20T06:24Z"
+  },
+  {
+    "url": "https://pretendtypewriter.net/my-father-died/",
+    "title": "MY FATHER DIED.",
+    "author": "https://pretendtypewriter.net",
+    "toasts": 5,
+    "first_seen": "2026-11-20T12:00:52.053Z",
+    "last_updated": "2026-11-20T12:00:52.053Z",
+    "published": "2026-11-20T11:59Z"
+  },
+  {
+    "url": "https://magnusps.dev/the-sauna-snitch/",
+    "title": "The Sauna Snitch",
+    "author": "https://magnusps.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-20T12:00:52.053Z",
+    "last_updated": "2026-11-20T12:00:52.053Z",
+    "published": "2026-11-20T11:22Z"
+  },
+  {
+    "url": "https://danielducharme.net/mon-pere-planteur-de-quilles/",
+    "title": "Mon père, planteur de quilles",
+    "author": "https://danielducharme.net",
+    "toasts": 2,
+    "first_seen": "2026-11-20T12:00:52.053Z",
+    "last_updated": "2026-11-20T12:00:52.053Z",
+    "published": "2026-11-20T11:00Z"
   }
 ]
