@@ -12,9 +12,9 @@
     "url": "https://coreyblogs.com/bits/",
     "title": "bits",
     "author": "https://coreyblogs.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-20T01:00:52.402Z",
-    "last_updated": "2026-11-20T01:00:52.402Z",
+    "last_updated": "2026-11-20T02:00:52.597Z",
     "published": "2026-11-20T00:40Z"
   },
   {
@@ -25,5 +25,23 @@
     "first_seen": "2026-11-20T01:00:52.402Z",
     "last_updated": "2026-11-20T01:00:52.402Z",
     "published": "2026-11-20T00:24Z"
+  },
+  {
+    "url": "https://kumbara.bearblog.dev/a-personal-memory-architecture-for-ai-agents/",
+    "title": "A Personal Memory Architecture for AI Agents",
+    "author": "https://kumbara.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-20T02:00:52.597Z",
+    "last_updated": "2026-11-20T02:00:52.597Z",
+    "published": "2026-11-20T00:53Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/you-must-see-dance-freak/",
+    "title": "You must see Dance Freak",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 2,
+    "first_seen": "2026-11-20T02:00:52.597Z",
+    "last_updated": "2026-11-20T02:00:52.597Z",
+    "published": "2026-11-20T01:16Z"
   }
 ]
