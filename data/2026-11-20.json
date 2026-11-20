@@ -48,9 +48,9 @@
     "url": "https://blog.solazy.me/20261120/",
     "title": "今天你骂 AI 味博客了吗？",
     "author": "https://blog.solazy.me",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-11-20T03:00:51.949Z",
-    "last_updated": "2026-11-20T07:00:51.969Z",
+    "last_updated": "2026-11-20T08:00:51.763Z",
     "published": "2026-11-20T03:00Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://basic.bearblog.dev/ye-olde-blogroll/",
     "title": "Ye Olde Blogroll",
     "author": "https://basic.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-20T03:00:51.949Z",
-    "last_updated": "2026-11-20T03:00:51.949Z",
+    "last_updated": "2026-11-20T08:00:51.763Z",
     "published": "2026-11-20T01:29Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://tiramisu.bearblog.dev/breaking-the-camels-back/",
     "title": "breaking the camel's back",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 4,
+    "toasts": 7,
     "first_seen": "2026-11-20T04:00:51.517Z",
-    "last_updated": "2026-11-20T07:00:51.969Z",
+    "last_updated": "2026-11-20T08:00:51.763Z",
     "published": "2026-11-20T03:01Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://thehourisblue.com/is-imagination-incubation/",
     "title": "Is Imagination Incubation?",
     "author": "https://thehourisblue.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-20T06:00:52.055Z",
-    "last_updated": "2026-11-20T06:00:52.055Z",
+    "last_updated": "2026-11-20T08:00:51.763Z",
     "published": "2026-11-20T05:19Z"
   },
   {
@@ -165,9 +165,36 @@
     "url": "https://combatdavey.net/november-19-2026/",
     "title": "november 19 drp",
     "author": "https://combatdavey.net",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-20T07:00:51.969Z",
-    "last_updated": "2026-11-20T07:00:51.969Z",
+    "last_updated": "2026-11-20T08:00:51.763Z",
     "published": "2026-11-20T04:59Z"
+  },
+  {
+    "url": "https://pebbleocean.bearblog.dev/on-wayne-browns-escapades/",
+    "title": "on Wayne Brown's escapades",
+    "author": "https://pebbleocean.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-20T08:00:51.763Z",
+    "last_updated": "2026-11-20T08:00:51.763Z",
+    "published": "2026-11-20T06:46Z"
+  },
+  {
+    "url": "https://paco.bearblog.dev/not-just-how-much-but-why/",
+    "title": "Not Just How Much, But Why",
+    "author": "https://paco.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-20T08:00:51.763Z",
+    "last_updated": "2026-11-20T08:00:51.763Z",
+    "published": "2026-11-20T06:40Z"
+  },
+  {
+    "url": "https://blog.clairebot.world/its-been-a-while/",
+    "title": "it's been a while",
+    "author": "https://blog.clairebot.world",
+    "toasts": 2,
+    "first_seen": "2026-11-20T08:00:51.763Z",
+    "last_updated": "2026-11-20T08:00:51.763Z",
+    "published": "2026-11-20T05:50Z"
   }
 ]
