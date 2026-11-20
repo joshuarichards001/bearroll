@@ -21,9 +21,9 @@
     "url": "https://sameoldstory.co/blogging-instead-of-using-conventional-social-media/",
     "title": "Blogging instead of using conventional social media.",
     "author": "https://sameoldstory.co",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-20T01:00:52.402Z",
-    "last_updated": "2026-11-20T15:00:51.739Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
     "published": "2026-11-20T00:24Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://blog.lauramichet.com/you-must-see-dance-freak/",
     "title": "You must see Dance Freak",
     "author": "https://blog.lauramichet.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-20T02:00:52.597Z",
-    "last_updated": "2026-11-20T04:00:51.517Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
     "published": "2026-11-20T01:16Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://basic.bearblog.dev/ye-olde-blogroll/",
     "title": "Ye Olde Blogroll",
     "author": "https://basic.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-20T03:00:51.949Z",
-    "last_updated": "2026-11-20T13:00:51.682Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
     "published": "2026-11-20T01:29Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://www.jenn.site/patrick-collison-you-are-wrong-about-street-furniture/",
     "title": "Patrick Collison you are WRONG about street furniture!!!",
     "author": "https://www.jenn.site",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-11-20T06:00:52.055Z",
-    "last_updated": "2026-11-20T17:00:51.638Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
     "published": "2026-11-20T02:55Z"
   },
   {
@@ -363,18 +363,18 @@
     "url": "https://selggiw.bearblog.dev/i-think-i-want-to-be-an-artist/",
     "title": "I think I want to be an artist?",
     "author": "https://selggiw.bearblog.dev",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-11-20T17:00:51.638Z",
-    "last_updated": "2026-11-20T17:00:51.638Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
     "published": "2026-11-20T15:52Z"
   },
   {
     "url": "https://radiolefty.bearblog.dev/need-to-read/",
     "title": "Need to Read",
     "author": "https://radiolefty.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-20T17:00:51.638Z",
-    "last_updated": "2026-11-20T17:00:51.638Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
     "published": "2026-11-20T15:59Z"
   },
   {
@@ -394,5 +394,59 @@
     "first_seen": "2026-11-20T17:00:51.638Z",
     "last_updated": "2026-11-20T17:00:51.638Z",
     "published": "2026-11-20T04:40Z"
+  },
+  {
+    "url": "https://blog.platinumtulip.net/the-digital-reflection-of-my-heart/",
+    "title": "the digital reflection of my heart",
+    "author": "https://blog.platinumtulip.net",
+    "toasts": 6,
+    "first_seen": "2026-11-20T18:00:51.637Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
+    "published": "2026-11-20T17:30Z"
+  },
+  {
+    "url": "https://rnotte.art/maybe-theyve-always-been-losers/",
+    "title": "maybe they’ve always been losers",
+    "author": "https://rnotte.art",
+    "toasts": 5,
+    "first_seen": "2026-11-20T18:00:51.637Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
+    "published": "2026-11-20T16:53Z"
+  },
+  {
+    "url": "https://blog.happyfellow.dev/economics-be-damned/",
+    "title": "Economics be damned",
+    "author": "https://blog.happyfellow.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-20T18:00:51.637Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
+    "published": "2026-11-20T17:38Z"
+  },
+  {
+    "url": "https://www.wmprkr.xyz/harnessing-the-power-of-the-bear-api/",
+    "title": "Harnessing the Power of the Bear API",
+    "author": "https://www.wmprkr.xyz",
+    "toasts": 3,
+    "first_seen": "2026-11-20T18:00:51.637Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
+    "published": "2026-11-20T17:37Z"
+  },
+  {
+    "url": "https://foliedudoute.bearblog.dev/sad-dad/",
+    "title": "Sad Dads Anonymous",
+    "author": "https://foliedudoute.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-20T18:00:51.637Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
+    "published": "2026-11-20T17:48Z"
+  },
+  {
+    "url": "https://whateverthewindbrings.com/about-crediting-when-translating-video-games/",
+    "title": "About crediting when translating video games",
+    "author": "https://whateverthewindbrings.com",
+    "toasts": 2,
+    "first_seen": "2026-11-20T18:00:51.637Z",
+    "last_updated": "2026-11-20T18:00:51.637Z",
+    "published": "2026-11-20T17:46Z"
   }
 ]
