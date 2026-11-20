@@ -48,9 +48,9 @@
     "url": "https://blog.solazy.me/20261120/",
     "title": "今天你骂 AI 味博客了吗？",
     "author": "https://blog.solazy.me",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-11-20T03:00:51.949Z",
-    "last_updated": "2026-11-20T04:00:51.517Z",
+    "last_updated": "2026-11-20T07:00:51.969Z",
     "published": "2026-11-20T03:00Z"
   },
   {
@@ -111,18 +111,18 @@
     "url": "https://tiramisu.bearblog.dev/breaking-the-camels-back/",
     "title": "breaking the camel's back",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-20T04:00:51.517Z",
-    "last_updated": "2026-11-20T05:00:51.733Z",
+    "last_updated": "2026-11-20T07:00:51.969Z",
     "published": "2026-11-20T03:01Z"
   },
   {
     "url": "https://www.jenn.site/patrick-collison-you-are-wrong-about-street-furniture/",
     "title": "Patrick Collison you are WRONG about street furniture!!!",
     "author": "https://www.jenn.site",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-20T06:00:52.055Z",
-    "last_updated": "2026-11-20T06:00:52.055Z",
+    "last_updated": "2026-11-20T07:00:51.969Z",
     "published": "2026-11-20T02:55Z"
   },
   {
@@ -160,5 +160,14 @@
     "first_seen": "2026-11-20T06:00:52.055Z",
     "last_updated": "2026-11-20T06:00:52.055Z",
     "published": "2026-11-20T04:30Z"
+  },
+  {
+    "url": "https://combatdavey.net/november-19-2026/",
+    "title": "november 19 drp",
+    "author": "https://combatdavey.net",
+    "toasts": 2,
+    "first_seen": "2026-11-20T07:00:51.969Z",
+    "last_updated": "2026-11-20T07:00:51.969Z",
+    "published": "2026-11-20T04:59Z"
   }
 ]
