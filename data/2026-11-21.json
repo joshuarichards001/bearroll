@@ -201,9 +201,9 @@
     "url": "https://jennfrank.bearblog.dev/here-be/",
     "title": "here be",
     "author": "https://jennfrank.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-21T11:00:51.605Z",
-    "last_updated": "2026-11-21T13:00:51.578Z",
+    "last_updated": "2026-11-21T14:00:51.733Z",
     "published": "2026-11-21T10:10Z"
   },
   {
@@ -219,9 +219,9 @@
     "url": "https://thoughts.pivic.com/ai-limitations-that-no-ipo-can-circumvent/",
     "title": "AI: limitations that no IPO can circumvent",
     "author": "https://thoughts.pivic.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-21T12:00:51.529Z",
-    "last_updated": "2026-11-21T12:00:51.529Z",
+    "last_updated": "2026-11-21T14:00:51.733Z",
     "published": "2026-11-21T11:27Z"
   },
   {
@@ -286,5 +286,68 @@
     "first_seen": "2026-11-21T13:00:51.578Z",
     "last_updated": "2026-11-21T13:00:51.578Z",
     "published": "2026-11-21T04:14Z"
+  },
+  {
+    "url": "https://mbaranr.bearblog.dev/growing-reservoir/",
+    "title": "Growing reservoir computers",
+    "author": "https://mbaranr.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-21T14:00:51.733Z",
+    "last_updated": "2026-11-21T14:00:51.733Z",
+    "published": "2026-11-21T13:19Z"
+  },
+  {
+    "url": "https://abloggymess.com/an-awful-couch/",
+    "title": "An Awful Couch",
+    "author": "https://abloggymess.com",
+    "toasts": 2,
+    "first_seen": "2026-11-21T14:00:51.733Z",
+    "last_updated": "2026-11-21T14:00:51.733Z",
+    "published": "2026-11-21T13:56Z"
+  },
+  {
+    "url": "https://nat7.bearblog.dev/good-consequences/",
+    "title": "Good Consequences",
+    "author": "https://nat7.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T14:00:51.733Z",
+    "last_updated": "2026-11-21T14:00:51.733Z",
+    "published": "2026-11-21T13:27Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/o-que-tenho-feito-em-um-cubiculo-de-10m2/",
+    "title": "O que tenho feito em um cubículo de 10m²?",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T14:00:51.733Z",
+    "last_updated": "2026-11-21T14:00:51.733Z",
+    "published": "2026-11-21T13:04Z"
+  },
+  {
+    "url": "https://gorgonbones.bearblog.dev/the-dungeon-game-weekends-at-stonehell-session-28/",
+    "title": "The Dungeon Game: Weekends at Stonehell, session 28",
+    "author": "https://gorgonbones.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T14:00:51.733Z",
+    "last_updated": "2026-11-21T14:00:51.733Z",
+    "published": "2026-11-21T12:57Z"
+  },
+  {
+    "url": "https://mataherry.bearblog.dev/how-much-money-can-you-spend-in-a-lifetime/",
+    "title": "How much money can you spend in a lifetime?",
+    "author": "https://mataherry.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T14:00:51.733Z",
+    "last_updated": "2026-11-21T14:00:51.733Z",
+    "published": "2026-11-21T09:23Z"
+  },
+  {
+    "url": "https://fossparenting.io/gen-z-with-gray-hair/",
+    "title": "Gen-Z With Gray Hair",
+    "author": "https://fossparenting.io",
+    "toasts": 2,
+    "first_seen": "2026-11-21T14:00:51.733Z",
+    "last_updated": "2026-11-21T14:00:51.733Z",
+    "published": "2026-11-21T06:32Z"
   }
 ]
