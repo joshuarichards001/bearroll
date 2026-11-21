@@ -111,18 +111,18 @@
     "url": "https://tiramisu.bearblog.dev/breaking-the-camels-back/",
     "title": "breaking the camel's back",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-11-20T04:00:51.517Z",
-    "last_updated": "2026-11-20T22:00:52.090Z",
+    "last_updated": "2026-11-21T03:00:51.620Z",
     "published": "2026-11-20T03:01Z"
   },
   {
     "url": "https://www.jenn.site/patrick-collison-you-are-wrong-about-street-furniture/",
     "title": "Patrick Collison you are WRONG about street furniture!!!",
     "author": "https://www.jenn.site",
-    "toasts": 19,
+    "toasts": 20,
     "first_seen": "2026-11-20T06:00:52.055Z",
-    "last_updated": "2026-11-21T02:00:51.748Z",
+    "last_updated": "2026-11-21T03:00:51.620Z",
     "published": "2026-11-20T02:55Z"
   },
   {
@@ -291,9 +291,9 @@
     "url": "https://schledorn.bearblog.dev/we-didnt-sign-up-for-this/",
     "title": "We didn't sign up for this.",
     "author": "https://schledorn.bearblog.dev",
-    "toasts": 21,
+    "toasts": 26,
     "first_seen": "2026-11-20T14:00:51.718Z",
-    "last_updated": "2026-11-21T00:00:51.580Z",
+    "last_updated": "2026-11-21T03:00:51.620Z",
     "published": "2026-11-20T13:48Z"
   },
   {
@@ -327,9 +327,9 @@
     "url": "https://coreyblogs.com/his-first-wyoming-sunset/",
     "title": "...his first Wyoming sunset!",
     "author": "https://coreyblogs.com",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-11-20T16:00:51.667Z",
-    "last_updated": "2026-11-21T02:00:51.748Z",
+    "last_updated": "2026-11-21T03:00:51.620Z",
     "published": "2026-11-20T15:43Z"
   },
   {
@@ -408,9 +408,9 @@
     "url": "https://rnotte.art/maybe-theyve-always-been-losers/",
     "title": "maybe they’ve always been losers",
     "author": "https://rnotte.art",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-20T18:00:51.637Z",
-    "last_updated": "2026-11-21T02:00:51.748Z",
+    "last_updated": "2026-11-21T03:00:51.620Z",
     "published": "2026-11-20T16:53Z"
   },
   {
@@ -426,9 +426,9 @@
     "url": "https://www.wmprkr.xyz/harnessing-the-power-of-the-bear-api/",
     "title": "Harnessing the Power of the Bear API",
     "author": "https://www.wmprkr.xyz",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-20T18:00:51.637Z",
-    "last_updated": "2026-11-21T01:00:51.714Z",
+    "last_updated": "2026-11-21T03:00:51.620Z",
     "published": "2026-11-20T17:37Z"
   },
   {
@@ -453,9 +453,9 @@
     "url": "https://annoflo.net/squirrel-apple/",
     "title": "I saw a squirrel with an apple today. I want to share it with you. :)",
     "author": "https://annoflo.net",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-11-20T19:00:51.953Z",
-    "last_updated": "2026-11-21T01:00:51.714Z",
+    "last_updated": "2026-11-21T03:00:51.620Z",
     "published": "2026-11-20T18:32Z"
   },
   {
@@ -552,9 +552,9 @@
     "url": "https://coreyblogs.com/the-weekly-ellie-3/",
     "title": "...the weekly Ellie!",
     "author": "https://coreyblogs.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-20T21:00:51.938Z",
-    "last_updated": "2026-11-21T01:00:51.714Z",
+    "last_updated": "2026-11-21T03:00:51.620Z",
     "published": "2026-11-20T20:09Z"
   },
   {
@@ -673,5 +673,14 @@
     "first_seen": "2026-11-21T01:00:51.714Z",
     "last_updated": "2026-11-21T01:00:51.714Z",
     "published": "2026-11-20T21:39Z"
+  },
+  {
+    "url": "https://nanabanana.bearblog.dev/pq-uso-feeds-rss-ao-inves-de-assinar-newsletter-e-seguir-perfis/",
+    "title": "Pq uso feeds RSS ao invés de assinar newsletter e \"seguir\" perfis",
+    "author": "https://nanabanana.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T03:00:51.620Z",
+    "last_updated": "2026-11-21T03:00:51.620Z",
+    "published": "2026-11-20T23:51Z"
   }
 ]
