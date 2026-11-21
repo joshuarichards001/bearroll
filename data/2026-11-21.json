@@ -84,9 +84,9 @@
     "url": "https://blog.lauramichet.com/i-have-been-playing-queens-domain/",
     "title": "I have been playing Queen's Domain",
     "author": "https://blog.lauramichet.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-21T05:00:51.643Z",
-    "last_updated": "2026-11-21T12:00:51.529Z",
+    "last_updated": "2026-11-21T17:00:51.797Z",
     "published": "2026-11-21T04:16Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://46.bearblog.dev/apology/",
     "title": "I am Sorry.",
     "author": "https://46.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-21T07:00:51.824Z",
-    "last_updated": "2026-11-21T13:00:51.578Z",
+    "last_updated": "2026-11-21T17:00:51.797Z",
     "published": "2026-11-21T05:05Z"
   },
   {
@@ -327,9 +327,9 @@
     "url": "https://gorgonbones.bearblog.dev/the-dungeon-game-weekends-at-stonehell-session-28/",
     "title": "The Dungeon Game: Weekends at Stonehell, session 28",
     "author": "https://gorgonbones.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T14:00:51.733Z",
-    "last_updated": "2026-11-21T14:00:51.733Z",
+    "last_updated": "2026-11-21T17:00:51.797Z",
     "published": "2026-11-21T12:57Z"
   },
   {
@@ -354,9 +354,9 @@
     "url": "https://afterstan.bearblog.dev/the-beautiful-screaming-of-pigs/",
     "title": "The beautiful screaming of pigs",
     "author": "https://afterstan.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T15:00:52.001Z",
-    "last_updated": "2026-11-21T15:00:52.001Z",
+    "last_updated": "2026-11-21T17:00:51.797Z",
     "published": "2026-11-21T14:30Z"
   },
   {
@@ -381,9 +381,45 @@
     "url": "https://nik.software/im-not-enough-im-too-much-and-thats-all-fine/",
     "title": "I'm not enough, I'm too much, and that's all fine",
     "author": "https://nik.software",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T16:00:52.334Z",
-    "last_updated": "2026-11-21T16:00:52.334Z",
+    "last_updated": "2026-11-21T17:00:51.797Z",
     "published": "2026-11-21T15:43Z"
+  },
+  {
+    "url": "https://littleducky.bearblog.dev/would-you-want-a-clone/",
+    "title": "Would you want a clone?",
+    "author": "https://littleducky.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-21T17:00:51.797Z",
+    "last_updated": "2026-11-21T17:00:51.797Z",
+    "published": "2026-11-21T16:08Z"
+  },
+  {
+    "url": "https://joshs.bearblog.dev/how-much-time-do-we-have/",
+    "title": "How much time do we have?",
+    "author": "https://joshs.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T17:00:51.797Z",
+    "last_updated": "2026-11-21T17:00:51.797Z",
+    "published": "2026-11-21T16:22Z"
+  },
+  {
+    "url": "https://scrafford.bearblog.dev/32f/",
+    "title": "32°f",
+    "author": "https://scrafford.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T17:00:51.797Z",
+    "last_updated": "2026-11-21T17:00:51.797Z",
+    "published": "2026-11-21T15:55Z"
+  },
+  {
+    "url": "https://www.eremosuk.com/the-difficulty-of-finding-solitude/",
+    "title": "the difficulty of finding solitude",
+    "author": "https://www.eremosuk.com",
+    "toasts": 2,
+    "first_seen": "2026-11-21T17:00:51.797Z",
+    "last_updated": "2026-11-21T17:00:51.797Z",
+    "published": "2026-11-21T15:05Z"
   }
 ]
