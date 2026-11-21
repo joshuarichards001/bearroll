@@ -21,18 +21,18 @@
     "url": "https://widdershins.verja.net/the-local-bar-gig-hour-by-hour/",
     "title": "The local bar gig, hour by hour",
     "author": "https://widdershins.verja.net",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T03:00:51.620Z",
-    "last_updated": "2026-11-21T03:00:51.620Z",
+    "last_updated": "2026-11-21T07:00:51.824Z",
     "published": "2026-11-21T02:04Z"
   },
   {
     "url": "https://playpretend.fyi/page-stranger-of-cups/",
     "title": "Page, the Stranger of Cups",
     "author": "https://playpretend.fyi",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-21T04:00:51.741Z",
-    "last_updated": "2026-11-21T05:00:51.643Z",
+    "last_updated": "2026-11-21T07:00:51.824Z",
     "published": "2026-11-21T03:54Z"
   },
   {
@@ -75,27 +75,27 @@
     "url": "https://www.jenn.site/easing-off-the-gas/",
     "title": "Easing Off The Gas",
     "author": "https://www.jenn.site",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T05:00:51.643Z",
-    "last_updated": "2026-11-21T05:00:51.643Z",
+    "last_updated": "2026-11-21T07:00:51.824Z",
     "published": "2026-11-21T04:52Z"
   },
   {
     "url": "https://blog.lauramichet.com/i-have-been-playing-queens-domain/",
     "title": "I have been playing Queen's Domain",
     "author": "https://blog.lauramichet.com",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-21T05:00:51.643Z",
-    "last_updated": "2026-11-21T05:00:51.643Z",
+    "last_updated": "2026-11-21T07:00:51.824Z",
     "published": "2026-11-21T04:16Z"
   },
   {
     "url": "https://johnis.me/small-big-games/",
     "title": "Small Big Games",
     "author": "https://johnis.me",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T05:00:51.643Z",
-    "last_updated": "2026-11-21T05:00:51.643Z",
+    "last_updated": "2026-11-21T07:00:51.824Z",
     "published": "2026-11-21T04:05Z"
   },
   {
@@ -115,5 +115,32 @@
     "first_seen": "2026-11-21T06:00:51.646Z",
     "last_updated": "2026-11-21T06:00:51.646Z",
     "published": "2026-11-21T04:47Z"
+  },
+  {
+    "url": "https://what.bearblog.dev/an-idea-all-theatre-is-local/",
+    "title": "an idea: \"all theatre is local\"",
+    "author": "https://what.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T07:00:51.824Z",
+    "last_updated": "2026-11-21T07:00:51.824Z",
+    "published": "2026-11-21T05:11Z"
+  },
+  {
+    "url": "https://46.bearblog.dev/apology/",
+    "title": "I am Sorry.",
+    "author": "https://46.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T07:00:51.824Z",
+    "last_updated": "2026-11-21T07:00:51.824Z",
+    "published": "2026-11-21T05:05Z"
+  },
+  {
+    "url": "https://sugarforbrains.bearblog.dev/failure-and-direction/",
+    "title": "failure and direction",
+    "author": "https://sugarforbrains.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T07:00:51.824Z",
+    "last_updated": "2026-11-21T07:00:51.824Z",
+    "published": "2026-11-21T03:58Z"
   }
 ]
