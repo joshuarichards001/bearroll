@@ -84,9 +84,9 @@
     "url": "https://blog.lauramichet.com/i-have-been-playing-queens-domain/",
     "title": "I have been playing Queen's Domain",
     "author": "https://blog.lauramichet.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-21T05:00:51.643Z",
-    "last_updated": "2026-11-21T17:00:51.797Z",
+    "last_updated": "2026-11-21T18:00:51.731Z",
     "published": "2026-11-21T04:16Z"
   },
   {
@@ -183,9 +183,9 @@
     "url": "https://mpmilestogo.site/back-to-bearblog/",
     "title": "Back to bearblog",
     "author": "https://mpmilestogo.site",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-21T10:00:52.262Z",
-    "last_updated": "2026-11-21T13:00:51.578Z",
+    "last_updated": "2026-11-21T18:00:51.731Z",
     "published": "2026-11-21T07:44Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://jennfrank.bearblog.dev/here-be/",
     "title": "here be",
     "author": "https://jennfrank.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-21T11:00:51.605Z",
-    "last_updated": "2026-11-21T15:00:52.001Z",
+    "last_updated": "2026-11-21T18:00:51.731Z",
     "published": "2026-11-21T10:10Z"
   },
   {
@@ -219,9 +219,9 @@
     "url": "https://thoughts.pivic.com/ai-limitations-that-no-ipo-can-circumvent/",
     "title": "AI: limitations that no IPO can circumvent",
     "author": "https://thoughts.pivic.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-21T12:00:51.529Z",
-    "last_updated": "2026-11-21T14:00:51.733Z",
+    "last_updated": "2026-11-21T18:00:51.731Z",
     "published": "2026-11-21T11:27Z"
   },
   {
@@ -291,9 +291,9 @@
     "url": "https://mbaranr.bearblog.dev/growing-reservoir/",
     "title": "Growing reservoir computers",
     "author": "https://mbaranr.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-21T14:00:51.733Z",
-    "last_updated": "2026-11-21T15:00:52.001Z",
+    "last_updated": "2026-11-21T18:00:51.731Z",
     "published": "2026-11-21T13:19Z"
   },
   {
@@ -381,9 +381,9 @@
     "url": "https://nik.software/im-not-enough-im-too-much-and-thats-all-fine/",
     "title": "I'm not enough, I'm too much, and that's all fine",
     "author": "https://nik.software",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-21T16:00:52.334Z",
-    "last_updated": "2026-11-21T17:00:51.797Z",
+    "last_updated": "2026-11-21T18:00:51.731Z",
     "published": "2026-11-21T15:43Z"
   },
   {
@@ -399,9 +399,9 @@
     "url": "https://joshs.bearblog.dev/how-much-time-do-we-have/",
     "title": "How much time do we have?",
     "author": "https://joshs.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T17:00:51.797Z",
-    "last_updated": "2026-11-21T17:00:51.797Z",
+    "last_updated": "2026-11-21T18:00:51.731Z",
     "published": "2026-11-21T16:22Z"
   },
   {
@@ -417,9 +417,18 @@
     "url": "https://www.eremosuk.com/the-difficulty-of-finding-solitude/",
     "title": "the difficulty of finding solitude",
     "author": "https://www.eremosuk.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T17:00:51.797Z",
-    "last_updated": "2026-11-21T17:00:51.797Z",
+    "last_updated": "2026-11-21T18:00:51.731Z",
     "published": "2026-11-21T15:05Z"
+  },
+  {
+    "url": "https://blog.curiousquail.com/getting-fan-mail-from-an-ai-agent-on-a-blog-post-about-vistiting-my-hometown-during-a-family-illness/",
+    "title": "Getting \"Fan Mail\" From an AI Agent on a Blog Post about Visiting My Hometown During an Emotionally Devastating Family Illness",
+    "author": "https://blog.curiousquail.com",
+    "toasts": 4,
+    "first_seen": "2026-11-21T18:00:51.731Z",
+    "last_updated": "2026-11-21T18:00:51.731Z",
+    "published": "2026-11-21T17:37Z"
   }
 ]
