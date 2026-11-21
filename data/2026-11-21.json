@@ -84,9 +84,9 @@
     "url": "https://blog.lauramichet.com/i-have-been-playing-queens-domain/",
     "title": "I have been playing Queen's Domain",
     "author": "https://blog.lauramichet.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-21T05:00:51.643Z",
-    "last_updated": "2026-11-21T07:00:51.824Z",
+    "last_updated": "2026-11-21T12:00:51.529Z",
     "published": "2026-11-21T04:16Z"
   },
   {
@@ -214,5 +214,14 @@
     "first_seen": "2026-11-21T11:00:51.605Z",
     "last_updated": "2026-11-21T11:00:51.605Z",
     "published": "2026-11-21T09:07Z"
+  },
+  {
+    "url": "https://thoughts.pivic.com/ai-limitations-that-no-ipo-can-circumvent/",
+    "title": "AI: limitations that no IPO can circumvent",
+    "author": "https://thoughts.pivic.com",
+    "toasts": 3,
+    "first_seen": "2026-11-21T12:00:51.529Z",
+    "last_updated": "2026-11-21T12:00:51.529Z",
+    "published": "2026-11-21T11:27Z"
   }
 ]
