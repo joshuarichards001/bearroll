@@ -156,9 +156,9 @@
     "url": "https://cultnorthwest.com/the-cameras/",
     "title": "The Cameras Came Back. The Rules Didn't.",
     "author": "https://cultnorthwest.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-11-21T10:00:52.262Z",
-    "last_updated": "2026-11-21T16:00:52.334Z",
+    "last_updated": "2026-11-21T21:00:51.876Z",
     "published": "2026-11-21T09:27Z"
   },
   {
@@ -426,9 +426,9 @@
     "url": "https://blog.curiousquail.com/getting-fan-mail-from-an-ai-agent-on-a-blog-post-about-vistiting-my-hometown-during-a-family-illness/",
     "title": "Getting \"Fan Mail\" From an AI Agent on a Blog Post about Visiting My Hometown During an Emotionally Devastating Family Illness",
     "author": "https://blog.curiousquail.com",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-11-21T18:00:51.731Z",
-    "last_updated": "2026-11-21T20:00:52.275Z",
+    "last_updated": "2026-11-21T21:00:51.876Z",
     "published": "2026-11-21T17:37Z"
   },
   {
@@ -444,18 +444,18 @@
     "url": "https://onlinegoddess.net/2026/11/feral-kittens-update/",
     "title": "Feral Kittens Update",
     "author": "https://onlinegoddess.net",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-21T19:00:51.916Z",
-    "last_updated": "2026-11-21T20:00:52.275Z",
+    "last_updated": "2026-11-21T21:00:51.876Z",
     "published": "2026-11-21T18:33Z"
   },
   {
     "url": "https://aperture.bearblog.dev/i-think-i-outgrew-my-friends/",
     "title": "I think I outgrew my friends",
     "author": "https://aperture.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-21T19:00:51.916Z",
-    "last_updated": "2026-11-21T20:00:52.275Z",
+    "last_updated": "2026-11-21T21:00:51.876Z",
     "published": "2026-11-21T17:32Z"
   },
   {
@@ -489,9 +489,9 @@
     "url": "https://sultansmusings.bearblog.dev/all-dnd-need-guns/",
     "title": "ALL DND NEED GUNS",
     "author": "https://sultansmusings.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T20:00:52.275Z",
-    "last_updated": "2026-11-21T20:00:52.275Z",
+    "last_updated": "2026-11-21T21:00:51.876Z",
     "published": "2026-11-21T19:49Z"
   },
   {
@@ -511,5 +511,32 @@
     "first_seen": "2026-11-21T20:00:52.275Z",
     "last_updated": "2026-11-21T20:00:52.275Z",
     "published": "2026-11-21T18:26Z"
+  },
+  {
+    "url": "https://adriarubio.bearblog.dev/guia-rapida-de-les-eleccions-generals-el-2026-el-novembre-el-29/",
+    "title": "Guia ràpida de les eleccions generals el 2026, el Novembre, el 29",
+    "author": "https://adriarubio.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T21:00:51.876Z",
+    "last_updated": "2026-11-21T21:00:51.876Z",
+    "published": "2026-11-21T20:46Z"
+  },
+  {
+    "url": "https://pinkpetalparty.bearblog.dev/art-cactus-bunnies/",
+    "title": "(art) Cactus bunnies",
+    "author": "https://pinkpetalparty.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T21:00:51.876Z",
+    "last_updated": "2026-11-21T21:00:51.876Z",
+    "published": "2026-11-21T20:11Z"
+  },
+  {
+    "url": "https://nostalgia.bearblog.dev/astroturfed-mind/",
+    "title": "The Age of Astroturfed Minds",
+    "author": "https://nostalgia.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T21:00:51.876Z",
+    "last_updated": "2026-11-21T21:00:51.876Z",
+    "published": "2026-11-21T19:27Z"
   }
 ]
