@@ -156,9 +156,9 @@
     "url": "https://cultnorthwest.com/the-cameras/",
     "title": "The Cameras Came Back. The Rules Didn't.",
     "author": "https://cultnorthwest.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-11-21T10:00:52.262Z",
-    "last_updated": "2026-11-21T15:00:52.001Z",
+    "last_updated": "2026-11-21T16:00:52.334Z",
     "published": "2026-11-21T09:27Z"
   },
   {
@@ -264,9 +264,9 @@
     "url": "https://w3teal.bearblog.dev/lessen-your-personal-hatred/",
     "title": "Lessen your personal hatred",
     "author": "https://w3teal.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T13:00:51.578Z",
-    "last_updated": "2026-11-21T13:00:51.578Z",
+    "last_updated": "2026-11-21T16:00:52.334Z",
     "published": "2026-11-21T10:12Z"
   },
   {
@@ -363,9 +363,27 @@
     "url": "https://danieln.uk/another-frosty-walk/",
     "title": "Another frosty walk",
     "author": "https://danieln.uk",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T15:00:52.001Z",
-    "last_updated": "2026-11-21T15:00:52.001Z",
+    "last_updated": "2026-11-21T16:00:52.334Z",
     "published": "2026-11-21T12:35Z"
+  },
+  {
+    "url": "https://eskayvendo.bearblog.dev/nao-me-deixe-esquecer-quem-sou/",
+    "title": "Não me deixe esquecer quem sou",
+    "author": "https://eskayvendo.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T16:00:52.334Z",
+    "last_updated": "2026-11-21T16:00:52.334Z",
+    "published": "2026-11-21T15:51Z"
+  },
+  {
+    "url": "https://nik.software/im-not-enough-im-too-much-and-thats-all-fine/",
+    "title": "I'm not enough, I'm too much, and that's all fine",
+    "author": "https://nik.software",
+    "toasts": 2,
+    "first_seen": "2026-11-21T16:00:52.334Z",
+    "last_updated": "2026-11-21T16:00:52.334Z",
+    "published": "2026-11-21T15:43Z"
   }
 ]
