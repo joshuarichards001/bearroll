@@ -165,9 +165,9 @@
     "url": "https://freezeanddesist.bearblog.dev/and-the-sister-problems-continue/",
     "title": "And the sister problems continue",
     "author": "https://freezeanddesist.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T10:00:52.262Z",
-    "last_updated": "2026-11-21T10:00:52.262Z",
+    "last_updated": "2026-11-21T11:00:51.605Z",
     "published": "2026-11-21T09:52Z"
   },
   {
@@ -187,5 +187,32 @@
     "first_seen": "2026-11-21T10:00:52.262Z",
     "last_updated": "2026-11-21T10:00:52.262Z",
     "published": "2026-11-21T07:44Z"
+  },
+  {
+    "url": "https://pretendtypewriter.net/unraveling/",
+    "title": "UNRAVELING",
+    "author": "https://pretendtypewriter.net",
+    "toasts": 5,
+    "first_seen": "2026-11-21T11:00:51.605Z",
+    "last_updated": "2026-11-21T11:00:51.605Z",
+    "published": "2026-11-21T10:35Z"
+  },
+  {
+    "url": "https://jennfrank.bearblog.dev/here-be/",
+    "title": "here be",
+    "author": "https://jennfrank.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T11:00:51.605Z",
+    "last_updated": "2026-11-21T11:00:51.605Z",
+    "published": "2026-11-21T10:10Z"
+  },
+  {
+    "url": "https://faultysocket.bearblog.dev/the-joy-of-stationery/",
+    "title": "The Joy of Stationery",
+    "author": "https://faultysocket.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T11:00:51.605Z",
+    "last_updated": "2026-11-21T11:00:51.605Z",
+    "published": "2026-11-21T09:07Z"
   }
 ]
