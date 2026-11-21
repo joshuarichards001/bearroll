@@ -291,9 +291,9 @@
     "url": "https://mbaranr.bearblog.dev/growing-reservoir/",
     "title": "Growing reservoir computers",
     "author": "https://mbaranr.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-21T14:00:51.733Z",
-    "last_updated": "2026-11-21T18:00:51.731Z",
+    "last_updated": "2026-11-21T19:00:51.916Z",
     "published": "2026-11-21T13:19Z"
   },
   {
@@ -372,9 +372,9 @@
     "url": "https://eskayvendo.bearblog.dev/nao-me-deixe-esquecer-quem-sou/",
     "title": "Não me deixe esquecer quem sou",
     "author": "https://eskayvendo.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T16:00:52.334Z",
-    "last_updated": "2026-11-21T16:00:52.334Z",
+    "last_updated": "2026-11-21T19:00:51.916Z",
     "published": "2026-11-21T15:51Z"
   },
   {
@@ -426,9 +426,45 @@
     "url": "https://blog.curiousquail.com/getting-fan-mail-from-an-ai-agent-on-a-blog-post-about-vistiting-my-hometown-during-a-family-illness/",
     "title": "Getting \"Fan Mail\" From an AI Agent on a Blog Post about Visiting My Hometown During an Emotionally Devastating Family Illness",
     "author": "https://blog.curiousquail.com",
-    "toasts": 4,
+    "toasts": 8,
     "first_seen": "2026-11-21T18:00:51.731Z",
-    "last_updated": "2026-11-21T18:00:51.731Z",
+    "last_updated": "2026-11-21T19:00:51.916Z",
     "published": "2026-11-21T17:37Z"
+  },
+  {
+    "url": "https://maythecliche.bearblog.dev/when-every-feed-has-a-perfect-sunday/",
+    "title": "When Every Feed Has a Perfect Sunday",
+    "author": "https://maythecliche.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-21T19:00:51.916Z",
+    "last_updated": "2026-11-21T19:00:51.916Z",
+    "published": "2026-11-21T18:54Z"
+  },
+  {
+    "url": "https://onlinegoddess.net/2026/11/feral-kittens-update/",
+    "title": "Feral Kittens Update",
+    "author": "https://onlinegoddess.net",
+    "toasts": 3,
+    "first_seen": "2026-11-21T19:00:51.916Z",
+    "last_updated": "2026-11-21T19:00:51.916Z",
+    "published": "2026-11-21T18:33Z"
+  },
+  {
+    "url": "https://aperture.bearblog.dev/i-think-i-outgrew-my-friends/",
+    "title": "I think I outgrew my friends",
+    "author": "https://aperture.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T19:00:51.916Z",
+    "last_updated": "2026-11-21T19:00:51.916Z",
+    "published": "2026-11-21T17:32Z"
+  },
+  {
+    "url": "https://robertbirming.com/bear-den/",
+    "title": "Bear Den",
+    "author": "https://robertbirming.com",
+    "toasts": 2,
+    "first_seen": "2026-11-21T19:00:51.916Z",
+    "last_updated": "2026-11-21T19:00:51.916Z",
+    "published": "2026-11-21T17:27Z"
   }
 ]
