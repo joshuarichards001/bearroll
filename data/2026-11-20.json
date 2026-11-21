@@ -120,9 +120,9 @@
     "url": "https://www.jenn.site/patrick-collison-you-are-wrong-about-street-furniture/",
     "title": "Patrick Collison you are WRONG about street furniture!!!",
     "author": "https://www.jenn.site",
-    "toasts": 15,
+    "toasts": 18,
     "first_seen": "2026-11-20T06:00:52.055Z",
-    "last_updated": "2026-11-20T23:00:52.083Z",
+    "last_updated": "2026-11-21T00:00:51.580Z",
     "published": "2026-11-20T02:55Z"
   },
   {
@@ -291,9 +291,9 @@
     "url": "https://schledorn.bearblog.dev/we-didnt-sign-up-for-this/",
     "title": "We didn't sign up for this.",
     "author": "https://schledorn.bearblog.dev",
-    "toasts": 19,
+    "toasts": 21,
     "first_seen": "2026-11-20T14:00:51.718Z",
-    "last_updated": "2026-11-20T23:00:52.083Z",
+    "last_updated": "2026-11-21T00:00:51.580Z",
     "published": "2026-11-20T13:48Z"
   },
   {
@@ -633,9 +633,9 @@
     "url": "https://olu.online/how-do-you-want-to-be-perceived-online/",
     "title": "how do you want to be perceived online?",
     "author": "https://olu.online",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-20T23:00:52.083Z",
-    "last_updated": "2026-11-20T23:00:52.083Z",
+    "last_updated": "2026-11-21T00:00:51.580Z",
     "published": "2026-11-20T22:08Z"
   },
   {
@@ -646,5 +646,14 @@
     "first_seen": "2026-11-20T23:00:52.083Z",
     "last_updated": "2026-11-20T23:00:52.083Z",
     "published": "2026-11-20T21:02Z"
+  },
+  {
+    "url": "https://tldread.net/were-building-ai-genies/",
+    "title": "We're building AI genies",
+    "author": "https://tldread.net",
+    "toasts": 2,
+    "first_seen": "2026-11-21T00:00:51.580Z",
+    "last_updated": "2026-11-21T00:00:51.580Z",
+    "published": "2026-11-20T23:42Z"
   }
 ]
