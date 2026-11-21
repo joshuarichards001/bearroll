@@ -201,9 +201,9 @@
     "url": "https://jennfrank.bearblog.dev/here-be/",
     "title": "here be",
     "author": "https://jennfrank.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-21T11:00:51.605Z",
-    "last_updated": "2026-11-21T20:00:52.275Z",
+    "last_updated": "2026-11-21T23:00:51.658Z",
     "published": "2026-11-21T10:10Z"
   },
   {
@@ -291,9 +291,9 @@
     "url": "https://mbaranr.bearblog.dev/growing-reservoir/",
     "title": "Growing reservoir computers",
     "author": "https://mbaranr.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-11-21T14:00:51.733Z",
-    "last_updated": "2026-11-21T19:00:51.916Z",
+    "last_updated": "2026-11-21T23:00:51.658Z",
     "published": "2026-11-21T13:19Z"
   },
   {
@@ -444,9 +444,9 @@
     "url": "https://onlinegoddess.net/2026/11/feral-kittens-update/",
     "title": "Feral Kittens Update",
     "author": "https://onlinegoddess.net",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-21T19:00:51.916Z",
-    "last_updated": "2026-11-21T22:00:51.699Z",
+    "last_updated": "2026-11-21T23:00:51.658Z",
     "published": "2026-11-21T18:33Z"
   },
   {
@@ -480,18 +480,18 @@
     "url": "https://olu.online/re-i-want-it-darker/",
     "title": "re: i want it darker",
     "author": "https://olu.online",
-    "toasts": 4,
+    "toasts": 6,
     "first_seen": "2026-11-21T20:00:52.275Z",
-    "last_updated": "2026-11-21T22:00:51.699Z",
+    "last_updated": "2026-11-21T23:00:51.658Z",
     "published": "2026-11-21T19:45Z"
   },
   {
     "url": "https://sultansmusings.bearblog.dev/all-dnd-need-guns/",
     "title": "ALL DND NEED GUNS",
     "author": "https://sultansmusings.bearblog.dev",
-    "toasts": 3,
+    "toasts": 6,
     "first_seen": "2026-11-21T20:00:52.275Z",
-    "last_updated": "2026-11-21T21:00:51.876Z",
+    "last_updated": "2026-11-21T23:00:51.658Z",
     "published": "2026-11-21T19:49Z"
   },
   {
@@ -543,18 +543,18 @@
     "url": "https://coreyblogs.com/a-call-for-good-luck/",
     "title": "...a call for good luck.",
     "author": "https://coreyblogs.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-21T22:00:51.699Z",
-    "last_updated": "2026-11-21T22:00:51.699Z",
+    "last_updated": "2026-11-21T23:00:51.658Z",
     "published": "2026-11-21T21:35Z"
   },
   {
     "url": "https://skuka.online/reviews-are-a-thief-of-joy/",
     "title": "reviews are a thief of joy",
     "author": "https://skuka.online",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-21T22:00:51.699Z",
-    "last_updated": "2026-11-21T22:00:51.699Z",
+    "last_updated": "2026-11-21T23:00:51.658Z",
     "published": "2026-11-21T19:35Z"
   },
   {
@@ -583,5 +583,32 @@
     "first_seen": "2026-11-21T22:00:51.699Z",
     "last_updated": "2026-11-21T22:00:51.699Z",
     "published": "2026-11-21T17:02Z"
+  },
+  {
+    "url": "https://igorstechnoclub.com/field-guide-running-qwen38-locally/",
+    "title": "Field Guide: Running Qwen3.8 Locally",
+    "author": "https://igorstechnoclub.com",
+    "toasts": 2,
+    "first_seen": "2026-11-21T23:00:51.658Z",
+    "last_updated": "2026-11-21T23:00:51.658Z",
+    "published": "2026-11-21T22:37Z"
+  },
+  {
+    "url": "https://notes.partlark.com/3-pen-shops-in-vancouver/",
+    "title": "3 pen shops in Vancouver",
+    "author": "https://notes.partlark.com",
+    "toasts": 2,
+    "first_seen": "2026-11-21T23:00:51.658Z",
+    "last_updated": "2026-11-21T23:00:51.658Z",
+    "published": "2026-11-21T21:45Z"
+  },
+  {
+    "url": "https://www.kylevallans.com/bear-markets-expose-what-you-dont-know/",
+    "title": "Bear Markets Expose What You Don't Know",
+    "author": "https://www.kylevallans.com",
+    "toasts": 2,
+    "first_seen": "2026-11-21T23:00:51.658Z",
+    "last_updated": "2026-11-21T23:00:51.658Z",
+    "published": "2026-11-21T20:01Z"
   }
 ]
