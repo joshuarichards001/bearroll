@@ -30,9 +30,9 @@
     "url": "https://playpretend.fyi/page-stranger-of-cups/",
     "title": "Page, the Stranger of Cups",
     "author": "https://playpretend.fyi",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-21T04:00:51.741Z",
-    "last_updated": "2026-11-21T04:00:51.741Z",
+    "last_updated": "2026-11-21T05:00:51.643Z",
     "published": "2026-11-21T03:54Z"
   },
   {
@@ -70,5 +70,41 @@
     "first_seen": "2026-11-21T04:00:51.741Z",
     "last_updated": "2026-11-21T04:00:51.741Z",
     "published": "2026-11-21T01:01Z"
+  },
+  {
+    "url": "https://www.jenn.site/easing-off-the-gas/",
+    "title": "Easing Off The Gas",
+    "author": "https://www.jenn.site",
+    "toasts": 2,
+    "first_seen": "2026-11-21T05:00:51.643Z",
+    "last_updated": "2026-11-21T05:00:51.643Z",
+    "published": "2026-11-21T04:52Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/i-have-been-playing-queens-domain/",
+    "title": "I have been playing Queen's Domain",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 2,
+    "first_seen": "2026-11-21T05:00:51.643Z",
+    "last_updated": "2026-11-21T05:00:51.643Z",
+    "published": "2026-11-21T04:16Z"
+  },
+  {
+    "url": "https://johnis.me/small-big-games/",
+    "title": "Small Big Games",
+    "author": "https://johnis.me",
+    "toasts": 2,
+    "first_seen": "2026-11-21T05:00:51.643Z",
+    "last_updated": "2026-11-21T05:00:51.643Z",
+    "published": "2026-11-21T04:05Z"
+  },
+  {
+    "url": "https://dans-huang.bearblog.dev/desire-pruned-by-success/",
+    "title": "被成功修剪的渴望",
+    "author": "https://dans-huang.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-21T05:00:51.643Z",
+    "last_updated": "2026-11-21T05:00:51.643Z",
+    "published": "2026-11-21T04:00Z"
   }
 ]
