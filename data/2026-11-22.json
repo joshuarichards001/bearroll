@@ -48,9 +48,9 @@
     "url": "https://shni.bearblog.dev/sat-nov-21/",
     "title": "sat nov 21",
     "author": "https://shni.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-22T04:00:51.908Z",
-    "last_updated": "2026-11-22T05:00:52.015Z",
+    "last_updated": "2026-11-22T08:00:51.956Z",
     "published": "2026-11-22T03:17Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://developer-capybara.bearblog.dev/we-signed-up-for-this/",
     "title": "We signed up for this.",
     "author": "https://developer-capybara.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-22T05:00:52.015Z",
-    "last_updated": "2026-11-22T07:00:51.702Z",
+    "last_updated": "2026-11-22T08:00:51.956Z",
     "published": "2026-11-22T00:33Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://evanora.bearblog.dev/the-way-the-sun-hits-the-blades-of-grass-as-it-sets/",
     "title": "the way the sun hits the blades of grass as it sets",
     "author": "https://evanora.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-22T06:00:52.205Z",
-    "last_updated": "2026-11-22T06:00:52.205Z",
+    "last_updated": "2026-11-22T08:00:51.956Z",
     "published": "2026-11-22T05:16Z"
   },
   {
@@ -120,18 +120,27 @@
     "url": "https://dead-internet.bearblog.dev/forever-alone/",
     "title": "Forever alone?",
     "author": "https://dead-internet.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-22T07:00:51.702Z",
-    "last_updated": "2026-11-22T07:00:51.702Z",
+    "last_updated": "2026-11-22T08:00:51.956Z",
     "published": "2026-11-22T06:29Z"
   },
   {
     "url": "https://ayaanshah.blog/montreal-1/",
     "title": "2 interesting days in montreal, QC, CA",
     "author": "https://ayaanshah.blog",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-22T07:00:51.702Z",
-    "last_updated": "2026-11-22T07:00:51.702Z",
+    "last_updated": "2026-11-22T08:00:51.956Z",
     "published": "2026-11-22T06:27Z"
+  },
+  {
+    "url": "https://attentionforhope.com/dont-smoke-in-bed/",
+    "title": "don't smoke in bed",
+    "author": "https://attentionforhope.com",
+    "toasts": 2,
+    "first_seen": "2026-11-22T08:00:51.956Z",
+    "last_updated": "2026-11-22T08:00:51.956Z",
+    "published": "2026-11-22T07:48Z"
   }
 ]
