@@ -102,9 +102,9 @@
     "url": "https://samuelpapin.com/a-software-antipattern-software-entanglement/",
     "title": "A software antipattern: Software Entanglement",
     "author": "https://samuelpapin.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-22T06:00:52.205Z",
-    "last_updated": "2026-11-22T06:00:52.205Z",
+    "last_updated": "2026-11-22T11:00:51.714Z",
     "published": "2026-11-22T05:00Z"
   },
   {
@@ -160,5 +160,50 @@
     "first_seen": "2026-11-22T10:00:51.788Z",
     "last_updated": "2026-11-22T10:00:51.788Z",
     "published": "2026-11-22T04:32Z"
+  },
+  {
+    "url": "https://lizziesthoughts.bearblog.dev/cool-stuff-in-my-blog/",
+    "title": "cool stuff in my blog",
+    "author": "https://lizziesthoughts.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T11:00:51.714Z",
+    "last_updated": "2026-11-22T11:00:51.714Z",
+    "published": "2026-11-22T10:21Z"
+  },
+  {
+    "url": "https://readingrecluse.bearblog.dev/jelly-baby-essays-on-disability-and-vulnerability-by-therese-estacion/",
+    "title": "🌟 \"Jelly, Baby: Essays on Disability and Vulnerability\" by Therese Estacion",
+    "author": "https://readingrecluse.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T11:00:51.714Z",
+    "last_updated": "2026-11-22T11:00:51.714Z",
+    "published": "2026-11-22T10:09Z"
+  },
+  {
+    "url": "https://73pctgeek.com/nine-goblins-by-t-kingfisher/",
+    "title": "Nine Goblins by T. Kingfisher",
+    "author": "https://73pctgeek.com",
+    "toasts": 2,
+    "first_seen": "2026-11-22T11:00:51.714Z",
+    "last_updated": "2026-11-22T11:00:51.714Z",
+    "published": "2026-11-22T09:36Z"
+  },
+  {
+    "url": "https://adriftingleaf.com/no-master-sees-tao/",
+    "title": "No Master Sees Tao",
+    "author": "https://adriftingleaf.com",
+    "toasts": 2,
+    "first_seen": "2026-11-22T11:00:51.714Z",
+    "last_updated": "2026-11-22T11:00:51.714Z",
+    "published": "2026-11-22T08:21Z"
+  },
+  {
+    "url": "https://monogatari.bearblog.dev/the-open-door/",
+    "title": "The Open Door",
+    "author": "https://monogatari.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T11:00:51.714Z",
+    "last_updated": "2026-11-22T11:00:51.714Z",
+    "published": "2026-11-22T05:00Z"
   }
 ]
