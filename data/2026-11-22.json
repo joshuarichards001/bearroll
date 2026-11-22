@@ -165,9 +165,9 @@
     "url": "https://lizziesthoughts.bearblog.dev/cool-stuff-in-my-blog/",
     "title": "cool stuff in my blog",
     "author": "https://lizziesthoughts.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-22T11:00:51.714Z",
-    "last_updated": "2026-11-22T11:00:51.714Z",
+    "last_updated": "2026-11-22T12:00:51.874Z",
     "published": "2026-11-22T10:21Z"
   },
   {
@@ -205,5 +205,23 @@
     "first_seen": "2026-11-22T11:00:51.714Z",
     "last_updated": "2026-11-22T11:00:51.714Z",
     "published": "2026-11-22T05:00Z"
+  },
+  {
+    "url": "https://bommyknocker.bearblog.dev/handle/",
+    "title": "A Handle for Hidden Information",
+    "author": "https://bommyknocker.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-22T12:00:51.874Z",
+    "last_updated": "2026-11-22T12:00:51.874Z",
+    "published": "2026-11-22T11:58Z"
+  },
+  {
+    "url": "https://monogatari.bearblog.dev/window-to-what-it-costs/",
+    "title": "A Window to What It Costs",
+    "author": "https://monogatari.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T12:00:51.874Z",
+    "last_updated": "2026-11-22T12:00:51.874Z",
+    "published": "2026-11-22T11:37Z"
   }
 ]
