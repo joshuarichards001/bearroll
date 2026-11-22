@@ -3,9 +3,9 @@
     "url": "https://kieranmcguire.uk/review-you-can-see-everything-2026/",
     "title": "Review: You Can See Everything (2026)",
     "author": "https://kieranmcguire.uk",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-22T01:00:51.862Z",
-    "last_updated": "2026-11-22T01:00:51.862Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
     "published": "2026-11-22T00:11Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://shni.bearblog.dev/sat-nov-21/",
     "title": "sat nov 21",
     "author": "https://shni.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-22T04:00:51.908Z",
-    "last_updated": "2026-11-22T08:00:51.956Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
     "published": "2026-11-22T03:17Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://dead-internet.bearblog.dev/forever-alone/",
     "title": "Forever alone?",
     "author": "https://dead-internet.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-22T07:00:51.702Z",
-    "last_updated": "2026-11-22T16:00:52.086Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
     "published": "2026-11-22T06:29Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://lizziesthoughts.bearblog.dev/cool-stuff-in-my-blog/",
     "title": "cool stuff in my blog",
     "author": "https://lizziesthoughts.bearblog.dev",
-    "toasts": 20,
+    "toasts": 26,
     "first_seen": "2026-11-22T11:00:51.714Z",
-    "last_updated": "2026-11-22T19:00:51.831Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
     "published": "2026-11-22T10:21Z"
   },
   {
@@ -228,9 +228,9 @@
     "url": "https://itsme.bearblog.dev/the-etsy-betsy-spider/",
     "title": "The Etsy Betsy Spider",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 8,
+    "toasts": 12,
     "first_seen": "2026-11-22T13:00:51.570Z",
-    "last_updated": "2026-11-22T19:00:51.831Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
     "published": "2026-11-22T12:04Z"
   },
   {
@@ -291,9 +291,9 @@
     "url": "https://vinceblog.net/ai-generated-food-menus/",
     "title": "AI-Generated Food Menus",
     "author": "https://vinceblog.net",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-22T15:00:51.911Z",
-    "last_updated": "2026-11-22T18:00:51.737Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
     "published": "2026-11-22T13:00Z"
   },
   {
@@ -318,9 +318,9 @@
     "url": "https://coreyblogs.com/about-grief-love-and-jury-dufty/",
     "title": "...about grief, love, and jury duty.",
     "author": "https://coreyblogs.com",
-    "toasts": 12,
+    "toasts": 15,
     "first_seen": "2026-11-22T16:00:52.086Z",
-    "last_updated": "2026-11-22T19:00:51.831Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
     "published": "2026-11-22T15:24Z"
   },
   {
@@ -336,9 +336,9 @@
     "url": "https://grizzlygazette.bearblog.dev/how-i-post-to-bear-via-matrix/",
     "title": "How I post to bear via matrix",
     "author": "https://grizzlygazette.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-22T16:00:52.086Z",
-    "last_updated": "2026-11-22T19:00:51.831Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
     "published": "2026-11-22T15:43Z"
   },
   {
@@ -399,18 +399,18 @@
     "url": "https://angrybunnyman.com/i-got-my-first-angry-comment/",
     "title": "I got my first angry comment",
     "author": "https://angrybunnyman.com",
-    "toasts": 4,
+    "toasts": 9,
     "first_seen": "2026-11-22T18:00:51.737Z",
-    "last_updated": "2026-11-22T19:00:51.831Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
     "published": "2026-11-22T17:26Z"
   },
   {
     "url": "https://robertbirming.com/trusting-process/",
     "title": "Trusting the process",
     "author": "https://robertbirming.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-22T18:00:51.737Z",
-    "last_updated": "2026-11-22T19:00:51.831Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
     "published": "2026-11-22T17:05Z"
   },
   {
@@ -448,5 +448,59 @@
     "first_seen": "2026-11-22T19:00:51.831Z",
     "last_updated": "2026-11-22T19:00:51.831Z",
     "published": "2026-11-22T14:59Z"
+  },
+  {
+    "url": "https://giuls.bearblog.dev/who-you-were-always-meant-to-be/",
+    "title": "who you were always meant to be",
+    "author": "https://giuls.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-22T20:00:51.947Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
+    "published": "2026-11-22T19:11Z"
+  },
+  {
+    "url": "https://kirathe.io/a-little-corner/",
+    "title": "A Little Corner",
+    "author": "https://kirathe.io",
+    "toasts": 3,
+    "first_seen": "2026-11-22T20:00:51.947Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
+    "published": "2026-11-22T18:54Z"
+  },
+  {
+    "url": "https://selggiw.bearblog.dev/glitter-hair-glitter-everywhere/",
+    "title": "GLITTER HAIR, GLITTER EVERYWHERE!",
+    "author": "https://selggiw.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T20:00:51.947Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
+    "published": "2026-11-22T19:36Z"
+  },
+  {
+    "url": "https://conniesue.me/sunday-morning-drives-are-just-different-here/",
+    "title": "Sunday Morning Drives are Just Different Here",
+    "author": "https://conniesue.me",
+    "toasts": 2,
+    "first_seen": "2026-11-22T20:00:51.947Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
+    "published": "2026-11-22T19:29Z"
+  },
+  {
+    "url": "https://absence.bearblog.dev/field/",
+    "title": "Field",
+    "author": "https://absence.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T20:00:51.947Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
+    "published": "2026-11-22T10:59Z"
+  },
+  {
+    "url": "https://nonorbital.bearblog.dev/the-message/",
+    "title": "The message is not for you",
+    "author": "https://nonorbital.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T20:00:51.947Z",
+    "last_updated": "2026-11-22T20:00:51.947Z",
+    "published": "2026-11-22T09:47Z"
   }
 ]
