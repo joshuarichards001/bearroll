@@ -84,9 +84,9 @@
     "url": "https://manateeswake.bearblog.dev/squishy-noses/",
     "title": "squishy noses",
     "author": "https://manateeswake.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-22T05:00:52.015Z",
-    "last_updated": "2026-11-22T05:00:52.015Z",
+    "last_updated": "2026-11-22T10:00:51.788Z",
     "published": "2026-11-22T03:50Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://dead-internet.bearblog.dev/forever-alone/",
     "title": "Forever alone?",
     "author": "https://dead-internet.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-22T07:00:51.702Z",
-    "last_updated": "2026-11-22T09:00:51.744Z",
+    "last_updated": "2026-11-22T10:00:51.788Z",
     "published": "2026-11-22T06:29Z"
   },
   {
@@ -142,5 +142,23 @@
     "first_seen": "2026-11-22T08:00:51.956Z",
     "last_updated": "2026-11-22T09:00:51.744Z",
     "published": "2026-11-22T07:48Z"
+  },
+  {
+    "url": "https://monogatarimono.ink/the-open-door/",
+    "title": "The Open Door",
+    "author": "https://monogatarimono.ink",
+    "toasts": 2,
+    "first_seen": "2026-11-22T10:00:51.788Z",
+    "last_updated": "2026-11-22T10:00:51.788Z",
+    "published": "2026-11-22T08:40Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/polar-bears-in-london-latitude/",
+    "title": "Polar Bears In London-Latitude",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T10:00:51.788Z",
+    "last_updated": "2026-11-22T10:00:51.788Z",
+    "published": "2026-11-22T04:32Z"
   }
 ]
