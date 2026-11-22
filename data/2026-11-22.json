@@ -75,9 +75,9 @@
     "url": "https://developer-capybara.bearblog.dev/we-signed-up-for-this/",
     "title": "We signed up for this.",
     "author": "https://developer-capybara.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-22T05:00:52.015Z",
-    "last_updated": "2026-11-22T05:00:52.015Z",
+    "last_updated": "2026-11-22T07:00:51.702Z",
     "published": "2026-11-22T00:33Z"
   },
   {
@@ -106,5 +106,32 @@
     "first_seen": "2026-11-22T06:00:52.205Z",
     "last_updated": "2026-11-22T06:00:52.205Z",
     "published": "2026-11-22T05:00Z"
+  },
+  {
+    "url": "https://saeng.bearblog.dev/wildwood/",
+    "title": "\"Wildwood\" (US-American movie) [review]",
+    "author": "https://saeng.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T07:00:51.702Z",
+    "last_updated": "2026-11-22T07:00:51.702Z",
+    "published": "2026-11-22T06:50Z"
+  },
+  {
+    "url": "https://dead-internet.bearblog.dev/forever-alone/",
+    "title": "Forever alone?",
+    "author": "https://dead-internet.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T07:00:51.702Z",
+    "last_updated": "2026-11-22T07:00:51.702Z",
+    "published": "2026-11-22T06:29Z"
+  },
+  {
+    "url": "https://ayaanshah.blog/montreal-1/",
+    "title": "2 interesting days in montreal, QC, CA",
+    "author": "https://ayaanshah.blog",
+    "toasts": 2,
+    "first_seen": "2026-11-22T07:00:51.702Z",
+    "last_updated": "2026-11-22T07:00:51.702Z",
+    "published": "2026-11-22T06:27Z"
   }
 ]
