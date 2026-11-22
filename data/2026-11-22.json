@@ -102,18 +102,18 @@
     "url": "https://samuelpapin.com/a-software-antipattern-software-entanglement/",
     "title": "A software antipattern: Software Entanglement",
     "author": "https://samuelpapin.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-22T06:00:52.205Z",
-    "last_updated": "2026-11-22T11:00:51.714Z",
+    "last_updated": "2026-11-22T14:00:51.607Z",
     "published": "2026-11-22T05:00Z"
   },
   {
     "url": "https://saeng.bearblog.dev/wildwood/",
     "title": "\"Wildwood\" (US-American movie) [review]",
     "author": "https://saeng.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-22T07:00:51.702Z",
-    "last_updated": "2026-11-22T07:00:51.702Z",
+    "last_updated": "2026-11-22T14:00:51.607Z",
     "published": "2026-11-22T06:50Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://lizziesthoughts.bearblog.dev/cool-stuff-in-my-blog/",
     "title": "cool stuff in my blog",
     "author": "https://lizziesthoughts.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-22T11:00:51.714Z",
-    "last_updated": "2026-11-22T13:00:51.570Z",
+    "last_updated": "2026-11-22T14:00:51.607Z",
     "published": "2026-11-22T10:21Z"
   },
   {
@@ -250,5 +250,41 @@
     "first_seen": "2026-11-22T13:00:51.570Z",
     "last_updated": "2026-11-22T13:00:51.570Z",
     "published": "2026-11-22T12:18Z"
+  },
+  {
+    "url": "https://yoonsooyeon.com/9902/",
+    "title": "월말 전시상황",
+    "author": "https://yoonsooyeon.com",
+    "toasts": 2,
+    "first_seen": "2026-11-22T14:00:51.607Z",
+    "last_updated": "2026-11-22T14:00:51.607Z",
+    "published": "2026-11-22T13:51Z"
+  },
+  {
+    "url": "https://killingmythscom.bearblog.dev/przepraszamy-za-babcie-ale-to-wasza-wina-cz-ii/",
+    "title": "Przepraszamy za babcię, ale to wasza wina (cz. II)",
+    "author": "https://killingmythscom.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T14:00:51.607Z",
+    "last_updated": "2026-11-22T14:00:51.607Z",
+    "published": "2026-11-22T13:01Z"
+  },
+  {
+    "url": "https://th.blog.br/dancas-urbanas-em-3-atos/",
+    "title": "danças urbanas em 3 atos",
+    "author": "https://th.blog.br",
+    "toasts": 2,
+    "first_seen": "2026-11-22T14:00:51.607Z",
+    "last_updated": "2026-11-22T14:00:51.607Z",
+    "published": "2026-11-22T12:23Z"
+  },
+  {
+    "url": "https://monogatarimono.ink/window-to-what-it-costs/",
+    "title": "A Window to What It Costs",
+    "author": "https://monogatarimono.ink",
+    "toasts": 2,
+    "first_seen": "2026-11-22T14:00:51.607Z",
+    "last_updated": "2026-11-22T14:00:51.607Z",
+    "published": "2026-11-22T11:37Z"
   }
 ]
