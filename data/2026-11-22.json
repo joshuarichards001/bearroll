@@ -48,9 +48,9 @@
     "url": "https://shni.bearblog.dev/sat-nov-21/",
     "title": "sat nov 21",
     "author": "https://shni.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-22T04:00:51.908Z",
-    "last_updated": "2026-11-22T04:00:51.908Z",
+    "last_updated": "2026-11-22T05:00:52.015Z",
     "published": "2026-11-22T03:17Z"
   },
   {
@@ -70,5 +70,23 @@
     "first_seen": "2026-11-22T04:00:51.908Z",
     "last_updated": "2026-11-22T04:00:51.908Z",
     "published": "2026-11-22T03:06Z"
+  },
+  {
+    "url": "https://developer-capybara.bearblog.dev/we-signed-up-for-this/",
+    "title": "We signed up for this.",
+    "author": "https://developer-capybara.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-22T05:00:52.015Z",
+    "last_updated": "2026-11-22T05:00:52.015Z",
+    "published": "2026-11-22T00:33Z"
+  },
+  {
+    "url": "https://manateeswake.bearblog.dev/squishy-noses/",
+    "title": "squishy noses",
+    "author": "https://manateeswake.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T05:00:52.015Z",
+    "last_updated": "2026-11-22T05:00:52.015Z",
+    "published": "2026-11-22T03:50Z"
   }
 ]
