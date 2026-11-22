@@ -84,9 +84,9 @@
     "url": "https://manateeswake.bearblog.dev/squishy-noses/",
     "title": "squishy noses",
     "author": "https://manateeswake.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-22T05:00:52.015Z",
-    "last_updated": "2026-11-22T10:00:51.788Z",
+    "last_updated": "2026-11-22T17:00:51.736Z",
     "published": "2026-11-22T03:50Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://lizziesthoughts.bearblog.dev/cool-stuff-in-my-blog/",
     "title": "cool stuff in my blog",
     "author": "https://lizziesthoughts.bearblog.dev",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-11-22T11:00:51.714Z",
-    "last_updated": "2026-11-22T16:00:52.086Z",
+    "last_updated": "2026-11-22T17:00:51.736Z",
     "published": "2026-11-22T10:21Z"
   },
   {
@@ -183,9 +183,9 @@
     "url": "https://73pctgeek.com/nine-goblins-by-t-kingfisher/",
     "title": "Nine Goblins by T. Kingfisher",
     "author": "https://73pctgeek.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-22T11:00:51.714Z",
-    "last_updated": "2026-11-22T16:00:52.086Z",
+    "last_updated": "2026-11-22T17:00:51.736Z",
     "published": "2026-11-22T09:36Z"
   },
   {
@@ -237,9 +237,9 @@
     "url": "https://nautifools.bearblog.dev/nova-scotia-where-the-adventure-ends/",
     "title": "Nova Scotia, where the adventure ends",
     "author": "https://nautifools.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-22T13:00:51.570Z",
-    "last_updated": "2026-11-22T13:00:51.570Z",
+    "last_updated": "2026-11-22T17:00:51.736Z",
     "published": "2026-11-22T12:58Z"
   },
   {
@@ -318,9 +318,9 @@
     "url": "https://coreyblogs.com/about-grief-love-and-jury-dufty/",
     "title": "...about grief, love, and jury duty.",
     "author": "https://coreyblogs.com",
-    "toasts": 6,
+    "toasts": 9,
     "first_seen": "2026-11-22T16:00:52.086Z",
-    "last_updated": "2026-11-22T16:00:52.086Z",
+    "last_updated": "2026-11-22T17:00:51.736Z",
     "published": "2026-11-22T15:24Z"
   },
   {
@@ -336,9 +336,9 @@
     "url": "https://grizzlygazette.bearblog.dev/how-i-post-to-bear-via-matrix/",
     "title": "How I post to bear via matrix",
     "author": "https://grizzlygazette.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-22T16:00:52.086Z",
-    "last_updated": "2026-11-22T16:00:52.086Z",
+    "last_updated": "2026-11-22T17:00:51.736Z",
     "published": "2026-11-22T15:43Z"
   },
   {
@@ -358,5 +358,32 @@
     "first_seen": "2026-11-22T16:00:52.086Z",
     "last_updated": "2026-11-22T16:00:52.086Z",
     "published": "2026-11-22T13:03Z"
+  },
+  {
+    "url": "https://heyimbriel.bearblog.dev/o-que-sobra-quando-chega-o-fim/",
+    "title": "O que sobra quando chega o fim?",
+    "author": "https://heyimbriel.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-22T17:00:51.736Z",
+    "last_updated": "2026-11-22T17:00:51.736Z",
+    "published": "2026-11-22T16:19Z"
+  },
+  {
+    "url": "https://francescrossley.com/rituals-for-winter/",
+    "title": "Rituals for winter",
+    "author": "https://francescrossley.com",
+    "toasts": 2,
+    "first_seen": "2026-11-22T17:00:51.736Z",
+    "last_updated": "2026-11-22T17:00:51.736Z",
+    "published": "2026-11-22T17:00Z"
+  },
+  {
+    "url": "https://robj.blog/debian/",
+    "title": "Debian",
+    "author": "https://robj.blog",
+    "toasts": 2,
+    "first_seen": "2026-11-22T17:00:51.736Z",
+    "last_updated": "2026-11-22T17:00:51.736Z",
+    "published": "2026-11-22T13:22Z"
   }
 ]
