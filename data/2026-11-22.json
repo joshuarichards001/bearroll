@@ -88,5 +88,23 @@
     "first_seen": "2026-11-22T05:00:52.015Z",
     "last_updated": "2026-11-22T05:00:52.015Z",
     "published": "2026-11-22T03:50Z"
+  },
+  {
+    "url": "https://evanora.bearblog.dev/the-way-the-sun-hits-the-blades-of-grass-as-it-sets/",
+    "title": "the way the sun hits the blades of grass as it sets",
+    "author": "https://evanora.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T06:00:52.205Z",
+    "last_updated": "2026-11-22T06:00:52.205Z",
+    "published": "2026-11-22T05:16Z"
+  },
+  {
+    "url": "https://samuelpapin.com/a-software-antipattern-software-entanglement/",
+    "title": "A software antipattern: Software Entanglement",
+    "author": "https://samuelpapin.com",
+    "toasts": 2,
+    "first_seen": "2026-11-22T06:00:52.205Z",
+    "last_updated": "2026-11-22T06:00:52.205Z",
+    "published": "2026-11-22T05:00Z"
   }
 ]
