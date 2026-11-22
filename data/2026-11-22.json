@@ -120,9 +120,9 @@
     "url": "https://dead-internet.bearblog.dev/forever-alone/",
     "title": "Forever alone?",
     "author": "https://dead-internet.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-22T07:00:51.702Z",
-    "last_updated": "2026-11-22T10:00:51.788Z",
+    "last_updated": "2026-11-22T16:00:52.086Z",
     "published": "2026-11-22T06:29Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://lizziesthoughts.bearblog.dev/cool-stuff-in-my-blog/",
     "title": "cool stuff in my blog",
     "author": "https://lizziesthoughts.bearblog.dev",
-    "toasts": 5,
+    "toasts": 8,
     "first_seen": "2026-11-22T11:00:51.714Z",
-    "last_updated": "2026-11-22T14:00:51.607Z",
+    "last_updated": "2026-11-22T16:00:52.086Z",
     "published": "2026-11-22T10:21Z"
   },
   {
@@ -183,9 +183,9 @@
     "url": "https://73pctgeek.com/nine-goblins-by-t-kingfisher/",
     "title": "Nine Goblins by T. Kingfisher",
     "author": "https://73pctgeek.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-22T11:00:51.714Z",
-    "last_updated": "2026-11-22T11:00:51.714Z",
+    "last_updated": "2026-11-22T16:00:52.086Z",
     "published": "2026-11-22T09:36Z"
   },
   {
@@ -228,9 +228,9 @@
     "url": "https://itsme.bearblog.dev/the-etsy-betsy-spider/",
     "title": "The Etsy Betsy Spider",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-22T13:00:51.570Z",
-    "last_updated": "2026-11-22T15:00:51.911Z",
+    "last_updated": "2026-11-22T16:00:52.086Z",
     "published": "2026-11-22T12:04Z"
   },
   {
@@ -313,5 +313,50 @@
     "first_seen": "2026-11-22T15:00:51.911Z",
     "last_updated": "2026-11-22T15:00:51.911Z",
     "published": "2026-11-22T06:00Z"
+  },
+  {
+    "url": "https://coreyblogs.com/about-grief-love-and-jury-dufty/",
+    "title": "...about grief, love, and jury duty.",
+    "author": "https://coreyblogs.com",
+    "toasts": 6,
+    "first_seen": "2026-11-22T16:00:52.086Z",
+    "last_updated": "2026-11-22T16:00:52.086Z",
+    "published": "2026-11-22T15:24Z"
+  },
+  {
+    "url": "https://killingmythscom.bearblog.dev/were-sorry-about-grandma-but-its-your-own-fault-part-ii/",
+    "title": "We’re Sorry About Grandma, But It’s Your Own Fault (Part II)",
+    "author": "https://killingmythscom.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T16:00:52.086Z",
+    "last_updated": "2026-11-22T16:00:52.086Z",
+    "published": "2026-11-22T15:53Z"
+  },
+  {
+    "url": "https://grizzlygazette.bearblog.dev/how-i-post-to-bear-via-matrix/",
+    "title": "How I post to bear via matrix",
+    "author": "https://grizzlygazette.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T16:00:52.086Z",
+    "last_updated": "2026-11-22T16:00:52.086Z",
+    "published": "2026-11-22T15:43Z"
+  },
+  {
+    "url": "https://householderkarl.com/re-an-open-apology-to-householder-karl/",
+    "title": "Re: An Open Apology to Householder Karl",
+    "author": "https://householderkarl.com",
+    "toasts": 2,
+    "first_seen": "2026-11-22T16:00:52.086Z",
+    "last_updated": "2026-11-22T16:00:52.086Z",
+    "published": "2026-11-22T15:13Z"
+  },
+  {
+    "url": "https://blog.mudflower.earth/chicken/",
+    "title": "chicken",
+    "author": "https://blog.mudflower.earth",
+    "toasts": 2,
+    "first_seen": "2026-11-22T16:00:52.086Z",
+    "last_updated": "2026-11-22T16:00:52.086Z",
+    "published": "2026-11-22T13:03Z"
   }
 ]
