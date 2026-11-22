@@ -102,9 +102,9 @@
     "url": "https://samuelpapin.com/a-software-antipattern-software-entanglement/",
     "title": "A software antipattern: Software Entanglement",
     "author": "https://samuelpapin.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-22T06:00:52.205Z",
-    "last_updated": "2026-11-22T14:00:51.607Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
     "published": "2026-11-22T05:00Z"
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://lizziesthoughts.bearblog.dev/cool-stuff-in-my-blog/",
     "title": "cool stuff in my blog",
     "author": "https://lizziesthoughts.bearblog.dev",
-    "toasts": 15,
+    "toasts": 20,
     "first_seen": "2026-11-22T11:00:51.714Z",
-    "last_updated": "2026-11-22T18:00:51.737Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
     "published": "2026-11-22T10:21Z"
   },
   {
@@ -228,18 +228,18 @@
     "url": "https://itsme.bearblog.dev/the-etsy-betsy-spider/",
     "title": "The Etsy Betsy Spider",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-22T13:00:51.570Z",
-    "last_updated": "2026-11-22T16:00:52.086Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
     "published": "2026-11-22T12:04Z"
   },
   {
     "url": "https://nautifools.bearblog.dev/nova-scotia-where-the-adventure-ends/",
     "title": "Nova Scotia, where the adventure ends",
     "author": "https://nautifools.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-22T13:00:51.570Z",
-    "last_updated": "2026-11-22T18:00:51.737Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
     "published": "2026-11-22T12:58Z"
   },
   {
@@ -318,9 +318,9 @@
     "url": "https://coreyblogs.com/about-grief-love-and-jury-dufty/",
     "title": "...about grief, love, and jury duty.",
     "author": "https://coreyblogs.com",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-11-22T16:00:52.086Z",
-    "last_updated": "2026-11-22T18:00:51.737Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
     "published": "2026-11-22T15:24Z"
   },
   {
@@ -336,9 +336,9 @@
     "url": "https://grizzlygazette.bearblog.dev/how-i-post-to-bear-via-matrix/",
     "title": "How I post to bear via matrix",
     "author": "https://grizzlygazette.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-22T16:00:52.086Z",
-    "last_updated": "2026-11-22T18:00:51.737Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
     "published": "2026-11-22T15:43Z"
   },
   {
@@ -390,27 +390,63 @@
     "url": "https://smallquiet.bearblog.dev/a-note-on-crashes/",
     "title": "A note on crashes",
     "author": "https://smallquiet.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-22T18:00:51.737Z",
-    "last_updated": "2026-11-22T18:00:51.737Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
     "published": "2026-11-22T16:42Z"
   },
   {
     "url": "https://angrybunnyman.com/i-got-my-first-angry-comment/",
     "title": "I got my first angry comment",
     "author": "https://angrybunnyman.com",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-22T18:00:51.737Z",
-    "last_updated": "2026-11-22T18:00:51.737Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
     "published": "2026-11-22T17:26Z"
   },
   {
     "url": "https://robertbirming.com/trusting-process/",
     "title": "Trusting the process",
     "author": "https://robertbirming.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-22T18:00:51.737Z",
-    "last_updated": "2026-11-22T18:00:51.737Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
     "published": "2026-11-22T17:05Z"
+  },
+  {
+    "url": "https://nburchett.com/simulation-weather/",
+    "title": "Simulation Weather",
+    "author": "https://nburchett.com",
+    "toasts": 5,
+    "first_seen": "2026-11-22T19:00:51.831Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
+    "published": "2026-11-22T17:59Z"
+  },
+  {
+    "url": "https://notesfromzack.com/how-to-love-a-city/",
+    "title": "How to love a city (for you, Oshawa)",
+    "author": "https://notesfromzack.com",
+    "toasts": 2,
+    "first_seen": "2026-11-22T19:00:51.831Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
+    "published": "2026-11-22T17:50Z"
+  },
+  {
+    "url": "https://passionsvives.bearblog.dev/horse-girl/",
+    "title": "Horse Girl",
+    "author": "https://passionsvives.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-22T19:00:51.831Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
+    "published": "2026-11-22T16:24Z"
+  },
+  {
+    "url": "https://73pctgeek.com/weekly-links-26-47/",
+    "title": "Weekly Links 26-47",
+    "author": "https://73pctgeek.com",
+    "toasts": 2,
+    "first_seen": "2026-11-22T19:00:51.831Z",
+    "last_updated": "2026-11-22T19:00:51.831Z",
+    "published": "2026-11-22T14:59Z"
   }
 ]
