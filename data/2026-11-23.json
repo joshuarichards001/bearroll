@@ -48,9 +48,9 @@
     "url": "https://ashesoftitans.bearblog.dev/a-crisis-of-hobby/",
     "title": "A Crisis of Hobby",
     "author": "https://ashesoftitans.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-23T03:00:51.722Z",
-    "last_updated": "2026-11-23T03:00:51.722Z",
+    "last_updated": "2026-11-23T05:00:51.957Z",
     "published": "2026-11-23T02:18Z"
   },
   {
@@ -79,5 +79,32 @@
     "first_seen": "2026-11-23T04:00:51.628Z",
     "last_updated": "2026-11-23T04:00:51.628Z",
     "published": "2026-11-23T03:50Z"
+  },
+  {
+    "url": "https://notes.seantaylor.work/mumbling-ideas-into-existence/",
+    "title": "Mumbling Ideas Into Existence",
+    "author": "https://notes.seantaylor.work",
+    "toasts": 2,
+    "first_seen": "2026-11-23T05:00:51.957Z",
+    "last_updated": "2026-11-23T05:00:51.957Z",
+    "published": "2026-11-23T04:30Z"
+  },
+  {
+    "url": "https://silas.bearblog.dev/divisible-by-11/",
+    "title": "divisible by 11",
+    "author": "https://silas.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-23T05:00:51.957Z",
+    "last_updated": "2026-11-23T05:00:51.957Z",
+    "published": "2026-11-23T03:35Z"
+  },
+  {
+    "url": "https://leeraedee.org/a-little-green-goblin-looking-away/",
+    "title": "A little green goblin looking away",
+    "author": "https://leeraedee.org",
+    "toasts": 2,
+    "first_seen": "2026-11-23T05:00:51.957Z",
+    "last_updated": "2026-11-23T05:00:51.957Z",
+    "published": "2026-11-23T03:15Z"
   }
 ]
