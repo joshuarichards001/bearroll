@@ -39,9 +39,9 @@
     "url": "https://sillyletters.bearblog.dev/on-my-love-for-blogs/",
     "title": "on my love for blogs",
     "author": "https://sillyletters.bearblog.dev",
-    "toasts": 19,
+    "toasts": 20,
     "first_seen": "2026-11-23T03:00:51.722Z",
-    "last_updated": "2026-11-23T14:00:51.604Z",
+    "last_updated": "2026-11-23T16:00:51.756Z",
     "published": "2026-11-23T02:08Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://selggiw.bearblog.dev/i-got-my-first-hate-email-on-bearblog/",
     "title": "I Got My First Hate Email On Bearblog!",
     "author": "https://selggiw.bearblog.dev",
-    "toasts": 25,
+    "toasts": 27,
     "first_seen": "2026-11-23T10:00:51.737Z",
-    "last_updated": "2026-11-23T15:00:51.922Z",
+    "last_updated": "2026-11-23T16:00:51.756Z",
     "published": "2026-11-23T09:49Z"
   },
   {
@@ -327,9 +327,9 @@
     "url": "https://ivikrant.net/new-destination-bear-blog/",
     "title": "New Destination : Bear Blog",
     "author": "https://ivikrant.net",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-23T12:00:52.571Z",
-    "last_updated": "2026-11-23T14:00:51.604Z",
+    "last_updated": "2026-11-23T16:00:51.756Z",
     "published": "2026-11-23T10:52Z"
   },
   {
@@ -390,9 +390,9 @@
     "url": "https://mgx.bearblog.dev/people-are-people/",
     "title": "People are people",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 4,
+    "toasts": 6,
     "first_seen": "2026-11-23T14:00:51.604Z",
-    "last_updated": "2026-11-23T15:00:51.922Z",
+    "last_updated": "2026-11-23T16:00:51.756Z",
     "published": "2026-11-23T11:55Z"
   },
   {
@@ -426,9 +426,9 @@
     "url": "https://midwest.best/week-eight-recapweek-nine-preview/",
     "title": "Week Eight Recap/Week Nine Preview",
     "author": "https://midwest.best",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-23T15:00:51.922Z",
-    "last_updated": "2026-11-23T15:00:51.922Z",
+    "last_updated": "2026-11-23T16:00:51.756Z",
     "published": "2026-11-23T14:14Z"
   },
   {
@@ -466,5 +466,32 @@
     "first_seen": "2026-11-23T15:00:51.922Z",
     "last_updated": "2026-11-23T15:00:51.922Z",
     "published": "2026-11-23T07:57Z"
+  },
+  {
+    "url": "https://emeraldsip.cafe/matcha-okumidori-unearthed/",
+    "title": "Matcha Okumidori via Unearthed",
+    "author": "https://emeraldsip.cafe",
+    "toasts": 3,
+    "first_seen": "2026-11-23T16:00:51.756Z",
+    "last_updated": "2026-11-23T16:00:51.756Z",
+    "published": "2026-11-23T14:33Z"
+  },
+  {
+    "url": "https://www.javis.me/italy02/",
+    "title": "意大利十三天（中）",
+    "author": "https://www.javis.me",
+    "toasts": 2,
+    "first_seen": "2026-11-23T16:00:51.756Z",
+    "last_updated": "2026-11-23T16:00:51.756Z",
+    "published": "2026-11-23T16:00Z"
+  },
+  {
+    "url": "https://explicatingelle.bearblog.dev/book-and-reading-tracker-apps/",
+    "title": "Book and Reading Tracker Apps",
+    "author": "https://explicatingelle.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-23T16:00:51.756Z",
+    "last_updated": "2026-11-23T16:00:51.756Z",
+    "published": "2026-11-23T14:30Z"
   }
 ]
