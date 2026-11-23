@@ -111,18 +111,18 @@
     "url": "https://torn.bearblog.dev/what-makes-a-villain-roger-of-roguetown/",
     "title": "Roger of Roguetown",
     "author": "https://torn.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-23T06:00:51.723Z",
-    "last_updated": "2026-11-23T07:00:51.582Z",
+    "last_updated": "2026-11-23T08:00:51.723Z",
     "published": "2026-11-23T05:07Z"
   },
   {
     "url": "https://blog.solazy.me/20261123/",
     "title": "不要和蠢人打交道",
     "author": "https://blog.solazy.me",
-    "toasts": 4,
+    "toasts": 6,
     "first_seen": "2026-11-23T06:00:51.723Z",
-    "last_updated": "2026-11-23T07:00:51.582Z",
+    "last_updated": "2026-11-23T08:00:51.723Z",
     "published": "2026-11-23T03:00Z"
   },
   {
@@ -138,9 +138,45 @@
     "url": "https://venado.bearblog.dev/the-implications-of-recovery-pho-finding-lost-items-and-long-grey-hair/",
     "title": "the implications of recovery pho, finding lost items, and long grey hair",
     "author": "https://venado.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-23T07:00:51.582Z",
-    "last_updated": "2026-11-23T07:00:51.582Z",
+    "last_updated": "2026-11-23T08:00:51.723Z",
     "published": "2026-11-23T06:58Z"
+  },
+  {
+    "url": "https://unturnedhovel.bearblog.dev/how-to-win-at-games-an-angel-has-fallen-retrospective/",
+    "title": "How to Win at Games (An Angel Has Fallen Retrospective)",
+    "author": "https://unturnedhovel.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-11-23T08:00:51.723Z",
+    "last_updated": "2026-11-23T08:00:51.723Z",
+    "published": "2026-11-23T07:04Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/we-got-a-los-angeles-metroboard/",
+    "title": "We got a Los Angeles Metroboard",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 3,
+    "first_seen": "2026-11-23T08:00:51.723Z",
+    "last_updated": "2026-11-23T08:00:51.723Z",
+    "published": "2026-11-23T07:39Z"
+  },
+  {
+    "url": "https://73pctgeek.com/1058/",
+    "title": "1058",
+    "author": "https://73pctgeek.com",
+    "toasts": 2,
+    "first_seen": "2026-11-23T08:00:51.723Z",
+    "last_updated": "2026-11-23T08:00:51.723Z",
+    "published": "2026-11-23T07:34Z"
+  },
+  {
+    "url": "https://winswords.bearblog.dev/new-post/",
+    "title": "New post",
+    "author": "https://winswords.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-23T08:00:51.723Z",
+    "last_updated": "2026-11-23T08:00:51.723Z",
+    "published": "2026-11-23T06:59Z"
   }
 ]
