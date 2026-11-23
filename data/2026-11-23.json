@@ -111,9 +111,9 @@
     "url": "https://torn.bearblog.dev/what-makes-a-villain-roger-of-roguetown/",
     "title": "Roger of Roguetown",
     "author": "https://torn.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-23T06:00:51.723Z",
-    "last_updated": "2026-11-23T08:00:51.723Z",
+    "last_updated": "2026-11-23T23:00:51.739Z",
     "published": "2026-11-23T05:07Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://selggiw.bearblog.dev/i-got-my-first-hate-email-on-bearblog/",
     "title": "I Got My First Hate Email On Bearblog!",
     "author": "https://selggiw.bearblog.dev",
-    "toasts": 47,
+    "toasts": 49,
     "first_seen": "2026-11-23T10:00:51.737Z",
-    "last_updated": "2026-11-23T22:00:51.886Z",
+    "last_updated": "2026-11-23T23:00:51.739Z",
     "published": "2026-11-23T09:49Z"
   },
   {
@@ -390,9 +390,9 @@
     "url": "https://mgx.bearblog.dev/people-are-people/",
     "title": "People are people",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-11-23T14:00:51.604Z",
-    "last_updated": "2026-11-23T20:00:52.544Z",
+    "last_updated": "2026-11-23T23:00:51.739Z",
     "published": "2026-11-23T11:55Z"
   },
   {
@@ -534,9 +534,9 @@
     "url": "https://blog.fiddery.com/life-lately-nov-photo-dump/",
     "title": "life lately - nov photo dump",
     "author": "https://blog.fiddery.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-23T18:00:51.978Z",
-    "last_updated": "2026-11-23T18:00:51.978Z",
+    "last_updated": "2026-11-23T23:00:51.739Z",
     "published": "2026-11-23T17:36Z"
   },
   {
@@ -588,9 +588,9 @@
     "url": "https://blog.dessy.me/moss-grows-on-everything/",
     "title": "Moss Grows on Everything, Even Anxiety",
     "author": "https://blog.dessy.me",
-    "toasts": 6,
+    "toasts": 9,
     "first_seen": "2026-11-23T19:00:51.955Z",
-    "last_updated": "2026-11-23T21:00:52.139Z",
+    "last_updated": "2026-11-23T23:00:51.739Z",
     "published": "2026-11-23T18:36Z"
   },
   {
@@ -736,5 +736,32 @@
     "first_seen": "2026-11-23T22:00:51.886Z",
     "last_updated": "2026-11-23T22:00:51.886Z",
     "published": "2026-11-23T17:00Z"
+  },
+  {
+    "url": "https://jollyanchorblog.bearblog.dev/things-are-ok/",
+    "title": "Things are ok",
+    "author": "https://jollyanchorblog.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-23T23:00:51.739Z",
+    "last_updated": "2026-11-23T23:00:51.739Z",
+    "published": "2026-11-23T22:45Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/janks-100-free-games-list/",
+    "title": "Jank's 100 free games list",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 2,
+    "first_seen": "2026-11-23T23:00:51.739Z",
+    "last_updated": "2026-11-23T23:00:51.739Z",
+    "published": "2026-11-23T22:19Z"
+  },
+  {
+    "url": "https://notesonmydesk.top/sometimes-you-just-wanna-be-meowth-but/",
+    "title": "Sometimes you just wanna be Meowth, but",
+    "author": "https://notesonmydesk.top",
+    "toasts": 2,
+    "first_seen": "2026-11-23T23:00:51.739Z",
+    "last_updated": "2026-11-23T23:00:51.739Z",
+    "published": "2026-11-23T20:11Z"
   }
 ]
