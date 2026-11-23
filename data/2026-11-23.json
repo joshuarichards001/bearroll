@@ -39,54 +39,54 @@
     "url": "https://sillyletters.bearblog.dev/on-my-love-for-blogs/",
     "title": "on my love for blogs",
     "author": "https://sillyletters.bearblog.dev",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-11-23T03:00:51.722Z",
-    "last_updated": "2026-11-23T07:00:51.582Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
     "published": "2026-11-23T02:08Z"
   },
   {
     "url": "https://ashesoftitans.bearblog.dev/a-crisis-of-hobby/",
     "title": "A Crisis of Hobby",
     "author": "https://ashesoftitans.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-23T03:00:51.722Z",
-    "last_updated": "2026-11-23T05:00:51.957Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
     "published": "2026-11-23T02:18Z"
   },
   {
     "url": "https://dead-internet.bearblog.dev/liking-the-image-of-myself-doing-things/",
     "title": "Liking the image of myself doing things",
     "author": "https://dead-internet.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-23T03:00:51.722Z",
-    "last_updated": "2026-11-23T03:00:51.722Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
     "published": "2026-11-23T02:33Z"
   },
   {
     "url": "https://nextchapter.bearblog.dev/monday-is-delivery-day/",
     "title": "Monday is delivery day!",
     "author": "https://nextchapter.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-23T04:00:51.628Z",
-    "last_updated": "2026-11-23T07:00:51.582Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
     "published": "2026-11-23T02:48Z"
   },
   {
     "url": "https://openpluto.com/my-iphone-ate-my-obsidian-settings/",
     "title": "My iPhone Ate My Obsidian Settings",
     "author": "https://openpluto.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-23T04:00:51.628Z",
-    "last_updated": "2026-11-23T04:00:51.628Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
     "published": "2026-11-23T03:50Z"
   },
   {
     "url": "https://notes.seantaylor.work/mumbling-ideas-into-existence/",
     "title": "Mumbling Ideas Into Existence",
     "author": "https://notes.seantaylor.work",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-23T05:00:51.957Z",
-    "last_updated": "2026-11-23T05:00:51.957Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
     "published": "2026-11-23T04:30Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://leeraedee.org/a-little-green-goblin-looking-away/",
     "title": "A little green goblin looking away",
     "author": "https://leeraedee.org",
-    "toasts": 2,
+    "toasts": 5,
     "first_seen": "2026-11-23T05:00:51.957Z",
-    "last_updated": "2026-11-23T05:00:51.957Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
     "published": "2026-11-23T03:15Z"
   },
   {
@@ -129,18 +129,18 @@
     "url": "https://samschutte.com/introducing-bearpress-a-wordpress-shaped-door-into-bear/",
     "title": "Introducing BearPress: Write Your Bear Posts with Wordpress Editors",
     "author": "https://samschutte.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-23T06:00:51.723Z",
-    "last_updated": "2026-11-23T07:00:51.582Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
     "published": "2026-11-23T02:26Z"
   },
   {
     "url": "https://venado.bearblog.dev/the-implications-of-recovery-pho-finding-lost-items-and-long-grey-hair/",
     "title": "the implications of recovery pho, finding lost items, and long grey hair",
     "author": "https://venado.bearblog.dev",
-    "toasts": 3,
+    "toasts": 6,
     "first_seen": "2026-11-23T07:00:51.582Z",
-    "last_updated": "2026-11-23T08:00:51.723Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
     "published": "2026-11-23T06:58Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://blog.lauramichet.com/we-got-a-los-angeles-metroboard/",
     "title": "We got a Los Angeles Metroboard",
     "author": "https://blog.lauramichet.com",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-11-23T08:00:51.723Z",
-    "last_updated": "2026-11-23T08:00:51.723Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
     "published": "2026-11-23T07:39Z"
   },
   {
@@ -178,5 +178,77 @@
     "first_seen": "2026-11-23T08:00:51.723Z",
     "last_updated": "2026-11-23T08:00:51.723Z",
     "published": "2026-11-23T06:59Z"
+  },
+  {
+    "url": "https://weatherlinguist.bearblog.dev/in-praise-of-randomness-lessons-from-nassim-taleb-on-antifragility/",
+    "title": "In praise of randomness: lessons from Nassim Taleb on antifragility",
+    "author": "https://weatherlinguist.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-23T09:00:51.653Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
+    "published": "2026-11-23T08:22Z"
+  },
+  {
+    "url": "https://vinceblog.net/this-is-what-is-it-is/",
+    "title": "This Is What Is It Is",
+    "author": "https://vinceblog.net",
+    "toasts": 4,
+    "first_seen": "2026-11-23T09:00:51.653Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
+    "published": "2026-11-23T03:51Z"
+  },
+  {
+    "url": "https://www.susannedoesthesouthwest.com/los-angeles-california/",
+    "title": "Final Stop: Los Angeles",
+    "author": "https://www.susannedoesthesouthwest.com",
+    "toasts": 3,
+    "first_seen": "2026-11-23T09:00:51.653Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
+    "published": "2026-11-23T08:25Z"
+  },
+  {
+    "url": "https://afterstan.bearblog.dev/scolopendra/",
+    "title": "Scolopendra",
+    "author": "https://afterstan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-23T09:00:51.653Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
+    "published": "2026-11-23T08:08Z"
+  },
+  {
+    "url": "https://emma.bearblog.dev/fighting-sad/",
+    "title": "Ways to stay sane during the winter months",
+    "author": "https://emma.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-23T09:00:51.653Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
+    "published": "2026-11-23T07:36Z"
+  },
+  {
+    "url": "https://sugarforbrains.bearblog.dev/thoughts-on-gossip/",
+    "title": "thoughts on gossip",
+    "author": "https://sugarforbrains.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-23T09:00:51.653Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
+    "published": "2026-11-23T04:19Z"
+  },
+  {
+    "url": "https://rabbit-reading.bearblog.dev/day-54-stephen-foster-william-faulkner-erich-fromm/",
+    "title": "Day 54: Stephen Foster, William Faulkner, Erich Fromm",
+    "author": "https://rabbit-reading.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-23T09:00:51.653Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
+    "published": "2026-11-23T02:48Z"
+  },
+  {
+    "url": "https://www.stuartwatkinson.com/purple-flowers/",
+    "title": "purple flowers and pine leaves",
+    "author": "https://www.stuartwatkinson.com",
+    "toasts": 2,
+    "first_seen": "2026-11-23T09:00:51.653Z",
+    "last_updated": "2026-11-23T09:00:51.653Z",
+    "published": "2026-11-23T01:52Z"
   }
 ]
