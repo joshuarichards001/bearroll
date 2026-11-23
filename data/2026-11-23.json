@@ -39,9 +39,9 @@
     "url": "https://sillyletters.bearblog.dev/on-my-love-for-blogs/",
     "title": "on my love for blogs",
     "author": "https://sillyletters.bearblog.dev",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-11-23T03:00:51.722Z",
-    "last_updated": "2026-11-23T03:00:51.722Z",
+    "last_updated": "2026-11-23T06:00:51.723Z",
     "published": "2026-11-23T02:08Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://silas.bearblog.dev/divisible-by-11/",
     "title": "divisible by 11",
     "author": "https://silas.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-23T05:00:51.957Z",
-    "last_updated": "2026-11-23T05:00:51.957Z",
+    "last_updated": "2026-11-23T06:00:51.723Z",
     "published": "2026-11-23T03:35Z"
   },
   {
@@ -106,5 +106,32 @@
     "first_seen": "2026-11-23T05:00:51.957Z",
     "last_updated": "2026-11-23T05:00:51.957Z",
     "published": "2026-11-23T03:15Z"
+  },
+  {
+    "url": "https://torn.bearblog.dev/what-makes-a-villain-roger-of-roguetown/",
+    "title": "Roger of Roguetown",
+    "author": "https://torn.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-23T06:00:51.723Z",
+    "last_updated": "2026-11-23T06:00:51.723Z",
+    "published": "2026-11-23T05:07Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20261123/",
+    "title": "不要和蠢人打交道",
+    "author": "https://blog.solazy.me",
+    "toasts": 2,
+    "first_seen": "2026-11-23T06:00:51.723Z",
+    "last_updated": "2026-11-23T06:00:51.723Z",
+    "published": "2026-11-23T03:00Z"
+  },
+  {
+    "url": "https://samschutte.com/introducing-bearpress-a-wordpress-shaped-door-into-bear/",
+    "title": "Introducing BearPress: Write Your Bear Posts with Wordpress Editors",
+    "author": "https://samschutte.com",
+    "toasts": 2,
+    "first_seen": "2026-11-23T06:00:51.723Z",
+    "last_updated": "2026-11-23T06:00:51.723Z",
+    "published": "2026-11-23T02:26Z"
   }
 ]
