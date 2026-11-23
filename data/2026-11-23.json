@@ -39,18 +39,18 @@
     "url": "https://sillyletters.bearblog.dev/on-my-love-for-blogs/",
     "title": "on my love for blogs",
     "author": "https://sillyletters.bearblog.dev",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-11-23T03:00:51.722Z",
-    "last_updated": "2026-11-23T12:00:52.571Z",
+    "last_updated": "2026-11-23T13:00:51.555Z",
     "published": "2026-11-23T02:08Z"
   },
   {
     "url": "https://ashesoftitans.bearblog.dev/a-crisis-of-hobby/",
     "title": "A Crisis of Hobby",
     "author": "https://ashesoftitans.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-23T03:00:51.722Z",
-    "last_updated": "2026-11-23T12:00:52.571Z",
+    "last_updated": "2026-11-23T13:00:51.555Z",
     "published": "2026-11-23T02:18Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://blog.lauramichet.com/we-got-a-los-angeles-metroboard/",
     "title": "We got a Los Angeles Metroboard",
     "author": "https://blog.lauramichet.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-23T08:00:51.723Z",
-    "last_updated": "2026-11-23T10:00:51.737Z",
+    "last_updated": "2026-11-23T13:00:51.555Z",
     "published": "2026-11-23T07:39Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://selggiw.bearblog.dev/i-got-my-first-hate-email-on-bearblog/",
     "title": "I Got My First Hate Email On Bearblog!",
     "author": "https://selggiw.bearblog.dev",
-    "toasts": 16,
+    "toasts": 20,
     "first_seen": "2026-11-23T10:00:51.737Z",
-    "last_updated": "2026-11-23T12:00:52.571Z",
+    "last_updated": "2026-11-23T13:00:51.555Z",
     "published": "2026-11-23T09:49Z"
   },
   {
@@ -291,9 +291,9 @@
     "url": "https://tsitsiflora.bearblog.dev/somehow-we-are-all-sick/",
     "title": "Somehow we are all sick",
     "author": "https://tsitsiflora.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-23T11:00:51.996Z",
-    "last_updated": "2026-11-23T12:00:52.571Z",
+    "last_updated": "2026-11-23T13:00:51.555Z",
     "published": "2026-11-23T10:29Z"
   },
   {
@@ -327,9 +327,9 @@
     "url": "https://ivikrant.net/new-destination-bear-blog/",
     "title": "New Destination : Bear Blog",
     "author": "https://ivikrant.net",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-23T12:00:52.571Z",
-    "last_updated": "2026-11-23T12:00:52.571Z",
+    "last_updated": "2026-11-23T13:00:51.555Z",
     "published": "2026-11-23T10:52Z"
   },
   {
@@ -358,5 +358,23 @@
     "first_seen": "2026-11-23T12:00:52.571Z",
     "last_updated": "2026-11-23T12:00:52.571Z",
     "published": "2026-11-23T10:34Z"
+  },
+  {
+    "url": "https://th.blog.br/peca-de-teatro-de-a-metamorfose/",
+    "title": "peça de teatro de \"A metamorfose\"",
+    "author": "https://th.blog.br",
+    "toasts": 2,
+    "first_seen": "2026-11-23T13:00:51.555Z",
+    "last_updated": "2026-11-23T13:00:51.555Z",
+    "published": "2026-11-23T12:25Z"
+  },
+  {
+    "url": "https://centraldequeixas.bearblog.dev/pode-entrar-numa-chamada/",
+    "title": "pode entrar numa chamada?",
+    "author": "https://centraldequeixas.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-23T13:00:51.555Z",
+    "last_updated": "2026-11-23T13:00:51.555Z",
+    "published": "2026-11-23T11:30Z"
   }
 ]
