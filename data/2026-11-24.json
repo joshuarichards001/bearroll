@@ -21,9 +21,9 @@
     "url": "https://jdtorian.com/the-life-and-death-of-buying-cassettes-vs-buying-records/",
     "title": "The Life-and-Death of Buying Cassettes vs Buying Records",
     "author": "https://jdtorian.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-24T02:00:52.325Z",
-    "last_updated": "2026-11-24T03:00:51.733Z",
+    "last_updated": "2026-11-24T09:00:52.113Z",
     "published": "2026-11-24T01:41Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://rnotte.art/dont-you-have-anything-better-to-do/",
     "title": "don't you have anything better to do?",
     "author": "https://rnotte.art",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-24T03:00:51.733Z",
-    "last_updated": "2026-11-24T08:00:51.901Z",
+    "last_updated": "2026-11-24T09:00:52.113Z",
     "published": "2026-11-24T01:46Z"
   },
   {
     "url": "https://sleepyram.bearblog.dev/do-nothing/",
     "title": "Do nothing",
     "author": "https://sleepyram.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-24T03:00:51.733Z",
-    "last_updated": "2026-11-24T08:00:51.901Z",
+    "last_updated": "2026-11-24T09:00:52.113Z",
     "published": "2026-11-24T00:50Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://anani.bearblog.dev/i-think-i-owe-brussels-an-apology/",
     "title": "I think I owe Brussels an apology",
     "author": "https://anani.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-24T04:00:51.666Z",
-    "last_updated": "2026-11-24T05:00:51.991Z",
+    "last_updated": "2026-11-24T09:00:52.113Z",
     "published": "2026-11-24T03:02Z"
   },
   {
@@ -147,18 +147,18 @@
     "url": "https://unturnedhovel.bearblog.dev/a-hobby-of-failures/",
     "title": "A Hobby of Failures",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T08:00:51.901Z",
+    "last_updated": "2026-11-24T09:00:52.113Z",
     "published": "2026-11-24T07:04Z"
   },
   {
     "url": "https://herman.bearblog.dev/comments-and-emails/",
     "title": "Comments and emails",
     "author": "https://herman.bearblog.dev",
-    "toasts": 6,
+    "toasts": 17,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T08:00:51.901Z",
+    "last_updated": "2026-11-24T09:00:52.113Z",
     "published": "2026-11-24T07:16Z"
   },
   {
@@ -183,9 +183,45 @@
     "url": "https://sudelbuch.bearblog.dev/berlin-in-pictures/",
     "title": "Berlin in Pictures: Karl-Marx-Platz (2026)",
     "author": "https://sudelbuch.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T08:00:51.901Z",
+    "last_updated": "2026-11-24T09:00:52.113Z",
     "published": "2026-11-24T07:00Z"
+  },
+  {
+    "url": "https://lelelife.bearblog.dev/3144/",
+    "title": "電梯對話練習",
+    "author": "https://lelelife.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T09:00:52.113Z",
+    "last_updated": "2026-11-24T09:00:52.113Z",
+    "published": "2026-11-24T08:32Z"
+  },
+  {
+    "url": "https://mariah.bearblog.dev/weeknotes-112326/",
+    "title": "weeknotes 112326",
+    "author": "https://mariah.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T09:00:52.113Z",
+    "last_updated": "2026-11-24T09:00:52.113Z",
+    "published": "2026-11-24T07:49Z"
+  },
+  {
+    "url": "https://blog.mrmarchant.com/the-oc-zoo-november-15th-2026/",
+    "title": "The OC Zoo; November 15th, 2026",
+    "author": "https://blog.mrmarchant.com",
+    "toasts": 2,
+    "first_seen": "2026-11-24T09:00:52.113Z",
+    "last_updated": "2026-11-24T09:00:52.113Z",
+    "published": "2026-11-24T05:45Z"
+  },
+  {
+    "url": "https://meoww.bearblog.dev/dear-human-beings/",
+    "title": "Dear Human Beings,",
+    "author": "https://meoww.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T09:00:52.113Z",
+    "last_updated": "2026-11-24T09:00:52.113Z",
+    "published": "2026-11-24T04:53Z"
   }
 ]
