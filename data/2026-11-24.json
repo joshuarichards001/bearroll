@@ -48,9 +48,9 @@
     "url": "https://rnotte.art/dont-you-have-anything-better-to-do/",
     "title": "don't you have anything better to do?",
     "author": "https://rnotte.art",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-11-24T03:00:51.733Z",
-    "last_updated": "2026-11-24T11:00:52.663Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
     "published": "2026-11-24T01:46Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://cultnorthwest.com/told-you-so/",
     "title": "Told You So: I-638 Is Coming for the Girls It Promised to Protect",
     "author": "https://cultnorthwest.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-24T03:00:51.733Z",
-    "last_updated": "2026-11-24T12:00:52.481Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
     "published": "2026-11-24T01:44Z"
   },
   {
@@ -147,18 +147,18 @@
     "url": "https://unturnedhovel.bearblog.dev/a-hobby-of-failures/",
     "title": "A Hobby of Failures",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T12:00:52.481Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
     "published": "2026-11-24T07:04Z"
   },
   {
     "url": "https://herman.bearblog.dev/comments-and-emails/",
     "title": "Comments and emails",
     "author": "https://herman.bearblog.dev",
-    "toasts": 42,
+    "toasts": 48,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T12:00:52.481Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
     "published": "2026-11-24T07:16Z"
   },
   {
@@ -255,9 +255,9 @@
     "url": "https://galacticman.bearblog.dev/fuck-ai/",
     "title": "Fuck AI",
     "author": "https://galacticman.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-24T12:00:52.481Z",
-    "last_updated": "2026-11-24T12:00:52.481Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
     "published": "2026-11-24T10:31Z"
   },
   {
@@ -295,5 +295,68 @@
     "first_seen": "2026-11-24T12:00:52.481Z",
     "last_updated": "2026-11-24T12:00:52.481Z",
     "published": "2026-11-24T04:48Z"
+  },
+  {
+    "url": "https://nburchett.com/the-stranger-has-my-face/",
+    "title": "The Stranger Has My Face",
+    "author": "https://nburchett.com",
+    "toasts": 5,
+    "first_seen": "2026-11-24T13:00:51.882Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
+    "published": "2026-11-24T13:00Z"
+  },
+  {
+    "url": "https://nibreok.bearblog.dev/japan-travels-pt-4/",
+    "title": "Japan Travels Pt. 4",
+    "author": "https://nibreok.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T13:00:51.882Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
+    "published": "2026-11-24T12:50Z"
+  },
+  {
+    "url": "https://savvynormie.com/i-got-everything-else-right-i-still-felt-like-i-was-losing/",
+    "title": "I Got Everything ELSE Right. I Still Felt Like I Was Losing",
+    "author": "https://savvynormie.com",
+    "toasts": 2,
+    "first_seen": "2026-11-24T13:00:51.882Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
+    "published": "2026-11-24T12:46Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/the-humanitarian-award-goes-to-rnotte/",
+    "title": "The Humanitarian award goes to: rnotte",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T13:00:51.882Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
+    "published": "2026-11-24T12:44Z"
+  },
+  {
+    "url": "https://nexo.bearblog.dev/escrevo-para-ver-alem-da-neblina/",
+    "title": "Escrevo para ver além da neblina",
+    "author": "https://nexo.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T13:00:51.882Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
+    "published": "2026-11-24T12:31Z"
+  },
+  {
+    "url": "https://etan.bearblog.dev/two-lines-earlier/",
+    "title": "What If the AI Suggests I End the Poem Two Lines Earlier?",
+    "author": "https://etan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T13:00:51.882Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
+    "published": "2026-11-24T12:30Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/6-meses-meio-ano-de-blog/",
+    "title": "6 meses (meio ano!) de blog!!",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T13:00:51.882Z",
+    "last_updated": "2026-11-24T13:00:51.882Z",
+    "published": "2026-11-24T12:21Z"
   }
 ]
