@@ -93,9 +93,9 @@
     "url": "https://anani.bearblog.dev/i-think-i-owe-brussels-an-apology/",
     "title": "I think I owe Brussels an apology",
     "author": "https://anani.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-24T04:00:51.666Z",
-    "last_updated": "2026-11-24T04:00:51.666Z",
+    "last_updated": "2026-11-24T05:00:51.991Z",
     "published": "2026-11-24T03:02Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-11-24T04:00:51.666Z",
     "last_updated": "2026-11-24T04:00:51.666Z",
     "published": "2026-11-24T03:12Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20261124/",
+    "title": "黄仁勋的「凯旋」",
+    "author": "https://blog.solazy.me",
+    "toasts": 3,
+    "first_seen": "2026-11-24T05:00:51.991Z",
+    "last_updated": "2026-11-24T05:00:51.991Z",
+    "published": "2026-11-24T04:00Z"
   }
 ]
