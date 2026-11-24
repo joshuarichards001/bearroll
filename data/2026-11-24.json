@@ -48,9 +48,9 @@
     "url": "https://rnotte.art/dont-you-have-anything-better-to-do/",
     "title": "don't you have anything better to do?",
     "author": "https://rnotte.art",
-    "toasts": 26,
+    "toasts": 28,
     "first_seen": "2026-11-24T03:00:51.733Z",
-    "last_updated": "2026-11-24T19:00:51.754Z",
+    "last_updated": "2026-11-24T20:00:51.749Z",
     "published": "2026-11-24T01:46Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://herman.bearblog.dev/comments-and-emails/",
     "title": "Comments and emails",
     "author": "https://herman.bearblog.dev",
-    "toasts": 92,
+    "toasts": 98,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T19:00:51.754Z",
+    "last_updated": "2026-11-24T20:00:51.749Z",
     "published": "2026-11-24T07:16Z"
   },
   {
@@ -327,9 +327,9 @@
     "url": "https://itsme.bearblog.dev/the-humanitarian-award-goes-to-rnotte/",
     "title": "The Humanitarian award goes to: rnotte",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-24T13:00:51.882Z",
-    "last_updated": "2026-11-24T18:00:52.259Z",
+    "last_updated": "2026-11-24T20:00:51.749Z",
     "published": "2026-11-24T12:44Z"
   },
   {
@@ -408,9 +408,9 @@
     "url": "https://dead-internet.bearblog.dev/excessively-frugal/",
     "title": "Excessively frugal",
     "author": "https://dead-internet.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-24T15:00:51.886Z",
-    "last_updated": "2026-11-24T18:00:52.259Z",
+    "last_updated": "2026-11-24T20:00:51.749Z",
     "published": "2026-11-24T14:34Z"
   },
   {
@@ -435,9 +435,9 @@
     "url": "https://th.blog.br/caes-pretos-espectrais/",
     "title": "cães pretos espectrais",
     "author": "https://th.blog.br",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-24T15:00:51.886Z",
-    "last_updated": "2026-11-24T19:00:51.754Z",
+    "last_updated": "2026-11-24T20:00:51.749Z",
     "published": "2026-11-24T13:19Z"
   },
   {
@@ -507,9 +507,9 @@
     "url": "https://blog.absurdpirate.com/chuds-gta-vi-and-why-i-hate-the-internet/",
     "title": "Chuds, GTA VI, and Why I Hate the Internet",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-24T17:00:51.895Z",
-    "last_updated": "2026-11-24T18:00:52.259Z",
+    "last_updated": "2026-11-24T20:00:51.749Z",
     "published": "2026-11-24T15:54Z"
   },
   {
@@ -637,5 +637,50 @@
     "first_seen": "2026-11-24T19:00:51.754Z",
     "last_updated": "2026-11-24T19:00:51.754Z",
     "published": "2026-11-24T16:02Z"
+  },
+  {
+    "url": "https://roundy.bearblog.dev/complain-10-10/",
+    "title": "YOU ARE ALLOWED TO COMPLAIN ABOUT A 10/10 PIECE OF MEDIA",
+    "author": "https://roundy.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T20:00:51.749Z",
+    "last_updated": "2026-11-24T20:00:51.749Z",
+    "published": "2026-11-24T19:35Z"
+  },
+  {
+    "url": "https://sillyletters.bearblog.dev/ill-get-it-done-but-first-ill-cry-a-memoir/",
+    "title": "i'll get it done, but first i'll cry (a memoir)",
+    "author": "https://sillyletters.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T20:00:51.749Z",
+    "last_updated": "2026-11-24T20:00:51.749Z",
+    "published": "2026-11-24T19:35Z"
+  },
+  {
+    "url": "https://fortypoundbrowntrout.bearblog.dev/the-cursed-ungulate/",
+    "title": "the cursed ungulate",
+    "author": "https://fortypoundbrowntrout.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T20:00:51.749Z",
+    "last_updated": "2026-11-24T20:00:51.749Z",
+    "published": "2026-11-24T19:06Z"
+  },
+  {
+    "url": "https://everything-list.bearblog.dev/the-list-of-everything/",
+    "title": "The list of everything",
+    "author": "https://everything-list.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T20:00:51.749Z",
+    "last_updated": "2026-11-24T20:00:51.749Z",
+    "published": "2026-11-24T18:43Z"
+  },
+  {
+    "url": "https://unsettledmind.bearblog.dev/depression-has-taken-everything-almost-everything-from-me/",
+    "title": "Depression Has Taken Everything, Almost Everything, From Me.",
+    "author": "https://unsettledmind.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T20:00:51.749Z",
+    "last_updated": "2026-11-24T20:00:51.749Z",
+    "published": "2026-11-24T15:57Z"
   }
 ]
