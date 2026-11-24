@@ -48,9 +48,9 @@
     "url": "https://rnotte.art/dont-you-have-anything-better-to-do/",
     "title": "don't you have anything better to do?",
     "author": "https://rnotte.art",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-24T03:00:51.733Z",
-    "last_updated": "2026-11-24T09:00:52.113Z",
+    "last_updated": "2026-11-24T11:00:52.663Z",
     "published": "2026-11-24T01:46Z"
   },
   {
@@ -102,18 +102,18 @@
     "url": "https://rickw.bearblog.dev/enigma/",
     "title": "Enigma",
     "author": "https://rickw.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-24T04:00:51.666Z",
-    "last_updated": "2026-11-24T04:00:51.666Z",
+    "last_updated": "2026-11-24T11:00:52.663Z",
     "published": "2026-11-24T03:12Z"
   },
   {
     "url": "https://blog.solazy.me/20261124/",
     "title": "黄仁勋的「凯旋」",
     "author": "https://blog.solazy.me",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-11-24T05:00:51.991Z",
-    "last_updated": "2026-11-24T10:00:52.162Z",
+    "last_updated": "2026-11-24T11:00:52.663Z",
     "published": "2026-11-24T04:00Z"
   },
   {
@@ -147,18 +147,18 @@
     "url": "https://unturnedhovel.bearblog.dev/a-hobby-of-failures/",
     "title": "A Hobby of Failures",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T10:00:52.162Z",
+    "last_updated": "2026-11-24T11:00:52.663Z",
     "published": "2026-11-24T07:04Z"
   },
   {
     "url": "https://herman.bearblog.dev/comments-and-emails/",
     "title": "Comments and emails",
     "author": "https://herman.bearblog.dev",
-    "toasts": 26,
+    "toasts": 36,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T10:00:52.162Z",
+    "last_updated": "2026-11-24T11:00:52.663Z",
     "published": "2026-11-24T07:16Z"
   },
   {
@@ -232,5 +232,14 @@
     "first_seen": "2026-11-24T10:00:52.162Z",
     "last_updated": "2026-11-24T10:00:52.162Z",
     "published": "2026-11-24T09:57Z"
+  },
+  {
+    "url": "https://thehourisblue.com/i-went-to-mars-to-see-mingolla/",
+    "title": "I went to Mars to see Mingolla.",
+    "author": "https://thehourisblue.com",
+    "toasts": 2,
+    "first_seen": "2026-11-24T11:00:52.663Z",
+    "last_updated": "2026-11-24T11:00:52.663Z",
+    "published": "2026-11-24T10:11Z"
   }
 ]
