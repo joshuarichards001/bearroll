@@ -111,54 +111,54 @@
     "url": "https://blog.solazy.me/20261124/",
     "title": "黄仁勋的「凯旋」",
     "author": "https://blog.solazy.me",
-    "toasts": 6,
+    "toasts": 9,
     "first_seen": "2026-11-24T05:00:51.991Z",
-    "last_updated": "2026-11-24T08:00:51.901Z",
+    "last_updated": "2026-11-24T10:00:52.162Z",
     "published": "2026-11-24T04:00Z"
   },
   {
     "url": "https://www.jenn.site/market-clearing-enthusiasm/",
     "title": "Market-Clearing Enthusiasm",
     "author": "https://www.jenn.site",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-24T06:00:51.754Z",
-    "last_updated": "2026-11-24T06:00:51.754Z",
+    "last_updated": "2026-11-24T10:00:52.162Z",
     "published": "2026-11-24T05:58Z"
   },
   {
     "url": "https://notes-on-design.bearblog.dev/the-case-for-humility/",
     "title": "The Case for Humility",
     "author": "https://notes-on-design.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-24T06:00:51.754Z",
-    "last_updated": "2026-11-24T06:00:51.754Z",
+    "last_updated": "2026-11-24T10:00:52.162Z",
     "published": "2026-11-24T04:48Z"
   },
   {
     "url": "https://perfumeandletters.bearblog.dev/as-free-as-the-sea/",
     "title": "as free as the sea",
     "author": "https://perfumeandletters.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-24T07:00:51.923Z",
-    "last_updated": "2026-11-24T07:00:51.923Z",
+    "last_updated": "2026-11-24T10:00:52.162Z",
     "published": "2026-11-24T06:38Z"
   },
   {
     "url": "https://unturnedhovel.bearblog.dev/a-hobby-of-failures/",
     "title": "A Hobby of Failures",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T09:00:52.113Z",
+    "last_updated": "2026-11-24T10:00:52.162Z",
     "published": "2026-11-24T07:04Z"
   },
   {
     "url": "https://herman.bearblog.dev/comments-and-emails/",
     "title": "Comments and emails",
     "author": "https://herman.bearblog.dev",
-    "toasts": 17,
+    "toasts": 26,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T09:00:52.113Z",
+    "last_updated": "2026-11-24T10:00:52.162Z",
     "published": "2026-11-24T07:16Z"
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://lelelife.bearblog.dev/3144/",
     "title": "電梯對話練習",
     "author": "https://lelelife.bearblog.dev",
-    "toasts": 2,
+    "toasts": 5,
     "first_seen": "2026-11-24T09:00:52.113Z",
-    "last_updated": "2026-11-24T09:00:52.113Z",
+    "last_updated": "2026-11-24T10:00:52.162Z",
     "published": "2026-11-24T08:32Z"
   },
   {
@@ -219,9 +219,18 @@
     "url": "https://meoww.bearblog.dev/dear-human-beings/",
     "title": "Dear Human Beings,",
     "author": "https://meoww.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-24T09:00:52.113Z",
-    "last_updated": "2026-11-24T09:00:52.113Z",
+    "last_updated": "2026-11-24T10:00:52.162Z",
     "published": "2026-11-24T04:53Z"
+  },
+  {
+    "url": "https://serinkaya.fyi/kedilerholding/",
+    "title": "kedilerholding",
+    "author": "https://serinkaya.fyi",
+    "toasts": 5,
+    "first_seen": "2026-11-24T10:00:52.162Z",
+    "last_updated": "2026-11-24T10:00:52.162Z",
+    "published": "2026-11-24T09:57Z"
   }
 ]
