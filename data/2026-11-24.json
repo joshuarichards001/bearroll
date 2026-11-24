@@ -147,18 +147,18 @@
     "url": "https://unturnedhovel.bearblog.dev/a-hobby-of-failures/",
     "title": "A Hobby of Failures",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 22,
+    "toasts": 24,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T19:00:51.754Z",
+    "last_updated": "2026-11-24T23:00:52.145Z",
     "published": "2026-11-24T07:04Z"
   },
   {
     "url": "https://herman.bearblog.dev/comments-and-emails/",
     "title": "Comments and emails",
     "author": "https://herman.bearblog.dev",
-    "toasts": 108,
+    "toasts": 109,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T22:00:51.872Z",
+    "last_updated": "2026-11-24T23:00:52.145Z",
     "published": "2026-11-24T07:16Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://nymermini.bearblog.dev/4203/",
     "title": "気がついたら、今年が終わる。",
     "author": "https://nymermini.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-24T12:00:52.481Z",
+    "last_updated": "2026-11-24T23:00:52.145Z",
     "published": "2026-11-24T07:02Z"
   },
   {
@@ -507,9 +507,9 @@
     "url": "https://blog.absurdpirate.com/chuds-gta-vi-and-why-i-hate-the-internet/",
     "title": "Chuds, GTA VI, and Why I Hate the Internet",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-24T17:00:51.895Z",
-    "last_updated": "2026-11-24T22:00:51.872Z",
+    "last_updated": "2026-11-24T23:00:52.145Z",
     "published": "2026-11-24T15:54Z"
   },
   {
@@ -651,9 +651,9 @@
     "url": "https://sillyletters.bearblog.dev/ill-get-it-done-but-first-ill-cry-a-memoir/",
     "title": "i'll get it done, but first i'll cry (a memoir)",
     "author": "https://sillyletters.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-24T20:00:51.749Z",
-    "last_updated": "2026-11-24T22:00:51.872Z",
+    "last_updated": "2026-11-24T23:00:52.145Z",
     "published": "2026-11-24T19:35Z"
   },
   {
@@ -741,9 +741,9 @@
     "url": "https://leeraedee.org/a-little-goblin-with-a-fish-on-his-head/",
     "title": "A little blue goblin with a fish on his head",
     "author": "https://leeraedee.org",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-24T21:00:52.028Z",
-    "last_updated": "2026-11-24T22:00:51.872Z",
+    "last_updated": "2026-11-24T23:00:52.145Z",
     "published": "2026-11-24T19:01Z"
   },
   {
@@ -777,9 +777,9 @@
     "url": "https://olu.online/you-arent-an-npc/",
     "title": "you are(n't) an npc",
     "author": "https://olu.online",
-    "toasts": 2,
+    "toasts": 6,
     "first_seen": "2026-11-24T22:00:51.872Z",
-    "last_updated": "2026-11-24T22:00:51.872Z",
+    "last_updated": "2026-11-24T23:00:52.145Z",
     "published": "2026-11-24T21:37Z"
   },
   {
@@ -808,5 +808,32 @@
     "first_seen": "2026-11-24T22:00:51.872Z",
     "last_updated": "2026-11-24T22:00:51.872Z",
     "published": "2026-11-24T19:34Z"
+  },
+  {
+    "url": "https://widdershins.verja.net/re-im-not-excited-about-tech-anymore/",
+    "title": "RE: I'm not excited about tech anymore",
+    "author": "https://widdershins.verja.net",
+    "toasts": 2,
+    "first_seen": "2026-11-24T23:00:52.145Z",
+    "last_updated": "2026-11-24T23:00:52.145Z",
+    "published": "2026-11-24T22:56Z"
+  },
+  {
+    "url": "https://pixelzaddy.com/nobodys-home/",
+    "title": "📸 nobody's home",
+    "author": "https://pixelzaddy.com",
+    "toasts": 2,
+    "first_seen": "2026-11-24T23:00:52.145Z",
+    "last_updated": "2026-11-24T23:00:52.145Z",
+    "published": "2026-11-24T22:42Z"
+  },
+  {
+    "url": "https://resistenciacarpincha.com/28-me-compre-un-dominio-para-refugiarme-aca/",
+    "title": "28- Me compré un dominio para refugiarme acá",
+    "author": "https://resistenciacarpincha.com",
+    "toasts": 2,
+    "first_seen": "2026-11-24T23:00:52.145Z",
+    "last_updated": "2026-11-24T23:00:52.145Z",
+    "published": "2026-11-24T22:14Z"
   }
 ]
