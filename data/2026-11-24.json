@@ -48,9 +48,9 @@
     "url": "https://rnotte.art/dont-you-have-anything-better-to-do/",
     "title": "don't you have anything better to do?",
     "author": "https://rnotte.art",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-11-24T03:00:51.733Z",
-    "last_updated": "2026-11-24T03:00:51.733Z",
+    "last_updated": "2026-11-24T04:00:51.666Z",
     "published": "2026-11-24T01:46Z"
   },
   {
@@ -75,9 +75,36 @@
     "url": "https://cultnorthwest.com/told-you-so/",
     "title": "Told You So: I-638 Is Coming for the Girls It Promised to Protect",
     "author": "https://cultnorthwest.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-24T03:00:51.733Z",
-    "last_updated": "2026-11-24T03:00:51.733Z",
+    "last_updated": "2026-11-24T04:00:51.666Z",
     "published": "2026-11-24T01:44Z"
+  },
+  {
+    "url": "https://rpec.net/stir-up/",
+    "title": "Stir Up, O Lord",
+    "author": "https://rpec.net",
+    "toasts": 5,
+    "first_seen": "2026-11-24T04:00:51.666Z",
+    "last_updated": "2026-11-24T04:00:51.666Z",
+    "published": "2026-11-24T02:27Z"
+  },
+  {
+    "url": "https://anani.bearblog.dev/i-think-i-owe-brussels-an-apology/",
+    "title": "I think I owe Brussels an apology",
+    "author": "https://anani.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-24T04:00:51.666Z",
+    "last_updated": "2026-11-24T04:00:51.666Z",
+    "published": "2026-11-24T03:02Z"
+  },
+  {
+    "url": "https://rickw.bearblog.dev/enigma/",
+    "title": "Enigma",
+    "author": "https://rickw.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-24T04:00:51.666Z",
+    "last_updated": "2026-11-24T04:00:51.666Z",
+    "published": "2026-11-24T03:12Z"
   }
 ]
