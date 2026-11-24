@@ -84,9 +84,9 @@
     "url": "https://rpec.net/stir-up/",
     "title": "Stir Up, O Lord",
     "author": "https://rpec.net",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-24T04:00:51.666Z",
-    "last_updated": "2026-11-24T04:00:51.666Z",
+    "last_updated": "2026-11-24T07:00:51.923Z",
     "published": "2026-11-24T02:27Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://blog.solazy.me/20261124/",
     "title": "黄仁勋的「凯旋」",
     "author": "https://blog.solazy.me",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-24T05:00:51.991Z",
-    "last_updated": "2026-11-24T05:00:51.991Z",
+    "last_updated": "2026-11-24T07:00:51.923Z",
     "published": "2026-11-24T04:00Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-11-24T06:00:51.754Z",
     "last_updated": "2026-11-24T06:00:51.754Z",
     "published": "2026-11-24T04:48Z"
+  },
+  {
+    "url": "https://perfumeandletters.bearblog.dev/as-free-as-the-sea/",
+    "title": "as free as the sea",
+    "author": "https://perfumeandletters.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-24T07:00:51.923Z",
+    "last_updated": "2026-11-24T07:00:51.923Z",
+    "published": "2026-11-24T06:38Z"
   }
 ]
