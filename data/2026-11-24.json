@@ -156,9 +156,9 @@
     "url": "https://herman.bearblog.dev/comments-and-emails/",
     "title": "Comments and emails",
     "author": "https://herman.bearblog.dev",
-    "toasts": 121,
+    "toasts": 122,
     "first_seen": "2026-11-24T08:00:51.901Z",
-    "last_updated": "2026-11-25T06:00:52.010Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
     "published": "2026-11-24T07:16Z"
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://lelelife.bearblog.dev/3144/",
     "title": "電梯對話練習",
     "author": "https://lelelife.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-24T09:00:52.113Z",
-    "last_updated": "2026-11-25T04:00:52.048Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
     "published": "2026-11-24T08:32Z"
   },
   {
@@ -507,18 +507,18 @@
     "url": "https://blog.absurdpirate.com/chuds-gta-vi-and-why-i-hate-the-internet/",
     "title": "Chuds, GTA VI, and Why I Hate the Internet",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 11,
+    "toasts": 14,
     "first_seen": "2026-11-24T17:00:51.895Z",
-    "last_updated": "2026-11-25T03:00:51.715Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
     "published": "2026-11-24T15:54Z"
   },
   {
     "url": "https://blog.curiousquail.com/behold-the-supermoon/",
     "title": "Behold! The Supermoon!",
     "author": "https://blog.curiousquail.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-11-24T17:00:51.895Z",
-    "last_updated": "2026-11-25T03:00:51.715Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
     "published": "2026-11-24T16:55Z"
   },
   {
@@ -624,9 +624,9 @@
     "url": "https://giuls.bearblog.dev/falling-into-my-own-trap/",
     "title": "falling into my own trap",
     "author": "https://giuls.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-11-24T19:00:51.754Z",
-    "last_updated": "2026-11-25T05:00:52.243Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
     "published": "2026-11-24T17:01Z"
   },
   {
@@ -777,9 +777,9 @@
     "url": "https://olu.online/you-arent-an-npc/",
     "title": "you are(n't) an npc",
     "author": "https://olu.online",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-11-24T22:00:51.872Z",
-    "last_updated": "2026-11-25T04:00:52.048Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
     "published": "2026-11-24T21:37Z"
   },
   {
@@ -813,9 +813,9 @@
     "url": "https://widdershins.verja.net/re-im-not-excited-about-tech-anymore/",
     "title": "RE: I'm not excited about tech anymore",
     "author": "https://widdershins.verja.net",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-11-24T23:00:52.145Z",
-    "last_updated": "2026-11-25T03:00:51.715Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
     "published": "2026-11-24T22:56Z"
   },
   {
@@ -840,9 +840,9 @@
     "url": "https://unsettledmind.bearblog.dev/the-relationships-i-left-behind/",
     "title": "The Relationships I Left Behind",
     "author": "https://unsettledmind.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-25T00:00:51.668Z",
-    "last_updated": "2026-11-25T04:00:52.048Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
     "published": "2026-11-24T23:28Z"
   },
   {
@@ -898,5 +898,14 @@
     "first_seen": "2026-11-25T01:00:51.858Z",
     "last_updated": "2026-11-25T02:00:51.783Z",
     "published": "2026-11-24T21:57Z"
+  },
+  {
+    "url": "https://yourloyaladvisor.com/36-more-ventrue-victims/",
+    "title": "36 More Ventrue Victims",
+    "author": "https://yourloyaladvisor.com",
+    "toasts": 3,
+    "first_seen": "2026-11-25T07:00:51.889Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
+    "published": "2026-11-24T20:26Z"
   }
 ]

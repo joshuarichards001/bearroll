@@ -12,9 +12,9 @@
     "url": "https://nibreok.bearblog.dev/japan-on-film/",
     "title": "Japan on film.",
     "author": "https://nibreok.bearblog.dev",
-    "toasts": 8,
+    "toasts": 13,
     "first_seen": "2026-11-25T02:00:51.783Z",
-    "last_updated": "2026-11-25T06:00:52.010Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
     "published": "2026-11-25T00:41Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://blog.solazy.me/20261125/",
     "title": "星巴克奇遇",
     "author": "https://blog.solazy.me",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-11-25T02:00:51.783Z",
-    "last_updated": "2026-11-25T04:00:52.048Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
     "published": "2026-11-25T02:00Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://blog.lauramichet.com/i-should-have-waited-to-post-about-queens-domain/",
     "title": "I should have waited to post about Queen's Domain",
     "author": "https://blog.lauramichet.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-25T06:00:52.010Z",
-    "last_updated": "2026-11-25T06:00:52.010Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
     "published": "2026-11-25T05:31Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-11-25T06:00:52.010Z",
     "last_updated": "2026-11-25T06:00:52.010Z",
     "published": "2026-11-25T05:25Z"
+  },
+  {
+    "url": "https://calogerobonasia.it/tutti-ricchi-su-substack/",
+    "title": "Tutti ricchi su Substack?",
+    "author": "https://calogerobonasia.it",
+    "toasts": 2,
+    "first_seen": "2026-11-25T07:00:51.889Z",
+    "last_updated": "2026-11-25T07:00:51.889Z",
+    "published": "2026-11-25T06:06Z"
   }
 ]
