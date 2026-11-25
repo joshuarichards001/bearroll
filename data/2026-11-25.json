@@ -12,9 +12,9 @@
     "url": "https://nibreok.bearblog.dev/japan-on-film/",
     "title": "Japan on film.",
     "author": "https://nibreok.bearblog.dev",
-    "toasts": 4,
+    "toasts": 6,
     "first_seen": "2026-11-25T02:00:51.783Z",
-    "last_updated": "2026-11-25T02:00:51.783Z",
+    "last_updated": "2026-11-25T04:00:52.048Z",
     "published": "2026-11-25T00:41Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://blog.solazy.me/20261125/",
     "title": "星巴克奇遇",
     "author": "https://blog.solazy.me",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-25T02:00:51.783Z",
-    "last_updated": "2026-11-25T02:00:51.783Z",
+    "last_updated": "2026-11-25T04:00:52.048Z",
     "published": "2026-11-25T02:00Z"
   },
   {
@@ -43,5 +43,23 @@
     "first_seen": "2026-11-25T03:00:51.715Z",
     "last_updated": "2026-11-25T03:00:51.715Z",
     "published": "2026-11-25T02:31Z"
+  },
+  {
+    "url": "https://afterstan.bearblog.dev/asia-bike-trip-pannier-contents/",
+    "title": "Broadly, what's in our panniers on this trip!",
+    "author": "https://afterstan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-25T04:00:52.048Z",
+    "last_updated": "2026-11-25T04:00:52.048Z",
+    "published": "2026-11-25T03:29Z"
+  },
+  {
+    "url": "https://nibreok.bearblog.dev/my-watch-is-telling-me-to-take-a-break-and-move-but-id-rather-write-this-nonsense/",
+    "title": "Oct-Nov life stuff (or, me just ranting about an exam and then dumping a tonne of photos at the end)",
+    "author": "https://nibreok.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-25T04:00:52.048Z",
+    "last_updated": "2026-11-25T04:00:52.048Z",
+    "published": "2026-11-25T03:01Z"
   }
 ]
