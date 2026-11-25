@@ -12,9 +12,9 @@
     "url": "https://nibreok.bearblog.dev/japan-on-film/",
     "title": "Japan on film.",
     "author": "https://nibreok.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-11-25T02:00:51.783Z",
-    "last_updated": "2026-11-25T09:00:51.890Z",
+    "last_updated": "2026-11-25T13:00:51.699Z",
     "published": "2026-11-25T00:41Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://blog.solazy.me/20261125/",
     "title": "星巴克奇遇",
     "author": "https://blog.solazy.me",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-25T02:00:51.783Z",
-    "last_updated": "2026-11-25T11:00:51.568Z",
+    "last_updated": "2026-11-25T13:00:51.699Z",
     "published": "2026-11-25T02:00Z"
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://spindlecrow.space/why-are-people-on-reddit-so-angry/",
     "title": "why are people on reddit so angry?",
     "author": "https://spindlecrow.space",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-25T11:00:51.568Z",
-    "last_updated": "2026-11-25T11:00:51.568Z",
+    "last_updated": "2026-11-25T13:00:51.699Z",
     "published": "2026-11-25T10:05Z"
   },
   {
@@ -241,5 +241,50 @@
     "first_seen": "2026-11-25T12:00:51.753Z",
     "last_updated": "2026-11-25T12:00:51.753Z",
     "published": "2026-11-25T10:07Z"
+  },
+  {
+    "url": "https://abloggymess.com/waltertheend-bringer/",
+    "title": "Walter the End-Bringer",
+    "author": "https://abloggymess.com",
+    "toasts": 5,
+    "first_seen": "2026-11-25T13:00:51.699Z",
+    "last_updated": "2026-11-25T13:00:51.699Z",
+    "published": "2026-11-25T12:28Z"
+  },
+  {
+    "url": "https://everydayedwina.bearblog.dev/the-questions-we-choose-an-essay-by-margaret-zhang/",
+    "title": "The Questions We Choose: An Essay by Margaret Zhang",
+    "author": "https://everydayedwina.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-25T13:00:51.699Z",
+    "last_updated": "2026-11-25T13:00:51.699Z",
+    "published": "2026-11-25T12:31Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/a-historia-de-duas-lapiseiras-e-dos-lapis/",
+    "title": "A história de duas lapiseiras (e dos lápis)",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-25T13:00:51.699Z",
+    "last_updated": "2026-11-25T13:00:51.699Z",
+    "published": "2026-11-25T12:20Z"
+  },
+  {
+    "url": "https://qmf.bearblog.dev/en-vanlig-sketen-tisdag/",
+    "title": "En vanlig sketen tisdag.",
+    "author": "https://qmf.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-25T13:00:51.699Z",
+    "last_updated": "2026-11-25T13:00:51.699Z",
+    "published": "2026-11-25T12:03Z"
+  },
+  {
+    "url": "https://yingxue.bearblog.dev/sichahai-beijing/",
+    "title": "Sichahai, Beijing",
+    "author": "https://yingxue.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-25T13:00:51.699Z",
+    "last_updated": "2026-11-25T13:00:51.699Z",
+    "published": "2026-11-25T11:20Z"
   }
 ]
