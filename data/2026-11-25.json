@@ -12,9 +12,9 @@
     "url": "https://nibreok.bearblog.dev/japan-on-film/",
     "title": "Japan on film.",
     "author": "https://nibreok.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-11-25T02:00:51.783Z",
-    "last_updated": "2026-11-25T07:00:51.889Z",
+    "last_updated": "2026-11-25T09:00:51.890Z",
     "published": "2026-11-25T00:41Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://anarchaeopteryx.bearblog.dev/2026-11-24-smtvv/",
     "title": "Shin Megami Tensei V: Vengeance - Tennozu Isle - 147h49",
     "author": "https://anarchaeopteryx.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-25T05:00:52.243Z",
-    "last_updated": "2026-11-25T05:00:52.243Z",
+    "last_updated": "2026-11-25T09:00:51.890Z",
     "published": "2026-11-25T04:40Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://piimyon.bearblog.dev/i-have-a-cat-now/",
     "title": "I have a cat now!!",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-25T08:00:51.801Z",
-    "last_updated": "2026-11-25T08:00:51.801Z",
+    "last_updated": "2026-11-25T09:00:51.890Z",
     "published": "2026-11-25T06:20Z"
   },
   {
@@ -133,5 +133,32 @@
     "first_seen": "2026-11-25T08:00:51.801Z",
     "last_updated": "2026-11-25T08:00:51.801Z",
     "published": "2026-11-25T05:00Z"
+  },
+  {
+    "url": "https://musing.ispretty.fyi/blog/thinking-of-home-and-family/",
+    "title": "thinking of home and family",
+    "author": "https://musing.ispretty.fyi",
+    "toasts": 2,
+    "first_seen": "2026-11-25T09:00:51.890Z",
+    "last_updated": "2026-11-25T09:00:51.890Z",
+    "published": "2026-11-25T08:02Z"
+  },
+  {
+    "url": "https://nostalgia.bearblog.dev/organs/",
+    "title": "当有人将买卖器官包装成慈善",
+    "author": "https://nostalgia.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-25T09:00:51.890Z",
+    "last_updated": "2026-11-25T09:00:51.890Z",
+    "published": "2026-11-25T06:54Z"
+  },
+  {
+    "url": "https://sudelbuch.bearblog.dev/wednesday-assorted-links-8/",
+    "title": "Wednesday assorted links: Aristotle, Williams, AI, Wagner",
+    "author": "https://sudelbuch.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-25T09:00:51.890Z",
+    "last_updated": "2026-11-25T09:00:51.890Z",
+    "published": "2026-11-25T06:00Z"
   }
 ]
