@@ -84,9 +84,9 @@
     "url": "https://blog.lauramichet.com/i-should-have-waited-to-post-about-queens-domain/",
     "title": "I should have waited to post about Queen's Domain",
     "author": "https://blog.lauramichet.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-25T06:00:52.010Z",
-    "last_updated": "2026-11-25T08:00:51.801Z",
+    "last_updated": "2026-11-25T12:00:51.753Z",
     "published": "2026-11-25T05:31Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://piimyon.bearblog.dev/i-have-a-cat-now/",
     "title": "I have a cat now!!",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-11-25T08:00:51.801Z",
-    "last_updated": "2026-11-25T10:00:51.541Z",
+    "last_updated": "2026-11-25T12:00:51.753Z",
     "published": "2026-11-25T06:20Z"
   },
   {
@@ -183,9 +183,9 @@
     "url": "https://combatdavey.net/november-24-2026/",
     "title": "november 24 joi",
     "author": "https://combatdavey.net",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-25T10:00:51.541Z",
-    "last_updated": "2026-11-25T10:00:51.541Z",
+    "last_updated": "2026-11-25T12:00:51.753Z",
     "published": "2026-11-25T04:59Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://73pctgeek.com/1060/",
     "title": "1060",
     "author": "https://73pctgeek.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-25T11:00:51.568Z",
-    "last_updated": "2026-11-25T11:00:51.568Z",
+    "last_updated": "2026-11-25T12:00:51.753Z",
     "published": "2026-11-25T09:49Z"
   },
   {
@@ -223,5 +223,23 @@
     "first_seen": "2026-11-25T11:00:51.568Z",
     "last_updated": "2026-11-25T11:00:51.568Z",
     "published": "2026-11-25T10:04Z"
+  },
+  {
+    "url": "https://life.drsh.io/fallen-collage-piece/",
+    "title": "fallen collage piece",
+    "author": "https://life.drsh.io",
+    "toasts": 2,
+    "first_seen": "2026-11-25T12:00:51.753Z",
+    "last_updated": "2026-11-25T12:00:51.753Z",
+    "published": "2026-11-25T11:38Z"
+  },
+  {
+    "url": "https://blogdoth.bearblog.dev/a-vida-fica-mais-leve-quando-a-gente-acredita/",
+    "title": "A vida fica mais leve quando a gente acredita",
+    "author": "https://blogdoth.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-25T12:00:51.753Z",
+    "last_updated": "2026-11-25T12:00:51.753Z",
+    "published": "2026-11-25T10:07Z"
   }
 ]
