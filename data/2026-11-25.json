@@ -30,9 +30,9 @@
     "url": "https://blog.solazy.me/20261125/",
     "title": "星巴克奇遇",
     "author": "https://blog.solazy.me",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-25T02:00:51.783Z",
-    "last_updated": "2026-11-25T08:00:51.801Z",
+    "last_updated": "2026-11-25T10:00:51.541Z",
     "published": "2026-11-25T02:00Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://nibreok.bearblog.dev/my-watch-is-telling-me-to-take-a-break-and-move-but-id-rather-write-this-nonsense/",
     "title": "Oct-Nov life stuff (or, me just ranting about an exam and then dumping a tonne of photos at the end)",
     "author": "https://nibreok.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-25T04:00:52.048Z",
-    "last_updated": "2026-11-25T08:00:51.801Z",
+    "last_updated": "2026-11-25T10:00:51.541Z",
     "published": "2026-11-25T03:01Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://piimyon.bearblog.dev/i-have-a-cat-now/",
     "title": "I have a cat now!!",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-11-25T08:00:51.801Z",
-    "last_updated": "2026-11-25T09:00:51.890Z",
+    "last_updated": "2026-11-25T10:00:51.541Z",
     "published": "2026-11-25T06:20Z"
   },
   {
@@ -138,9 +138,9 @@
     "url": "https://musing.ispretty.fyi/blog/thinking-of-home-and-family/",
     "title": "thinking of home and family",
     "author": "https://musing.ispretty.fyi",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-25T09:00:51.890Z",
-    "last_updated": "2026-11-25T09:00:51.890Z",
+    "last_updated": "2026-11-25T10:00:51.541Z",
     "published": "2026-11-25T08:02Z"
   },
   {
@@ -160,5 +160,32 @@
     "first_seen": "2026-11-25T09:00:51.890Z",
     "last_updated": "2026-11-25T09:00:51.890Z",
     "published": "2026-11-25T06:00Z"
+  },
+  {
+    "url": "https://adriftingleaf.com/the-need-to-justify/",
+    "title": "The Need to Justify",
+    "author": "https://adriftingleaf.com",
+    "toasts": 2,
+    "first_seen": "2026-11-25T10:00:51.541Z",
+    "last_updated": "2026-11-25T10:00:51.541Z",
+    "published": "2026-11-25T09:15Z"
+  },
+  {
+    "url": "https://calogerobonasia.it/il-sesso-non-e-binario/",
+    "title": "Il sesso non è binario",
+    "author": "https://calogerobonasia.it",
+    "toasts": 2,
+    "first_seen": "2026-11-25T10:00:51.541Z",
+    "last_updated": "2026-11-25T10:00:51.541Z",
+    "published": "2026-11-25T09:02Z"
+  },
+  {
+    "url": "https://combatdavey.net/november-24-2026/",
+    "title": "november 24 joi",
+    "author": "https://combatdavey.net",
+    "toasts": 2,
+    "first_seen": "2026-11-25T10:00:51.541Z",
+    "last_updated": "2026-11-25T10:00:51.541Z",
+    "published": "2026-11-25T04:59Z"
   }
 ]
