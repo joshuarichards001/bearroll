@@ -219,18 +219,18 @@
     "url": "https://mgx.bearblog.dev/introducing-beardash/",
     "title": "Introducing beardash.dev",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-26T18:00:51.280Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
     "published": "2026-11-26T09:23Z"
   },
   {
     "url": "https://amberlimshin.bearblog.dev/hello-world/",
     "title": "Hello world!",
     "author": "https://amberlimshin.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
     "published": "2026-11-26T10:55Z"
   },
   {
@@ -327,36 +327,36 @@
     "url": "https://semdominio.bearblog.dev/fe-na-surpresa/",
     "title": "Fé na surpresa",
     "author": "https://semdominio.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-26T15:00:51.217Z",
-    "last_updated": "2026-11-26T18:00:51.280Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
     "published": "2026-11-26T14:11Z"
   },
   {
     "url": "https://superhardscifi.bearblog.dev/mothership-creating-an-a5-one-shot/",
     "title": "[Mothership] Creating an A5 One-Shot: Part 1",
     "author": "https://superhardscifi.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T15:00:51.217Z",
-    "last_updated": "2026-11-26T15:00:51.217Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
     "published": "2026-11-26T12:18Z"
   },
   {
     "url": "https://nburchett.com/delete-the-memory/",
     "title": "Delete the Memory",
     "author": "https://nburchett.com",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
     "published": "2026-11-26T15:00Z"
   },
   {
     "url": "https://lordtoots.bearblog.dev/make-it-rain/",
     "title": "Make it rain on your blog (CSS)",
     "author": "https://lordtoots.bearblog.dev",
-    "toasts": 6,
+    "toasts": 8,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T18:00:51.280Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
     "published": "2026-11-26T15:25Z"
   },
   {
@@ -399,9 +399,9 @@
     "url": "https://blog.damonreece.com/i-wrote-a-fallen-london-story/",
     "title": "I wrote a Fallen London story!",
     "author": "https://blog.damonreece.com",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
     "published": "2026-11-26T01:30Z"
   },
   {
@@ -462,9 +462,9 @@
     "url": "https://elliesunsettledmind.bearblog.dev/thoughts-after-reading-the-bell-jar-by-sylvia-plath/",
     "title": "Book The Bell Jar & Finding Our Own Way",
     "author": "https://elliesunsettledmind.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T17:00:51.285Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
     "published": "2026-11-26T16:01Z"
   },
   {
@@ -498,9 +498,45 @@
     "url": "https://leeraedee.org/re-comments-and-emails/",
     "title": "Re: comments and emails",
     "author": "https://leeraedee.org",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-26T18:00:51.280Z",
-    "last_updated": "2026-11-26T18:00:51.280Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
     "published": "2026-11-26T17:11Z"
+  },
+  {
+    "url": "https://grazinggoats.bearblog.dev/do-you-know-why-the-tv-remote-control-was-invented/",
+    "title": "Do you know why the TV remote control was invented?",
+    "author": "https://grazinggoats.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-26T19:00:51.192Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
+    "published": "2026-11-26T17:44Z"
+  },
+  {
+    "url": "https://emma.bearblog.dev/crayons/",
+    "title": "What I learned about extreme ownership from eating crayons",
+    "author": "https://emma.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T19:00:51.192Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
+    "published": "2026-11-26T18:44Z"
+  },
+  {
+    "url": "https://francescrossley.com/my-fifteen-minute-city/",
+    "title": "My fifteen-minute city",
+    "author": "https://francescrossley.com",
+    "toasts": 2,
+    "first_seen": "2026-11-26T19:00:51.192Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
+    "published": "2026-11-26T18:00Z"
+  },
+  {
+    "url": "https://ghrelin.bearblog.dev/people-are-very-programmable/",
+    "title": "People are very programmable",
+    "author": "https://ghrelin.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T19:00:51.192Z",
+    "last_updated": "2026-11-26T19:00:51.192Z",
+    "published": "2026-11-26T17:46Z"
   }
 ]
