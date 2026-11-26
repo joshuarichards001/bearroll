@@ -111,9 +111,9 @@
     "url": "https://yingxue.bearblog.dev/jingshan-park-beijing/",
     "title": "Jingshan park, Beijing",
     "author": "https://yingxue.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-26T07:00:51.219Z",
-    "last_updated": "2026-11-26T08:00:51.432Z",
+    "last_updated": "2026-11-26T09:00:51.264Z",
     "published": "2026-11-26T06:20Z"
   },
   {
@@ -133,5 +133,23 @@
     "first_seen": "2026-11-26T08:00:51.432Z",
     "last_updated": "2026-11-26T08:00:51.432Z",
     "published": "2026-11-26T07:01Z"
+  },
+  {
+    "url": "https://roomtone.bearblog.dev/7086/",
+    "title": "巨石",
+    "author": "https://roomtone.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T09:00:51.264Z",
+    "last_updated": "2026-11-26T09:00:51.264Z",
+    "published": "2026-11-26T08:35Z"
+  },
+  {
+    "url": "https://calogerobonasia.it/chi-puo-fermare-il-lavoro/",
+    "title": "Chi può fermare il lavoro?",
+    "author": "https://calogerobonasia.it",
+    "toasts": 2,
+    "first_seen": "2026-11-26T09:00:51.264Z",
+    "last_updated": "2026-11-26T09:00:51.264Z",
+    "published": "2026-11-26T08:20Z"
   }
 ]
