@@ -12,9 +12,9 @@
     "url": "https://nibreok.bearblog.dev/japan-on-film/",
     "title": "Japan on film.",
     "author": "https://nibreok.bearblog.dev",
-    "toasts": 39,
+    "toasts": 40,
     "first_seen": "2026-11-25T02:00:51.783Z",
-    "last_updated": "2026-11-26T11:00:51.278Z",
+    "last_updated": "2026-11-26T13:00:51.246Z",
     "published": "2026-11-25T00:41Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://piimyon.bearblog.dev/i-have-a-cat-now/",
     "title": "I have a cat now!!",
     "author": "https://piimyon.bearblog.dev",
-    "toasts": 30,
+    "toasts": 31,
     "first_seen": "2026-11-25T08:00:51.801Z",
-    "last_updated": "2026-11-26T11:00:51.278Z",
+    "last_updated": "2026-11-26T13:00:51.246Z",
     "published": "2026-11-25T06:20Z"
   },
   {
@@ -264,9 +264,9 @@
     "url": "https://semdominio.bearblog.dev/a-historia-de-duas-lapiseiras-e-dos-lapis/",
     "title": "A história de duas lapiseiras (e dos lápis)",
     "author": "https://semdominio.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-25T13:00:51.699Z",
-    "last_updated": "2026-11-25T19:00:51.434Z",
+    "last_updated": "2026-11-26T13:00:51.246Z",
     "published": "2026-11-25T12:20Z"
   },
   {
@@ -327,9 +327,9 @@
     "url": "https://elmc.at/against-cohesion/",
     "title": "Against Cohesion",
     "author": "https://elmc.at",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-11-25T15:00:53.387Z",
-    "last_updated": "2026-11-26T12:00:51.236Z",
+    "last_updated": "2026-11-26T13:00:51.246Z",
     "published": "2026-11-25T14:26Z"
   },
   {
@@ -399,9 +399,9 @@
     "url": "https://jollyanchorblog.bearblog.dev/busy-morning/",
     "title": "busy morning",
     "author": "https://jollyanchorblog.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-25T17:00:51.281Z",
-    "last_updated": "2026-11-25T20:00:51.333Z",
+    "last_updated": "2026-11-26T13:00:51.246Z",
     "published": "2026-11-25T16:31Z"
   },
   {
@@ -651,9 +651,9 @@
     "url": "https://diels-daydreams.bearblog.dev/new-pen/",
     "title": "New pen!",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-26T00:00:51.303Z",
-    "last_updated": "2026-11-26T12:00:51.236Z",
+    "last_updated": "2026-11-26T13:00:51.246Z",
     "published": "2026-11-25T23:15Z"
   },
   {
@@ -669,9 +669,9 @@
     "url": "https://beyng.bearblog.dev/youth/",
     "title": "Youth",
     "author": "https://beyng.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T01:00:51.264Z",
-    "last_updated": "2026-11-26T01:00:51.264Z",
+    "last_updated": "2026-11-26T13:00:51.246Z",
     "published": "2026-11-25T22:39Z"
   },
   {
@@ -709,5 +709,14 @@
     "first_seen": "2026-11-26T08:00:51.432Z",
     "last_updated": "2026-11-26T08:00:51.432Z",
     "published": "2026-11-25T22:03Z"
+  },
+  {
+    "url": "https://hilanderrpgs.bearblog.dev/all-you-need-for-christmas/",
+    "title": "All You Need for Christmas",
+    "author": "https://hilanderrpgs.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-26T13:00:51.246Z",
+    "last_updated": "2026-11-26T13:00:51.246Z",
+    "published": "2026-11-25T17:02Z"
   }
 ]
