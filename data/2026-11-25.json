@@ -12,9 +12,9 @@
     "url": "https://nibreok.bearblog.dev/japan-on-film/",
     "title": "Japan on film.",
     "author": "https://nibreok.bearblog.dev",
-    "toasts": 29,
+    "toasts": 31,
     "first_seen": "2026-11-25T02:00:51.783Z",
-    "last_updated": "2026-11-26T01:00:51.264Z",
+    "last_updated": "2026-11-26T02:00:51.201Z",
     "published": "2026-11-25T00:41Z"
   },
   {
@@ -30,9 +30,9 @@
     "url": "https://blog.solazy.me/20261125/",
     "title": "星巴克奇遇",
     "author": "https://blog.solazy.me",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-11-25T02:00:51.783Z",
-    "last_updated": "2026-11-25T16:00:51.318Z",
+    "last_updated": "2026-11-26T02:00:51.201Z",
     "published": "2026-11-25T02:00Z"
   },
   {
@@ -363,9 +363,9 @@
     "url": "https://korin.uk/back-to-bear/",
     "title": "Back to Bear",
     "author": "https://korin.uk",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-11-25T15:00:53.387Z",
-    "last_updated": "2026-11-26T01:00:51.264Z",
+    "last_updated": "2026-11-26T02:00:51.201Z",
     "published": "2026-11-25T14:37Z"
   },
   {
@@ -426,9 +426,9 @@
     "url": "https://widdershins.verja.net/five-tons-of-lead-azide-and-twenty-years-of-later/",
     "title": "Five tons of lead azide and twenty years of \"later\"",
     "author": "https://widdershins.verja.net",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-11-25T18:00:51.300Z",
-    "last_updated": "2026-11-25T23:00:51.330Z",
+    "last_updated": "2026-11-26T02:00:51.201Z",
     "published": "2026-11-25T16:39Z"
   },
   {
@@ -453,9 +453,9 @@
     "url": "https://blog.lauramichet.com/update-about-the-gamer-lounge-in-los-angeles-international-airport/",
     "title": "Update about the gamer lounge in Los Angeles International Airport",
     "author": "https://blog.lauramichet.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-25T18:00:51.300Z",
-    "last_updated": "2026-11-25T22:00:51.268Z",
+    "last_updated": "2026-11-26T02:00:51.201Z",
     "published": "2026-11-25T17:47Z"
   },
   {
@@ -642,18 +642,18 @@
     "url": "https://nathaliesejean.bearblog.dev/apprendre-a-lire-le-temps-long/",
     "title": "Apprendre à lire le temps long",
     "author": "https://nathaliesejean.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-25T23:00:51.330Z",
-    "last_updated": "2026-11-26T01:00:51.264Z",
+    "last_updated": "2026-11-26T02:00:51.201Z",
     "published": "2026-11-25T22:23Z"
   },
   {
     "url": "https://diels-daydreams.bearblog.dev/new-pen/",
     "title": "New pen!",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T00:00:51.303Z",
-    "last_updated": "2026-11-26T00:00:51.303Z",
+    "last_updated": "2026-11-26T02:00:51.201Z",
     "published": "2026-11-25T23:15Z"
   },
   {
@@ -673,5 +673,23 @@
     "first_seen": "2026-11-26T01:00:51.264Z",
     "last_updated": "2026-11-26T01:00:51.264Z",
     "published": "2026-11-25T22:39Z"
+  },
+  {
+    "url": "https://thisismylast.bearblog.dev/ai-is-everywhere/",
+    "title": "AI Is Everywhere",
+    "author": "https://thisismylast.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T02:00:51.201Z",
+    "last_updated": "2026-11-26T02:00:51.201Z",
+    "published": "2026-11-25T23:37Z"
+  },
+  {
+    "url": "https://diels-daydreams.bearblog.dev/nova-caneta/",
+    "title": "Nova caneta!",
+    "author": "https://diels-daydreams.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T02:00:51.201Z",
+    "last_updated": "2026-11-26T02:00:51.201Z",
+    "published": "2026-11-25T23:10Z"
   }
 ]
