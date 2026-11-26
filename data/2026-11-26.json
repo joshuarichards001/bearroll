@@ -102,9 +102,9 @@
     "url": "https://combatdavey.net/november-25-2026/",
     "title": "november 25 jeu",
     "author": "https://combatdavey.net",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-26T07:00:51.219Z",
-    "last_updated": "2026-11-26T11:00:51.278Z",
+    "last_updated": "2026-11-26T16:00:51.261Z",
     "published": "2026-11-26T04:59Z"
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://mirroredworld.bearblog.dev/cut-and-paste/",
     "title": "Cut and Paste",
     "author": "https://mirroredworld.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T11:00:51.278Z",
-    "last_updated": "2026-11-26T11:00:51.278Z",
+    "last_updated": "2026-11-26T16:00:51.261Z",
     "published": "2026-11-26T10:01Z"
   },
   {
@@ -219,9 +219,9 @@
     "url": "https://mgx.bearblog.dev/introducing-beardash/",
     "title": "Introducing beardash.dev",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 10,
+    "toasts": 12,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-26T15:00:51.217Z",
+    "last_updated": "2026-11-26T16:00:51.261Z",
     "published": "2026-11-26T09:23Z"
   },
   {
@@ -340,5 +340,77 @@
     "first_seen": "2026-11-26T15:00:51.217Z",
     "last_updated": "2026-11-26T15:00:51.217Z",
     "published": "2026-11-26T12:18Z"
+  },
+  {
+    "url": "https://nburchett.com/delete-the-memory/",
+    "title": "Delete the Memory",
+    "author": "https://nburchett.com",
+    "toasts": 6,
+    "first_seen": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T16:00:51.261Z",
+    "published": "2026-11-26T15:00Z"
+  },
+  {
+    "url": "https://lordtoots.bearblog.dev/make-it-rain/",
+    "title": "Make it rain on your blog (CSS)",
+    "author": "https://lordtoots.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T16:00:51.261Z",
+    "published": "2026-11-26T15:25Z"
+  },
+  {
+    "url": "https://emma.bearblog.dev/steakholder/",
+    "title": "What getting banned from Wetherspoons taught me about ownership",
+    "author": "https://emma.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T16:00:51.261Z",
+    "published": "2026-11-26T14:58Z"
+  },
+  {
+    "url": "https://www.zweisechsneun.de/die-schoene-weihnachtszeit/",
+    "title": "Die schöne Weihnachtszeit",
+    "author": "https://www.zweisechsneun.de",
+    "toasts": 2,
+    "first_seen": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T16:00:51.261Z",
+    "published": "2026-11-26T15:57Z"
+  },
+  {
+    "url": "https://blog.ericfrisch.com/decaf/",
+    "title": "Switching to Decaf",
+    "author": "https://blog.ericfrisch.com",
+    "toasts": 2,
+    "first_seen": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T16:00:51.261Z",
+    "published": "2026-11-26T15:34Z"
+  },
+  {
+    "url": "https://traumajumps.bearblog.dev/crystals-on-my-windowsill/",
+    "title": "crystals on my windowsill",
+    "author": "https://traumajumps.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T16:00:51.261Z",
+    "published": "2026-11-26T15:05Z"
+  },
+  {
+    "url": "https://blog.damonreece.com/i-wrote-a-fallen-london-story/",
+    "title": "I wrote a Fallen London story!",
+    "author": "https://blog.damonreece.com",
+    "toasts": 3,
+    "first_seen": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T16:00:51.261Z",
+    "published": "2026-11-26T01:30Z"
+  },
+  {
+    "url": "https://veellainous.com/sharpshooter/",
+    "title": "Sharpshooter",
+    "author": "https://veellainous.com",
+    "toasts": 2,
+    "first_seen": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T16:00:51.261Z",
+    "published": "2026-11-26T13:28Z"
   }
 ]
