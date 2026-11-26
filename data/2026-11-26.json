@@ -192,9 +192,9 @@
     "url": "https://mirroredworld.bearblog.dev/cut-and-paste/",
     "title": "Cut and Paste",
     "author": "https://mirroredworld.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-26T11:00:51.278Z",
-    "last_updated": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
     "published": "2026-11-26T10:01Z"
   },
   {
@@ -219,27 +219,27 @@
     "url": "https://mgx.bearblog.dev/introducing-beardash/",
     "title": "Introducing beardash.dev",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 12,
+    "toasts": 15,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
     "published": "2026-11-26T09:23Z"
   },
   {
     "url": "https://amberlimshin.bearblog.dev/hello-world/",
     "title": "Hello world!",
     "author": "https://amberlimshin.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-26T15:00:51.217Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
     "published": "2026-11-26T10:55Z"
   },
   {
     "url": "https://blogdoth.bearblog.dev/dezembro-ja-esta-batendo-na-porta/",
     "title": "Dezembro já está batendo na porta",
     "author": "https://blogdoth.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-26T12:00:51.236Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
     "published": "2026-11-26T10:30Z"
   },
   {
@@ -354,54 +354,54 @@
     "url": "https://lordtoots.bearblog.dev/make-it-rain/",
     "title": "Make it rain on your blog (CSS)",
     "author": "https://lordtoots.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
     "published": "2026-11-26T15:25Z"
   },
   {
     "url": "https://emma.bearblog.dev/steakholder/",
     "title": "What getting banned from Wetherspoons taught me about ownership",
     "author": "https://emma.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
     "published": "2026-11-26T14:58Z"
   },
   {
     "url": "https://www.zweisechsneun.de/die-schoene-weihnachtszeit/",
     "title": "Die schöne Weihnachtszeit",
     "author": "https://www.zweisechsneun.de",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
     "published": "2026-11-26T15:57Z"
   },
   {
     "url": "https://blog.ericfrisch.com/decaf/",
     "title": "Switching to Decaf",
     "author": "https://blog.ericfrisch.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
     "published": "2026-11-26T15:34Z"
   },
   {
     "url": "https://traumajumps.bearblog.dev/crystals-on-my-windowsill/",
     "title": "crystals on my windowsill",
     "author": "https://traumajumps.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
     "published": "2026-11-26T15:05Z"
   },
   {
     "url": "https://blog.damonreece.com/i-wrote-a-fallen-london-story/",
     "title": "I wrote a Fallen London story!",
     "author": "https://blog.damonreece.com",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T16:00:51.261Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
     "published": "2026-11-26T01:30Z"
   },
   {
@@ -412,5 +412,77 @@
     "first_seen": "2026-11-26T16:00:51.261Z",
     "last_updated": "2026-11-26T16:00:51.261Z",
     "published": "2026-11-26T13:28Z"
+  },
+  {
+    "url": "https://deepspacespines.bearblog.dev/013-wounded-sky/",
+    "title": "#013: THE WOUNDED SKY",
+    "author": "https://deepspacespines.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
+    "published": "2026-11-26T16:49Z"
+  },
+  {
+    "url": "https://heyimbriel.bearblog.dev/talvez-gta-vi-realmente-seja-tudo-isso/",
+    "title": "Talvez GTA VI realmente seja tudo isso.",
+    "author": "https://heyimbriel.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
+    "published": "2026-11-26T16:12Z"
+  },
+  {
+    "url": "https://singinginspanish.bearblog.dev/november-hiking-straight-out-of-the-city/",
+    "title": "November 2026: Hiking Straight Out of the City",
+    "author": "https://singinginspanish.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
+    "published": "2026-11-26T16:07Z"
+  },
+  {
+    "url": "https://deepspacespines.bearblog.dev/012-mutiny-enterprise/",
+    "title": "#012: MUTINY ON THE ENTERPRISE",
+    "author": "https://deepspacespines.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
+    "published": "2026-11-26T04:41Z"
+  },
+  {
+    "url": "https://householderkarl.com/a-holiday-post/",
+    "title": "A Holiday Post",
+    "author": "https://householderkarl.com",
+    "toasts": 2,
+    "first_seen": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
+    "published": "2026-11-26T16:29Z"
+  },
+  {
+    "url": "https://elliesunsettledmind.bearblog.dev/thoughts-after-reading-the-bell-jar-by-sylvia-plath/",
+    "title": "Book The Bell Jar & Finding Our Own Way",
+    "author": "https://elliesunsettledmind.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
+    "published": "2026-11-26T16:01Z"
+  },
+  {
+    "url": "https://emma.bearblog.dev/biscuit/",
+    "title": "What a biscuit taught me about leadership",
+    "author": "https://emma.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
+    "published": "2026-11-26T14:32Z"
+  },
+  {
+    "url": "https://oypster.org/weekly-finds-1884-called-it-wants-your-life-back/",
+    "title": "Weekly Finds | 1884 called. It wants your life back",
+    "author": "https://oypster.org",
+    "toasts": 2,
+    "first_seen": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T17:00:51.285Z",
+    "published": "2026-11-26T11:29Z"
   }
 ]
