@@ -156,9 +156,9 @@
     "url": "https://pumpkintravels.uk/dorrigo-national-park/",
     "title": "Dorrigo National Park",
     "author": "https://pumpkintravels.uk",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-26T10:00:51.299Z",
-    "last_updated": "2026-11-26T11:00:51.278Z",
+    "last_updated": "2026-11-26T12:00:51.236Z",
     "published": "2026-11-26T09:40Z"
   },
   {
@@ -214,5 +214,41 @@
     "first_seen": "2026-11-26T11:00:51.278Z",
     "last_updated": "2026-11-26T11:00:51.278Z",
     "published": "2026-11-26T08:00Z"
+  },
+  {
+    "url": "https://mgx.bearblog.dev/introducing-beardash/",
+    "title": "Introducing beardash.dev",
+    "author": "https://mgx.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T12:00:51.236Z",
+    "last_updated": "2026-11-26T12:00:51.236Z",
+    "published": "2026-11-26T09:23Z"
+  },
+  {
+    "url": "https://amberlimshin.bearblog.dev/hello-world/",
+    "title": "Hello world!",
+    "author": "https://amberlimshin.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-26T12:00:51.236Z",
+    "last_updated": "2026-11-26T12:00:51.236Z",
+    "published": "2026-11-26T10:55Z"
+  },
+  {
+    "url": "https://blogdoth.bearblog.dev/dezembro-ja-esta-batendo-na-porta/",
+    "title": "Dezembro já está batendo na porta",
+    "author": "https://blogdoth.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T12:00:51.236Z",
+    "last_updated": "2026-11-26T12:00:51.236Z",
+    "published": "2026-11-26T10:30Z"
+  },
+  {
+    "url": "https://thingsfound.bearblog.dev/dear-netflix/",
+    "title": "Dear Netflix.",
+    "author": "https://thingsfound.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T12:00:51.236Z",
+    "last_updated": "2026-11-26T12:00:51.236Z",
+    "published": "2026-11-26T07:27Z"
   }
 ]
