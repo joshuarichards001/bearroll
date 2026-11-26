@@ -192,9 +192,9 @@
     "url": "https://mirroredworld.bearblog.dev/cut-and-paste/",
     "title": "Cut and Paste",
     "author": "https://mirroredworld.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-26T11:00:51.278Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T18:00:51.280Z",
     "published": "2026-11-26T10:01Z"
   },
   {
@@ -219,9 +219,9 @@
     "url": "https://mgx.bearblog.dev/introducing-beardash/",
     "title": "Introducing beardash.dev",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 15,
+    "toasts": 18,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T18:00:51.280Z",
     "published": "2026-11-26T09:23Z"
   },
   {
@@ -327,9 +327,9 @@
     "url": "https://semdominio.bearblog.dev/fe-na-surpresa/",
     "title": "Fé na surpresa",
     "author": "https://semdominio.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T15:00:51.217Z",
-    "last_updated": "2026-11-26T15:00:51.217Z",
+    "last_updated": "2026-11-26T18:00:51.280Z",
     "published": "2026-11-26T14:11Z"
   },
   {
@@ -354,9 +354,9 @@
     "url": "https://lordtoots.bearblog.dev/make-it-rain/",
     "title": "Make it rain on your blog (CSS)",
     "author": "https://lordtoots.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T18:00:51.280Z",
     "published": "2026-11-26T15:25Z"
   },
   {
@@ -372,9 +372,9 @@
     "url": "https://www.zweisechsneun.de/die-schoene-weihnachtszeit/",
     "title": "Die schöne Weihnachtszeit",
     "author": "https://www.zweisechsneun.de",
-    "toasts": 3,
+    "toasts": 7,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T18:00:51.280Z",
     "published": "2026-11-26T15:57Z"
   },
   {
@@ -426,18 +426,18 @@
     "url": "https://heyimbriel.bearblog.dev/talvez-gta-vi-realmente-seja-tudo-isso/",
     "title": "Talvez GTA VI realmente seja tudo isso.",
     "author": "https://heyimbriel.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-26T17:00:51.285Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T18:00:51.280Z",
     "published": "2026-11-26T16:12Z"
   },
   {
     "url": "https://singinginspanish.bearblog.dev/november-hiking-straight-out-of-the-city/",
     "title": "November 2026: Hiking Straight Out of the City",
     "author": "https://singinginspanish.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-26T17:00:51.285Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T18:00:51.280Z",
     "published": "2026-11-26T16:07Z"
   },
   {
@@ -484,5 +484,23 @@
     "first_seen": "2026-11-26T17:00:51.285Z",
     "last_updated": "2026-11-26T17:00:51.285Z",
     "published": "2026-11-26T11:29Z"
+  },
+  {
+    "url": "https://deepspacespines.bearblog.dev/014-trellisane-confrontation/",
+    "title": "#014: THE TRELLISANE CONFRONTATION",
+    "author": "https://deepspacespines.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T18:00:51.280Z",
+    "last_updated": "2026-11-26T18:00:51.280Z",
+    "published": "2026-11-26T17:19Z"
+  },
+  {
+    "url": "https://leeraedee.org/re-comments-and-emails/",
+    "title": "Re: comments and emails",
+    "author": "https://leeraedee.org",
+    "toasts": 2,
+    "first_seen": "2026-11-26T18:00:51.280Z",
+    "last_updated": "2026-11-26T18:00:51.280Z",
+    "published": "2026-11-26T17:11Z"
   }
 ]
