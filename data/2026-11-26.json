@@ -219,18 +219,18 @@
     "url": "https://mgx.bearblog.dev/introducing-beardash/",
     "title": "Introducing beardash.dev",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 19,
+    "toasts": 23,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-26T19:00:51.192Z",
+    "last_updated": "2026-11-26T20:00:51.389Z",
     "published": "2026-11-26T09:23Z"
   },
   {
     "url": "https://amberlimshin.bearblog.dev/hello-world/",
     "title": "Hello world!",
     "author": "https://amberlimshin.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-26T19:00:51.192Z",
+    "last_updated": "2026-11-26T20:00:51.389Z",
     "published": "2026-11-26T10:55Z"
   },
   {
@@ -273,9 +273,9 @@
     "url": "https://afterstan.bearblog.dev/20-things-i-saw-in-muang-mai-laos/",
     "title": "20 things I saw in Muang Mai, Laos",
     "author": "https://afterstan.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-26T14:00:51.261Z",
-    "last_updated": "2026-11-26T15:00:51.217Z",
+    "last_updated": "2026-11-26T20:00:51.389Z",
     "published": "2026-11-26T13:26Z"
   },
   {
@@ -345,27 +345,27 @@
     "url": "https://nburchett.com/delete-the-memory/",
     "title": "Delete the Memory",
     "author": "https://nburchett.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T19:00:51.192Z",
+    "last_updated": "2026-11-26T20:00:51.389Z",
     "published": "2026-11-26T15:00Z"
   },
   {
     "url": "https://lordtoots.bearblog.dev/make-it-rain/",
     "title": "Make it rain on your blog (CSS)",
     "author": "https://lordtoots.bearblog.dev",
-    "toasts": 8,
+    "toasts": 14,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T19:00:51.192Z",
+    "last_updated": "2026-11-26T20:00:51.389Z",
     "published": "2026-11-26T15:25Z"
   },
   {
     "url": "https://emma.bearblog.dev/steakholder/",
     "title": "What getting banned from Wetherspoons taught me about ownership",
     "author": "https://emma.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T20:00:51.389Z",
     "published": "2026-11-26T14:58Z"
   },
   {
@@ -390,9 +390,9 @@
     "url": "https://traumajumps.bearblog.dev/crystals-on-my-windowsill/",
     "title": "crystals on my windowsill",
     "author": "https://traumajumps.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T20:00:51.389Z",
     "published": "2026-11-26T15:05Z"
   },
   {
@@ -471,9 +471,9 @@
     "url": "https://emma.bearblog.dev/biscuit/",
     "title": "What a biscuit taught me about leadership",
     "author": "https://emma.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T17:00:51.285Z",
-    "last_updated": "2026-11-26T17:00:51.285Z",
+    "last_updated": "2026-11-26T20:00:51.389Z",
     "published": "2026-11-26T14:32Z"
   },
   {
@@ -516,9 +516,9 @@
     "url": "https://emma.bearblog.dev/crayons/",
     "title": "What I learned about extreme ownership from eating crayons",
     "author": "https://emma.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-26T19:00:51.192Z",
-    "last_updated": "2026-11-26T19:00:51.192Z",
+    "last_updated": "2026-11-26T20:00:51.389Z",
     "published": "2026-11-26T18:44Z"
   },
   {
@@ -538,5 +538,23 @@
     "first_seen": "2026-11-26T19:00:51.192Z",
     "last_updated": "2026-11-26T19:00:51.192Z",
     "published": "2026-11-26T17:46Z"
+  },
+  {
+    "url": "https://jaspermacleod.bearblog.dev/sftc-7/",
+    "title": "Smile for the Camera: ch. 7 - The Internet’s Favorite",
+    "author": "https://jaspermacleod.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T20:00:51.389Z",
+    "last_updated": "2026-11-26T20:00:51.389Z",
+    "published": "2026-11-26T19:08Z"
+  },
+  {
+    "url": "https://coreyblogs.com/in-headphones-and-a-chubby-sweater-while-sipping-coffee-on-thanksgiving-morning/",
+    "title": "...in headphones and a chubby sweater while sipping coffee on Thanksgiving morning.",
+    "author": "https://coreyblogs.com",
+    "toasts": 2,
+    "first_seen": "2026-11-26T20:00:51.389Z",
+    "last_updated": "2026-11-26T20:00:51.389Z",
+    "published": "2026-11-26T18:33Z"
   }
 ]
