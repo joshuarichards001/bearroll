@@ -84,9 +84,9 @@
     "url": "https://lozravee.bearblog.dev/the-new-oblivion-crisis-looks-awfully-x-shaped/",
     "title": "The new Oblivion Crisis looks awfully X-shaped",
     "author": "https://lozravee.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T05:00:51.209Z",
-    "last_updated": "2026-11-26T05:00:51.209Z",
+    "last_updated": "2026-11-26T07:00:51.219Z",
     "published": "2026-11-26T04:40Z"
   },
   {
@@ -97,5 +97,23 @@
     "first_seen": "2026-11-26T06:00:51.250Z",
     "last_updated": "2026-11-26T06:00:51.250Z",
     "published": "2026-11-26T05:08Z"
+  },
+  {
+    "url": "https://combatdavey.net/november-25-2026/",
+    "title": "november 25 jeu",
+    "author": "https://combatdavey.net",
+    "toasts": 3,
+    "first_seen": "2026-11-26T07:00:51.219Z",
+    "last_updated": "2026-11-26T07:00:51.219Z",
+    "published": "2026-11-26T04:59Z"
+  },
+  {
+    "url": "https://yingxue.bearblog.dev/jingshan-park-beijing/",
+    "title": "Jingshan park, Beijing",
+    "author": "https://yingxue.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T07:00:51.219Z",
+    "last_updated": "2026-11-26T07:00:51.219Z",
+    "published": "2026-11-26T06:20Z"
   }
 ]
