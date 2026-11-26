@@ -12,9 +12,9 @@
     "url": "https://matthewchase.bearblog.dev/blackstone-a-menagerie-of-locations-and-npcs/",
     "title": "Blackstone: A Menagerie of Locations and NPCs",
     "author": "https://matthewchase.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-26T01:00:51.264Z",
-    "last_updated": "2026-11-26T01:00:51.264Z",
+    "last_updated": "2026-11-26T15:00:51.217Z",
     "published": "2026-11-26T00:05Z"
   },
   {
@@ -219,18 +219,18 @@
     "url": "https://mgx.bearblog.dev/introducing-beardash/",
     "title": "Introducing beardash.dev",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-26T14:00:51.261Z",
+    "last_updated": "2026-11-26T15:00:51.217Z",
     "published": "2026-11-26T09:23Z"
   },
   {
     "url": "https://amberlimshin.bearblog.dev/hello-world/",
     "title": "Hello world!",
     "author": "https://amberlimshin.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-26T12:00:51.236Z",
+    "last_updated": "2026-11-26T15:00:51.217Z",
     "published": "2026-11-26T10:55Z"
   },
   {
@@ -264,18 +264,18 @@
     "url": "https://smallquiet.bearblog.dev/a-note-on-family-expectations/",
     "title": "A note on family expectations",
     "author": "https://smallquiet.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T14:00:51.261Z",
-    "last_updated": "2026-11-26T14:00:51.261Z",
+    "last_updated": "2026-11-26T15:00:51.217Z",
     "published": "2026-11-26T13:35Z"
   },
   {
     "url": "https://afterstan.bearblog.dev/20-things-i-saw-in-muang-mai-laos/",
     "title": "20 things I saw in Muang Mai, Laos",
     "author": "https://afterstan.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T14:00:51.261Z",
-    "last_updated": "2026-11-26T14:00:51.261Z",
+    "last_updated": "2026-11-26T15:00:51.217Z",
     "published": "2026-11-26T13:26Z"
   },
   {
@@ -313,5 +313,32 @@
     "first_seen": "2026-11-26T14:00:51.261Z",
     "last_updated": "2026-11-26T14:00:51.261Z",
     "published": "2026-11-26T11:00Z"
+  },
+  {
+    "url": "https://logs.bearblog.dev/iphone-18-pro/",
+    "title": "IPhone 18 Pro",
+    "author": "https://logs.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T15:00:51.217Z",
+    "last_updated": "2026-11-26T15:00:51.217Z",
+    "published": "2026-11-26T14:32Z"
+  },
+  {
+    "url": "https://semdominio.bearblog.dev/fe-na-surpresa/",
+    "title": "Fé na surpresa",
+    "author": "https://semdominio.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T15:00:51.217Z",
+    "last_updated": "2026-11-26T15:00:51.217Z",
+    "published": "2026-11-26T14:11Z"
+  },
+  {
+    "url": "https://superhardscifi.bearblog.dev/mothership-creating-an-a5-one-shot/",
+    "title": "[Mothership] Creating an A5 One-Shot: Part 1",
+    "author": "https://superhardscifi.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-26T15:00:51.217Z",
+    "last_updated": "2026-11-26T15:00:51.217Z",
+    "published": "2026-11-26T12:18Z"
   }
 ]
