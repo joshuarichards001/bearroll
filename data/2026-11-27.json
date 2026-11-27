@@ -39,9 +39,9 @@
     "url": "https://athylbene.bearblog.dev/another-lonely-thanksgiving/",
     "title": "Another Lonely Thanksgiving",
     "author": "https://athylbene.bearblog.dev",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-11-27T03:00:51.242Z",
-    "last_updated": "2026-11-27T05:00:51.275Z",
+    "last_updated": "2026-11-27T06:00:51.241Z",
     "published": "2026-11-27T02:03Z"
   },
   {
@@ -97,5 +97,23 @@
     "first_seen": "2026-11-27T05:00:51.275Z",
     "last_updated": "2026-11-27T05:00:51.275Z",
     "published": "2026-11-27T00:38Z"
+  },
+  {
+    "url": "https://pablos.live/thoughts-about-transience/",
+    "title": "thoughts about transience",
+    "author": "https://pablos.live",
+    "toasts": 2,
+    "first_seen": "2026-11-27T06:00:51.241Z",
+    "last_updated": "2026-11-27T06:00:51.241Z",
+    "published": "2026-11-27T05:59Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/happy-thanksgiving/",
+    "title": "Happy Thanksgiving!",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 2,
+    "first_seen": "2026-11-27T06:00:51.241Z",
+    "last_updated": "2026-11-27T06:00:51.241Z",
+    "published": "2026-11-27T04:38Z"
   }
 ]

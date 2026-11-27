@@ -363,9 +363,9 @@
     "url": "https://emma.bearblog.dev/steakholder/",
     "title": "What getting banned from Wetherspoons taught me about ownership",
     "author": "https://emma.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-27T01:00:51.267Z",
+    "last_updated": "2026-11-27T06:00:51.241Z",
     "published": "2026-11-26T14:58Z"
   },
   {
@@ -462,9 +462,9 @@
     "url": "https://elliesunsettledmind.bearblog.dev/thoughts-after-reading-the-bell-jar-by-sylvia-plath/",
     "title": "Book The Bell Jar & Finding Our Own Way",
     "author": "https://elliesunsettledmind.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-26T17:00:51.285Z",
-    "last_updated": "2026-11-26T19:00:51.192Z",
+    "last_updated": "2026-11-27T06:00:51.241Z",
     "published": "2026-11-26T16:01Z"
   },
   {
@@ -709,5 +709,14 @@
     "first_seen": "2026-11-27T02:00:51.270Z",
     "last_updated": "2026-11-27T02:00:51.270Z",
     "published": "2026-11-26T21:52Z"
+  },
+  {
+    "url": "https://alvinsoon.com/the-books-i-loved-in-2026/",
+    "title": "The books I loved in 2026",
+    "author": "https://alvinsoon.com",
+    "toasts": 2,
+    "first_seen": "2026-11-27T06:00:51.241Z",
+    "last_updated": "2026-11-27T06:00:51.241Z",
+    "published": "2026-11-26T23:00Z"
   }
 ]
