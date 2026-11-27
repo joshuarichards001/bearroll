@@ -39,9 +39,9 @@
     "url": "https://athylbene.bearblog.dev/another-lonely-thanksgiving/",
     "title": "Another Lonely Thanksgiving",
     "author": "https://athylbene.bearblog.dev",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-11-27T03:00:51.242Z",
-    "last_updated": "2026-11-27T22:00:51.731Z",
+    "last_updated": "2026-11-27T23:00:51.308Z",
     "published": "2026-11-27T02:03Z"
   },
   {
@@ -381,9 +381,9 @@
     "url": "https://littleducky.bearblog.dev/is-anyone-neurotypical-these-days/",
     "title": "Is anyone neurotypical these days?",
     "author": "https://littleducky.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-11-27T16:00:51.709Z",
-    "last_updated": "2026-11-27T21:00:51.353Z",
+    "last_updated": "2026-11-27T23:00:51.308Z",
     "published": "2026-11-27T15:29Z"
   },
   {
@@ -633,9 +633,9 @@
     "url": "https://onlinegoddess.net/2026/11/will-big-web-kill-rss/",
     "title": "Will The “Big Web” Kill RSS?",
     "author": "https://onlinegoddess.net",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-27T21:00:51.353Z",
-    "last_updated": "2026-11-27T22:00:51.731Z",
+    "last_updated": "2026-11-27T23:00:51.308Z",
     "published": "2026-11-27T20:17Z"
   },
   {
@@ -705,27 +705,63 @@
     "url": "https://bungleinthejungle.bearblog.dev/exhaustion/",
     "title": "Exhaustion",
     "author": "https://bungleinthejungle.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-27T22:00:51.731Z",
-    "last_updated": "2026-11-27T22:00:51.731Z",
+    "last_updated": "2026-11-27T23:00:51.308Z",
     "published": "2026-11-27T21:49Z"
   },
   {
     "url": "https://marginstoonarrow.bearblog.dev/my-caffeine-addiction-is-a-family-heirloom/",
     "title": "My caffeine addiction is a family heirloom.",
     "author": "https://marginstoonarrow.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-27T22:00:51.731Z",
-    "last_updated": "2026-11-27T22:00:51.731Z",
+    "last_updated": "2026-11-27T23:00:51.308Z",
     "published": "2026-11-27T20:53Z"
   },
   {
     "url": "https://elliesunsettledmind.bearblog.dev/my-youtube-golden-era/",
     "title": "My Golden YouTube Era",
     "author": "https://elliesunsettledmind.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-27T22:00:51.731Z",
-    "last_updated": "2026-11-27T22:00:51.731Z",
+    "last_updated": "2026-11-27T23:00:51.308Z",
     "published": "2026-11-27T20:10Z"
+  },
+  {
+    "url": "https://nburchett.com/the-kindest-words/",
+    "title": "The Kindest Words",
+    "author": "https://nburchett.com",
+    "toasts": 6,
+    "first_seen": "2026-11-27T23:00:51.308Z",
+    "last_updated": "2026-11-27T23:00:51.308Z",
+    "published": "2026-11-27T22:10Z"
+  },
+  {
+    "url": "https://neostephenism.bearblog.dev/what-the-work-leaves-behind/",
+    "title": "What the Work Leaves Behind",
+    "author": "https://neostephenism.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-27T23:00:51.308Z",
+    "last_updated": "2026-11-27T23:00:51.308Z",
+    "published": "2026-11-27T22:17Z"
+  },
+  {
+    "url": "https://life-after-ssri.bearblog.dev/innit/",
+    "title": "Grammaticalisation, innit",
+    "author": "https://life-after-ssri.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-27T23:00:51.308Z",
+    "last_updated": "2026-11-27T23:00:51.308Z",
+    "published": "2026-11-27T21:40Z"
+  },
+  {
+    "url": "https://ikonoclast.art/who-is-this/",
+    "title": "Who is This?",
+    "author": "https://ikonoclast.art",
+    "toasts": 2,
+    "first_seen": "2026-11-27T23:00:51.308Z",
+    "last_updated": "2026-11-27T23:00:51.308Z",
+    "published": "2026-11-27T21:39Z"
   }
 ]
