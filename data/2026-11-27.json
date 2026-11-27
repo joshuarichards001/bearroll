@@ -39,9 +39,9 @@
     "url": "https://athylbene.bearblog.dev/another-lonely-thanksgiving/",
     "title": "Another Lonely Thanksgiving",
     "author": "https://athylbene.bearblog.dev",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-11-27T03:00:51.242Z",
-    "last_updated": "2026-11-27T14:00:51.540Z",
+    "last_updated": "2026-11-27T15:00:51.235Z",
     "published": "2026-11-27T02:03Z"
   },
   {
@@ -264,9 +264,9 @@
     "url": "https://fome.bearblog.dev/ai-workflows/",
     "title": "Why I don't optimize my AI workflows",
     "author": "https://fome.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-27T12:00:51.283Z",
-    "last_updated": "2026-11-27T14:00:51.540Z",
+    "last_updated": "2026-11-27T15:00:51.235Z",
     "published": "2026-11-27T07:46Z"
   },
   {
@@ -282,9 +282,9 @@
     "url": "https://itsme.bearblog.dev/the-self-defeating-aspect-of-digital-writing-assistance/",
     "title": "The self-defeating aspect of digital writing assistance",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-27T13:00:51.279Z",
-    "last_updated": "2026-11-27T14:00:51.540Z",
+    "last_updated": "2026-11-27T15:00:51.235Z",
     "published": "2026-11-27T12:11Z"
   },
   {
@@ -309,9 +309,9 @@
     "url": "https://emeraldsip.cafe/matcha-maora-cologne/",
     "title": "Matcha @ Maora, Cologne",
     "author": "https://emeraldsip.cafe",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-27T14:00:51.540Z",
-    "last_updated": "2026-11-27T14:00:51.540Z",
+    "last_updated": "2026-11-27T15:00:51.235Z",
     "published": "2026-11-27T13:27Z"
   },
   {
@@ -327,9 +327,9 @@
     "url": "https://robertbirming.com/note/",
     "title": "Note",
     "author": "https://robertbirming.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-27T14:00:51.540Z",
-    "last_updated": "2026-11-27T14:00:51.540Z",
+    "last_updated": "2026-11-27T15:00:51.235Z",
     "published": "2026-11-27T13:22Z"
   },
   {
@@ -340,5 +340,41 @@
     "first_seen": "2026-11-27T14:00:51.540Z",
     "last_updated": "2026-11-27T14:00:51.540Z",
     "published": "2026-11-27T12:30Z"
+  },
+  {
+    "url": "https://th.blog.br/esses-dias-comentarios/",
+    "title": "esses dias + comentários",
+    "author": "https://th.blog.br",
+    "toasts": 4,
+    "first_seen": "2026-11-27T15:00:51.235Z",
+    "last_updated": "2026-11-27T15:00:51.235Z",
+    "published": "2026-11-27T13:57Z"
+  },
+  {
+    "url": "https://ordinarykuma.bearblog.dev/why-why-why/",
+    "title": "我的碎碎念，為了什麼而讀書、好多個為什麼。",
+    "author": "https://ordinarykuma.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-27T15:00:51.235Z",
+    "last_updated": "2026-11-27T15:00:51.235Z",
+    "published": "2026-11-27T14:58Z"
+  },
+  {
+    "url": "https://ordinarythings.org/there-is-nothing-inherently-wrong-with-having-barns/",
+    "title": "There Is Nothing Inherently Wrong with Having Barns",
+    "author": "https://ordinarythings.org",
+    "toasts": 2,
+    "first_seen": "2026-11-27T15:00:51.235Z",
+    "last_updated": "2026-11-27T15:00:51.235Z",
+    "published": "2026-11-27T14:46Z"
+  },
+  {
+    "url": "https://zwaluw.bearblog.dev/fomo/",
+    "title": "FOMO",
+    "author": "https://zwaluw.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-27T15:00:51.235Z",
+    "last_updated": "2026-11-27T15:00:51.235Z",
+    "published": "2026-11-27T14:39Z"
   }
 ]
