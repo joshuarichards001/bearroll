@@ -219,18 +219,18 @@
     "url": "https://mgx.bearblog.dev/introducing-beardash/",
     "title": "Introducing beardash.dev",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 33,
+    "toasts": 34,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-27T07:00:51.259Z",
+    "last_updated": "2026-11-27T08:00:51.626Z",
     "published": "2026-11-26T09:23Z"
   },
   {
     "url": "https://amberlimshin.bearblog.dev/hello-world/",
     "title": "Hello world!",
     "author": "https://amberlimshin.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-27T07:00:51.259Z",
+    "last_updated": "2026-11-27T08:00:51.626Z",
     "published": "2026-11-26T10:55Z"
   },
   {
@@ -354,27 +354,27 @@
     "url": "https://lordtoots.bearblog.dev/make-it-rain/",
     "title": "Make it rain on your blog (CSS)",
     "author": "https://lordtoots.bearblog.dev",
-    "toasts": 31,
+    "toasts": 34,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-27T07:00:51.259Z",
+    "last_updated": "2026-11-27T08:00:51.626Z",
     "published": "2026-11-26T15:25Z"
   },
   {
     "url": "https://emma.bearblog.dev/steakholder/",
     "title": "What getting banned from Wetherspoons taught me about ownership",
     "author": "https://emma.bearblog.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-27T06:00:51.241Z",
+    "last_updated": "2026-11-27T08:00:51.626Z",
     "published": "2026-11-26T14:58Z"
   },
   {
     "url": "https://www.zweisechsneun.de/die-schoene-weihnachtszeit/",
     "title": "Die schöne Weihnachtszeit",
     "author": "https://www.zweisechsneun.de",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T18:00:51.280Z",
+    "last_updated": "2026-11-27T08:00:51.626Z",
     "published": "2026-11-26T15:57Z"
   },
   {
@@ -471,9 +471,9 @@
     "url": "https://emma.bearblog.dev/biscuit/",
     "title": "What a biscuit taught me about leadership",
     "author": "https://emma.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-26T17:00:51.285Z",
-    "last_updated": "2026-11-26T22:00:51.313Z",
+    "last_updated": "2026-11-27T08:00:51.626Z",
     "published": "2026-11-26T14:32Z"
   },
   {
@@ -516,9 +516,9 @@
     "url": "https://emma.bearblog.dev/crayons/",
     "title": "What I learned about extreme ownership from eating crayons",
     "author": "https://emma.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-26T19:00:51.192Z",
-    "last_updated": "2026-11-26T20:00:51.389Z",
+    "last_updated": "2026-11-27T08:00:51.626Z",
     "published": "2026-11-26T18:44Z"
   },
   {
@@ -678,9 +678,9 @@
     "url": "https://olu.online/trying-really-hard/",
     "title": "trying really hard",
     "author": "https://olu.online",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-27T00:00:51.393Z",
-    "last_updated": "2026-11-27T00:00:51.393Z",
+    "last_updated": "2026-11-27T08:00:51.626Z",
     "published": "2026-11-26T23:16Z"
   },
   {
@@ -718,5 +718,14 @@
     "first_seen": "2026-11-27T06:00:51.241Z",
     "last_updated": "2026-11-27T06:00:51.241Z",
     "published": "2026-11-26T23:00Z"
+  },
+  {
+    "url": "https://blog.solazy.me/20261126/",
+    "title": "你忘了的话，别人还记着",
+    "author": "https://blog.solazy.me",
+    "toasts": 4,
+    "first_seen": "2026-11-27T08:00:51.626Z",
+    "last_updated": "2026-11-27T08:00:51.626Z",
+    "published": "2026-11-26T15:00Z"
   }
 ]
