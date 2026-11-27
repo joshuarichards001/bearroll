@@ -165,9 +165,9 @@
     "url": "https://amberlimshin.bearblog.dev/after-living-in-iceland-for-3-years-ive-decided-to-move-back-home/",
     "title": "After living in Iceland for 3 years, I've decided to move back home...",
     "author": "https://amberlimshin.bearblog.dev",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-11-27T08:00:51.626Z",
-    "last_updated": "2026-11-27T16:00:51.709Z",
+    "last_updated": "2026-11-27T18:00:51.207Z",
     "published": "2026-11-27T07:14Z"
   },
   {
@@ -327,9 +327,9 @@
     "url": "https://robertbirming.com/note/",
     "title": "Note",
     "author": "https://robertbirming.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-27T14:00:51.540Z",
-    "last_updated": "2026-11-27T17:00:51.273Z",
+    "last_updated": "2026-11-27T18:00:51.207Z",
     "published": "2026-11-27T13:22Z"
   },
   {
@@ -399,9 +399,9 @@
     "url": "https://gr-y.uk/send-me-your-food-memories/",
     "title": "Send Me Your Food Memories",
     "author": "https://gr-y.uk",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-27T16:00:51.709Z",
-    "last_updated": "2026-11-27T17:00:51.273Z",
+    "last_updated": "2026-11-27T18:00:51.207Z",
     "published": "2026-11-27T15:16Z"
   },
   {
@@ -417,18 +417,18 @@
     "url": "https://elmc.at/domain-of-dread-insula/",
     "title": "Domain of Dread: Insula",
     "author": "https://elmc.at",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-11-27T17:00:51.273Z",
-    "last_updated": "2026-11-27T17:00:51.273Z",
+    "last_updated": "2026-11-27T18:00:51.207Z",
     "published": "2026-11-27T16:20Z"
   },
   {
     "url": "https://rickw.bearblog.dev/our-mental-illnesses-are-incompatible/",
     "title": "Our Mental Illnesses are Incompatible",
     "author": "https://rickw.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-27T17:00:51.273Z",
-    "last_updated": "2026-11-27T17:00:51.273Z",
+    "last_updated": "2026-11-27T18:00:51.207Z",
     "published": "2026-11-27T16:12Z"
   },
   {
@@ -466,5 +466,50 @@
     "first_seen": "2026-11-27T17:00:51.273Z",
     "last_updated": "2026-11-27T17:00:51.273Z",
     "published": "2026-11-27T12:33Z"
+  },
+  {
+    "url": "https://mirroredworld.bearblog.dev/a-room-of-ones-own/",
+    "title": "A Room of One's Own",
+    "author": "https://mirroredworld.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-27T18:00:51.207Z",
+    "last_updated": "2026-11-27T18:00:51.207Z",
+    "published": "2026-11-27T17:39Z"
+  },
+  {
+    "url": "https://goodgollyzines.ca/everyone-should-have-a-personal-blog-in-2027/",
+    "title": "everyone should have a personal blog in 2027",
+    "author": "https://goodgollyzines.ca",
+    "toasts": 3,
+    "first_seen": "2026-11-27T18:00:51.207Z",
+    "last_updated": "2026-11-27T18:00:51.207Z",
+    "published": "2026-11-27T16:43Z"
+  },
+  {
+    "url": "https://coreyblogs.com/the-weekly-ellie-4/",
+    "title": "...the weekly Ellie!",
+    "author": "https://coreyblogs.com",
+    "toasts": 2,
+    "first_seen": "2026-11-27T18:00:51.207Z",
+    "last_updated": "2026-11-27T18:00:51.207Z",
+    "published": "2026-11-27T17:48Z"
+  },
+  {
+    "url": "https://verityvoron.bearblog.dev/first-lolita-dress-and-fashion-interests/",
+    "title": "First Lolita Dress and fashion interests",
+    "author": "https://verityvoron.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-27T18:00:51.207Z",
+    "last_updated": "2026-11-27T18:00:51.207Z",
+    "published": "2026-11-27T17:12Z"
+  },
+  {
+    "url": "https://blighttown.bearblog.dev/thoughts-on-llms-prompted-by-article/",
+    "title": "Thoughts on LLMs, prompted by a an article I was sent",
+    "author": "https://blighttown.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-27T18:00:51.207Z",
+    "last_updated": "2026-11-27T18:00:51.207Z",
+    "published": "2026-11-27T16:46Z"
   }
 ]
