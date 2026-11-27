@@ -219,9 +219,9 @@
     "url": "https://mgx.bearblog.dev/introducing-beardash/",
     "title": "Introducing beardash.dev",
     "author": "https://mgx.bearblog.dev",
-    "toasts": 37,
+    "toasts": 38,
     "first_seen": "2026-11-26T12:00:51.236Z",
-    "last_updated": "2026-11-27T13:00:51.279Z",
+    "last_updated": "2026-11-27T14:00:51.540Z",
     "published": "2026-11-26T09:23Z"
   },
   {
@@ -354,18 +354,18 @@
     "url": "https://lordtoots.bearblog.dev/make-it-rain/",
     "title": "Make it rain on your blog (CSS)",
     "author": "https://lordtoots.bearblog.dev",
-    "toasts": 47,
+    "toasts": 49,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-27T12:00:51.283Z",
+    "last_updated": "2026-11-27T14:00:51.540Z",
     "published": "2026-11-26T15:25Z"
   },
   {
     "url": "https://emma.bearblog.dev/steakholder/",
     "title": "What getting banned from Wetherspoons taught me about ownership",
     "author": "https://emma.bearblog.dev",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-27T13:00:51.279Z",
+    "last_updated": "2026-11-27T14:00:51.540Z",
     "published": "2026-11-26T14:58Z"
   },
   {
@@ -408,9 +408,9 @@
     "url": "https://veellainous.com/sharpshooter/",
     "title": "Sharpshooter",
     "author": "https://veellainous.com",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-27T05:00:51.275Z",
+    "last_updated": "2026-11-27T14:00:51.540Z",
     "published": "2026-11-26T13:28Z"
   },
   {
@@ -507,9 +507,9 @@
     "url": "https://grazinggoats.bearblog.dev/do-you-know-why-the-tv-remote-control-was-invented/",
     "title": "Do you know why the TV remote control was invented?",
     "author": "https://grazinggoats.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-26T19:00:51.192Z",
-    "last_updated": "2026-11-27T12:00:51.283Z",
+    "last_updated": "2026-11-27T14:00:51.540Z",
     "published": "2026-11-26T17:44Z"
   },
   {
@@ -570,9 +570,9 @@
     "url": "https://feresunajacaranda.bearblog.dev/fotos-de-noviembre/",
     "title": "FOTOS DE NOVIEMBRE",
     "author": "https://feresunajacaranda.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-26T21:00:51.301Z",
-    "last_updated": "2026-11-27T12:00:51.283Z",
+    "last_updated": "2026-11-27T14:00:51.540Z",
     "published": "2026-11-26T20:26Z"
   },
   {
@@ -660,9 +660,9 @@
     "url": "https://feresunajacaranda.bearblog.dev/musica-y-peliculas-de-noviembre/",
     "title": "más insumos culturales de Noviembre",
     "author": "https://feresunajacaranda.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T23:00:51.253Z",
-    "last_updated": "2026-11-26T23:00:51.253Z",
+    "last_updated": "2026-11-27T14:00:51.540Z",
     "published": "2026-11-26T19:51Z"
   },
   {
@@ -736,5 +736,14 @@
     "first_seen": "2026-11-27T11:00:51.273Z",
     "last_updated": "2026-11-27T11:00:51.273Z",
     "published": "2026-11-26T19:40Z"
+  },
+  {
+    "url": "https://blog.bumbleborn.com/something-small/",
+    "title": "something small.",
+    "author": "https://blog.bumbleborn.com",
+    "toasts": 4,
+    "first_seen": "2026-11-27T14:00:51.540Z",
+    "last_updated": "2026-11-27T14:00:51.540Z",
+    "published": "2026-11-26T15:13Z"
   }
 ]
