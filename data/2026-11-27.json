@@ -39,9 +39,9 @@
     "url": "https://athylbene.bearblog.dev/another-lonely-thanksgiving/",
     "title": "Another Lonely Thanksgiving",
     "author": "https://athylbene.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-11-27T03:00:51.242Z",
-    "last_updated": "2026-11-27T12:00:51.283Z",
+    "last_updated": "2026-11-27T13:00:51.279Z",
     "published": "2026-11-27T02:03Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://blog.lauramichet.com/happy-thanksgiving/",
     "title": "Happy Thanksgiving!",
     "author": "https://blog.lauramichet.com",
-    "toasts": 5,
+    "toasts": 7,
     "first_seen": "2026-11-27T06:00:51.241Z",
-    "last_updated": "2026-11-27T12:00:51.283Z",
+    "last_updated": "2026-11-27T13:00:51.279Z",
     "published": "2026-11-27T04:38Z"
   },
   {
@@ -183,18 +183,18 @@
     "url": "https://combatdavey.net/november-26-2026/",
     "title": "november 26 set",
     "author": "https://combatdavey.net",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-27T08:00:51.626Z",
-    "last_updated": "2026-11-27T10:00:51.274Z",
+    "last_updated": "2026-11-27T13:00:51.279Z",
     "published": "2026-11-27T04:59Z"
   },
   {
     "url": "https://marcg.net/i-havent-had-internet-for-months/",
     "title": "I haven't had internet for months",
     "author": "https://marcg.net",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-11-27T09:00:51.288Z",
-    "last_updated": "2026-11-27T12:00:51.283Z",
+    "last_updated": "2026-11-27T13:00:51.279Z",
     "published": "2026-11-27T08:53Z"
   },
   {
@@ -277,5 +277,32 @@
     "first_seen": "2026-11-27T12:00:51.283Z",
     "last_updated": "2026-11-27T12:00:51.283Z",
     "published": "2026-11-27T11:07Z"
+  },
+  {
+    "url": "https://itsme.bearblog.dev/the-self-defeating-aspect-of-digital-writing-assistance/",
+    "title": "The self-defeating aspect of digital writing assistance",
+    "author": "https://itsme.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-27T13:00:51.279Z",
+    "last_updated": "2026-11-27T13:00:51.279Z",
+    "published": "2026-11-27T12:11Z"
+  },
+  {
+    "url": "https://vinceblog.net/taiwanese-election-freebies/",
+    "title": "Taiwanese Election Freebies",
+    "author": "https://vinceblog.net",
+    "toasts": 2,
+    "first_seen": "2026-11-27T13:00:51.279Z",
+    "last_updated": "2026-11-27T13:00:51.279Z",
+    "published": "2026-11-27T11:53Z"
+  },
+  {
+    "url": "https://spindlecrow.space/the-mastermind-really/",
+    "title": "the mastermind - really?",
+    "author": "https://spindlecrow.space",
+    "toasts": 2,
+    "first_seen": "2026-11-27T13:00:51.279Z",
+    "last_updated": "2026-11-27T13:00:51.279Z",
+    "published": "2026-11-27T11:34Z"
   }
 ]
