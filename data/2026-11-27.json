@@ -66,9 +66,9 @@
     "url": "https://blog.solazy.me/20261127/",
     "title": "生活中那些 backup 给我的安全感",
     "author": "https://blog.solazy.me",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-27T04:00:51.243Z",
-    "last_updated": "2026-11-27T08:00:51.626Z",
+    "last_updated": "2026-11-27T09:00:51.288Z",
     "published": "2026-11-27T03:00Z"
   },
   {
@@ -156,18 +156,18 @@
     "url": "https://jollyanchorblog.bearblog.dev/commission-complete/",
     "title": "Commission complete!",
     "author": "https://jollyanchorblog.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-27T07:00:51.259Z",
-    "last_updated": "2026-11-27T08:00:51.626Z",
+    "last_updated": "2026-11-27T09:00:51.288Z",
     "published": "2026-11-27T05:08Z"
   },
   {
     "url": "https://amberlimshin.bearblog.dev/after-living-in-iceland-for-3-years-ive-decided-to-move-back-home/",
     "title": "After living in Iceland for 3 years, I've decided to move back home...",
     "author": "https://amberlimshin.bearblog.dev",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-11-27T08:00:51.626Z",
-    "last_updated": "2026-11-27T08:00:51.626Z",
+    "last_updated": "2026-11-27T09:00:51.288Z",
     "published": "2026-11-27T07:14Z"
   },
   {
@@ -187,5 +187,59 @@
     "first_seen": "2026-11-27T08:00:51.626Z",
     "last_updated": "2026-11-27T08:00:51.626Z",
     "published": "2026-11-27T04:59Z"
+  },
+  {
+    "url": "https://marcg.net/i-havent-had-internet-for-months/",
+    "title": "I haven't had internet for months",
+    "author": "https://marcg.net",
+    "toasts": 5,
+    "first_seen": "2026-11-27T09:00:51.288Z",
+    "last_updated": "2026-11-27T09:00:51.288Z",
+    "published": "2026-11-27T08:53Z"
+  },
+  {
+    "url": "https://sudelbuch.bearblog.dev/monday-assorted-links-wellbery-on-goethe/",
+    "title": "Friday assorted links: Wellbery, Fried, Mozart, Bach",
+    "author": "https://sudelbuch.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-27T09:00:51.288Z",
+    "last_updated": "2026-11-27T09:00:51.288Z",
+    "published": "2026-11-27T08:12Z"
+  },
+  {
+    "url": "https://nmnxn.cc/bvgr/",
+    "title": "Боль в груди",
+    "author": "https://nmnxn.cc",
+    "toasts": 2,
+    "first_seen": "2026-11-27T09:00:51.288Z",
+    "last_updated": "2026-11-27T09:00:51.288Z",
+    "published": "2026-11-27T08:41Z"
+  },
+  {
+    "url": "https://wegwijzer.bearblog.dev/wie-wacht-tot-god-het-zal-doen-wacht-op-zichzelf/",
+    "title": "Wie wacht tot god het zal doen, wacht op zichzelf",
+    "author": "https://wegwijzer.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-27T09:00:51.288Z",
+    "last_updated": "2026-11-27T09:00:51.288Z",
+    "published": "2026-11-27T08:29Z"
+  },
+  {
+    "url": "https://nirvana.bearblog.dev/fasting/",
+    "title": "Fasting",
+    "author": "https://nirvana.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-27T09:00:51.288Z",
+    "last_updated": "2026-11-27T09:00:51.288Z",
+    "published": "2026-11-27T07:47Z"
+  },
+  {
+    "url": "https://vinceblog.net/2026-11-27/",
+    "title": "Friday (Post-Thanksgiving Edition)",
+    "author": "https://vinceblog.net",
+    "toasts": 2,
+    "first_seen": "2026-11-27T09:00:51.288Z",
+    "last_updated": "2026-11-27T09:00:51.288Z",
+    "published": "2026-11-27T03:57Z"
   }
 ]
