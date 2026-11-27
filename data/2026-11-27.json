@@ -66,9 +66,9 @@
     "url": "https://blog.solazy.me/20261127/",
     "title": "生活中那些 backup 给我的安全感",
     "author": "https://blog.solazy.me",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-27T04:00:51.243Z",
-    "last_updated": "2026-11-27T04:00:51.243Z",
+    "last_updated": "2026-11-27T07:00:51.259Z",
     "published": "2026-11-27T03:00Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://pablos.live/thoughts-about-transience/",
     "title": "thoughts about transience",
     "author": "https://pablos.live",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-27T06:00:51.241Z",
-    "last_updated": "2026-11-27T06:00:51.241Z",
+    "last_updated": "2026-11-27T07:00:51.259Z",
     "published": "2026-11-27T05:59Z"
   },
   {
@@ -115,5 +115,50 @@
     "first_seen": "2026-11-27T06:00:51.241Z",
     "last_updated": "2026-11-27T06:00:51.241Z",
     "published": "2026-11-27T04:38Z"
+  },
+  {
+    "url": "https://tea-diary.bearblog.dev/the-good-doctor/",
+    "title": "The Good Doctor",
+    "author": "https://tea-diary.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-11-27T07:00:51.259Z",
+    "last_updated": "2026-11-27T07:00:51.259Z",
+    "published": "2026-11-27T05:42Z"
+  },
+  {
+    "url": "https://parv.bearblog.dev/krillion/",
+    "title": "One in a Krillion (Typos)",
+    "author": "https://parv.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-27T07:00:51.259Z",
+    "last_updated": "2026-11-27T07:00:51.259Z",
+    "published": "2026-11-27T06:14Z"
+  },
+  {
+    "url": "https://vikramtech.cc/day-notes-27-11/",
+    "title": "day-notes-27-11",
+    "author": "https://vikramtech.cc",
+    "toasts": 2,
+    "first_seen": "2026-11-27T07:00:51.259Z",
+    "last_updated": "2026-11-27T07:00:51.259Z",
+    "published": "2026-11-27T06:41Z"
+  },
+  {
+    "url": "https://deepspacespines.bearblog.dev/017-search-for-spock/",
+    "title": "#017: STAR TREK III: THE SEARCH FOR SPOCK",
+    "author": "https://deepspacespines.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-27T07:00:51.259Z",
+    "last_updated": "2026-11-27T07:00:51.259Z",
+    "published": "2026-11-27T06:21Z"
+  },
+  {
+    "url": "https://jollyanchorblog.bearblog.dev/commission-complete/",
+    "title": "Commission complete!",
+    "author": "https://jollyanchorblog.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-27T07:00:51.259Z",
+    "last_updated": "2026-11-27T07:00:51.259Z",
+    "published": "2026-11-27T05:08Z"
   }
 ]
