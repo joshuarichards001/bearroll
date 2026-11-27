@@ -39,9 +39,9 @@
     "url": "https://athylbene.bearblog.dev/another-lonely-thanksgiving/",
     "title": "Another Lonely Thanksgiving",
     "author": "https://athylbene.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-27T03:00:51.242Z",
-    "last_updated": "2026-11-27T03:00:51.242Z",
+    "last_updated": "2026-11-27T05:00:51.275Z",
     "published": "2026-11-27T02:03Z"
   },
   {
@@ -79,5 +79,23 @@
     "first_seen": "2026-11-27T04:00:51.243Z",
     "last_updated": "2026-11-27T04:00:51.243Z",
     "published": "2026-11-27T02:28Z"
+  },
+  {
+    "url": "https://scrafford.bearblog.dev/hoa-board-member-selection/",
+    "title": "HOA Board Member Selection",
+    "author": "https://scrafford.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-27T05:00:51.275Z",
+    "last_updated": "2026-11-27T05:00:51.275Z",
+    "published": "2026-11-27T04:12Z"
+  },
+  {
+    "url": "https://blog.mrmarchant.com/thanksgiving-with-tooty-and-the-frosted-faces-november-26th-2026/",
+    "title": "Thanksgiving with Tooty and the Frosted Faces; November 26th, 2026",
+    "author": "https://blog.mrmarchant.com",
+    "toasts": 2,
+    "first_seen": "2026-11-27T05:00:51.275Z",
+    "last_updated": "2026-11-27T05:00:51.275Z",
+    "published": "2026-11-27T00:38Z"
   }
 ]
