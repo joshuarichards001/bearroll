@@ -399,9 +399,9 @@
     "url": "https://blog.damonreece.com/i-wrote-a-fallen-london-story/",
     "title": "I wrote a Fallen London story!",
     "author": "https://blog.damonreece.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-26T19:00:51.192Z",
+    "last_updated": "2026-11-27T00:00:51.393Z",
     "published": "2026-11-26T01:30Z"
   },
   {
@@ -435,9 +435,9 @@
     "url": "https://singinginspanish.bearblog.dev/november-hiking-straight-out-of-the-city/",
     "title": "November 2026: Hiking Straight Out of the City",
     "author": "https://singinginspanish.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-26T17:00:51.285Z",
-    "last_updated": "2026-11-26T18:00:51.280Z",
+    "last_updated": "2026-11-27T00:00:51.393Z",
     "published": "2026-11-26T16:07Z"
   },
   {
@@ -597,18 +597,18 @@
     "url": "https://leeraedee.bearblog.dev/re-comments-and-emails/",
     "title": "Re: comments and emails",
     "author": "https://leeraedee.bearblog.dev",
-    "toasts": 7,
+    "toasts": 10,
     "first_seen": "2026-11-26T22:00:51.313Z",
-    "last_updated": "2026-11-26T23:00:51.253Z",
+    "last_updated": "2026-11-27T00:00:51.393Z",
     "published": "2026-11-26T17:11Z"
   },
   {
     "url": "https://num7.paranormalis.com/markdown-and-bear-are-the-answer/",
     "title": "Markdown and Bear are the Answer",
     "author": "https://num7.paranormalis.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-26T22:00:51.313Z",
-    "last_updated": "2026-11-26T22:00:51.313Z",
+    "last_updated": "2026-11-27T00:00:51.393Z",
     "published": "2026-11-26T20:21Z"
   },
   {
@@ -673,5 +673,14 @@
     "first_seen": "2026-11-26T23:00:51.253Z",
     "last_updated": "2026-11-26T23:00:51.253Z",
     "published": "2026-11-26T19:30Z"
+  },
+  {
+    "url": "https://olu.online/trying-really-hard/",
+    "title": "trying really hard",
+    "author": "https://olu.online",
+    "toasts": 3,
+    "first_seen": "2026-11-27T00:00:51.393Z",
+    "last_updated": "2026-11-27T00:00:51.393Z",
+    "published": "2026-11-26T23:16Z"
   }
 ]
