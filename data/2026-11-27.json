@@ -21,9 +21,9 @@
     "url": "https://jeffdelp.bearblog.dev/yes-quicksand-is-real/",
     "title": "yes, quicksand is real",
     "author": "https://jeffdelp.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-27T02:00:51.270Z",
-    "last_updated": "2026-11-27T08:00:51.626Z",
+    "last_updated": "2026-11-27T10:00:51.274Z",
     "published": "2026-11-27T00:46Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://athylbene.bearblog.dev/another-lonely-thanksgiving/",
     "title": "Another Lonely Thanksgiving",
     "author": "https://athylbene.bearblog.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-11-27T03:00:51.242Z",
-    "last_updated": "2026-11-27T08:00:51.626Z",
+    "last_updated": "2026-11-27T10:00:51.274Z",
     "published": "2026-11-27T02:03Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://blog.solazy.me/20261127/",
     "title": "生活中那些 backup 给我的安全感",
     "author": "https://blog.solazy.me",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-27T04:00:51.243Z",
-    "last_updated": "2026-11-27T09:00:51.288Z",
+    "last_updated": "2026-11-27T10:00:51.274Z",
     "published": "2026-11-27T03:00Z"
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://jollyanchorblog.bearblog.dev/commission-complete/",
     "title": "Commission complete!",
     "author": "https://jollyanchorblog.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-27T07:00:51.259Z",
-    "last_updated": "2026-11-27T09:00:51.288Z",
+    "last_updated": "2026-11-27T10:00:51.274Z",
     "published": "2026-11-27T05:08Z"
   },
   {
@@ -183,18 +183,18 @@
     "url": "https://combatdavey.net/november-26-2026/",
     "title": "november 26 set",
     "author": "https://combatdavey.net",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-27T08:00:51.626Z",
-    "last_updated": "2026-11-27T08:00:51.626Z",
+    "last_updated": "2026-11-27T10:00:51.274Z",
     "published": "2026-11-27T04:59Z"
   },
   {
     "url": "https://marcg.net/i-havent-had-internet-for-months/",
     "title": "I haven't had internet for months",
     "author": "https://marcg.net",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-27T09:00:51.288Z",
-    "last_updated": "2026-11-27T09:00:51.288Z",
+    "last_updated": "2026-11-27T10:00:51.274Z",
     "published": "2026-11-27T08:53Z"
   },
   {
@@ -219,9 +219,9 @@
     "url": "https://wegwijzer.bearblog.dev/wie-wacht-tot-god-het-zal-doen-wacht-op-zichzelf/",
     "title": "Wie wacht tot god het zal doen, wacht op zichzelf",
     "author": "https://wegwijzer.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-27T09:00:51.288Z",
-    "last_updated": "2026-11-27T09:00:51.288Z",
+    "last_updated": "2026-11-27T10:00:51.274Z",
     "published": "2026-11-27T08:29Z"
   },
   {
@@ -241,5 +241,14 @@
     "first_seen": "2026-11-27T09:00:51.288Z",
     "last_updated": "2026-11-27T09:00:51.288Z",
     "published": "2026-11-27T03:57Z"
+  },
+  {
+    "url": "https://tamil-selvan-murugesan.bearblog.dev/rag-from-first-principles/",
+    "title": "RAG over Indian company filings from first principles: 41% to 93%, and what surprised us",
+    "author": "https://tamil-selvan-murugesan.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-27T10:00:51.274Z",
+    "last_updated": "2026-11-27T10:00:51.274Z",
+    "published": "2026-11-27T09:48Z"
   }
 ]
