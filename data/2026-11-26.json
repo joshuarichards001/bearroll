@@ -354,9 +354,9 @@
     "url": "https://lordtoots.bearblog.dev/make-it-rain/",
     "title": "Make it rain on your blog (CSS)",
     "author": "https://lordtoots.bearblog.dev",
-    "toasts": 75,
+    "toasts": 76,
     "first_seen": "2026-11-26T16:00:51.261Z",
-    "last_updated": "2026-11-28T09:00:51.286Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
     "published": "2026-11-26T15:25Z"
   },
   {
@@ -745,5 +745,14 @@
     "first_seen": "2026-11-27T14:00:51.540Z",
     "last_updated": "2026-11-28T01:00:51.257Z",
     "published": "2026-11-26T15:13Z"
+  },
+  {
+    "url": "https://ambers.blog/hello-world/",
+    "title": "Hello world!",
+    "author": "https://ambers.blog",
+    "toasts": 16,
+    "first_seen": "2026-11-28T10:00:51.445Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
+    "published": "2026-11-26T10:55Z"
   }
 ]

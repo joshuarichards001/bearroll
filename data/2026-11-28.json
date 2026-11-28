@@ -75,9 +75,9 @@
     "url": "https://bamawing.bearblog.dev/well-thats-a-thing-that-happened/",
     "title": "well, that's a thing that happened",
     "author": "https://bamawing.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-28T07:00:51.206Z",
-    "last_updated": "2026-11-28T07:00:51.206Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
     "published": "2026-11-28T05:47Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://pens.me/obsidian-bear/",
     "title": "把 Obsidian 变成熊掌记",
     "author": "https://pens.me",
-    "toasts": 4,
+    "toasts": 6,
     "first_seen": "2026-11-28T08:00:51.268Z",
-    "last_updated": "2026-11-28T09:00:51.286Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
     "published": "2026-11-28T04:37Z"
   },
   {
@@ -124,5 +124,23 @@
     "first_seen": "2026-11-28T09:00:51.286Z",
     "last_updated": "2026-11-28T09:00:51.286Z",
     "published": "2026-11-28T07:28Z"
+  },
+  {
+    "url": "https://afterstan.bearblog.dev/how-would-i-know-i-was-here-if-i-didnt-know-i-was-here/",
+    "title": "How would I know I was here if I didn’t know I was here",
+    "author": "https://afterstan.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T10:00:51.445Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
+    "published": "2026-11-28T09:28Z"
+  },
+  {
+    "url": "https://paradress.bearblog.dev/nirvana-and-a-day-in-the-life/",
+    "title": "关于涅槃（佛教术语）和《A Day In The Life》",
+    "author": "https://paradress.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T10:00:51.445Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
+    "published": "2026-11-28T09:15Z"
   }
 ]

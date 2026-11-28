@@ -21,9 +21,9 @@
     "url": "https://jeffdelp.bearblog.dev/yes-quicksand-is-real/",
     "title": "yes, quicksand is real",
     "author": "https://jeffdelp.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-11-27T02:00:51.270Z",
-    "last_updated": "2026-11-28T08:00:51.268Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
     "published": "2026-11-27T00:46Z"
   },
   {
@@ -390,9 +390,9 @@
     "url": "https://oypster.org/the-internet-is-dead-take-is-dead/",
     "title": "The \"Internet Is Dead\" Take Is Dead",
     "author": "https://oypster.org",
-    "toasts": 18,
+    "toasts": 20,
     "first_seen": "2026-11-27T16:00:51.709Z",
-    "last_updated": "2026-11-28T09:00:51.286Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
     "published": "2026-11-27T13:12Z"
   },
   {
@@ -426,9 +426,9 @@
     "url": "https://rickw.bearblog.dev/our-mental-illnesses-are-incompatible/",
     "title": "Our Mental Illnesses are Incompatible",
     "author": "https://rickw.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-11-27T17:00:51.273Z",
-    "last_updated": "2026-11-28T09:00:51.286Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
     "published": "2026-11-27T16:12Z"
   },
   {
@@ -444,9 +444,9 @@
     "url": "https://www.samuelblack.fr/les-vertus-du-journaling/",
     "title": "LES VERTUS DU JOURNALING",
     "author": "https://www.samuelblack.fr",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-27T17:00:51.273Z",
-    "last_updated": "2026-11-27T19:00:51.175Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
     "published": "2026-11-27T16:20Z"
   },
   {
@@ -633,9 +633,9 @@
     "url": "https://onlinegoddess.net/2026/11/will-big-web-kill-rss/",
     "title": "Will The “Big Web” Kill RSS?",
     "author": "https://onlinegoddess.net",
-    "toasts": 21,
+    "toasts": 24,
     "first_seen": "2026-11-27T21:00:51.353Z",
-    "last_updated": "2026-11-28T09:00:51.286Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
     "published": "2026-11-27T20:17Z"
   },
   {
@@ -822,9 +822,9 @@
     "url": "https://pens.me/iphone-input/",
     "title": "我的 iPhone 输入法",
     "author": "https://pens.me",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-28T08:00:51.268Z",
-    "last_updated": "2026-11-28T09:00:51.286Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
     "published": "2026-11-27T06:18Z"
   },
   {
@@ -835,5 +835,14 @@
     "first_seen": "2026-11-28T08:00:51.268Z",
     "last_updated": "2026-11-28T08:00:51.268Z",
     "published": "2026-11-27T23:55Z"
+  },
+  {
+    "url": "https://ambers.blog/after-living-in-iceland-for-3-years-ive-decided-to-move-back-home/",
+    "title": "After living in Iceland for 3 years, I've decided to move back home...",
+    "author": "https://ambers.blog",
+    "toasts": 14,
+    "first_seen": "2026-11-28T10:00:51.445Z",
+    "last_updated": "2026-11-28T10:00:51.445Z",
+    "published": "2026-11-27T07:14Z"
   }
 ]
