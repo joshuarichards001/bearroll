@@ -282,9 +282,9 @@
     "url": "https://itsme.bearblog.dev/the-self-defeating-aspect-of-digital-writing-assistance/",
     "title": "The self-defeating aspect of digital writing assistance",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 16,
+    "toasts": 20,
     "first_seen": "2026-11-27T13:00:51.279Z",
-    "last_updated": "2026-11-27T22:00:51.731Z",
+    "last_updated": "2026-11-28T00:00:51.516Z",
     "published": "2026-11-27T12:11Z"
   },
   {
@@ -480,9 +480,9 @@
     "url": "https://goodgollyzines.ca/everyone-should-have-a-personal-blog-in-2027/",
     "title": "everyone should have a personal blog in 2027",
     "author": "https://goodgollyzines.ca",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-27T18:00:51.207Z",
-    "last_updated": "2026-11-27T21:00:51.353Z",
+    "last_updated": "2026-11-28T00:00:51.516Z",
     "published": "2026-11-27T16:43Z"
   },
   {
@@ -516,9 +516,9 @@
     "url": "https://robertbirming.com/the-tempo/",
     "title": "The tempo",
     "author": "https://robertbirming.com",
-    "toasts": 11,
+    "toasts": 13,
     "first_seen": "2026-11-27T19:00:51.175Z",
-    "last_updated": "2026-11-27T21:00:51.353Z",
+    "last_updated": "2026-11-28T00:00:51.516Z",
     "published": "2026-11-27T18:13Z"
   },
   {
@@ -696,9 +696,9 @@
     "url": "https://beachcomber.bearblog.dev/0130/",
     "title": "0130",
     "author": "https://beachcomber.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-27T22:00:51.731Z",
-    "last_updated": "2026-11-27T22:00:51.731Z",
+    "last_updated": "2026-11-28T00:00:51.516Z",
     "published": "2026-11-27T21:59Z"
   },
   {
@@ -763,5 +763,14 @@
     "first_seen": "2026-11-27T23:00:51.308Z",
     "last_updated": "2026-11-27T23:00:51.308Z",
     "published": "2026-11-27T21:39Z"
+  },
+  {
+    "url": "https://grendels-stepdad.bearblog.dev/play-report-super-adventure-8-one-night-at-lady-strahds/",
+    "title": "Play Report - Super Adventure 8: One Night at Lady Strahd's",
+    "author": "https://grendels-stepdad.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-28T00:00:51.516Z",
+    "last_updated": "2026-11-28T00:00:51.516Z",
+    "published": "2026-11-27T23:10Z"
   }
 ]
