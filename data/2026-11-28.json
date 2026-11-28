@@ -165,9 +165,9 @@
     "url": "https://iapheia.bearblog.dev/rival-party-koll-luminary-expedition/",
     "title": "Rival Party: Koll Luminary Expedition",
     "author": "https://iapheia.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-28T11:00:51.216Z",
-    "last_updated": "2026-11-28T11:00:51.216Z",
+    "last_updated": "2026-11-28T12:00:51.224Z",
     "published": "2026-11-28T10:29Z"
   },
   {
@@ -178,5 +178,41 @@
     "first_seen": "2026-11-28T11:00:51.216Z",
     "last_updated": "2026-11-28T11:00:51.216Z",
     "published": "2026-11-28T09:40Z"
+  },
+  {
+    "url": "https://dead-internet.bearblog.dev/reflections-on-volunteering-at-a-suicide-hotline/",
+    "title": "Reflections on volunteering at a suicide hotline",
+    "author": "https://dead-internet.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-28T12:00:51.224Z",
+    "last_updated": "2026-11-28T12:00:51.224Z",
+    "published": "2026-11-28T10:52Z"
+  },
+  {
+    "url": "https://fome.bearblog.dev/agentic-code-review-is-a-bad-idea/",
+    "title": "Agentic code review is a bad idea",
+    "author": "https://fome.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T12:00:51.224Z",
+    "last_updated": "2026-11-28T12:00:51.224Z",
+    "published": "2026-11-28T11:35Z"
+  },
+  {
+    "url": "https://topopa.bearblog.dev/im-sick-of-ai-crap-at-school/",
+    "title": "I'm sick of AI crap at school",
+    "author": "https://topopa.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T12:00:51.224Z",
+    "last_updated": "2026-11-28T12:00:51.224Z",
+    "published": "2026-11-28T11:11Z"
+  },
+  {
+    "url": "https://kangminsuk.com/whose-shit-did-i-eat/",
+    "title": "Whose shit did I eat?",
+    "author": "https://kangminsuk.com",
+    "toasts": 2,
+    "first_seen": "2026-11-28T12:00:51.224Z",
+    "last_updated": "2026-11-28T12:00:51.224Z",
+    "published": "2026-11-28T11:09Z"
   }
 ]
