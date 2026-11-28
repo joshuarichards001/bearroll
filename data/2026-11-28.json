@@ -12,9 +12,9 @@
     "url": "https://peelingtheonion.bearblog.dev/i-hate-the-holidays/",
     "title": "i hate the holidays",
     "author": "https://peelingtheonion.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-28T02:00:51.791Z",
-    "last_updated": "2026-11-28T06:00:51.302Z",
+    "last_updated": "2026-11-28T13:00:51.265Z",
     "published": "2026-11-28T01:12Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://polvoronii.bearblog.dev/knowember-2026/",
     "title": "knowember 2026",
     "author": "https://polvoronii.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-28T11:00:51.216Z",
-    "last_updated": "2026-11-28T11:00:51.216Z",
+    "last_updated": "2026-11-28T13:00:51.265Z",
     "published": "2026-11-28T09:58Z"
   },
   {
@@ -192,27 +192,63 @@
     "url": "https://fome.bearblog.dev/agentic-code-review-is-a-bad-idea/",
     "title": "Agentic code review is a bad idea",
     "author": "https://fome.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-28T12:00:51.224Z",
-    "last_updated": "2026-11-28T12:00:51.224Z",
+    "last_updated": "2026-11-28T13:00:51.265Z",
     "published": "2026-11-28T11:35Z"
   },
   {
     "url": "https://topopa.bearblog.dev/im-sick-of-ai-crap-at-school/",
     "title": "I'm sick of AI crap at school",
     "author": "https://topopa.bearblog.dev",
-    "toasts": 2,
+    "toasts": 4,
     "first_seen": "2026-11-28T12:00:51.224Z",
-    "last_updated": "2026-11-28T12:00:51.224Z",
+    "last_updated": "2026-11-28T13:00:51.265Z",
     "published": "2026-11-28T11:11Z"
   },
   {
     "url": "https://kangminsuk.com/whose-shit-did-i-eat/",
     "title": "Whose shit did I eat?",
     "author": "https://kangminsuk.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-28T12:00:51.224Z",
-    "last_updated": "2026-11-28T12:00:51.224Z",
+    "last_updated": "2026-11-28T13:00:51.265Z",
     "published": "2026-11-28T11:09Z"
+  },
+  {
+    "url": "https://yingxue.bearblog.dev/cyclamen-i-think-of-you/",
+    "title": "Cyclamen, I think of you.",
+    "author": "https://yingxue.bearblog.dev",
+    "toasts": 3,
+    "first_seen": "2026-11-28T13:00:51.265Z",
+    "last_updated": "2026-11-28T13:00:51.265Z",
+    "published": "2026-11-28T08:01Z"
+  },
+  {
+    "url": "https://amemoryofyesterday.bearblog.dev/2052/",
+    "title": "20:52",
+    "author": "https://amemoryofyesterday.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T13:00:51.265Z",
+    "last_updated": "2026-11-28T13:00:51.265Z",
+    "published": "2026-11-28T12:03Z"
+  },
+  {
+    "url": "https://smallquiet.bearblog.dev/a-note-on-tv-watching/",
+    "title": "A note on tv-watching",
+    "author": "https://smallquiet.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T13:00:51.265Z",
+    "last_updated": "2026-11-28T13:00:51.265Z",
+    "published": "2026-11-28T11:49Z"
+  },
+  {
+    "url": "https://chutiste.bearblog.dev/stealth-archer-party-face/",
+    "title": "Stealth Archer Party Face",
+    "author": "https://chutiste.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T13:00:51.265Z",
+    "last_updated": "2026-11-28T13:00:51.265Z",
+    "published": "2026-11-28T11:42Z"
   }
 ]
