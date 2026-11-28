@@ -39,9 +39,9 @@
     "url": "https://unturnedhovel.bearblog.dev/zzarchovian-dungeon-stocking/",
     "title": "Zzarchovian Dungeon Stocking",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-28T05:00:51.306Z",
-    "last_updated": "2026-11-28T06:00:51.302Z",
+    "last_updated": "2026-11-28T09:00:51.286Z",
     "published": "2026-11-28T04:41Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://pens.me/obsidian-bear/",
     "title": "把 Obsidian 变成熊掌记",
     "author": "https://pens.me",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-28T08:00:51.268Z",
-    "last_updated": "2026-11-28T08:00:51.268Z",
+    "last_updated": "2026-11-28T09:00:51.286Z",
     "published": "2026-11-28T04:37Z"
   },
   {
@@ -106,5 +106,23 @@
     "first_seen": "2026-11-28T08:00:51.268Z",
     "last_updated": "2026-11-28T08:00:51.268Z",
     "published": "2026-11-28T01:40Z"
+  },
+  {
+    "url": "https://73pctgeek.com/1063/",
+    "title": "1063",
+    "author": "https://73pctgeek.com",
+    "toasts": 2,
+    "first_seen": "2026-11-28T09:00:51.286Z",
+    "last_updated": "2026-11-28T09:00:51.286Z",
+    "published": "2026-11-28T07:52Z"
+  },
+  {
+    "url": "https://derivas.bearblog.dev/bienvenido-agustin/",
+    "title": "Bienvenido, Agustín",
+    "author": "https://derivas.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T09:00:51.286Z",
+    "last_updated": "2026-11-28T09:00:51.286Z",
+    "published": "2026-11-28T07:28Z"
   }
 ]
