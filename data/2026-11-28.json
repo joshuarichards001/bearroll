@@ -57,9 +57,9 @@
     "url": "https://blog.lauramichet.com/very-good-20-second-game/",
     "title": "Very good 20 second game",
     "author": "https://blog.lauramichet.com",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-28T06:00:51.302Z",
-    "last_updated": "2026-11-28T07:00:51.206Z",
+    "last_updated": "2026-11-28T08:00:51.268Z",
     "published": "2026-11-28T05:09Z"
   },
   {
@@ -79,5 +79,32 @@
     "first_seen": "2026-11-28T07:00:51.206Z",
     "last_updated": "2026-11-28T07:00:51.206Z",
     "published": "2026-11-28T05:47Z"
+  },
+  {
+    "url": "https://neostephenism.bearblog.dev/jane-remover-out-of-order/",
+    "title": "Jane Remover, Out of Order",
+    "author": "https://neostephenism.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-11-28T08:00:51.268Z",
+    "last_updated": "2026-11-28T08:00:51.268Z",
+    "published": "2026-11-28T07:23Z"
+  },
+  {
+    "url": "https://pens.me/obsidian-bear/",
+    "title": "把 Obsidian 变成熊掌记",
+    "author": "https://pens.me",
+    "toasts": 3,
+    "first_seen": "2026-11-28T08:00:51.268Z",
+    "last_updated": "2026-11-28T08:00:51.268Z",
+    "published": "2026-11-28T04:37Z"
+  },
+  {
+    "url": "https://vidknight.bearblog.dev/the-stevenis-steve-penis-is-why-i-love-3d-art-not-nsfw-despite-the-title/",
+    "title": "The stevenis (Steve penis) is why I love 3d art (Not NSFW despite the title)",
+    "author": "https://vidknight.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T08:00:51.268Z",
+    "last_updated": "2026-11-28T08:00:51.268Z",
+    "published": "2026-11-28T01:40Z"
   }
 ]
