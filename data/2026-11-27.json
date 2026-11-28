@@ -39,9 +39,9 @@
     "url": "https://athylbene.bearblog.dev/another-lonely-thanksgiving/",
     "title": "Another Lonely Thanksgiving",
     "author": "https://athylbene.bearblog.dev",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-11-27T03:00:51.242Z",
-    "last_updated": "2026-11-27T23:00:51.308Z",
+    "last_updated": "2026-11-28T01:00:51.257Z",
     "published": "2026-11-27T02:03Z"
   },
   {
@@ -282,9 +282,9 @@
     "url": "https://itsme.bearblog.dev/the-self-defeating-aspect-of-digital-writing-assistance/",
     "title": "The self-defeating aspect of digital writing assistance",
     "author": "https://itsme.bearblog.dev",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-11-27T13:00:51.279Z",
-    "last_updated": "2026-11-28T00:00:51.516Z",
+    "last_updated": "2026-11-28T01:00:51.257Z",
     "published": "2026-11-27T12:11Z"
   },
   {
@@ -345,9 +345,9 @@
     "url": "https://th.blog.br/esses-dias-comentarios/",
     "title": "esses dias + comentários",
     "author": "https://th.blog.br",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-27T15:00:51.235Z",
-    "last_updated": "2026-11-27T20:00:51.321Z",
+    "last_updated": "2026-11-28T01:00:51.257Z",
     "published": "2026-11-27T13:57Z"
   },
   {
@@ -390,9 +390,9 @@
     "url": "https://oypster.org/the-internet-is-dead-take-is-dead/",
     "title": "The \"Internet Is Dead\" Take Is Dead",
     "author": "https://oypster.org",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-11-27T16:00:51.709Z",
-    "last_updated": "2026-11-27T21:00:51.353Z",
+    "last_updated": "2026-11-28T01:00:51.257Z",
     "published": "2026-11-27T13:12Z"
   },
   {
@@ -705,9 +705,9 @@
     "url": "https://bungleinthejungle.bearblog.dev/exhaustion/",
     "title": "Exhaustion",
     "author": "https://bungleinthejungle.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-27T22:00:51.731Z",
-    "last_updated": "2026-11-27T23:00:51.308Z",
+    "last_updated": "2026-11-28T01:00:51.257Z",
     "published": "2026-11-27T21:49Z"
   },
   {
@@ -768,9 +768,45 @@
     "url": "https://grendels-stepdad.bearblog.dev/play-report-super-adventure-8-one-night-at-lady-strahds/",
     "title": "Play Report - Super Adventure 8: One Night at Lady Strahd's",
     "author": "https://grendels-stepdad.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-28T00:00:51.516Z",
-    "last_updated": "2026-11-28T00:00:51.516Z",
+    "last_updated": "2026-11-28T01:00:51.257Z",
     "published": "2026-11-27T23:10Z"
+  },
+  {
+    "url": "https://valerialoves.com/fomoria-inches-toward-trad/",
+    "title": "Fomoria Inches Toward Trad",
+    "author": "https://valerialoves.com",
+    "toasts": 7,
+    "first_seen": "2026-11-28T01:00:51.257Z",
+    "last_updated": "2026-11-28T01:00:51.257Z",
+    "published": "2026-11-27T23:34Z"
+  },
+  {
+    "url": "https://olu.online/celebrating-the-seasons-aka-technopagan-practice-stuff/",
+    "title": "celebrating the seasons (aka technopagan practice stuff!)",
+    "author": "https://olu.online",
+    "toasts": 2,
+    "first_seen": "2026-11-28T01:00:51.257Z",
+    "last_updated": "2026-11-28T01:00:51.257Z",
+    "published": "2026-11-27T22:49Z"
+  },
+  {
+    "url": "https://traumajumps.bearblog.dev/what-id-tell-my-younger-self/",
+    "title": "what i'd tell my younger self",
+    "author": "https://traumajumps.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T01:00:51.257Z",
+    "last_updated": "2026-11-28T01:00:51.257Z",
+    "published": "2026-11-27T22:37Z"
+  },
+  {
+    "url": "https://sugarforbrains.bearblog.dev/note-to-self/",
+    "title": "note to self: online shopping",
+    "author": "https://sugarforbrains.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T01:00:51.257Z",
+    "last_updated": "2026-11-28T01:00:51.257Z",
+    "published": "2026-11-27T22:06Z"
   }
 ]
