@@ -12,9 +12,9 @@
     "url": "https://peelingtheonion.bearblog.dev/i-hate-the-holidays/",
     "title": "i hate the holidays",
     "author": "https://peelingtheonion.bearblog.dev",
-    "toasts": 4,
+    "toasts": 5,
     "first_seen": "2026-11-28T02:00:51.791Z",
-    "last_updated": "2026-11-28T02:00:51.791Z",
+    "last_updated": "2026-11-28T06:00:51.302Z",
     "published": "2026-11-28T01:12Z"
   },
   {
@@ -30,18 +30,36 @@
     "url": "https://lunakatze.bearblog.dev/the-days-after-being-put-on-a-pip-2/",
     "title": "The days after being put on a PIP (2)",
     "author": "https://lunakatze.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-28T04:00:51.213Z",
-    "last_updated": "2026-11-28T04:00:51.213Z",
+    "last_updated": "2026-11-28T06:00:51.302Z",
     "published": "2026-11-28T02:54Z"
   },
   {
     "url": "https://unturnedhovel.bearblog.dev/zzarchovian-dungeon-stocking/",
     "title": "Zzarchovian Dungeon Stocking",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 3,
+    "toasts": 4,
     "first_seen": "2026-11-28T05:00:51.306Z",
-    "last_updated": "2026-11-28T05:00:51.306Z",
+    "last_updated": "2026-11-28T06:00:51.302Z",
     "published": "2026-11-28T04:41Z"
+  },
+  {
+    "url": "https://paratexto.net/reflexiones-sobre-el-habito-lector-ii-esnobismo-literario-la-industria-cultural-y-el-valor-de-la-lectura/",
+    "title": "Reflexiones sobre el hábito lector (II): Esnobismo literario, la industria cultural y el valor de la lectura",
+    "author": "https://paratexto.net",
+    "toasts": 3,
+    "first_seen": "2026-11-28T06:00:51.302Z",
+    "last_updated": "2026-11-28T06:00:51.302Z",
+    "published": "2026-11-28T06:00Z"
+  },
+  {
+    "url": "https://blog.lauramichet.com/very-good-20-second-game/",
+    "title": "Very good 20 second game",
+    "author": "https://blog.lauramichet.com",
+    "toasts": 2,
+    "first_seen": "2026-11-28T06:00:51.302Z",
+    "last_updated": "2026-11-28T06:00:51.302Z",
+    "published": "2026-11-28T05:09Z"
   }
 ]
