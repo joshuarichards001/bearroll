@@ -39,18 +39,18 @@
     "url": "https://unturnedhovel.bearblog.dev/zzarchovian-dungeon-stocking/",
     "title": "Zzarchovian Dungeon Stocking",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 5,
+    "toasts": 6,
     "first_seen": "2026-11-28T05:00:51.306Z",
-    "last_updated": "2026-11-28T09:00:51.286Z",
+    "last_updated": "2026-11-28T11:00:51.216Z",
     "published": "2026-11-28T04:41Z"
   },
   {
     "url": "https://paratexto.net/reflexiones-sobre-el-habito-lector-ii-esnobismo-literario-la-industria-cultural-y-el-valor-de-la-lectura/",
     "title": "Reflexiones sobre el hábito lector (II): Esnobismo literario, la industria cultural y el valor de la lectura",
     "author": "https://paratexto.net",
-    "toasts": 3,
+    "toasts": 5,
     "first_seen": "2026-11-28T06:00:51.302Z",
-    "last_updated": "2026-11-28T06:00:51.302Z",
+    "last_updated": "2026-11-28T11:00:51.216Z",
     "published": "2026-11-28T06:00Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://derivas.bearblog.dev/bienvenido-agustin/",
     "title": "Bienvenido, Agustín",
     "author": "https://derivas.bearblog.dev",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-28T09:00:51.286Z",
-    "last_updated": "2026-11-28T09:00:51.286Z",
+    "last_updated": "2026-11-28T11:00:51.216Z",
     "published": "2026-11-28T07:28Z"
   },
   {
@@ -142,5 +142,41 @@
     "first_seen": "2026-11-28T10:00:51.445Z",
     "last_updated": "2026-11-28T10:00:51.445Z",
     "published": "2026-11-28T09:15Z"
+  },
+  {
+    "url": "https://polvoronii.bearblog.dev/knowember-2026/",
+    "title": "knowember 2026",
+    "author": "https://polvoronii.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-11-28T11:00:51.216Z",
+    "last_updated": "2026-11-28T11:00:51.216Z",
+    "published": "2026-11-28T09:58Z"
+  },
+  {
+    "url": "https://gorgonbones.bearblog.dev/the-dungeon-game-weekends-at-stonehell-session-29/",
+    "title": "The Dungeon Game: Weekends at Stonehell, session 29",
+    "author": "https://gorgonbones.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T11:00:51.216Z",
+    "last_updated": "2026-11-28T11:00:51.216Z",
+    "published": "2026-11-28T10:50Z"
+  },
+  {
+    "url": "https://iapheia.bearblog.dev/rival-party-koll-luminary-expedition/",
+    "title": "Rival Party: Koll Luminary Expedition",
+    "author": "https://iapheia.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T11:00:51.216Z",
+    "last_updated": "2026-11-28T11:00:51.216Z",
+    "published": "2026-11-28T10:29Z"
+  },
+  {
+    "url": "https://analogwave.bearblog.dev/new-post/",
+    "title": "Saving My Mum's Parker 51",
+    "author": "https://analogwave.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T11:00:51.216Z",
+    "last_updated": "2026-11-28T11:00:51.216Z",
+    "published": "2026-11-28T09:40Z"
   }
 ]
