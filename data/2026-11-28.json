@@ -39,9 +39,9 @@
     "url": "https://unturnedhovel.bearblog.dev/zzarchovian-dungeon-stocking/",
     "title": "Zzarchovian Dungeon Stocking",
     "author": "https://unturnedhovel.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-11-28T05:00:51.306Z",
-    "last_updated": "2026-11-28T11:00:51.216Z",
+    "last_updated": "2026-11-28T16:00:51.322Z",
     "published": "2026-11-28T04:41Z"
   },
   {
@@ -111,9 +111,9 @@
     "url": "https://73pctgeek.com/1063/",
     "title": "1063",
     "author": "https://73pctgeek.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-28T09:00:51.286Z",
-    "last_updated": "2026-11-28T09:00:51.286Z",
+    "last_updated": "2026-11-28T16:00:51.322Z",
     "published": "2026-11-28T07:52Z"
   },
   {
@@ -201,9 +201,9 @@
     "url": "https://topopa.bearblog.dev/im-sick-of-ai-crap-at-school/",
     "title": "I'm sick of AI crap at school",
     "author": "https://topopa.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-11-28T12:00:51.224Z",
-    "last_updated": "2026-11-28T15:00:51.257Z",
+    "last_updated": "2026-11-28T16:00:51.322Z",
     "published": "2026-11-28T11:11Z"
   },
   {
@@ -259,5 +259,41 @@
     "first_seen": "2026-11-28T15:00:51.257Z",
     "last_updated": "2026-11-28T15:00:51.257Z",
     "published": "2026-11-28T14:11Z"
+  },
+  {
+    "url": "https://robertbirming.com/ai-needs-coffee/",
+    "title": "AI needs a coffee",
+    "author": "https://robertbirming.com",
+    "toasts": 5,
+    "first_seen": "2026-11-28T16:00:51.322Z",
+    "last_updated": "2026-11-28T16:00:51.322Z",
+    "published": "2026-11-28T15:21Z"
+  },
+  {
+    "url": "https://ghrelin.bearblog.dev/1116-kg/",
+    "title": "111.6 kg",
+    "author": "https://ghrelin.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T16:00:51.322Z",
+    "last_updated": "2026-11-28T16:00:51.322Z",
+    "published": "2026-11-28T15:04Z"
+  },
+  {
+    "url": "https://marginstoonarrow.bearblog.dev/this-is-where-my-blog-gets-its-name/",
+    "title": "This is where my blog gets its name.",
+    "author": "https://marginstoonarrow.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T16:00:51.322Z",
+    "last_updated": "2026-11-28T16:00:51.322Z",
+    "published": "2026-11-28T14:55Z"
+  },
+  {
+    "url": "https://thenichevo.com/the-five-roars/",
+    "title": "The Five Roars",
+    "author": "https://thenichevo.com",
+    "toasts": 2,
+    "first_seen": "2026-11-28T16:00:51.322Z",
+    "last_updated": "2026-11-28T16:00:51.322Z",
+    "published": "2026-11-28T14:39Z"
   }
 ]
