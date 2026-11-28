@@ -57,9 +57,27 @@
     "url": "https://blog.lauramichet.com/very-good-20-second-game/",
     "title": "Very good 20 second game",
     "author": "https://blog.lauramichet.com",
-    "toasts": 2,
+    "toasts": 3,
     "first_seen": "2026-11-28T06:00:51.302Z",
-    "last_updated": "2026-11-28T06:00:51.302Z",
+    "last_updated": "2026-11-28T07:00:51.206Z",
     "published": "2026-11-28T05:09Z"
+  },
+  {
+    "url": "https://calogerobonasia.it/chi-sa-perche-quei-due-ticket-sono-collegati/",
+    "title": "Chi sa perché quei due ticket sono collegati?",
+    "author": "https://calogerobonasia.it",
+    "toasts": 2,
+    "first_seen": "2026-11-28T07:00:51.206Z",
+    "last_updated": "2026-11-28T07:00:51.206Z",
+    "published": "2026-11-28T06:44Z"
+  },
+  {
+    "url": "https://bamawing.bearblog.dev/well-thats-a-thing-that-happened/",
+    "title": "well, that's a thing that happened",
+    "author": "https://bamawing.bearblog.dev",
+    "toasts": 2,
+    "first_seen": "2026-11-28T07:00:51.206Z",
+    "last_updated": "2026-11-28T07:00:51.206Z",
+    "published": "2026-11-28T05:47Z"
   }
 ]
